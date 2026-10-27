@@ -1,0 +1,421 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Em 5 minutos, o que importa hoje e por quê. Mundo, Brasil e Inovação.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icones/favicon-64.png">
+<link rel="apple-touch-icon" href="icones/icone-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<title>Contexto</title>
+<meta name="apple-mobile-web-app-title" content="Contexto">
+<meta name="theme-color" content="#121821">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+:root { padding-top: env(safe-area-inset-top, 0px); }
+body { margin: 0; }
+[hidden] { display: none !important; }
+/* Layout: app de leitura de uma coluna, celular primeiro. Barra de abas fixa embaixo (Hoje, Arquivo, Comentários). Cores e fontes do guia de marca do Contexto. */
+:root {
+  --bg: #eef1f3; --surface: #ffffff; --ink: #121821; --muted: #5a6573; --line: #d5dbe1;
+  --accent: #0b7a75; --accent-soft: #dcefed; --on-accent: #ffffff;
+  --t1: #cfe9e6; --t2: #b2dcd7; --t3: #93cec7; --wm-ink: #121821; --bar: #121821; --bar-ink: #e8edf2;
+  --ok: #1d7a4f; --ok-soft: #e0f1e8; --warn: #9a5b00; --warn-soft: #fbefd9;
+  --f-display: "Schibsted Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --f-body: "Source Serif 4", Georgia, serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0c1117; --surface: #151c25; --ink: #e8edf2; --muted: #9aa6b4; --line: #2a3441;
+  --accent: #3cc7bd; --accent-soft: #123331; --on-accent: #0c1117;
+  --t1: #15403d; --t2: #1b5651; --t3: #226c66; --wm-ink: #e8edf2; --bar: #151c25; --bar-ink: #e8edf2;
+  --ok: #5fcf96; --ok-soft: #12301f; --warn: #e8aa3c; --warn-soft: #33270f; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0c1117; --surface: #151c25; --ink: #e8edf2; --muted: #9aa6b4; --line: #2a3441;
+  --accent: #3cc7bd; --accent-soft: #123331; --on-accent: #0c1117;
+  --t1: #15403d; --t2: #1b5651; --t3: #226c66; --wm-ink: #e8edf2; --bar: #151c25; --bar-ink: #e8edf2;
+  --ok: #5fcf96; --ok-soft: #12301f; --warn: #e8aa3c; --warn-soft: #33270f; color-scheme: dark }
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 17px; line-height: 1.6; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bar); }
+h1, h2, h3 { font-family: var(--f-display); margin: 0; text-wrap: balance; letter-spacing: -.01em; }
+p { margin: 0; }
+a { color: var(--accent); }
+button { font: inherit; color: inherit; }
+a:focus-visible, button:focus-visible, textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 6px; }
+
+/* Topo */
+.topo { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bar); color: var(--bar-ink); }
+.topo-in { max-width: 680px; margin: 0 auto; padding-block: 10px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 52px; }
+.wm { display: inline-flex; font-family: var(--f-display); font-weight: 800; font-size: 22px; letter-spacing: -.02em; line-height: 1; text-decoration: none; }
+.wm span { padding: 5px 4px 6px; color: #121821; }
+.wm .a { background: #cfe9e6; } .wm .b { background: #b2dcd7; } .wm .c { background: #93cec7; }
+.voltar { display: inline-flex; align-items: center; gap: 6px; background: none; border: 0; color: var(--bar-ink); font-family: var(--f-display); font-weight: 600; font-size: 15px; padding: 8px 4px; cursor: pointer; }
+.topo .desc { font-family: var(--f-mono); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: #9aa6b4; text-align: right; }
+
+/* Corpo */
+main { max-width: 680px; margin: 0 auto; padding-block: 0 calc(96px + env(safe-area-inset-bottom, 0px));
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+.folha { background: var(--surface); margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))); padding: 20px max(16px, env(safe-area-inset-left, 0px)) 28px; display: grid; gap: 28px; }
+@media (min-width: 720px) { .folha { margin-inline: 0; margin-top: 20px; border: 1px solid var(--line); border-radius: 14px; padding: 28px 32px 36px; } }
+.rotulo { font-family: var(--f-mono); font-size: 12px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--muted); }
+.edhead { display: grid; gap: 10px; }
+.edhead .linha { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+.status { justify-self: start; display: inline-flex; align-items: center; gap: 6px; font-family: var(--f-display); font-size: 13px; font-weight: 600; padding: 4px 10px; border-radius: 999px; background: var(--warn-soft); color: var(--warn); }
+.status.ok { background: var(--ok-soft); color: var(--ok); }
+.abre { font-size: 18px; }
+
+.sec { display: grid; gap: 18px; }
+.etq { justify-self: start; font-family: var(--f-mono); font-size: 12px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; padding: 5px 9px; color: var(--ink); background: var(--accent-soft); }
+.etq.mundo { background: var(--t1); } .etq.brasil { background: var(--t2); } .etq.inovacao { background: var(--t3); }
+.trinta { margin: 0; padding-left: 0; list-style: none; counter-reset: n; display: grid; gap: 10px; }
+.trinta li { counter-increment: n; display: grid; grid-template-columns: 28px 1fr; gap: 8px; }
+.trinta li::before { content: counter(n); font-family: var(--f-mono); font-weight: 600; color: var(--accent); font-size: 15px; padding-top: 2px; }
+
+.nota { display: grid; gap: 10px; padding-top: 18px; border-top: 1px solid var(--line); }
+.sec .etq + .nota { border-top: 0; padding-top: 0; }
+.nota h3 { font-size: 20px; font-weight: 700; line-height: 1.25; }
+.pq b { font-family: var(--f-display); font-weight: 700; }
+.fonte { font-family: var(--f-display); font-size: 13px; color: var(--muted); line-height: 1.5; }
+.fonte a { color: var(--muted); }
+.acoes { display: flex; flex-wrap: wrap; gap: 8px; padding-top: 2px; }
+.btn { display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 8px 14px; border-radius: 8px; border: 1px solid var(--accent); background: none; color: var(--accent); font-family: var(--f-display); font-weight: 600; font-size: 15px; text-decoration: none; cursor: pointer; }
+.btn.cheio { background: var(--accent); color: var(--on-accent); }
+.btn.leve { border-color: var(--line); color: var(--muted); }
+.btn .qtd { font-family: var(--f-mono); font-size: 12px; background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: 0 7px; }
+.sem-pagina { font-family: var(--f-display); font-size: 13px; color: var(--muted); align-self: center; }
+
+.numero { background: var(--accent-soft); border-radius: 8px; padding: 16px; display: grid; gap: 6px; }
+.numero b { font-family: var(--f-mono); font-size: 34px; font-weight: 600; color: var(--accent); line-height: 1.1; font-variant-numeric: tabular-nums; }
+.transp { font-family: var(--f-display); font-size: 14px; color: var(--muted); line-height: 1.5; }
+
+details.parecer { border: 1px solid var(--line); border-radius: 10px; padding: 0 16px; }
+details.parecer summary { cursor: pointer; padding: 14px 0; font-family: var(--f-display); font-weight: 700; font-size: 16px; list-style: none; display: flex; justify-content: space-between; gap: 10px; }
+details.parecer summary::after { content: "+"; color: var(--accent); font-weight: 800; }
+details.parecer[open] summary::after { content: "−"; }
+.parecer .in { display: grid; gap: 10px; padding-bottom: 16px; font-size: 16px; }
+.parecer ul { margin: 0; padding-left: 20px; display: grid; gap: 6px; }
+
+/* Páginas Notícia completa e Contexto */
+.pag { display: grid; gap: 16px; }
+.pag h1 { font-size: 28px; font-weight: 800; line-height: 1.15; }
+.fina { font-size: 19px; color: var(--muted); }
+.meta { font-family: var(--f-display); font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.selo { font-family: var(--f-display); font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 999px; background: var(--ok-soft); color: var(--ok); }
+.pag h2 { font-size: 20px; font-weight: 700; padding-top: 10px; }
+.pag ul, .pag ol { margin: 0; padding-left: 22px; display: grid; gap: 8px; }
+.pag li b, .pag p b { font-family: var(--f-display); font-weight: 700; }
+.tempo { list-style: none; padding-left: 0 !important; gap: 0 !important; }
+.tempo li { display: grid; gap: 2px; padding: 0 0 14px 20px; border-left: 2px solid var(--t3); position: relative; }
+.tempo li::before { content: ""; position: absolute; left: -6px; top: 8px; width: 10px; height: 10px; background: var(--accent); }
+.tempo .d { font-family: var(--f-mono); font-size: 13px; font-weight: 600; color: var(--accent); }
+.gloss { margin: 0; display: grid; gap: 12px; }
+.gloss div { display: grid; gap: 2px; }
+.gloss dt { font-family: var(--f-display); font-weight: 700; }
+.gloss dd { margin: 0; }
+.aviso { font-family: var(--f-display); font-size: 13px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 14px; }
+
+/* Arquivo e comentários */
+.lista { display: grid; gap: 0; }
+.item { display: grid; gap: 4px; padding: 16px 0; border-bottom: 1px solid var(--line); text-decoration: none; color: inherit; }
+.item h3 { font-size: 18px; font-weight: 700; }
+.item .sub { font-size: 15px; color: var(--muted); }
+.vazio { padding: 32px 0; display: grid; gap: 8px; color: var(--muted); }
+.vazio h2 { color: var(--ink); font-size: 20px; }
+.com { display: grid; gap: 6px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.com .alvo { font-family: var(--f-display); font-size: 13px; color: var(--muted); }
+.com .alvo a { color: var(--muted); }
+.com .txt { white-space: pre-wrap; overflow-wrap: anywhere; }
+.com .resp { background: var(--accent-soft); border-radius: 8px; padding: 10px 12px; font-size: 15px; }
+.com .resp b { font-family: var(--f-display); }
+.tag { font-family: var(--f-mono); font-size: 11px; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+
+/* Abas */
+.abas { position: fixed; left: 0; right: 0; bottom: 0; z-index: 6; background: var(--surface); border-top: 1px solid var(--line);
+  padding-bottom: env(safe-area-inset-bottom, 0px); padding-left: env(safe-area-inset-left, 0px); padding-right: env(safe-area-inset-right, 0px); }
+.abas-in { max-width: 680px; margin: 0 auto; display: grid; grid-template-columns: repeat(3, 1fr); }
+.abas a { display: grid; justify-items: center; gap: 2px; padding: 8px 4px 10px; text-decoration: none; color: var(--muted); font-family: var(--f-display); font-size: 12px; font-weight: 600; }
+.abas a svg { width: 24px; height: 24px; }
+.abas a[aria-current="page"] { color: var(--accent); }
+
+/* Folha de comentário */
+.veu { position: fixed; inset: 0; z-index: 20; background: rgba(12,17,23,.55); display: grid; align-items: end; }
+.sheet { background: var(--surface); border-radius: 16px 16px 0 0; max-width: 680px; width: 100%; margin: 0 auto; display: grid; gap: 14px;
+  padding: 18px max(16px, env(safe-area-inset-right, 0px)) calc(18px + env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
+.sheet h2 { font-size: 19px; }
+.sheet .alvo { font-size: 15px; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { border: 1px solid var(--line); background: none; border-radius: 999px; padding: 6px 12px; font-family: var(--f-display); font-size: 14px; font-weight: 600; cursor: pointer; color: var(--ink); }
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font-size: 17px; color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 10px; padding: 12px; }
+.sheet .linha { display: flex; gap: 10px; justify-content: flex-end; flex-wrap: wrap; }
+.msg { font-family: var(--f-display); font-size: 14px; color: var(--muted); min-height: 1.2em; }
+.toast { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(80px + env(safe-area-inset-bottom, 0px)); z-index: 30; background: var(--ink); color: var(--surface); font-family: var(--f-display); font-weight: 600; font-size: 15px; padding: 10px 16px; border-radius: 10px; max-width: calc(100% - 32px); }
+@media (prefers-reduced-motion: no-preference) { .sheet { animation: sobe .2s ease-out; } @keyframes sobe { from { transform: translateY(24px); opacity: .6; } } }
+</style>
+
+</head>
+<body>
+<header class="topo"><div class="topo-in" id="topo"></div></header>
+<main id="app">
+  <div class="folha"><div class="vazio"><span class="rotulo">Carregando</span><h2>Buscando a edição de hoje</h2><p>As edições do Contexto aparecem aqui assim que a redação publica.</p></div></div>
+</main>
+<nav class="abas" aria-label="Navegação"><div class="abas-in">
+  <a href="#hoje" data-aba="hoje"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>Hoje</a>
+  <a href="#arquivo" data-aba="arquivo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="4" width="18" height="5" rx="1"/><path d="M5 9v10a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V9M10 13h4"/></svg>Arquivo</a>
+  <a href="#comentarios" data-aba="comentarios"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z"/></svg>Comentários</a>
+</div></nav>
+<div id="camada"></div>
+
+<script>
+(function () {
+  "use strict";
+  var S = { edicoes: [], contextos: {}, comentarios: [], db: null, me: null, carregou: false, semDb: false };
+  var app = document.getElementById("app"), topo = document.getElementById("topo"), camada = document.getElementById("camada");
+  var SECAO = { "Mundo": "mundo", "Brasil": "brasil", "Inovação": "inovacao" };
+  var TIPOS = ["Sugestão", "Erro", "Achei tendencioso", "Gostei"];
+
+  function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  function url(u) { u = String(u || ""); return /^https:\/\//i.test(u) ? esc(u) : "#"; }
+  function chave(d) { return String(d || ""); }
+  function rich(x) { if (x && typeof x === "object") return "<b>" + esc(x.b) + "</b> " + esc(x.t); return esc(x); }
+  function fontes(arr, prefixo) {
+    if (!arr || !arr.length) return "";
+    return '<p class="fonte">' + (prefixo || (arr.length > 1 ? "Fontes: " : "Fonte: ")) + arr.map(function (f) {
+      return '<a href="' + url(f.u) + '" target="_blank" rel="noopener">' + esc(f.t) + "</a>"; }).join(", ") + "</p>";
+  }
+  function dataCurta(d) { var m = /(\d{4})-(\d{2})-(\d{2})/.exec(d || ""); if (!m) return d || ""; var M = ["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"]; return +m[3] + " " + M[+m[2] - 1] + " " + m[1]; }
+  function quando(iso) { try { var d = new Date(iso); return d.toLocaleDateString("pt-BR", { day: "numeric", month: "short" }) + ", " + d.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit" }); } catch (e) { return ""; } }
+  function cache(k, v) { try { if (v === undefined) { var s = localStorage.getItem("ctx-" + k); return s ? JSON.parse(s) : null; } localStorage.setItem("ctx-" + k, JSON.stringify(v)); } catch (e) { return null; } }
+  function toast(t) { var el = document.createElement("div"); el.className = "toast"; el.setAttribute("role", "status"); el.textContent = t; document.body.appendChild(el); setTimeout(function () { el.remove(); }, 2600); }
+
+  function acharEdicao(k) { for (var i = 0; i < S.edicoes.length; i++) if (S.edicoes[i]._id === k) return S.edicoes[i]; return null; }
+  function acharNota(ed, id) { var r = null; (ed.secoes || []).forEach(function (s) { (s.notas || []).forEach(function (n) { if (n.id === id) r = { nota: n, secao: s.nome }; }); }); return r; }
+  function qtdCom(edK, alvo) { return S.comentarios.filter(function (c) { return chave(c.edicao) === edK && c.alvo === alvo; }).length; }
+
+  /* ---------- Topo ---------- */
+  function setTopo(voltar) {
+    var marca = '<a class="wm" href="#hoje" aria-label="Contexto, edição de hoje"><span class="a">con</span><span class="b">tex</span><span class="c">to</span></a>';
+    topo.innerHTML = voltar
+      ? '<button class="voltar" type="button" id="btn-voltar"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Voltar</button>' + marca
+      : marca + '<span class="desc">Mundo · Brasil · Inovação</span>';
+    var b = document.getElementById("btn-voltar");
+    if (b) b.addEventListener("click", function () { if (history.length > 1) history.back(); else location.hash = "hoje"; });
+  }
+  function setAba(nome) { document.querySelectorAll(".abas a").forEach(function (a) { if (a.dataset.aba === nome) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current"); }); }
+
+  /* ---------- Edição ---------- */
+  function vEdicao(ed) {
+    var k = ed._id, h = [];
+    var aprov = ed.status === "aprovada" || ed.status === "piloto";
+    h.push('<header class="edhead"><div class="linha"><span class="rotulo">' + esc(ed.dia || dataCurta(ed.data)) + '</span><span class="rotulo">' + esc(ed.leitura || "5 min") + ' de leitura</span></div>');
+    if (ed.statusTexto) h.push('<span class="status' + (aprov ? " ok" : "") + '">' + esc(ed.statusTexto) + "</span>");
+    h.push("</header>");
+    if (ed.abre) h.push('<p class="abre">' + esc(ed.abre) + "</p>");
+    if (ed.trinta && ed.trinta.length) h.push('<section class="sec"><span class="etq">Em 30 segundos</span><ol class="trinta">' + ed.trinta.map(function (t) { return "<li><span>" + esc(t) + "</span></li>"; }).join("") + "</ol></section>");
+    (ed.secoes || []).forEach(function (s) {
+      h.push('<section class="sec"><span class="etq ' + (SECAO[s.nome] || "") + '">' + esc(s.nome) + "</span>");
+      (s.notas || []).forEach(function (n) {
+        var temNC = !!n.completa, temCX = !!(n.contexto && S.contextos[n.contexto]);
+        var q = qtdCom(k, n.id);
+        h.push('<article class="nota" id="nota-' + esc(n.id) + '"><h3>' + esc(n.titulo) + "</h3><p>" + esc(n.texto) + "</p>");
+        if (n.pq) h.push('<p class="pq"><b>Por que importa:</b> ' + esc(n.pq) + "</p>");
+        h.push(fontes(n.fontes));
+        h.push('<div class="acoes">');
+        if (temNC) h.push('<a class="btn cheio" href="#nc-' + k + "--" + esc(n.id) + '">Notícia completa</a>');
+        if (temCX) h.push('<a class="btn" href="#cx-' + esc(n.contexto) + '">Contexto</a>');
+        h.push('<button class="btn leve" type="button" data-comentar="' + esc(n.id) + '" data-titulo="' + esc(n.titulo) + '">Comentar' + (q ? ' <span class="qtd">' + q + "</span>" : "") + "</button>");
+        if (!temNC && !temCX) h.push('<span class="sem-pagina">Páginas desta nota ainda não publicadas</span>');
+        h.push("</div></article>");
+      });
+      h.push("</section>");
+    });
+    if (ed.numero) h.push('<section class="sec"><span class="etq">Número do dia</span><div class="numero"><b>' + esc(ed.numero.valor) + "</b><p>" + esc(ed.numero.texto) + "</p>" + fontes(ed.numero.fontes) + "</div></section>");
+    if (ed.fechar) h.push('<section class="sec"><span class="etq">Para fechar</span><p>' + esc(ed.fechar.texto) + "</p>" + fontes(ed.fechar.fontes) + "</section>");
+    if (ed.corrigimos && ed.corrigimos.length) h.push('<section class="sec"><span class="etq">Corrigimos</span>' + ed.corrigimos.map(function (c) { return "<p>" + esc(c) + "</p>"; }).join("") + "</section>");
+    h.push('<section class="sec"><div class="acoes"><button class="btn cheio" type="button" data-comentar="edicao" data-titulo="Edição inteira">Comentar a edição</button><button class="btn" type="button" data-comentar="edicao" data-tipo="Achei tendencioso" data-titulo="Edição inteira">Achei tendencioso</button></div>');
+    if (ed.transp) h.push('<p class="transp">' + esc(ed.transp) + "</p>");
+    h.push("</section>");
+    if (ed.parecer) {
+      var p = ed.parecer;
+      h.push('<details class="parecer"><summary>Parecer da Ouvidoria: ' + esc(p.veredito) + (p.detalhe ? " " + esc(p.detalhe) : "") + '</summary><div class="in">');
+      if (p.resumo) h.push("<p>" + esc(p.resumo) + "</p>");
+      if (p.pontos && p.pontos.length) h.push('<span class="rotulo">Ajustes feitos</span><ul>' + p.pontos.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>");
+      if (p.equilibrio) h.push('<span class="rotulo">Equilíbrio</span><p>' + esc(p.equilibrio) + "</p>");
+      if (p.foraDaEdicao && p.foraDaEdicao.length) h.push('<span class="rotulo">Ficou de fora</span><ul>' + p.foraDaEdicao.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>");
+      h.push('<p class="fonte">Só você vê este parecer. Ele não aparece para os leitores.</p></div></details>');
+    }
+    return '<div class="folha">' + h.join("") + "</div>";
+  }
+
+  /* ---------- Notícia completa ---------- */
+  function vCompleta(ed, n, secao) {
+    var c = n.completa, h = [];
+    h.push('<article class="pag"><span class="etq ' + (SECAO[secao] || "") + '">Notícia completa · ' + esc(secao) + "</span><h1>" + esc(n.titulo) + "</h1>");
+    if (c.fina) h.push('<p class="fina">' + esc(c.fina) + "</p>");
+    h.push('<p class="meta"><span>Atualizada em ' + esc(c.atualizada || dataCurta(ed.data)) + "</span>" + (c.selo ? '<span class="selo">' + esc(c.selo) + "</span>" : "") + "</p>");
+    if (c.fato) h.push("<p>" + esc(c.fato) + "</p>");
+    (c.blocos || []).forEach(function (b) {
+      h.push("<h2>" + esc(b.h) + "</h2>");
+      (b.p || []).forEach(function (x) { h.push("<p>" + rich(x) + "</p>"); });
+      if (b.li && b.li.length) h.push("<ul>" + b.li.map(function (x) { return "<li>" + rich(x) + "</li>"; }).join("") + "</ul>");
+    });
+    if (c.fontes && c.fontes.length) h.push("<h2>Fontes</h2><ul class=\"fonte\">" + c.fontes.map(function (f) { return '<li><a href="' + url(f.u) + '" target="_blank" rel="noopener">' + esc(f.t) + "</a></li>"; }).join("") + "</ul>");
+    h.push('<div class="acoes">');
+    if (n.contexto && S.contextos[n.contexto]) h.push('<a class="btn cheio" href="#cx-' + esc(n.contexto) + '">Contexto: entenda o tema</a>');
+    h.push('<button class="btn leve" type="button" data-comentar="' + esc(n.id) + '-completa" data-titulo="Notícia completa: ' + esc(n.titulo) + '">Comentar esta página</button></div>');
+    h.push('<p class="aviso">Escrita por IA, checada e revisada pela Ouvidoria antes de publicar.</p></article>');
+    return '<div class="folha">' + h.join("") + "</div>";
+  }
+
+  /* ---------- Contexto ---------- */
+  function vContexto(slug, cx) {
+    var h = [];
+    h.push('<article class="pag"><span class="etq">Contexto</span><h1>' + esc(cx.titulo) + "</h1>");
+    h.push('<p class="meta"><span>Atualizado em ' + esc(cx.atualizado) + "</span>" + (cx.selo ? '<span class="selo">' + esc(cx.selo) + "</span>" : "") + "</p>");
+    if (cx.frase) h.push("<h2>Em uma frase</h2><p>" + esc(cx.frase) + "</p>");
+    if (cx.linha && cx.linha.length) h.push('<h2>Como chegamos aqui</h2><ol class="tempo">' + cx.linha.map(function (x) { return '<li><span class="d">' + esc(x.d) + "</span><span>" + esc(x.t) + "</span></li>"; }).join("") + "</ol>");
+    if (cx.termos && cx.termos.length) h.push('<h2>Termos que você vai ver</h2><dl class="gloss">' + cx.termos.map(function (x) { return "<div><dt>" + esc(x.t) + "</dt><dd>" + esc(x.d) + "</dd></div>"; }).join("") + "</dl>");
+    [["quem", "Quem é quem"], ["disputa", "O que está em disputa"], ["observar", "O que observar"]].forEach(function (s) {
+      var a = cx[s[0]]; if (a && a.length) h.push("<h2>" + s[1] + "</h2><ul>" + a.map(function (x) { return "<li>" + rich(x) + "</li>"; }).join("") + "</ul>");
+    });
+    if (cx.fontes && cx.fontes.length) h.push("<h2>Fontes</h2><ul class=\"fonte\">" + cx.fontes.map(function (f) { return '<li><a href="' + url(f.u) + '" target="_blank" rel="noopener">' + esc(f.t) + "</a></li>"; }).join("") + "</ul>");
+    h.push('<div class="acoes"><button class="btn leve" type="button" data-comentar="cx-' + esc(slug) + '" data-titulo="Contexto: ' + esc(cx.titulo) + '">Comentar esta página</button></div>');
+    h.push('<p class="aviso">Escrito por IA, checado e revisado pela Ouvidoria. Atualizado sempre que o tema tiver fato novo.</p></article>');
+    return '<div class="folha">' + h.join("") + "</div>";
+  }
+
+  /* ---------- Arquivo ---------- */
+  function vArquivo() {
+    var h = ['<div class="folha"><header class="edhead"><span class="rotulo">Arquivo</span><h1 style="font-size:26px;font-weight:800">Todas as edições</h1></header><div class="lista">'];
+    if (!S.edicoes.length) h.push(vazio());
+    S.edicoes.forEach(function (ed, i) {
+      h.push('<a class="item" href="#ed-' + esc(ed._id) + '"><span class="rotulo">' + esc(ed.dia || dataCurta(ed.data)) + (i === 0 ? " · mais recente" : "") + "</span><h3>" + esc((ed.trinta && ed.trinta[0]) || "Edição do Contexto") + '</h3><span class="sub">' + esc(ed.statusTexto || "") + "</span></a>");
+    });
+    h.push("</div></div>");
+    return h.join("");
+  }
+
+  /* ---------- Comentários ---------- */
+  function vComentarios() {
+    var h = ['<div class="folha"><header class="edhead"><span class="rotulo">Comentários</span><h1 style="font-size:26px;font-weight:800">O que você pediu à redação</h1><p>A redação lê tudo antes de montar a próxima edição e responde aqui.</p></header>'];
+    h.push('<div class="acoes"><button class="btn cheio" type="button" data-comentar="geral" data-titulo="Ideia geral para o Contexto">Nova sugestão geral</button></div><div class="lista">');
+    if (S.semDb) h.push('<div class="vazio"><h2>Comentários indisponíveis aqui</h2><p>Sem internet agora. Tente de novo em instantes.</p></div>');
+    else if (!S.comentarios.length) h.push('<div class="vazio"><h2>Nenhum comentário ainda</h2><p>Toque em "Comentar" embaixo de qualquer nota, ou em "Nova sugestão geral".</p></div>');
+    S.comentarios.forEach(function (c) {
+      var k = chave(c.edicao), link = "";
+      if (k && acharEdicao(k)) link = "#ed-" + k;
+      h.push('<div class="com"><span class="tag">' + esc(c.tipo || "Comentário") + (c.status === "visto" ? " · lido pela redação" : c.status === "aplicado" ? " · aplicado" : "") + '</span><span class="alvo">' + (link ? '<a href="' + link + '">' + esc(c.alvoTitulo) + "</a>" : esc(c.alvoTitulo)) + (c.edicao ? " · edição de " + esc(dataCurta(c.edicao)) : "") + " · " + esc(quando(c.criadoEm)) + '</span><p class="txt">' + esc(c.texto) + "</p>");
+      if (c.resposta) h.push('<p class="resp"><b>Redação:</b> ' + esc(c.resposta) + "</p>");
+      h.push("</div>");
+    });
+    h.push("</div></div>");
+    return h.join("");
+  }
+
+  function vazio() {
+    if (!S.carregou) return '<div class="vazio"><span class="rotulo">Carregando</span><h2>Buscando as edições</h2></div>';
+    if (S.semDb) return '<div class="vazio"><h2>Não deu para carregar as edições</h2><p>Verifique a internet e abra o app de novo.</p></div>';
+    return '<div class="vazio"><h2>Nenhuma edição publicada ainda</h2><p>A próxima edição aparece aqui assim que a redação terminar.</p></div>';
+  }
+
+  /* ---------- Rotas ---------- */
+  function render() {
+    var r = (location.hash || "").replace(/^#/, "") || "hoje", m, html, voltar = true, aba = "";
+    if (r === "hoje") { aba = "hoje"; voltar = false; html = S.edicoes[0] ? vEdicao(S.edicoes[0]) : '<div class="folha">' + vazio() + "</div>"; }
+    else if (r === "arquivo") { aba = "arquivo"; voltar = false; html = vArquivo(); }
+    else if (r === "comentarios") { aba = "comentarios"; voltar = false; html = vComentarios(); }
+    else if ((m = /^ed-([a-z0-9-]+)$/.exec(r))) { aba = "arquivo"; var ed = acharEdicao(m[1]); html = ed ? vEdicao(ed) : '<div class="folha">' + vazio() + "</div>"; }
+    else if ((m = /^nc-([a-z0-9-]+?)--([a-z0-9]+)$/.exec(r))) { var e2 = acharEdicao(m[1]), a = e2 && acharNota(e2, m[2]); html = a && a.nota.completa ? vCompleta(e2, a.nota, a.secao) : '<div class="folha">' + vazio() + "</div>"; }
+    else if ((m = /^cx-([a-z0-9-]+)$/.exec(r))) { var cx = S.contextos[m[1]]; html = cx ? vContexto(m[1], cx) : '<div class="folha">' + vazio() + "</div>"; }
+    else { aba = "hoje"; voltar = false; html = S.edicoes[0] ? vEdicao(S.edicoes[0]) : '<div class="folha">' + vazio() + "</div>"; }
+    setTopo(voltar); setAba(aba);
+    app.innerHTML = html;
+  }
+  function rotaAtual() { return (location.hash || "").replace(/^#/, ""); }
+  window.addEventListener("hashchange", function () { render(); window.scrollTo(0, 0); });
+
+  /* ---------- Folha de comentário ---------- */
+  function edicaoDaRota() {
+    var r = rotaAtual(), m = /^(?:ed|nc)-([a-z0-9-]+?)(?:--[a-z0-9]+)?$/.exec(r);
+    if (m) { var e = acharEdicao(m[1]); if (e) return e._id; }
+    if (/^cx-|^comentarios$/.test(r)) return "";
+    return S.edicoes[0] ? S.edicoes[0]._id : "";
+  }
+  function abrirFolha(alvo, titulo, tipo) {
+    var sel = tipo || "Sugestão";
+    camada.innerHTML = '<div class="veu" id="veu"><form class="sheet" id="f-com" role="dialog" aria-modal="true" aria-labelledby="f-tit"><h2 id="f-tit">Comentar</h2><p class="alvo">' + esc(titulo) + '</p><div class="chips" role="group" aria-label="Tipo de comentário">' +
+      TIPOS.map(function (t) { return '<button type="button" class="chip" aria-pressed="' + (t === sel) + '" data-tipo="' + esc(t) + '">' + esc(t) + "</button>"; }).join("") +
+      '</div><label class="rotulo" for="f-texto">Seu comentário</label><textarea id="f-texto" placeholder="O que melhoraria? Pode ser curto."></textarea><p class="msg" id="f-msg" aria-live="polite"></p><div class="linha"><button class="btn leve" type="button" id="f-cancelar">Cancelar</button><button class="btn cheio" type="submit" id="f-enviar">Enviar à redação</button></div></form></div>';
+    var veu = document.getElementById("veu"), form = document.getElementById("f-com"), ta = document.getElementById("f-texto"), msg = document.getElementById("f-msg");
+    try { var rasc = sessionStorage.getItem("ctx-rasc-" + alvo); if (rasc) ta.value = rasc; } catch (e) {}
+    ta.addEventListener("input", function () { try { sessionStorage.setItem("ctx-rasc-" + alvo, ta.value); } catch (e) {} });
+    setTimeout(function () { ta.focus(); }, 60);
+    function fechar() { camada.innerHTML = ""; render(); }
+    veu.addEventListener("click", function (e) { if (e.target === veu) fechar(); });
+    document.getElementById("f-cancelar").addEventListener("click", fechar);
+    form.querySelectorAll(".chip").forEach(function (b) { b.addEventListener("click", function () { sel = b.dataset.tipo; form.querySelectorAll(".chip").forEach(function (x) { x.setAttribute("aria-pressed", String(x === b)); }); }); });
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var texto = ta.value.trim();
+      if (!texto) { msg.textContent = "Escreva o comentário antes de enviar."; return; }
+      var btn = document.getElementById("f-enviar"); btn.disabled = true; msg.textContent = "Enviando…";
+      enviarComentario({ edicao: edicaoDaRota(), alvo: alvo, alvoTitulo: titulo, tipo: sel, texto: texto.slice(0, 4000) })
+        .then(function () { try { sessionStorage.removeItem("ctx-rasc-" + alvo); } catch (e) {} fechar(); toast("Comentário enviado à redação"); carregarComentarios(); })
+        .catch(function () { btn.disabled = false; msg.textContent = "Não foi enviado. Verifique a internet e tente de novo."; });
+    });
+  }
+  document.addEventListener("click", function (e) {
+    var b = e.target.closest && e.target.closest("[data-comentar]");
+    if (b) abrirFolha(b.dataset.comentar, b.dataset.titulo || "", b.dataset.tipo);
+  });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape" && camada.innerHTML) camada.innerHTML = ""; });
+
+  /* ---------- Dados ---------- */
+  var SB = "https://kgowumosjfpqhmawuzjn.supabase.co", KEY = "sb_publishable_dFuLZUEQXNN5p_ThuomTwA_ZcSCy0Gj";
+  var HDR = { apikey: KEY, Authorization: "Bearer " + KEY };
+  function getJSON(p) { return fetch(p, { cache: "no-cache" }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }); }
+  function carregarEdicoes() {
+    return getJSON("edicoes/index.json").then(function (lista) {
+      return Promise.all(lista.map(function (it) { return getJSON("edicoes/" + it.id + ".json").then(function (e) { e._id = it.id; return e; }).catch(function () { return null; }); }));
+    }).then(function (eds) {
+      S.edicoes = ordenar(eds.filter(Boolean)); S.carregou = true; S.semDb = false; cache("edicoes", S.edicoes.slice(0, 15)); seguro(render);
+      var slugs = {}; S.edicoes.forEach(function (e) { (e.secoes || []).forEach(function (s) { (s.notas || []).forEach(function (n) { if (n.contexto) slugs[n.contexto] = 1; }); }); });
+      return Promise.all(Object.keys(slugs).map(function (k) { return getJSON("contextos/" + k + ".json").then(function (c) { S.contextos[k] = c; }).catch(function () {}); }));
+    }).then(function () { cache("contextos", S.contextos); seguro(render); })
+      .catch(function () { S.carregou = true; if (!S.edicoes.length) S.semDb = true; seguro(render); });
+  }
+  function carregarComentarios() {
+    return fetch(SB + "/rest/v1/contexto_comentarios?select=*&order=criado_em.desc&limit=200", { headers: HDR }).then(function (r) { return r.json(); }).then(function (rows) {
+      if (!Array.isArray(rows)) return;
+      S.comentarios = rows.map(function (x) { return { edicao: x.edicao, alvo: x.alvo, alvoTitulo: x.alvo_titulo, tipo: x.tipo, texto: x.texto, criadoEm: x.criado_em, status: x.status, resposta: x.resposta }; });
+      seguro(render);
+    }).catch(function () {});
+  }
+  function enviarComentario(c) {
+    return fetch(SB + "/rest/v1/contexto_comentarios", { method: "POST", headers: Object.assign({ "Content-Type": "application/json", Prefer: "return=minimal" }, HDR),
+      body: JSON.stringify({ edicao: c.edicao, alvo: c.alvo, alvo_titulo: c.alvoTitulo.slice(0, 300), tipo: c.tipo, texto: c.texto }) })
+      .then(function (r) { if (!r.ok) throw new Error(r.status); });
+  }
+  function seguro(fn) { if (!camada.innerHTML) fn(); }
+  function ordenar(a) { return a.sort(function (x, y) { return String(y.data).localeCompare(String(x.data)) || String(y.geradaEm || "").localeCompare(String(x.geradaEm || "")); }); }
+
+  var c1 = cache("edicoes"), c2 = cache("contextos");
+  if (c1 && c1.length && c1[0]._id) { S.edicoes = c1; S.carregou = true; }
+  if (c2) S.contextos = c2;
+  render();
+  carregarEdicoes(); carregarComentarios();
+  document.addEventListener("visibilitychange", function () { if (document.visibilityState === "visible") { carregarEdicoes(); carregarComentarios(); } });
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(function () {});
+})();
+</script>
+</body>
+</html>
