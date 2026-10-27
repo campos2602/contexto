@@ -1,0 +1,89 @@
+{
+ "titulo": "Guerra na Ucrânia: onde estão as negociações",
+ "atualizado": "27 out 2026",
+ "selo": "Checado",
+ "frase": "A Rússia invadiu a Ucrânia em fevereiro de 2022. Desde então, houve rodadas de conversa sem acordo de paz; uma nova rodada, com os EUA, está prevista para novembro de 2026.",
+ "linha": [
+  {
+   "d": "Fevereiro de 2022",
+   "t": "A Rússia invade a Ucrânia."
+  },
+  {
+   "d": "2025",
+   "t": "Ucrânia e Rússia fazem várias rodadas de conversas diretas, sem acordo, segundo a Euronews."
+  },
+  {
+   "d": "Início de 2026",
+   "t": "As conversas diretas ficam congeladas."
+  },
+  {
+   "d": "21 de outubro de 2026",
+   "t": "A Rússia aceita voltar a negociar com Ucrânia e EUA em novembro, em Abu Dhabi, segundo Moscou."
+  },
+  {
+   "d": "23 de outubro de 2026",
+   "t": "Um cessar-fogo local em torno de Oleshky é acertado com mediação da primeira-dama dos EUA, Melania Trump, segundo a Euronews."
+  },
+  {
+   "d": "26 de outubro de 2026",
+   "t": "Ataque de drones mata dois em Voronezh; ataques russos ferem civis em Zaporíjia, Chernihiv e Izium."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Negociação trilateral",
+   "d": "Conversa com três partes: Ucrânia, Rússia e EUA."
+  },
+  {
+   "t": "Congelar a linha de frente",
+   "d": "Parar os combates nas posições atuais, sem resolver de quem é o território."
+  },
+  {
+   "t": "Crimeia anexada",
+   "d": "Península ucraniana que a Rússia anexou em 2014. A maioria dos países não reconhece a anexação."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Volodymyr Zelensky",
+   "t": "presidente da Ucrânia."
+  },
+  {
+   "b": "Vladimir Putin",
+   "t": "presidente da Rússia."
+  },
+  {
+   "b": "Governo dos EUA",
+   "t": "terceira parte nas negociações de novembro."
+  },
+  {
+   "b": "Alexander Gusev",
+   "t": "governador da região russa de Voronezh."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Ucrânia",
+   "t": "Zelensky diz estar pronto para conversar e que questões territoriais devem ser tratadas entre os líderes."
+  },
+  {
+   "b": "Rússia",
+   "t": "aceitou a nova rodada; autoridades russas chamam ataques ucranianos em seu território de \"terroristas\"."
+  }
+ ],
+ "observar": [
+  "A data do encontro em Abu Dhabi.",
+  "Se o cessar-fogo local de Oleshky se mantém.",
+  "Ataques a infraestrutura de energia com a chegada do inverno."
+ ],
+ "fontes": [
+  {
+   "t": "Euronews: Voronezh e as negociações",
+   "u": "https://www.euronews.com/2026/10/26/ukrainian-drone-strike-on-voronezh-kills-two-as-kyiv-and-moscow-prepare-to-restart-talks"
+  },
+  {
+   "t": "The Moscow Times, com Reuters",
+   "u": "https://www.themoscowtimes.com/2026/10/26/ukrainian-drone-barrage-against-voronezh-kills-at-least-2-a94081"
+  }
+ ]
+}

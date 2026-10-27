@@ -1,0 +1,93 @@
+{
+ "titulo": "Ebola: o surto de 2026 na África",
+ "atualizado": "27 out 2026",
+ "selo": "Checado",
+ "frase": "O ebola é uma doença grave causada por vírus, transmitida pelo contato com sangue e fluidos de pessoas infectadas. O surto de 2026 começou no Congo e chegou a Uganda, Quênia e Nigéria por viajantes.",
+ "linha": [
+  {
+   "d": "15 de maio de 2026",
+   "t": "Uganda registra os primeiros casos do surto no país, segundo o ECDC."
+  },
+  {
+   "d": "27 de agosto de 2026",
+   "t": "A OMS declara encerrado o surto em Uganda, após 20 casos e duas mortes."
+  },
+  {
+   "d": "3 de outubro de 2026",
+   "t": "Os primeiros pacientes do Quênia e da Nigéria passam pelo aeroporto de Entebbe, em Uganda, segundo o Africa CDC."
+  },
+  {
+   "d": "6 de outubro de 2026",
+   "t": "O Quênia registra o primeiro caso."
+  },
+  {
+   "d": "20 de outubro de 2026",
+   "t": "A Nigéria confirma um caso em Abuja."
+  },
+  {
+   "d": "25 e 26 de outubro de 2026",
+   "t": "Uganda endurece regras de viagem; a paciente da Nigéria é levada para a Suíça."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Vírus Bundibugyo",
+   "d": "Um dos tipos de vírus que causam ebola. É o responsável pelos casos no Quênia e na Nigéria, segundo o ECDC."
+  },
+  {
+   "t": "ECDC",
+   "d": "Centro Europeu de Prevenção e Controle de Doenças, agência da União Europeia."
+  },
+  {
+   "t": "Contato",
+   "d": "Pessoa que esteve perto de um infectado e é acompanhada por 21 dias, o tempo máximo de incubação."
+  },
+  {
+   "t": "Emergência de saúde pública de importância internacional",
+   "d": "Alerta máximo da OMS, que pede coordenação entre países."
+  }
+ ],
+ "quem": [
+  {
+   "b": "OMS",
+   "t": "Organização Mundial da Saúde, que declara início e fim de surtos."
+  },
+  {
+   "b": "Africa CDC",
+   "t": "agência de saúde da União Africana."
+  },
+  {
+   "b": "Ministério da Saúde de Uganda",
+   "t": "que anunciou as novas regras de viagem."
+  },
+  {
+   "b": "ECDC",
+   "t": "que avalia o risco para a Europa."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Uganda",
+   "t": "diz que \"o fim da transmissão local não significa que o risco acabou\" e restringe a entrada de quem esteve no Congo."
+  },
+  {
+   "b": "O ECDC",
+   "t": "não recomenda restrições de viagem e defende triagem na saída das áreas afetadas."
+  }
+ ],
+ "observar": [
+  "O fim dos 21 dias de acompanhamento dos contatos na Nigéria e no Quênia.",
+  "Os boletins semanais do Congo, epicentro do surto.",
+  "Novos casos ligados a viagens."
+ ],
+ "fontes": [
+  {
+   "t": "ECDC, resumo em Lovguiden, 23 out",
+   "u": "https://www.lovguiden.dk/en/det-offentlige/eu-center-for-sygdomsforebyggelse/2026-10-23-ecdc-meget-lav-ebolarisiko-i-eu-efter-smittede-i-kenya-og-nigeria"
+  },
+  {
+   "t": "Euronews: Uganda restringe viagens",
+   "u": "https://www.euronews.com/2026/10/26/ebola-uganda-restricts-travel-as-nigerian-case-evacuated-to-europe"
+  }
+ ]
+}

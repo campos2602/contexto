@@ -1,8 +1,16 @@
 [
  {
+  "id": "2026-10-27",
+  "data": "2026-10-27",
+  "dia": "Terça, 27 de outubro de 2026",
+  "statusTexto": "Para sua aprovação",
+  "geradaEm": "2026-10-27T07:42:07Z"
+ },
+ {
   "id": "piloto-2026-10-27",
   "data": "2026-10-27",
   "dia": "Terça, 27 de outubro de 2026",
-  "statusTexto": "Edição-piloto, aprovada pelo Luiz em 27 out"
+  "statusTexto": "Edição-piloto, aprovada pelo Luiz em 27 out",
+  "geradaEm": ""
  }
 ]

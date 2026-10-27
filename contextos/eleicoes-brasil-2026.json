@@ -1,0 +1,117 @@
+{
+ "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
+ "atualizado": "27 out 2026",
+ "selo": "Checado",
+ "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
+ "linha": [
+  {
+   "d": "Setembro de 2021",
+   "t": "É promulgada a Emenda Constitucional 111, que muda a posse do presidente para 5 de janeiro e a dos governadores para 6 de janeiro, a partir de 2027."
+  },
+  {
+   "d": "4 de outubro de 2026",
+   "t": "Primeiro turno. 20 estados definem os governadores; cinco estados e o DF vão ao segundo turno."
+  },
+  {
+   "d": "25 de outubro de 2026",
+   "t": "Segundo turno. Lula (PT) é reeleito com 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro (PL), segundo o TSE."
+  },
+  {
+   "d": "25 de outubro de 2026",
+   "t": "O ministro Cristiano Zanin prorroga a votação até as 19h após relatos de falta de ônibus. Flávio diz que vai pedir a anulação do segundo turno."
+  },
+  {
+   "d": "5 e 6 de janeiro de 2027",
+   "t": "Posse do presidente (dia 5) e dos governadores (dia 6)."
+  },
+  {
+   "d": "1º de fevereiro de 2027",
+   "t": "Tomam posse deputados federais e senadores."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Votos válidos",
+   "d": "Todos os votos dados a candidatos, sem contar brancos e nulos. É sobre eles que se calcula a maioria."
+  },
+  {
+   "t": "Segundo turno",
+   "d": "Nova votação entre os dois mais votados quando ninguém passa de 50% dos votos válidos, para presidente, governador e prefeito de cidades com mais de 200 mil eleitores."
+  },
+  {
+   "t": "Nome de urna",
+   "d": "O nome com que o candidato aparece na urna. Pode ser diferente do nome civil, como Cadu de Lula, nome de urna de Cadu Xavier."
+  },
+  {
+   "t": "Emenda Constitucional",
+   "d": "Mudança no texto da Constituição aprovada pelo Congresso. A EC 111, de 2021, mudou as datas de posse."
+  },
+  {
+   "t": "Transição",
+   "d": "Período entre a eleição e a posse em que a equipe eleita recebe informações do governo em exercício."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Luiz Inácio Lula da Silva (PT)",
+   "t": "presidente reeleito para o quarto mandato."
+  },
+  {
+   "b": "Flávio Bolsonaro (PL)",
+   "t": "senador, candidato derrotado no segundo turno."
+  },
+  {
+   "b": "TSE",
+   "t": "Tribunal Superior Eleitoral, que organiza a eleição e divulga os resultados."
+  },
+  {
+   "b": "Governadores eleitos no 2º turno",
+   "t": "Celina Leão (PP-DF), Omar Aziz (PSD-AM), Mailza Assis (PP-AC), Vicentinho Júnior (PSDB-TO), Lorenzo Pazolini (Republicanos-ES) e Cadu de Lula (PT-RN)."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Flávio Bolsonaro",
+   "t": "diz que é \"impossível reconhecer o resultado\" e que vai pedir a anulação por causa da prorrogação da votação."
+  },
+  {
+   "b": "O TSE",
+   "t": "chamou de falsa a afirmação de Flávio de que fiscais do PL foram retirados da sala-cofre."
+  },
+  {
+   "b": "Lula",
+   "t": "disse que vai \"mudar o jeito de governar este país\"."
+  }
+ ],
+ "observar": [
+  "Se o pedido de anulação anunciado por Flávio chega à Justiça Eleitoral e como o TSE responde.",
+  "A composição do novo Congresso, que toma posse em 1º de fevereiro de 2027.",
+  "As posses em 5 e 6 de janeiro de 2027."
+ ],
+ "fontes": [
+  {
+   "t": "TRE-SP, dados do TSE",
+   "u": "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/eleicoes-2026-lula-e-reeleito-presidente-da-republica-confira-resultado-do-2o-turno-em-sp"
+  },
+  {
+   "t": "Agência Brasil: Flávio e o pedido de anulação",
+   "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-nao-reconhece-vitoria-de-lula-e-tentara-anulacao-do-pleito"
+  },
+  {
+   "t": "Painel Político: governadores eleitos",
+   "u": "https://painelpolitico.com/celina-leao-omar-aziz-e-mais-4-sao-eleitos-governadores-no-2-turno"
+  },
+  {
+   "t": "CartaCapital: governadores eleitos",
+   "u": "https://www.cartacapital.com.br/politica/veja-a-lista-dos-governadores-eleitos-e-reeleitos-no-2o-turno/"
+  },
+  {
+   "t": "Gazeta SP: EC 111 e as novas posses",
+   "u": "https://www.gazetasp.com.br/politica/adeus-ao-1o-de-janeiro-presidente-eleito-em-2026-tomara-posse-em-nova-data-entenda-por-que-a-regra-mudou/"
+  },
+  {
+   "t": "SBT News: novas datas de posse",
+   "u": "https://sbtnews.sbt.com.br/noticia/eleicoes/posse-do-presidente-e-governadores-muda-em-2027-veja-novas-datas"
+  }
+ ]
+}
