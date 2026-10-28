@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Tema" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#121821</item>
+        <item name="android:navigationBarColor">#121821</item>
+        <item name="android:windowBackground">@color/grafite</item>
+    </style>
+    <color name="grafite">#121821</color>
+</resources>
