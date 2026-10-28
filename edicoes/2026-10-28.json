@@ -1,0 +1,655 @@
+{
+ "data": "2026-10-28",
+ "dia": "Quarta, 28 de outubro de 2026",
+ "leitura": "5 min",
+ "geradaEm": "2026-10-28T07:42:39Z",
+ "status": "aguardando",
+ "statusTexto": "Para sua aprovação",
+ "abre": "Bom dia. A redação de inteligência artificial do Contexto acompanhou de madrugada a contagem de votos em Israel, que não dorme e não tem pressa. Hoje: o dia seguinte ao tombo do mercado, a nova estratégia de Flávio Bolsonaro e a eleição israelense sem vencedor claro.",
+ "trinta": [
+  "O dólar recuou 1,07% e a Bolsa caiu 0,51% na terça, depois do tombo de segunda.",
+  "Flávio Bolsonaro diz que vai pedir a cassação da chapa de Lula; o pedido ainda não foi apresentado.",
+  "As bocas de urna em Israel não dão maioria a nenhum bloco."
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Dólar recua 1% e Bolsa cai pouco no dia seguinte ao tombo",
+     "texto": "Na terça (27), o dólar fechou a R$ 5,349, queda de 1,07%, e o Ibovespa terminou em 175.710 pontos, recuo de 0,51%. Na segunda, o dólar tinha subido 8,36% e a Bolsa caído 13,88%.",
+     "pq": "o câmbio e a Bolsa afetam preços de importados, viagens e investimentos. O presidente do Banco Central, Gabriel Galípolo, disse que o banco pode atuar no câmbio se vir \"disfuncionalidades\". Citi e BCA Research rebaixaram a recomendação para ativos brasileiros.",
+     "fontes": [
+      {
+       "t": "Sou Brasília, com Agência Brasil e Reuters",
+       "u": "https://soubrasilia.com/dolar-fecha-r-5-349-ibovespa-175-mil-pontos-27-outubro-2026/"
+      },
+      {
+       "t": "DGABC: fechamento do mercado",
+       "u": "https://www.dgabc.com.br/Noticia/4365379/fechamento-do-mercado-financeiro"
+      },
+      {
+       "t": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-27-outubro-2026/"
+      }
+     ],
+     "contexto": "dolar-bolsa-e-juros",
+     "completa": {
+      "fina": "O Banco Central disse que pode atuar no câmbio, o Tesouro cancelou um leilão e analistas estrangeiros ficaram mais cautelosos com o Brasil.",
+      "atualizada": "28 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O mercado financeiro teve um dia mais calmo na terça-feira (27), depois da segunda-feira em que o dólar subiu 8,36% e o Ibovespa caiu 13,88%, com acionamento do circuit breaker na B3. O dólar à vista fechou a R$ 5,349, queda de 1,07%. O Ibovespa terminou em 175.710,05 pontos, queda de 0,51%, com volume de R$ 71,2 bilhões.",
+      "blocos": [
+       {
+        "h": "Os números do dia",
+        "li": [
+         {
+          "b": "Dólar à vista:",
+          "t": "R$ 5,349, queda de 1,07%. A mínima foi de cerca de R$ 5,31 no fim da manhã. Na segunda, tinha fechado a R$ 5,4066, segundo a CNN Brasil."
+         },
+         {
+          "b": "Ibovespa:",
+          "t": "175.710,05 pontos, queda de 0,51%. Chegou a subir 1,09% na máxima, a 178.526 pontos, e a cair 0,84% na mínima, segundo o DGABC. No mês, acumula queda de 5,7%; no ano, alta de 9,05%."
+         },
+         {
+          "b": "Ptax:",
+          "t": "R$ 5,3346 na venda. É a taxa de referência calculada pelo Banco Central e usada em contratos."
+         },
+         {
+          "b": "Dólar turismo:",
+          "t": "R$ 5,547 na venda, segundo o DGABC. É o valor que mais se aproxima do que paga quem compra moeda para viajar."
+         },
+         {
+          "b": "Juros:",
+          "t": "o CDI está em 13,65% ao ano. A Selic está em 13,75%, depois de um corte em setembro. O Copom se reúne em 3 e 4 de novembro."
+         }
+        ]
+       },
+       {
+        "h": "O que disseram as autoridades",
+        "p": [
+         "O presidente do Banco Central, Gabriel Galípolo, falou pela primeira vez depois da eleição, na apresentação do Relatório de Estabilidade Financeira. Segundo o Sou Brasília, ele disse que o banco poderá atuar no câmbio se identificar \"disfuncionalidades\" no mercado, isto é, se o mercado deixar de funcionar normalmente.",
+         "O ministro da Fazenda, Dario Durigan, disse que o governo vai buscar o centro da meta fiscal. Esse ponto está em outra nota desta edição."
+        ]
+       },
+       {
+        "h": "O que fez o Tesouro",
+        "li": [
+         "Cancelou o leilão de LFT, títulos atrelados à Selic, previsto para terça, segundo o Money Times.",
+         "Anunciou recompra de NTN-B, títulos atrelados à inflação, com vencimentos entre 2030 e 2045. As condições não tinham sido divulgadas até a publicação da reportagem.",
+         "A recompra serve para reduzir a oscilação dos preços dos títulos em dias de estresse."
+        ]
+       },
+       {
+        "h": "O que disseram os analistas",
+        "p": [
+         "O Citigroup e a BCA Research rebaixaram a recomendação para ativos brasileiros. Segundo a CNN Brasil, as duas instituições disseram que a relação entre risco e retorno de ações, títulos e câmbio \"se deteriorou\", enquanto investidores reavaliam a disciplina fiscal e as reformas. O Citi rebaixou ações de bancos e da B3 e disse, segundo o Money Times, que \"a incerteza fiscal e os juros mais altos justificam prêmios de risco maiores\".",
+         "Antes do segundo turno, parte dos investidores apostava na vitória de Flávio Bolsonaro (PL), segundo o Sou Brasília. Isso ajuda a explicar o tamanho da reação de segunda."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem vai comandar a Fazenda no novo mandato. O governo ainda não definiu, segundo o Sou Brasília.",
+         "Se o Banco Central vai de fato vender dólares ou fazer outra intervenção.",
+         "Como o Copom vai reagir na semana que vem."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O Boletim Focus da próxima segunda (2) será o primeiro com projeções feitas depois da eleição.",
+         "O Copom decide a Selic em 4 de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Sou Brasília, com Agência Brasil e Reuters: fechamento de 27 out",
+        "u": "https://soubrasilia.com/dolar-fecha-r-5-349-ibovespa-175-mil-pontos-27-outubro-2026/"
+       },
+       {
+        "t": "DGABC: tabela do fechamento",
+        "u": "https://www.dgabc.com.br/Noticia/4365379/fechamento-do-mercado-financeiro"
+       },
+       {
+        "t": "CNN Brasil: mercado em 27 out",
+        "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-27-outubro-2026/"
+       },
+       {
+        "t": "Money Times: tempo real de 27 out",
+        "u": "https://www.moneytimes.com.br/tempo-real-27-10-26-lils/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Fazenda diz ter medidas para buscar o centro da meta fiscal",
+     "texto": "O ministro da Fazenda, Dario Durigan, disse na terça (27) que levou a Lula a necessidade de uma \"sinalização propositiva\" ao mercado e que o governo tem medidas prontas para buscar o centro da meta fiscal. Ele não detalhou quais.",
+     "pq": "a meta fiscal define quanto o governo pode gastar além do que arrecada. Sinais sobre as contas públicas influenciam juros, dólar e o custo dos financiamentos. Durigan também elogiou o governador do Piauí, Rafael Fonteles (PT), citado pela imprensa como possível ministro.",
+     "fontes": [
+      {
+       "t": "Money Times",
+       "u": "https://www.moneytimes.com.br/tempo-real-27-10-26-lils/"
+      },
+      {
+       "t": "Sou Brasília, com Agência Brasil e Reuters",
+       "u": "https://soubrasilia.com/dolar-fecha-r-5-349-ibovespa-175-mil-pontos-27-outubro-2026/"
+      }
+     ],
+     "contexto": "dolar-bolsa-e-juros",
+     "completa": {
+      "fina": "O ministro disse que a proposta será discutida com o Congresso e que não conversou com Lula sobre a futura equipe.",
+      "atualizada": "28 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O ministro da Fazenda, Dario Durigan, disse na manhã de terça-feira (27) que o governo já tem medidas fiscais prontas, entre elas uma que permitiria perseguir o centro da meta fiscal, e não apenas o limite inferior da margem de tolerância. A declaração veio um dia depois da forte queda da Bolsa e da alta do dólar.",
+      "blocos": [
+       {
+        "h": "O que o ministro disse",
+        "li": [
+         "Que disse a Lula que o governo precisa mandar ao mercado uma \"sinalização propositiva\", segundo o Money Times.",
+         "Que há medidas fiscais prontas, incluindo uma que permite buscar o centro da meta.",
+         "Que a proposta será discutida com o Congresso, segundo o Sou Brasília.",
+         "Que não conversou com Lula sobre a equipe ministerial do novo mandato.",
+         "Que o nome do governador do Piauí, Rafael Fonteles (PT), é \"excelente\". Fonteles vem sendo citado pela imprensa como possível ministro da Fazenda."
+        ]
+       },
+       {
+        "h": "O que é a meta fiscal",
+        "p": [
+         "A meta fiscal é o resultado que o governo promete atingir nas contas do ano, sem contar o pagamento de juros da dívida. Quando o resultado é positivo, há superávit primário; quando é negativo, déficit. A regra atual, o arcabouço fiscal, prevê uma meta com margem de tolerância para cima e para baixo. Buscar o centro da meta significa mirar no valor prometido, e não no piso dessa margem.",
+         "Na segunda, Durigan já tinha dito que o governo pretendia \"aumentar o tamanho do superávit primário\", segundo entrevista ao jornal O Globo citada na edição de ontem."
+        ]
+       },
+       {
+        "h": "Por que isso importa para o mercado",
+        "p": [
+         "Investidores usam os sinais sobre as contas públicas para estimar se a dívida do governo vai crescer. Quanto maior a dúvida, mais juros eles cobram para comprar títulos do Tesouro, e esses juros chegam ao crédito de empresas e famílias. O Citi citou a \"incerteza fiscal\" ao rebaixar ações brasileiras na terça, segundo o Money Times."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quais são as medidas e quanto elas economizariam.",
+         "Se dependem de aprovação do Congresso. O ministro disse que a proposta será discutida com os parlamentares, mas não informou o formato.",
+         "Quem será o ministro da Fazenda a partir de 5 de janeiro, data da posse."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O novo Congresso, eleito em 4 de outubro, toma posse em 1º de fevereiro de 2027. Até lá, propostas fiscais tramitam no Congresso atual.",
+         "A escolha da equipe econômica é um dos próximos anúncios esperados da transição."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Money Times: Durigan às 10h36 de 27 out",
+        "u": "https://www.moneytimes.com.br/tempo-real-27-10-26-lils/"
+       },
+       {
+        "t": "Sou Brasília: centro da meta e Congresso",
+        "u": "https://soubrasilia.com/dolar-fecha-r-5-349-ibovespa-175-mil-pontos-27-outubro-2026/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Flávio Bolsonaro troca anulação por pedido de cassação da chapa de Lula",
+     "texto": "Na segunda (26), Flávio Bolsonaro (PL) disse que vai pedir ao TSE a cassação da chapa de Lula, em vez da anulação do segundo turno. Ele acusou Lula, sem apresentar provas, de \"abuso de poder político e econômico\". O pedido ainda não foi apresentado.",
+     "pq": "uma ação desse tipo pode, se aceita, tornar o candidato inelegível. O PL reconheceu o resultado. O presidente do TSE, Kassio Nunes Marques, disse ter \"absoluta segurança\" no processo. Lula venceu com 51,79% dos votos válidos, diferença de mais de 4,3 milhões de votos.",
+     "fontes": [
+      {
+       "t": "Deutsche Welle, via Terra",
+       "u": "https://www.terra.com.br/noticias/flavio-altera-rota-para-buscar-reversao-da-derrota,0ef294f61d85f09d8ecc017cd245b2car4swreci.html"
+      },
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-nao-reconhece-vitoria-de-lula-e-tentara-anulacao-do-pleito"
+      }
+     ],
+     "contexto": "eleicoes-brasil-2026",
+     "completa": {
+      "fina": "Só partidos, coligações, candidatos e o Ministério Público podem entrar com o pedido, até a diplomação dos eleitos, em dezembro.",
+      "atualizada": "28 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O senador Flávio Bolsonaro (PL), derrotado no segundo turno de domingo (25), disse na segunda-feira (26) que vai pedir ao Tribunal Superior Eleitoral a cassação da chapa do presidente Luiz Inácio Lula da Silva (PT). No domingo, ele tinha dito que pediria a anulação do segundo turno por causa da prorrogação da votação em algumas seções. Segundo a Deutsche Welle, que cita a Folha de S.Paulo, aliados e advogados o convenceram a mudar de caminho.",
+      "blocos": [
+       {
+        "h": "O que Flávio disse",
+        "li": [
+         "Que vai pedir a cassação da chapa de Lula por \"abuso de poder político e econômico sem precedentes\". Ele não apresentou provas.",
+         "Que \"não fui eu que perdi, foi o sistema que ganhou\".",
+         "No domingo, que era \"impossível reconhecer o resultado\", segundo a Agência Brasil."
+        ]
+       },
+       {
+        "h": "O que disseram os outros",
+        "li": [
+         {
+          "b": "O PL",
+          "t": "reconheceu o resultado em nota assinada pelo presidente do partido, Valdemar Costa Neto, mas disse que os questionamentos \"precisam ser devidamente esclarecidos\"."
+         },
+         {
+          "b": "Nikolas Ferreira (PL-MG),",
+          "t": "deputado, disse que a chance de anulação é \"praticamente nula\" e pediu que apoiadores não fossem às ruas."
+         },
+         {
+          "b": "O TSE",
+          "t": "proclamou a reeleição de Lula no domingo. O presidente do tribunal, Kassio Nunes Marques, disse ter \"absoluta segurança\" em todo o processo eleitoral."
+         }
+        ]
+       },
+       {
+        "h": "A prorrogação da votação",
+        "p": [
+         "O ministro Cristiano Zanin prorrogou a votação das 17h para as 19h apenas nas seções em que as urnas ainda não tinham sido encerradas, após relatos de falta de ônibus. Segundo dados do TSE analisados pelo G1 e pela CNN Brasil, citados pela DW, cerca de 34 mil votos foram dados depois das 17h, e mais de 84% deles nos cinco primeiros minutos, possivelmente de eleitores que já estavam na fila. Antes da votação, o TSE tinha recebido pedidos de prorrogação das duas campanhas, para estados diferentes."
+        ]
+       },
+       {
+        "h": "Como funciona o pedido",
+        "li": [
+         "A Ação de Investigação Judicial Eleitoral, a AIJE, pode cassar o registro ou o mandato e tornar o candidato inelegível por oito anos. Exige prova de que houve desequilíbrio na disputa, como abuso de poder econômico ou de autoridade.",
+         "Só partidos, coligações, candidatos e o Ministério Público podem apresentá-la, até a diplomação, em dezembro.",
+         "Depois da diplomação, há outro caminho, a Ação de Impugnação de Mandato Eletivo, com prazo de 15 dias.",
+         "Antes do segundo turno, já havia 15 AIJEs entre as duas campanhas, segundo o jornal O Globo: oito de Flávio contra Lula e sete de Lula contra Flávio."
+        ]
+       },
+       {
+        "h": "Precedentes",
+        "p": [
+         "Em 2023, o TSE tornou Jair Bolsonaro inelegível numa AIJE do PDT sobre uma reunião com embaixadores. Neste ano, o ex-governador do Rio Cláudio Castro foi declarado inelegível por oito anos por abuso de poder, segundo a DW."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se e quando o pedido será apresentado, e com quais provas.",
+         "A posição do Ministério Público Eleitoral."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Deutsche Welle, via Terra: Flávio muda de rota, 26 out",
+        "u": "https://www.terra.com.br/noticias/flavio-altera-rota-para-buscar-reversao-da-derrota,0ef294f61d85f09d8ecc017cd245b2car4swreci.html"
+       },
+       {
+        "t": "Agência Brasil: Flávio não reconhece o resultado, 25 out",
+        "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-nao-reconhece-vitoria-de-lula-e-tentara-anulacao-do-pleito"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Boca de urna em Israel aponta Parlamento sem maioria clara",
+     "texto": "As pesquisas de boca de urna da eleição de terça (27) deram de 49 a 53 cadeiras à oposição, liderada por Gadi Eisenkot, e de 50 a 52 ao bloco de Benjamin Netanyahu. Partidos árabes ficariam com 17 a 19. São precisas 61 das 120.",
+     "pq": "sem maioria, o próximo governo depende de negociações que podem levar semanas. O comparecimento foi o maior desde 1988 para o horário. A contagem pode ir até sexta, e Netanyahu já disse que pretende formar \"um governo de direita\".",
+     "fontes": [
+      {
+       "t": "Israel Hayom",
+       "u": "https://www.israelhayom.com/2026/10/27/israel-election-2026-exit-polls-full-results/"
+      },
+      {
+       "t": "The Times of Israel",
+       "u": "https://www.timesofisrael.com/liveblog_entry/channel-12-updates-exit-poll-pro-netanyahu-bloc-rises-to-52-seats/"
+      },
+      {
+       "t": "Ynet",
+       "u": "https://www.ynetnews.com/article/skd97fc2gl"
+      }
+     ],
+     "contexto": "eleicao-israel-2026",
+     "completa": {
+      "fina": "Netanyahu e Eisenkot trocaram acusações durante a votação; mais de 650 mil votos em envelope duplo ainda serão contados.",
+      "atualizada": "28 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "Israel elegeu na terça-feira (27) os 120 deputados do Knesset, o Parlamento. As pesquisas de boca de urna das três principais emissoras indicaram que nenhum dos dois blocos chega às 61 cadeiras necessárias para formar governo sozinho. O resultado oficial depende da contagem, que pode terminar só na sexta-feira (30).",
+      "blocos": [
+       {
+        "h": "O que dizem as bocas de urna",
+        "li": [
+         {
+          "b": "Kan 11, emissora pública:",
+          "t": "oposição 53, bloco de Netanyahu 50, partidos árabes 17. Likud 25 cadeiras, Yashar 21, Juntos 14, Lista Conjunta 10 e Ra'am 7, segundo o Israel Hayom."
+         },
+         {
+          "b": "Canal 13:",
+          "t": "53, 50 e 17."
+         },
+         {
+          "b": "Canal 12, primeira divulgação:",
+          "t": "oposição 52, Netanyahu 50, árabes 18."
+         },
+         {
+          "b": "Canal 12, atualização às 2h17 de quarta (28) em Israel:",
+          "t": "bloco de Netanyahu 52, oposição 49, árabes 19. Likud 27, Yashar 21, Lista Conjunta 12, segundo o Times of Israel."
+         }
+        ]
+       },
+       {
+        "h": "Comparecimento",
+        "p": [
+         "Até as 20h, votaram 74,3% dos eleitores, 5.449.277 de 7.331.981, segundo o Ynet. É o maior índice para esse horário desde 1988. Na eleição de 2022, o comparecimento no mesmo horário foi de 66,3%."
+        ]
+       },
+       {
+        "h": "O que disseram os líderes",
+        "li": [
+         {
+          "b": "Benjamin Netanyahu (Likud)",
+          "t": "disse que o bloco de direita teve uma \"maioria decisiva\" entre o eleitorado sionista e que pretende formar \"um governo de direita\", segundo o Times of Israel."
+         },
+         {
+          "b": "Gadi Eisenkot (Yashar)",
+          "t": "pediu que Netanyahu aceitasse a derrota. Durante a votação, acusou o premiê de preparar o terreno para contestar o resultado."
+         },
+         {
+          "b": "Durante o dia,",
+          "t": "Netanyahu acusou militantes do partido árabe Ra'am de \"tentar roubar a eleição\". Ele não apresentou provas nas reportagens consultadas."
+         }
+        ]
+       },
+       {
+        "h": "Quem ficou de fora",
+        "p": [
+         "Segundo o Israel Hayom, as bocas de urna indicam que não passaram da cláusula de barreira de 3,25% os partidos Amcha Yisrael, o partido dos Reservistas e o partido Público Haredi. Os votos dados a eles não se convertem em cadeiras, o que pode mudar a conta final por uma ou duas vagas."
+        ]
+       },
+       {
+        "h": "Por que a conta é incerta",
+        "li": [
+         "As bocas de urna são estimativas e já mudaram ao longo da madrugada no Canal 12.",
+         "Mais de 650 mil votos em envelope duplo, de soldados, diplomatas, presos e pessoas hospitalizadas, só entram no fim da contagem, segundo o Times of Israel.",
+         "A diferença entre os blocos é de duas a quatro cadeiras."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A Comissão Central Eleitoral divulga os números oficiais, possivelmente até sexta (30).",
+         "O presidente de Israel, Isaac Herzog, consulta os partidos e convida um deputado para tentar formar governo."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Israel Hayom: bocas de urna completas",
+        "u": "https://www.israelhayom.com/2026/10/27/israel-election-2026-exit-polls-full-results/"
+       },
+       {
+        "t": "The Times of Israel: atualização do Canal 12",
+        "u": "https://www.timesofisrael.com/liveblog_entry/channel-12-updates-exit-poll-pro-netanyahu-bloc-rises-to-52-seats/"
+       },
+       {
+        "t": "Ynet: comparecimento",
+        "u": "https://www.ynetnews.com/article/skd97fc2gl"
+       },
+       {
+        "t": "The Times of Israel: cobertura ao vivo de 27 out",
+        "u": "https://www.timesofisrael.com/liveblog-october-27-2026/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Com ressalva",
+     "titulo": "Surto de ebola no Congo passa de 10 mil casos, segundo boletim",
+     "texto": "O surto de ebola na República Democrática do Congo chegou a 10.060 casos e 4.887 mortes, segundo números de terça (27) reunidos pelo boletim Foreign Exchanges. A agência europeia de doenças, o ECDC, registrava 9.552 casos e 4.602 mortes até 18 de outubro.",
+     "pq": "o surto, causado pelo vírus Bundibugyo, já chegou a Quênia e Nigéria por viajantes e levou Uganda a restringir viagens. O ECDC considera o risco para a Europa \"muito baixo\". As fontes consultadas não citam casos no Brasil.",
+     "fontes": [
+      {
+       "t": "ECDC",
+       "u": "https://www.ecdc.europa.eu/en/public-health-events/2026-EIP-00026"
+      },
+      {
+       "t": "Foreign Exchanges",
+       "u": "https://foreignexchanges.news/p/world-roundup-october-27-2026"
+      }
+     ],
+     "contexto": "ebola-2026",
+     "completa": {
+      "fina": "Em cerca de dez dias, o total de casos cresceu em mais de 500, segundo a comparação entre os dois levantamentos.",
+      "atualizada": "28 out 2026, 5h",
+      "selo": "Com ressalva",
+      "fato": "O surto de ebola na República Democrática do Congo passou de 10 mil casos. O boletim Foreign Exchanges, que reúne notícias internacionais, informou 10.060 casos e 4.887 mortes em números de terça-feira (27). O Centro Europeu de Prevenção e Controle de Doenças, o ECDC, registrava 9.552 casos confirmados e 4.602 mortes relacionadas até 18 de outubro.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Congo, até 18 de outubro:",
+          "t": "9.552 casos confirmados e 4.602 mortes, segundo o ECDC."
+         },
+         {
+          "b": "Congo, terça (27):",
+          "t": "10.060 casos e 4.887 mortes, segundo o Foreign Exchanges. O boletim não detalha se os números incluem casos prováveis."
+         },
+         {
+          "b": "Nigéria:",
+          "t": "um caso, informado em 20 de outubro, com histórico de viagem a Uganda. Havia 53 contatos identificados na atualização do ECDC de 26 de outubro."
+         },
+         {
+          "b": "Quênia:",
+          "t": "primeiro caso confirmado em 6 de outubro, importado do Congo."
+         },
+         {
+          "b": "Países Baixos:",
+          "t": "uma profissional de saúde do Congo foi levada para tratamento em 1º de outubro."
+         }
+        ]
+       },
+       {
+        "h": "Por que a ressalva",
+        "p": [
+         "O número mais recente vem de um boletim que compila notícias, e não de um órgão de saúde. O dado oficial mais recente encontrado pela redação, do ECDC, é de dez dias antes. Os dois levantamentos vão na mesma direção, mas não foi possível conferir os 10.060 casos diretamente no boletim do governo do Congo."
+        ]
+       },
+       {
+        "h": "O que se sabe sobre a doença",
+        "p": [
+         "O ebola é transmitido pelo contato com sangue e fluidos de pessoas doentes ou mortas pela doença. O tempo entre a infecção e os sintomas pode chegar a 21 dias, por isso contatos são acompanhados por esse período. O surto atual é causado pelo vírus Bundibugyo, um dos tipos que causam a doença, segundo o ECDC."
+        ]
+       },
+       {
+        "h": "O que fizeram outros países",
+        "li": [
+         "Uganda anunciou no domingo (25) quarentena de 21 dias para cidadãos que voltam do Congo e proibiu o trânsito de quem passou pelo país vizinho, segundo a Euronews.",
+         "Uma paciente suíça que estava na Nigéria foi levada para a Suíça na segunda (26).",
+         "O ECDC não recomenda restrições de viagem e defende triagem na saída das áreas afetadas."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a velocidade de novos casos está caindo ou subindo. As fontes consultadas não trazem a curva semanal.",
+         "O fim do acompanhamento dos contatos na Nigéria e no Quênia."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O ECDC publica atualizações semanais; a próxima deve trazer números oficiais posteriores a 18 de outubro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "ECDC: atualizações do surto de 2026",
+        "u": "https://www.ecdc.europa.eu/en/public-health-events/2026-EIP-00026"
+       },
+       {
+        "t": "Foreign Exchanges: resumo mundial de 27 out",
+        "u": "https://foreignexchanges.news/p/world-roundup-october-27-2026"
+       },
+       {
+        "t": "Euronews: Uganda restringe viagens",
+        "u": "https://www.euronews.com/2026/10/26/ebola-uganda-restricts-travel-as-nigerian-case-evacuated-to-europe"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Anthropic, criadora do Claude, pede registro para abrir capital na Nasdaq",
+     "texto": "A Anthropic entregou na segunda (26) à SEC, a CVM americana, o pedido público para vender ações na Nasdaq, com o código ANT. O documento mostra receita de US$ 16,3 bilhões e prejuízo de US$ 80,7 bilhões no primeiro semestre.",
+     "pq": "seria uma das maiores estreias da história da Bolsa americana, com valor discutido de US$ 1,5 trilhão a US$ 2 trilhões. Quase todo o prejuízo é contábil, ligado à alta do valor da empresa. A Anthropic desenvolve o Claude, usado para escrever o Contexto.",
+     "fontes": [
+      {
+       "t": "SEC: formulário S-1",
+       "u": "https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm"
+      },
+      {
+       "t": "Yahoo Finance",
+       "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"
+      }
+     ],
+     "completa": {
+      "fina": "A empresa teve lucro operacional no segundo trimestre e diz, no documento, que a IA pode trazer riscos catastróficos.",
+      "atualizada": "28 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Anthropic, empresa americana de inteligência artificial que desenvolve o Claude, entregou na segunda-feira (26) à Securities and Exchange Commission, a SEC, órgão que regula o mercado de capitais dos EUA, o formulário S-1, pedido de registro para uma oferta pública inicial de ações. A empresa propõe negociar suas ações na Nasdaq com o código ANT. O registro ainda não está em vigor, e o preço das ações não foi definido.",
+      "blocos": [
+       {
+        "h": "Os números do documento",
+        "li": [
+         {
+          "b": "Receita:",
+          "t": "US$ 16,3 bilhões no primeiro semestre de 2026, contra US$ 1,2 bilhão no mesmo período de 2025, segundo o S-1."
+         },
+         {
+          "b": "Prejuízo líquido:",
+          "t": "US$ 80,7 bilhões no semestre. Desse total, US$ 72,4 bilhões vêm da mudança no valor justo de notas conversíveis e outros instrumentos financeiros, que subiu porque o valor da empresa aumentou. É uma perda contábil, sem saída de dinheiro do caixa."
+         },
+         {
+          "b": "Resultado operacional:",
+          "t": "prejuízo de US$ 693 milhões no semestre. Segundo o Yahoo Finance, houve lucro operacional de US$ 974 milhões no segundo trimestre, depois de prejuízo de US$ 1,7 bilhão no primeiro."
+         },
+         {
+          "b": "Funcionários:",
+          "t": "cerca de 5.300 em 30 de setembro, segundo o Yahoo Finance."
+         }
+        ]
+       },
+       {
+        "h": "Quanto a empresa pode valer",
+        "p": [
+         "Em maio, a Anthropic foi avaliada em US$ 965 bilhões numa rodada privada. Segundo o Yahoo Finance, o mercado discute uma avaliação de US$ 1,5 trilhão a US$ 2 trilhões na estreia. A OpenAI, concorrente, foi avaliada em US$ 852 bilhões em março e, segundo a mesma reportagem, pode adiar a própria abertura de capital para o início de 2027. Goldman Sachs e Morgan Stanley coordenam a oferta."
+        ]
+       },
+       {
+        "h": "Riscos que a própria empresa aponta",
+        "li": [
+         "Regras mais duras para a IA podem aumentar custos ou reduzir a demanda.",
+         "Os modelos de IA podem trazer riscos catastróficos, e o setor de seguros pode não cobrir a responsabilidade por um incidente desse tipo, diz o documento, segundo o Yahoo Finance.",
+         "A empresa relata uma divergência com o governo Trump sobre como o governo pode usar seus modelos.",
+         "Há compromissos grandes com capacidade de computação, entre eles um acordo de até US$ 120,5 bilhões com a SpaceXAI até 2029."
+        ]
+       },
+       {
+        "h": "Quem controla a empresa",
+        "p": [
+         "A Anthropic é uma corporação de benefício público. Segundo o S-1, um fundo independente, o Long-Term Benefit Trust, terá uma classe especial de ações, sem direitos econômicos, que lhe permite eleger a maioria do conselho. A empresa diz que esse fundo é formado por pessoas sem interesse financeiro na companhia."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "A data da estreia. Reportagens falam em semanas.",
+         "Quantas ações serão vendidas e a que preço.",
+         "Como será o calendário de venda de ações por funcionários. O Yahoo Finance relata um cronograma escalonado, mais curto que o padrão de 180 dias."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A SEC analisa o documento. A empresa então define a faixa de preço e faz apresentações a investidores antes da estreia."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "SEC: formulário S-1 da Anthropic",
+        "u": "https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm"
+       },
+       {
+        "t": "Yahoo Finance: cobertura ao vivo do S-1",
+        "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "74,3%",
+  "texto": "dos eleitores israelenses votaram até as 20h de terça, o maior índice para esse horário desde 1988, segundo o Ynet.",
+  "fontes": [
+   {
+    "t": "Ynet",
+    "u": "https://www.ynetnews.com/article/skd97fc2gl"
+   },
+   {
+    "t": "Israel Hayom",
+    "u": "https://www.israelhayom.com/2026/10/27/israel-election-2026-exit-polls-full-results/"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "A Anthropic, que faz o Claude, pediu registro para abrir capital. A redação do Contexto é feita com o Claude e avisa: não recebeu ações, não opina sobre o preço e continua sem salário.",
+  "fontes": [
+   {
+    "t": "SEC: formulário S-1",
+    "u": "https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm"
+   },
+   {
+    "t": "Yahoo Finance",
+    "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela aprovação de uma pessoa, o editor responsável, antes do envio. Conflito de interesse: esta edição noticia a abertura de capital da Anthropic, empresa que desenvolve o Claude, e cita a OpenAI, concorrente dela. A nota foi escrita só com o documento oficial e reportagem independente, sem comentário sobre o valor da empresa.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Flávio e Lula aparecem com suas próprias falas e com os dados do TSE; Netanyahu e Eisenkot, com as bocas de urna de três emissoras. A nota sobre a Anthropic tem conflito de interesse declarado no rodapé e se limita ao documento oficial.",
+  "pontos": [
+   "Brasil 3: a acusação de \"abuso de poder\" é atribuída a Flávio, com a informação de que ele não apresentou provas; a resposta do TSE e a posição do PL aparecem na mesma nota.",
+   "Mundo 1: as bocas de urna divergem entre si; a nota dá a faixa de 49 a 53, e a Notícia completa lista cada emissora. A acusação de Netanyahu contra o Ra'am aparece atribuída e com a ressalva de falta de provas.",
+   "Mundo 2: selo com ressalva, porque o número mais recente vem de um boletim que compila notícias; o dado oficial do ECDC aparece ao lado. Nota sobre mortes, sem menção leve à IA.",
+   "Inovação 1: conflito de interesse declarado na nota e no rodapé; nenhum adjetivo sobre a empresa. O prejuízo contábil é explicado para não exagerar nem minimizar.",
+   "Para fechar: a menção leve à IA ficou aqui, como manda o manual.",
+   "Brasil 1: a CNN Brasil e outra fonte divergem sobre a comparação histórica da alta de segunda (2003 ou 1999); a edição não usa essa comparação."
+  ],
+  "equilibrio": "Governo federal: duas menções neutras (Durigan e Galípolo, com falas atribuídas). Oposição: uma nota com a fala de Flávio, a posição do PL e a de Nikolas Ferreira. Nenhum adjetivo de valor.",
+  "foraDaEdicao": [
+   "Ataques aéreos da Jordânia no sul da Síria, ataques no Iêmen e na Arábia Saudita e o bombardeio em Nyala, no Sudão: só uma fonte aberta a tempo.",
+   "Novo iPad mini da Apple: só uma fonte especializada confirmou o anúncio a tempo.",
+   "Saída de Flávio Bolsonaro do país, citada por um boletim estrangeiro: não confirmada.",
+   "Ressalva da redação: a edição tem 2 notas em Mundo e 1 em Inovação, abaixo das 3 e 2 previstas, porque os outros candidatos não tinham duas fontes."
+  ]
+ }
+}

@@ -1,6 +1,6 @@
 {
  "titulo": "Eleição em Israel: como se forma um governo",
- "atualizado": "27 out 2026",
+ "atualizado": "28 out 2026",
  "selo": "Checado",
  "frase": "Israel escolhe 120 deputados por lista nacional, e nenhum partido costuma ter maioria sozinho. Governa quem consegue reunir 61 cadeiras numa coalizão.",
  "linha": [
@@ -23,6 +23,10 @@
   {
    "d": "27 de outubro de 2026",
    "t": "Dia da eleição. Boca de urna às 22h de Israel."
+  },
+  {
+   "d": "27 de outubro de 2026",
+   "t": "Bocas de urna não dão 61 cadeiras a nenhum bloco. Comparecimento de 74,3% até as 20h, o maior para o horário desde 1988."
   }
  ],
  "termos": [
@@ -63,6 +67,10 @@
   {
    "b": "Ra'am e Lista Conjunta",
    "t": "partidos árabes, que podem decidir a maioria."
+  },
+  {
+   "b": "Isaac Herzog",
+   "t": "presidente de Israel, que convida um deputado para formar governo."
   }
  ],
  "disputa": [
@@ -76,9 +84,10 @@
   }
  ],
  "observar": [
-  "As bocas de urna às 17h de Brasília.",
-  "Quais partidos pequenos passam de 3,25%.",
-  "Quem o presidente de Israel convida para formar governo."
+  "O resultado oficial da Comissão Central Eleitoral, possivelmente até sexta (30).",
+  "Os votos em envelope duplo, contados por último.",
+  "Quem o presidente Isaac Herzog convida para formar governo.",
+  "Se os partidos árabes entram em alguma coalizão."
  ],
  "fontes": [
   {
@@ -92,6 +101,18 @@
   {
    "t": "Euronews: Cisjordânia no dia da eleição",
    "u": "https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting"
+  },
+  {
+   "t": "Israel Hayom: bocas de urna",
+   "u": "https://www.israelhayom.com/2026/10/27/israel-election-2026-exit-polls-full-results/"
+  },
+  {
+   "t": "The Times of Israel: Canal 12",
+   "u": "https://www.timesofisrael.com/liveblog_entry/channel-12-updates-exit-poll-pro-netanyahu-bloc-rises-to-52-seats/"
+  },
+  {
+   "t": "Ynet: comparecimento",
+   "u": "https://www.ynetnews.com/article/skd97fc2gl"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "titulo": "Ebola: o surto de 2026 na África",
- "atualizado": "27 out 2026",
+ "atualizado": "28 out 2026",
  "selo": "Checado",
  "frase": "O ebola é uma doença grave causada por vírus, transmitida pelo contato com sangue e fluidos de pessoas infectadas. O surto de 2026 começou no Congo e chegou a Uganda, Quênia e Nigéria por viajantes.",
  "linha": [
@@ -27,6 +27,10 @@
   {
    "d": "25 e 26 de outubro de 2026",
    "t": "Uganda endurece regras de viagem; a paciente da Nigéria é levada para a Suíça."
+  },
+  {
+   "d": "27 de outubro de 2026",
+   "t": "O Congo passa de 10 mil casos e 4.800 mortes, segundo números reunidos pelo boletim Foreign Exchanges."
   }
  ],
  "termos": [
@@ -88,6 +92,14 @@
   {
    "t": "Euronews: Uganda restringe viagens",
    "u": "https://www.euronews.com/2026/10/26/ebola-uganda-restricts-travel-as-nigerian-case-evacuated-to-europe"
+  },
+  {
+   "t": "ECDC: atualizações do surto",
+   "u": "https://www.ecdc.europa.eu/en/public-health-events/2026-EIP-00026"
+  },
+  {
+   "t": "Foreign Exchanges: resumo de 27 out",
+   "u": "https://foreignexchanges.news/p/world-roundup-october-27-2026"
   }
  ]
 }

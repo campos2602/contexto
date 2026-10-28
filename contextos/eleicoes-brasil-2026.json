@@ -1,6 +1,6 @@
 {
  "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
- "atualizado": "27 out 2026",
+ "atualizado": "28 out 2026",
  "selo": "Checado",
  "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
  "linha": [
@@ -23,6 +23,10 @@
   {
    "d": "5 e 6 de janeiro de 2027",
    "t": "Posse do presidente (dia 5) e dos governadores (dia 6)."
+  },
+  {
+   "d": "26 de outubro de 2026",
+   "t": "Flávio desiste da anulação e diz que vai pedir a cassação da chapa de Lula por abuso de poder. O PL reconhece o resultado."
   },
   {
    "d": "1º de fevereiro de 2027",
@@ -49,6 +53,14 @@
   {
    "t": "Transição",
    "d": "Período entre a eleição e a posse em que a equipe eleita recebe informações do governo em exercício."
+  },
+  {
+   "t": "AIJE",
+   "d": "Ação de Investigação Judicial Eleitoral. Pode cassar registro ou mandato e tornar o candidato inelegível por oito anos se houver abuso de poder. Vai até a diplomação."
+  },
+  {
+   "t": "Diplomação",
+   "d": "Cerimônia em que a Justiça Eleitoral entrega aos eleitos o diploma que os habilita a tomar posse. Em 2026, ocorre em dezembro."
   }
  ],
  "quem": [
@@ -72,7 +84,11 @@
  "disputa": [
   {
    "b": "Flávio Bolsonaro",
-   "t": "diz que é \"impossível reconhecer o resultado\" e que vai pedir a anulação por causa da prorrogação da votação."
+   "t": "disse no domingo que era \"impossível reconhecer o resultado\" e, na segunda, que vai pedir a cassação da chapa de Lula por \"abuso de poder político e econômico\", sem apresentar provas."
+  },
+  {
+   "b": "O PL",
+   "t": "reconheceu o resultado em nota de Valdemar Costa Neto, mas disse que os questionamentos \"precisam ser devidamente esclarecidos\"."
   },
   {
    "b": "O TSE",
@@ -84,7 +100,7 @@
   }
  ],
  "observar": [
-  "Se o pedido de anulação anunciado por Flávio chega à Justiça Eleitoral e como o TSE responde.",
+  "Se o pedido de cassação anunciado por Flávio chega ao TSE até a diplomação, em dezembro.",
   "A composição do novo Congresso, que toma posse em 1º de fevereiro de 2027.",
   "As posses em 5 e 6 de janeiro de 2027."
  ],
@@ -112,6 +128,10 @@
   {
    "t": "SBT News: novas datas de posse",
    "u": "https://sbtnews.sbt.com.br/noticia/eleicoes/posse-do-presidente-e-governadores-muda-em-2027-veja-novas-datas"
+  },
+  {
+   "t": "Deutsche Welle, via Terra: Flávio muda de rota",
+   "u": "https://www.terra.com.br/noticias/flavio-altera-rota-para-buscar-reversao-da-derrota,0ef294f61d85f09d8ecc017cd245b2car4swreci.html"
   }
  ]
 }
