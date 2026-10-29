@@ -1,0 +1,47 @@
+name: Gerar site público e kit de redes
+
+# A cada edição nova gravada na main, gera as páginas públicas (ler/, assinar/, feed, sitemap)
+# e o kit de redes (social/), e grava tudo de volta na main.
+on:
+  push:
+    branches: [main]
+    paths: ["edicoes/**", "contextos/**", "ferramentas/**", "ler/estilo.css", "ler/leitor.js", ".github/workflows/site.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Instalar o navegador para os cartões
+        run: |
+          npm install --no-save --no-package-lock playwright@1.48.2
+          npx playwright install --with-deps chromium
+      - name: Gerar site
+        run: python3 ferramentas/gerar_site.py
+      - name: Gerar kit de redes
+        run: node ferramentas/instagram.js
+      - name: Gravar na main
+        run: |
+          git config user.name "contexto-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A ler assinar privacidade social feed.xml sitemap.xml robots.txt
+          if git diff --cached --quiet; then echo "Nada mudou."; exit 0; fi
+          git commit -m "Site público e kit de redes atualizados"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
+      - name: Pedir nova publicação do GitHub Pages
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
