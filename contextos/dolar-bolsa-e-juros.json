@@ -1,6 +1,6 @@
 {
  "titulo": "Dólar, Bolsa e juros: como o mercado reage a um susto",
- "atualizado": "28 out 2026",
+ "atualizado": "29 out 2026",
  "selo": "Checado",
  "frase": "Quando investidores mudam de ideia sobre o futuro da economia de um país, eles vendem ações e reais e cobram juros mais altos para emprestar dinheiro ao governo. O dólar, o Ibovespa e os juros futuros medem esses três movimentos.",
  "linha": [
@@ -31,6 +31,10 @@
   {
    "d": "27 de outubro de 2026",
    "t": "O dólar recua 1,07%, a R$ 5,349, e o Ibovespa cai 0,51%. Galípolo diz que o BC pode atuar no câmbio; o Tesouro cancela leilão e anuncia recompra de títulos."
+  },
+  {
+   "d": "28 de outubro de 2026",
+   "t": "O Ibovespa cai 2,68%, a 171.006 pontos, o menor fechamento desde agosto, puxado por bancos. O dólar fica perto de R$ 5,34."
   }
  ],
  "termos": [
@@ -103,7 +107,7 @@
   "Se o Banco Central intervém no câmbio.",
   "A reunião do Copom em 3 e 4 de novembro.",
   "O Boletim Focus de 2 de novembro, o primeiro feito depois da eleição.",
-  "As medidas fiscais que a Fazenda diz ter prontas e a escolha do novo ministro."
+  "A escolha do novo ministro da Fazenda e as medidas fiscais anunciadas."
  ],
  "fontes": [
   {
@@ -133,6 +137,14 @@
   {
    "t": "Money Times: tempo real de 27 out",
    "u": "https://www.moneytimes.com.br/tempo-real-27-10-26-lils/"
+  },
+  {
+   "t": "Times Brasil: fechamento de 28 out",
+   "u": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-despenca-268-puxado-por-bancos-dolar-recua-a-r-534-com-juros-nos-eua/"
+  },
+  {
+   "t": "Forbes Brasil: fechamento de 28 out",
+   "u": "https://forbes.com.br/forbes-money/2026/10/ibovespa-fecha-em-queda-em-novo-capitulo-de-ajustes-pos-eleicao-dolar-recua/"
   }
  ]
 }

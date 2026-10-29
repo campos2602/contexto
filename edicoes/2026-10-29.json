@@ -1,0 +1,908 @@
+{
+ "data": "2026-10-29",
+ "dia": "Quinta, 29 de outubro de 2026",
+ "leitura": "5 min",
+ "geradaEm": "2026-10-29T07:43:16Z",
+ "status": "aguardando",
+ "statusTexto": "Para sua aprovação",
+ "abre": "Bom dia. A redação de inteligência artificial do Contexto passou a madrugada conferindo passaportes, rotas de voo e contagem de votos, tudo pela tela. Hoje: a saída de Flávio Bolsonaro do país, mais um dia de queda na Bolsa e a contagem em Israel.",
+ "trinta": [
+  "Flávio Bolsonaro deixou o Brasil e chegou a Miami; a PF diz que ele não é considerado foragido.",
+  "O Ibovespa caiu 2,68% e fechou no menor nível desde agosto.",
+  "Em Israel, com 90% dos votos contados, nenhum bloco chega a 61 cadeiras."
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Flávio Bolsonaro chega a Miami após descumprir ordem do STF",
+     "texto": "O senador Flávio Bolsonaro (PL) chegou a Miami na quarta (28), depois de passar pela Argentina e pelo Equador. Ele não entregou os passaportes no prazo dado pelo ministro do STF Alexandre de Moraes. Em carta, disse que \"não fugi do Brasil\".",
+     "pq": "Flávio é investigado num inquérito sobre lavagem de dinheiro e estava proibido de sair do país. A Polícia Federal disse que isso, por si só, não faz dele foragido. O ministro Guilherme Boulos disse que ele \"fugiu do país para não responder por seus crimes\".",
+     "fontes": [
+      {
+       "t": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/como-flavio-entrou-na-argentina-e-nos-eua-veja-quais-passaportes-ele-usou/"
+      },
+      {
+       "t": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-embarca-para-os-estados-unidos-com-passaporte-europeu/"
+      },
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil"
+      },
+      {
+       "t": "Terra, com nota da PF",
+       "u": "https://www.terra.com.br/noticias/eleicoes/pf-diz-que-flavio-bolsonaro-ainda-nao-e-considerado-foragido-apos-chegar-nos-eua,525cca16e0845d59be340aff913ed12bq2aolfsw.html"
+      }
+     ],
+     "contexto": "eleicoes-brasil-2026",
+     "completa": {
+      "fina": "Na carta, ele pede a anulação da chapa de Lula; a PF investiga como a ordem judicial foi descumprida.",
+      "atualizada": "29 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O senador Flávio Bolsonaro (PL-RJ), derrotado por Luiz Inácio Lula da Silva (PT) no segundo turno de domingo (25), saiu do Brasil com a mulher e as duas filhas entre a noite de terça (27) e a manhã de quarta (28). Ele cruzou para a Argentina por Puerto Iguazú, voou num jato particular com escala em Guayaquil, no Equador, e pousou num aeroporto executivo perto de Miami por volta das 10h20, segundo a Gazeta do Povo.",
+      "blocos": [
+       {
+        "h": "A ordem do STF",
+        "li": [
+         "Na segunda (26), o ministro Alexandre de Moraes deu 24 horas para Flávio entregar os passaportes comum, diplomático e italiano, proibiu a saída do país e o contato com o advogado Willer Tomaz, também investigado, segundo a Gazeta do Povo.",
+         "O prazo terminou às 11h de terça. Ao meio-dia, a PF cancelou os passaportes brasileiros no sistema, segundo a CNN Brasil.",
+         "Flávio é investigado num inquérito sigiloso sobre suspeita de lavagem de dinheiro ligada à relação com Willer Tomaz. A defesa diz que a ligação se limita à \"amizade entre as famílias\".",
+         "A PF tinha pedido as medidas no domingo (25), citando risco de saída do país, segundo o Terra."
+        ]
+       },
+       {
+        "h": "Quais documentos ele usou",
+        "p": [
+         "Segundo a Gazeta do Povo e a CNN Brasil, Flávio entrou na Argentina com o passaporte italiano; ele tem cidadania italiana desde 2023. A CNN Brasil, confirmando informação do Metrópoles, diz que ele entrou nos EUA com o passaporte diplomático que a PF havia cancelado. A mulher e as filhas usaram documentos brasileiros válidos, segundo a imigração argentina."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Flávio Bolsonaro,",
+          "t": "em carta divulgada depois de chegar aos EUA: \"não fugi do Brasil, eu saí pelo Brasil\" e \"Esta luta não terminou no dia 25 de outubro\". Ele também falou em \"fraude eleitoral\", sem apresentar provas, e pediu a anulação da chapa Lula-Alckmin, segundo o Metrópoles."
+         },
+         {
+          "b": "A Polícia Federal:",
+          "t": "\"A existência de restrições relacionadas a documentos de viagem, por si só, não caracteriza a condição de foragido\". A PF diz que investiga \"as circunstâncias do descumprimento das ordens judiciais\"."
+         },
+         {
+          "b": "Guilherme Boulos,",
+          "t": "ministro da Secretaria-Geral da Presidência: \"O assunto Flávio Bolsonaro é um assunto da Justiça e da Polícia Federal\". Ele disse que o senador \"fugiu do país para não responder por seus crimes\"."
+         },
+         {
+          "b": "Donald Trump,",
+          "t": "presidente dos EUA, segundo o Times Brasil: \"Não vou comentar sobre isso. Não vou me envolver\"."
+         },
+         {
+          "b": "O PL",
+          "t": "disse à Jovem Pan que não sabia da carta e não tem relação com a divulgação."
+         }
+        ]
+       },
+       {
+        "h": "As versões da carta",
+        "p": [
+         "Segundo A Crítica, circularam três versões. Na primeira, divulgada pelo blogueiro Paulo Figueiredo, Flávio se apresentava como \"o verdadeiro presidente eleito do Brasil\". Na que ele publicou no X, a expressão foi trocada por \"líder do Brasil\". O Metrópoles diz que é falsa a afirmação da carta de que a prorrogação da votação deu mais de 10 milhões de votos a Lula: o TSE registrou cerca de 34 mil votos depois das 17h."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se Moraes vai decretar a prisão preventiva, pedida por deputados do PT.",
+         "O que acontece com o mandato de senador, que vai até 2027.",
+         "Se Flávio pediu asilo ou visto de longa duração. A Gazeta do Povo cita reportagens americanas sobre concessão de vistos."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Paulo Figueiredo disse que haverá uma entrevista coletiva em Miami nesta quinta (29), segundo a Gazeta do Povo."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Gazeta do Povo: chegada a Miami",
+        "u": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-embarca-para-os-estados-unidos-com-passaporte-europeu/"
+       },
+       {
+        "t": "Gazeta do Povo: o que se sabe",
+        "u": "https://www.gazetadopovo.com.br/republica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil-apos-ordem-de-moraes/"
+       },
+       {
+        "t": "CNN Brasil: rota e passaportes",
+        "u": "https://www.cnnbrasil.com.br/politica/como-flavio-entrou-na-argentina-e-nos-eua-veja-quais-passaportes-ele-usou/"
+       },
+       {
+        "t": "Terra: nota da PF",
+        "u": "https://www.terra.com.br/noticias/eleicoes/pf-diz-que-flavio-bolsonaro-ainda-nao-e-considerado-foragido-apos-chegar-nos-eua,525cca16e0845d59be340aff913ed12bq2aolfsw.html"
+       },
+       {
+        "t": "Metrópoles: a carta",
+        "u": "https://www.metropoles.com/mundo/em-carta-flavio-se-declara-verdadeiro-presidente-eleito-do-brasil"
+       },
+       {
+        "t": "A Crítica: versões da carta",
+        "u": "https://acritica.net/politica/de-presidente-eleito-a-lider-do-brasil-veja-o-que-mudou-na-carta-de-flavio/"
+       },
+       {
+        "t": "Metrópoles: Boulos",
+        "u": "https://www.metropoles.com/brasil/fuga-de-flavio-bolsonaro-e-assunto-da-pf-e-da-justica-diz-boulos"
+       },
+       {
+        "t": "Times Brasil: Trump",
+        "u": "https://timesbrasil.com.br/brasil/trump-diz-que-nao-vai-se-envolver-apos-flavio-bolsonaro-se-declarar-lider-do-brasil/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Ibovespa cai 2,68% e fecha no menor nível desde agosto",
+     "texto": "Na quarta (28), o Ibovespa fechou em 171.006 pontos, queda de 2,68%, puxado por ações de bancos. O dólar terminou perto de R$ 5,34, em leve queda. Nos EUA, o Fed manteve os juros entre 3,75% e 4%.",
+     "pq": "é o terceiro pregão de ajuste depois da eleição. Analistas citam a falta de definição da equipe econômica e das metas fiscais do novo mandato. Ações de bancos caem e encarecem o crédito de grandes investidores; o dólar afeta preços de importados.",
+     "fontes": [
+      {
+       "t": "Times Brasil",
+       "u": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-despenca-268-puxado-por-bancos-dolar-recua-a-r-534-com-juros-nos-eua/"
+      },
+      {
+       "t": "Forbes Brasil, com Reuters",
+       "u": "https://forbes.com.br/forbes-money/2026/10/ibovespa-fecha-em-queda-em-novo-capitulo-de-ajustes-pos-eleicao-dolar-recua/"
+      }
+     ],
+     "contexto": "dolar-bolsa-e-juros",
+     "completa": {
+      "fina": "O Santander caiu 5,88% depois de divulgar lucro menor; a saída de Flávio Bolsonaro do país entrou na lista de incertezas citadas.",
+      "atualizada": "29 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Ibovespa, principal índice da Bolsa brasileira, fechou a quarta-feira (28) em 171.006,10 pontos, queda de 2,68%. Foi o menor fechamento desde agosto, segundo a Forbes Brasil. O índice oscilou entre 170.162 e 175.711 pontos. O dólar à vista terminou em torno de R$ 5,34, praticamente estável.",
+      "blocos": [
+       {
+        "h": "Os números do dia",
+        "li": [
+         {
+          "b": "Ibovespa:",
+          "t": "171.006,10 pontos, queda de 2,68%. Na segunda (26), tinha caído 13,88%, e na terça (27), 0,51%."
+         },
+         {
+          "b": "Dólar à vista:",
+          "t": "R$ 5,3402, queda de 0,19%, segundo o Times Brasil; R$ 5,3466, queda de 0,04%, segundo a Forbes Brasil. As fontes usam horários de referência diferentes. A máxima do dia foi de cerca de R$ 5,40."
+         },
+         {
+          "b": "Bancos:",
+          "t": "BTG Pactual caiu 6,52%, Santander 5,88%, Itaú 3,42% e Banco do Brasil 3,39%, segundo o Times Brasil."
+         },
+         {
+          "b": "Fed:",
+          "t": "o banco central dos EUA manteve os juros entre 3,75% e 4% ao ano, por 10 votos a 2, como o mercado esperava."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem os analistas",
+        "li": [
+         {
+          "b": "Gabriel Felix, da Blue3,",
+          "t": "disse à Reuters, segundo a Forbes Brasil, que o pregão foi \"um terceiro capítulo de um ajuste que começou na segunda-feira\"."
+         },
+         {
+          "b": "Lucas Xavier, da AW Capital,",
+          "t": "disse que \"nenhum cenário positivo em relação à situação fiscal do Brasil foi divulgado até o momento\" e que cortes de juros parecem cada vez mais distantes."
+         }
+        ]
+       },
+       {
+        "h": "O que pesou",
+        "li": [
+         "A espera pela escolha do novo ministro da Fazenda e pelas prioridades fiscais do quarto mandato de Lula. O governo não anunciou o nome.",
+         "A informação, não confirmada pelo governo, de que se estudaria cobrar IOF sobre LCI e LCA, investimentos hoje isentos, segundo o Times Brasil.",
+         "O balanço do Santander Brasil, com queda de 28% no lucro líquido recorrente, segundo a Forbes Brasil.",
+         "A saída de Flávio Bolsonaro do país, que, segundo as duas reportagens, aumentou dúvidas sobre a oposição e sobre a relação com os EUA."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem comanda a Fazenda a partir de 5 de janeiro.",
+         "Quais são as medidas que o ministro Dario Durigan disse na terça ter prontas para buscar o centro da meta fiscal.",
+         "Se o Banco Central vai intervir no câmbio, como disse que pode fazer em caso de \"disfuncionalidades\"."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O Copom decide a Selic, hoje em 13,75%, em 4 de novembro.",
+         "O Boletim Focus da próxima segunda (2) traz as primeiras projeções feitas depois da eleição."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Times Brasil: fechamento de 28 out",
+        "u": "https://timesbrasil.com.br/investimentos/bolsa/ibovespa-despenca-268-puxado-por-bancos-dolar-recua-a-r-534-com-juros-nos-eua/"
+       },
+       {
+        "t": "Forbes Brasil, com Reuters: fechamento de 28 out",
+        "u": "https://forbes.com.br/forbes-money/2026/10/ibovespa-fecha-em-queda-em-novo-capitulo-de-ajustes-pos-eleicao-dolar-recua/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Governo registra 45 casos de violência política e 10 mortes na eleição",
+     "texto": "O governo federal disse na quarta (28) que acompanha a investigação de 45 casos de violência política entre sábado (24) e terça (27), com 10 mortes, três delas de indígenas. A apuração ficará com a Polícia Federal e o Ministério Público Federal.",
+     "pq": "violência contra eleitores e militantes afeta a liberdade de voto e a segurança depois da eleição. Os casos se concentram em São Paulo, Minas Gerais, Mato Grosso do Sul, Paraná e Santa Catarina. O governo não divulgou a lista de vítimas nem a filiação delas.",
+     "fontes": [
+      {
+       "t": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/governo-diz-acompanhar-45-casos-de-violencia-politica-nas-eleicoes-de-2026/"
+      },
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/fuga-de-flavio-bolsonaro-e-assunto-da-pf-e-da-justica-diz-boulos"
+      }
+     ],
+     "contexto": "eleicoes-brasil-2026",
+     "completa": {
+      "fina": "Entre os casos há agressões, disparos, atropelamento e violência policial; o governo vai monitorar a remoção de postagens criminosas pelas redes.",
+      "atualizada": "29 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O ministro da Secretaria-Geral da Presidência, Guilherme Boulos, e o secretário-executivo do Ministério da Justiça, Ademar Borges, apresentaram na quarta-feira (28), em Brasília, o balanço de 45 casos de violência política registrados entre a véspera e os dois dias seguintes ao segundo turno. Dez casos terminaram em morte, segundo a CNN Brasil.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         "45 casos entre sábado (24) e terça (27).",
+         "10 mortes, três de indígenas.",
+         "Crimes investigados: abuso de autoridade, lesão corporal e homicídio.",
+         "Tipos de caso: agressões físicas, ataques com objetos, disparos, atropelamento, abuso de autoridade e violência policial.",
+         "Estados com mais registros: São Paulo, Minas Gerais, Mato Grosso do Sul, Paraná e Santa Catarina."
+        ]
+       },
+       {
+        "h": "As medidas anunciadas",
+        "li": [
+         "Investigações concentradas na Polícia Federal e no Ministério Público Federal.",
+         "Monitoramento das redes sociais, que pelo Marco Civil da Internet devem remover postagens criminosas, segundo o governo.",
+         "Nos casos de violência policial, o governo vai esperar as conclusões das corregedorias das polícias estaduais, mas enviou ofícios dizendo que vai acompanhar.",
+         "Outras ações de prevenção foram citadas, sem detalhes."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Guilherme Boulos",
+          "t": "disse que a violência \"não cabe na democracia\" e que os casos \"não ficarão impunes\", segundo a CNN Brasil."
+         },
+         {
+          "b": "Ademar Borges",
+          "t": "citou também casos de assédio eleitoral no trabalho e de violência digital ligada a intolerância política."
+         },
+         {
+          "b": "A oposição",
+          "t": "não tinha se manifestado sobre o balanço nas reportagens consultadas até a publicação desta edição."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem são as vítimas e os suspeitos, e a que grupos políticos estão ligados. Segundo a CNN Brasil, os casos de abuso policial citados foram contra apoiadores de Lula; o governo não detalhou os demais.",
+         "Quantos casos já têm suspeito identificado ou preso.",
+         "Se os números incluem casos registrados só nas polícias estaduais."
+        ]
+       },
+       {
+        "h": "Outros números do período",
+        "p": [
+         "O Ministério Público do Trabalho recebeu mais de 3 mil denúncias de assédio eleitoral em 2026, segundo o Metrópoles. Assédio eleitoral é quando o empregador pressiona funcionários a votar num candidato ou a não votar.",
+         "O balanço foi apresentado no mesmo dia em que o senador Flávio Bolsonaro, candidato derrotado, chegou a Miami. Na mesma coletiva, Boulos disse que o caso do senador é \"assunto da Justiça e da Polícia Federal\", segundo o Metrópoles."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A PF abre ou assume os inquéritos, e o MPF concentra a apuração.",
+         "O governo disse que vai atualizar os números."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "CNN Brasil: 45 casos de violência política",
+        "u": "https://www.cnnbrasil.com.br/politica/governo-diz-acompanhar-45-casos-de-violencia-politica-nas-eleicoes-de-2026/"
+       },
+       {
+        "t": "Metrópoles: coletiva de Boulos",
+        "u": "https://www.metropoles.com/brasil/fuga-de-flavio-bolsonaro-e-assunto-da-pf-e-da-justica-diz-boulos"
+       },
+       {
+        "t": "Metrópoles: assédio eleitoral",
+        "u": "https://metropoles.com/brasil/mpt-recebeu-mais-de-3-mil-denuncias-de-assedio-eleitoral-em-2026"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Com 90% dos votos contados em Israel, nenhum bloco chega a 61",
+     "texto": "Com cerca de 90% dos votos apurados, o bloco do premiê Benjamin Netanyahu tinha 53 cadeiras e o de Gadi Eisenkot, 48, segundo o Times of Israel. Os partidos árabes somavam 19, o maior número da história. São precisas 61 das 120.",
+     "pq": "o resultado deixa os partidos árabes como peça das negociações e abre três caminhos: aliança com eles, governo de união ou nova eleição. Cerca de 450 mil votos em envelope duplo são contados até a noite desta quinta (29). O resultado oficial sai em 4 de novembro.",
+     "fontes": [
+      {
+       "t": "The Times of Israel",
+       "u": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/"
+      },
+      {
+       "t": "Ynet",
+       "u": "https://www.ynetnews.com/article/hjnatbkaml"
+      }
+     ],
+     "contexto": "eleicao-israel-2026",
+     "completa": {
+      "fina": "Netanyahu pediu que a \"maioria sionista\" se una; Eisenkot disse que \"o público escolheu a mudança\".",
+      "atualizada": "29 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Comissão Central Eleitoral de Israel tinha apurado cerca de 89,8% dos votos na quarta-feira (28), um dia depois da eleição para o Knesset, o Parlamento de 120 cadeiras. Nenhum dos dois blocos chega às 61 cadeiras necessárias para formar governo. Os partidos árabes chegaram a 19 cadeiras, recorde, segundo o Times of Israel; o recorde anterior era 15.",
+      "blocos": [
+       {
+        "h": "A contagem por partido",
+        "li": [
+         {
+          "b": "Bloco de Netanyahu, 53:",
+          "t": "Likud 26, Shas 7, Judaísmo Unido da Torá 7, Otzma Yehudit 7, Sionismo Religioso 6."
+         },
+         {
+          "b": "Bloco de Eisenkot, 48:",
+          "t": "Yashar 21, Juntos 12, Os Democratas 8, Yisrael Beiteinu 7."
+         },
+         {
+          "b": "Partidos árabes, 19:",
+          "t": "Lista Conjunta 12 e Ra'am 7."
+         },
+         {
+          "b": "Fora do Parlamento:",
+          "t": "Reservistas, de Yoaz Hendel, com 2,63%; Povo de Israel, de Ofer Winter, com 1,61%; e o partido Público Haredi, com 0,19%. A cláusula de barreira é de 3,25%."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Benjamin Netanyahu (Likud):",
+          "t": "\"A maioria sionista precisa cair em si e se unir\", segundo o Ynet. Tradução do Contexto."
+         },
+         {
+          "b": "Gadi Eisenkot (Yashar):",
+          "t": "\"O público escolheu a mudança\". Ele pediu que Netanyahu deixe o cargo."
+         },
+         {
+          "b": "Yousef Jabareen, da Lista Conjunta:",
+          "t": "disse que o partido saberá \"usar sua força política\" e está pronto para ajudar a tirar o governo."
+         },
+         {
+          "b": "Yair Golan (Os Democratas):",
+          "t": "disse que \"Netanyahu perdeu\" e defendeu um governo de oposição com apoio árabe."
+         },
+         {
+          "b": "Isaac Herzog, presidente:",
+          "t": "pediu que se evite nova eleição e que as negociações sejam feitas com a mente aberta, segundo o Times of Israel."
+         }
+        ]
+       },
+       {
+        "h": "Por que os partidos árabes pesam",
+        "p": [
+         "A maior parte dos partidos do bloco de Eisenkot descarta governar com o Ra'am ou a Lista Conjunta; Os Democratas são a exceção, segundo o Times of Israel. Sem os árabes, a oposição tem 48 cadeiras. O Likud, segundo o mesmo jornal, pretende dizer que a eleição foi \"roubada\" pelos partidos árabes. Não há indício disso nas reportagens consultadas."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se os votos em envelope duplo, de soldados, diplomatas e presos, entre outros, mudam a divisão. São de 430 mil a 480 mil, segundo o Times of Israel.",
+         "Quem Herzog vai convidar para formar governo.",
+         "Se haverá governo de união. Donald Trump disse que pode defender essa saída, segundo o Times of Israel."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A contagem dos envelopes duplos começou à 1h de quinta (29) e deve terminar à noite.",
+         "O resultado oficial será certificado em 4 de novembro.",
+         "Enquanto não houver governo, Israel segue com o gabinete atual em caráter provisório."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "The Times of Israel: 90% dos votos contados",
+        "u": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/"
+       },
+       {
+        "t": "Ynet: resultado parcial",
+        "u": "https://www.ynetnews.com/article/hjnatbkaml"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Ciclone Arnab atinge a Índia e deixa ao menos três mortos",
+     "texto": "O ciclone Arnab tocou terra na quarta (28) no estado de Andhra Pradesh, no leste da Índia. Ao menos três pessoas morreram, segundo autoridades locais, e mais de 180 mil foram retiradas de casa em Andhra Pradesh e Odisha.",
+     "pq": "mais de 12 milhões de pessoas vivem no caminho previsto da tempestade, segundo a Al Jazeera. O serviço meteorológico indiano classificou o Arnab como ciclone \"muito severo\", a terceira categoria mais alta da sua escala, com ventos de até 135 km/h.",
+     "fontes": [
+      {
+       "t": "Reuters, via KFGO",
+       "u": "https://kfgo.com/2026/10/27/cyclone-arnab-begins-making-landfall-in-indias-andhra-pradesh-state/"
+      },
+      {
+       "t": "Al Jazeera",
+       "u": "https://aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears"
+      }
+     ],
+     "completa": {
+      "fina": "Ao menos 180 casas foram destruídas, e trens e linhas costeiras foram suspensos no leste do país.",
+      "atualizada": "29 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O ciclone Arnab atingiu a costa de Andhra Pradesh, no leste da Índia, na manhã de quarta-feira (28) e seguiu para o interior. Ao menos três pessoas morreram no estado, segundo o gabinete do ministro-chefe de Andhra Pradesh, citado pela Reuters. Duas mortes foram causadas por queda de árvore e eletrocussão.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Mortes:",
+          "t": "ao menos três em Andhra Pradesh, segundo autoridades estaduais."
+         },
+         {
+          "b": "Retirados:",
+          "t": "mais de 180 mil pessoas em Andhra Pradesh e Odisha, segundo a Reuters."
+         },
+         {
+          "b": "Danos:",
+          "t": "ao menos 180 casas destruídas e 220 árvores derrubadas, segundo o ministro-chefe do estado, N. Chandrababu Naidu. Houve cortes de energia em várias áreas."
+         },
+         {
+          "b": "Vento:",
+          "t": "previsão de ventos sustentados de 125 a 135 km/h, com rajadas de até 150 km/h, segundo o Departamento de Meteorologia da Índia. A Al Jazeera, na véspera, citava previsão de 115 a 125 km/h."
+         },
+         {
+          "b": "Maré:",
+          "t": "previsão de elevação de 1 a 1,5 metro acima da maré normal em áreas baixas."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem as autoridades",
+        "li": [
+         {
+          "b": "Narendra Singh Bundela,",
+          "t": "da Força Nacional de Resposta a Desastres, disse que Andhra Pradesh foi o estado mais afetado e Odisha, menos."
+         },
+         {
+          "b": "N. Chandrababu Naidu,",
+          "t": "ministro-chefe de Andhra Pradesh, enviou o balanço de danos ao ministro do Interior, Amit Shah."
+         },
+         {
+          "b": "Prakhar Jain,",
+          "t": "diretor da autoridade de desastres de Andhra Pradesh, disse na véspera que \"a retirada continua\", segundo a Al Jazeera."
+         }
+        ]
+       },
+       {
+        "h": "Transporte e efeitos fora da Índia",
+        "li": [
+         "Ao menos 12 trens foram cancelados no leste da Índia, e serviços em 53 linhas costeiras do sul foram suspensos na terça e na quarta, segundo a Al Jazeera.",
+         "O Nepal suspendeu por três dias as autorizações de trilha em áreas de alta montanha, por risco de chuva forte, nevascas e avalanches, segundo a Reuters."
+        ]
+       },
+       {
+        "h": "Por que a região é exposta",
+        "p": [
+         "A costa leste da Índia, no golfo de Bengala, é atingida com frequência por ciclones entre outubro e dezembro. Andhra Pradesh e Odisha têm planos de retirada em massa, e as autoridades começaram a levar moradores para abrigos dias antes, segundo a Al Jazeera: cerca de 50 mil pessoas já estavam em abrigos em Andhra Pradesh na noite de segunda (26), de um total estimado de 400 mil que precisariam sair."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O número final de mortos e feridos.",
+         "O tamanho do prejuízo nas lavouras, que, segundo as reportagens, foram atingidas.",
+         "Quantas pessoas continuam em abrigos."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O ciclone perde força ao avançar pelo interior.",
+         "O governo estadual pediu apoio ao governo federal com base no balanço de danos."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Reuters, via KFGO: Arnab toca terra",
+        "u": "https://kfgo.com/2026/10/27/cyclone-arnab-begins-making-landfall-in-indias-andhra-pradesh-state/"
+       },
+       {
+        "t": "Al Jazeera: retirada antes do ciclone",
+        "u": "https://aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears"
+       },
+       {
+        "t": "Morning Star: resumo mundial de 28 out",
+        "u": "https://morningstaronline.co.uk/article/world-brief-october-28-2026"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Lista Estudantil vence eleição na Sérvia, e Vučić reconhece derrota",
+     "texto": "A Lista Estudantil teve 52,54% dos votos na eleição parlamentar sérvia de domingo (25), contra 39,29% do partido de Aleksandar Vučić, com mais de 96% das seções apuradas. A projeção é de 140 das 250 cadeiras. Vučić reconheceu a derrota.",
+     "pq": "o Partido Progressista Sérvio, de Vučić, domina o país desde 2014. O movimento nasceu dos protestos contra corrupção depois que a cobertura de uma estação de trem desabou em Novi Sad, em 2024, matando 16 pessoas. A edição não tinha tratado do resultado.",
+     "fontes": [
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"
+      },
+      {
+       "t": "Euronews",
+       "u": "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"
+      }
+     ],
+     "completa": {
+      "fina": "O comparecimento foi de 68,78%, o maior em mais de 30 anos; o país também terá eleição presidencial até 27 de dezembro.",
+      "atualizada": "29 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Lista Estudantil, movimento nascido dos protestos de estudantes na Sérvia, venceu a eleição parlamentar antecipada de domingo (25). Com 8.077 de 8.392 seções processadas, tinha 52,54% dos votos, segundo a Comissão Eleitoral da República, citada pela Al Jazeera. A lista Sérvia Unida, do Partido Progressista Sérvio (SNS), de Aleksandar Vučić, tinha 39,29%.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Cadeiras projetadas, de 250:",
+          "t": "Lista Estudantil 140, Sérvia Unida 103, Aliança dos Húngaros da Voivodina 3, bloco albanês 2, e duas listas com 1 cadeira cada. A maioria é de 126."
+         },
+         {
+          "b": "Comparecimento:",
+          "t": "68,78%, o mais alto em mais de 30 anos, segundo a Al Jazeera."
+         },
+         {
+          "b": "Resultado final:",
+          "t": "ainda não divulgado."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Aleksandar Vučić:",
+          "t": "\"Com base na amostra estratificada, está claro que perdemos a eleição\", segundo a Euronews. Tradução do Contexto. Ele previu de 135 a 140 cadeiras para a Lista Estudantil."
+         },
+         {
+          "b": "Ilija Srdanović,",
+          "t": "cardiologista e professor da Universidade de Novi Sad, que liderou a campanha, pediu aos apoiadores que evitem violência, segundo o New York Times citado pelo Just Security."
+         }
+        ]
+       },
+       {
+        "h": "Como se chegou aqui",
+        "li": [
+         "Vučić domina a política sérvia desde 2014, primeiro como primeiro-ministro e depois como presidente.",
+         "Os protestos começaram depois do desabamento da cobertura da estação de Novi Sad, em 2024, que matou 16 pessoas, e se ampliaram para denúncias de corrupção e de controle das instituições, segundo a Al Jazeera.",
+         "Vučić renunciou à Presidência em 27 de setembro, depois de convocar a eleição antecipada. A presidente da Assembleia Nacional, Ana Brnabić, ocupa o cargo interinamente."
+        ]
+       },
+       {
+        "h": "Depois da votação",
+        "p": [
+         "Na terça (27), apoiadores da Lista Estudantil pressionaram veículos de imprensa estatais que apoiavam Vučić. Um apresentador da TV estatal pediu desculpas no ar, e a redação de um tabloide pró-governo foi invadida por manifestantes, segundo o New York Times, citado pelo Just Security."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem será o primeiro-ministro. A Lista Estudantil não indicou nome; Srdanović é visto como o mais provável, segundo a Al Jazeera.",
+         "Quem ocupará os ministérios do Interior, das Finanças e da Justiça.",
+         "Como o novo governo vai tratar a adesão à União Europeia."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A nova Assembleia deve ser instalada até 30 dias após o resultado final, e o governo formado em até 90 dias depois disso.",
+         "Uma eleição presidencial extraordinária precisa ocorrer até 27 de dezembro. O cargo é em grande parte cerimonial."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: a Sérvia depois de Vučić",
+        "u": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"
+       },
+       {
+        "t": "Euronews: Vučić reconhece a derrota",
+        "u": "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"
+       },
+       {
+        "t": "Just Security: resumo de 28 out",
+        "u": "https://www.justsecurity.org/162228/early-edition-october-28-2026/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Apple lança o primeiro MacBook Pro com tela sensível ao toque",
+     "texto": "A Apple lançou na quarta (28) um MacBook Pro com tela OLED sensível ao toque, a partir de US$ 2.899 nos EUA. A pré-venda começou no mesmo dia, e as entregas, em 6 de novembro. Na véspera, saíram MacBook Pro e iMac com chip M6.",
+     "pq": "até agora, a Apple deixava o toque na tela para iPhone e iPad. Segundo a Mixed, o sistema traduz toques em cliques, e programas como Microsoft Office e Adobe Lightroom terão versões adaptadas até o fim do ano. Preço e data no Brasil não foram informados.",
+     "fontes": [
+      {
+       "t": "TechCrunch",
+       "u": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+      },
+      {
+       "t": "Mixed",
+       "u": "https://mixed-news.com/en/apple-touchscreen-macbook-pro-oled-dynamic-island-price/"
+      }
+     ],
+     "completa": {
+      "fina": "O modelo de 16 polegadas parte de US$ 3.399; a tela tem um recorte no estilo Dynamic Island, como no iPhone.",
+      "atualizada": "29 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Apple lançou na quarta-feira (28), num evento chamado Pro and Tell, um MacBook Pro com tela OLED sensível ao toque, em dois tamanhos. O modelo de 14 polegadas parte de US$ 2.899 e o de 16 polegadas, de US$ 3.399, segundo o TechCrunch. A pré-venda começou no mesmo dia, e as primeiras entregas estão marcadas para 6 de novembro, segundo a Mixed.",
+      "blocos": [
+       {
+        "h": "Os detalhes",
+        "li": [
+         {
+          "b": "Tela:",
+          "t": "OLED em tandem, que a Apple chama de PROLED XDR, com 14,2 ou 16,3 polegadas, taxa de atualização de 10 Hz a 120 Hz e brilho de até 2.000 nits em HDR."
+         },
+         {
+          "b": "Toque:",
+          "t": "o macOS traduz toques em cliques, então muitos programas funcionam sem mudança. Dá para rolar, dar zoom com dois dedos e mover objetos na tela. Uma dobradiça estabiliza a tela durante o toque, segundo o TechCrunch."
+         },
+         {
+          "b": "Chips:",
+          "t": "M5 Pro ou M5 Max, com até 128 GB de memória e 16 TB de armazenamento."
+         },
+         {
+          "b": "Preços nos EUA:",
+          "t": "de US$ 2.899 (14 polegadas, M5 Pro) a US$ 4.799 (16 polegadas, M5 Max), na configuração de entrada de cada modelo."
+         },
+         {
+          "b": "Outros:",
+          "t": "recorte na tela no estilo Dynamic Island, que mostra notificações e controles de música; três portas Thunderbolt 5, HDMI, leitor de cartão e Wi-Fi 7."
+         }
+        ]
+       },
+       {
+        "h": "Os lançamentos da semana",
+        "li": [
+         "Segunda (26): novo iPad mini com tela OLED de 8,5 polegadas.",
+         "Terça (27): MacBook Pro de 14 polegadas e iMac com o chip M6, a partir de US$ 1.999 e US$ 1.499. A Apple diz que o M6 tem gráficos até 30% mais rápidos que o M5, segundo o TechCrunch. Esses modelos não têm tela sensível ao toque.",
+         "Quarta (28): MacBook Pro com tela sensível ao toque."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "A Apple",
+          "t": "diz que o toque funciona com programas existentes e que Microsoft Office, Adobe Lightroom e DaVinci Resolve terão atualizações para toque ainda este ano, segundo a Mixed."
+         },
+         {
+          "b": "O TechCrunch",
+          "t": "lembra que a Apple já tinha posto uma faixa sensível ao toque no MacBook Pro há cerca de dez anos, a Touch Bar, e depois a retirou."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Preço e data de lançamento no Brasil.",
+         "Como a tela se sai em testes independentes de bateria e durabilidade. Os números de desempenho são da própria Apple.",
+         "Quanto os novos modelos vão vender. Segundo o TechCrunch, é um dos dois principais lançamentos do novo presidente-executivo da empresa, depois do iPhone dobrável."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Entregas e venda nas lojas a partir de 6 de novembro, nos países do primeiro lote."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "TechCrunch: MacBook Pro com tela sensível ao toque",
+        "u": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/"
+       },
+       {
+        "t": "Mixed: preços, datas e tela",
+        "u": "https://mixed-news.com/en/apple-touchscreen-macbook-pro-oled-dynamic-island-price/"
+       },
+       {
+        "t": "TechCrunch: MacBook Pro e iMac com M6",
+        "u": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Gases de efeito estufa batem recorde em 2025, diz agência da ONU",
+     "texto": "A concentração média de gás carbônico na atmosfera chegou a 426,8 partes por milhão em 2025, 153% do nível de 1750, segundo boletim da Organização Meteorológica Mundial divulgado nesta semana. O metano e o óxido nitroso também bateram recorde.",
+     "pq": "esses gases retêm calor e ficam décadas na atmosfera, o que prolonga o aquecimento e os eventos extremos. O boletim serve de base para a COP31, a conferência do clima da ONU em Antalya, na Turquia, de 9 a 20 de novembro. A agência prevê nova alta em 2026.",
+     "fontes": [
+      {
+       "t": "Organização Meteorológica Mundial",
+       "u": "https://wmo.int/node/39151"
+      },
+      {
+       "t": "WAM",
+       "u": "https://www.wam.ae/en/article/c2ycqwx-greenhouse-gas-levels-once-again-reach-record-high"
+      }
+     ],
+     "completa": {
+      "fina": "O gás carbônico subiu 2,8 partes por milhão em um ano, acima da média da década, mas um pouco abaixo da alta de 2023 para 2024.",
+      "atualizada": "29 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Organização Meteorológica Mundial, agência da ONU, publicou o 22º Boletim de Gases de Efeito Estufa. Ele mostra que as concentrações dos três principais gases que retêm calor na atmosfera, gás carbônico, metano e óxido nitroso, chegaram aos níveis mais altos já registrados em 2025.",
+      "blocos": [
+       {
+        "h": "Os números de 2025",
+        "li": [
+         {
+          "b": "Gás carbônico (CO2):",
+          "t": "426,8 partes por milhão, 153% do nível pré-industrial, de 1750. Alta de 2,8 ppm em relação a 2024."
+         },
+         {
+          "b": "Metano:",
+          "t": "1.948 partes por bilhão, 267% do nível de 1750. Responde por cerca de 16% do aquecimento causado pelos gases de longa duração."
+         },
+         {
+          "b": "Óxido nitroso:",
+          "t": "339,1 partes por bilhão."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Ko Barrett,",
+          "t": "vice-secretária-geral da OMM: \"Os gases de efeito estufa estão retendo uma quantidade sem precedentes de calor na atmosfera\". Tradução do Contexto."
+         },
+         {
+          "b": "Oksana Tarasova,",
+          "t": "cientista da OMM: \"Podemos esperar um novo aumento das concentrações em 2026\"."
+         }
+        ]
+       },
+       {
+        "h": "Por que isso importa",
+        "p": [
+         "O gás carbônico fica na atmosfera por décadas ou séculos, por isso o nível de hoje já garante aquecimento no futuro, segundo a OMM. O boletim mede a concentração no ar, que é diferente das emissões de cada ano: mesmo que as emissões caíssem, a concentração continuaria a subir enquanto o planeta emitir mais do que a natureza absorve. A agência também aponta a alta do hexafluoreto de enxofre, gás usado em equipamentos elétricos, e o vazamento de hidrogênio como riscos para a transição energética."
+        ]
+       },
+       {
+        "h": "Como se mede",
+        "p": [
+         "O boletim reúne medições de uma rede de estações em vários países, coordenada pela OMM, que acompanha a composição do ar há décadas. A unidade partes por milhão indica quantas moléculas do gás existem em cada milhão de moléculas de ar. Em 1750, antes da Revolução Industrial, o gás carbônico estava perto de 278 ppm, segundo a série histórica usada pela agência; o aumento vem principalmente da queima de combustíveis fósseis e do desmatamento."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quanto o El Niño previsto vai acelerar a alta em 2026. A Reuters, citada pelo Just Security, diz que a agência espera nova subida por causa do fenômeno.",
+         "Que compromissos os países vão levar à COP31."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A COP31 acontece em Antalya, na Turquia, de 9 a 20 de novembro.",
+         "O Brasil sediou a COP30, em Belém, em 2025."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "OMM: boletim de gases de efeito estufa",
+        "u": "https://wmo.int/node/39151"
+       },
+       {
+        "t": "WAM: resumo do boletim",
+        "u": "https://www.wam.ae/en/article/c2ycqwx-greenhouse-gas-levels-once-again-reach-record-high"
+       },
+       {
+        "t": "Just Security, com Reuters: resumo de 28 out",
+        "u": "https://www.justsecurity.org/162228/early-edition-october-28-2026/"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "19 cadeiras",
+  "texto": "é quanto os partidos árabes somavam com 90% dos votos contados em Israel, o maior número da história; o recorde anterior era 15.",
+  "fontes": [
+   {
+    "t": "The Times of Israel",
+    "u": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/"
+   },
+   {
+    "t": "Ynet",
+    "u": "https://www.ynetnews.com/article/hjnatbkaml"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "Na configuração máxima, o novo MacBook Pro com tela sensível ao toque custa US$ 14.549, segundo o MacRumors. A redação, que é uma IA, não tem dedos nem cartão de crédito, e segue lendo as notícias em texto.",
+  "fontes": [
+   {
+    "t": "MacRumors",
+    "u": "https://www.macrumors.com/2026/10/28/new-macbook-pro-maxed-out-cost/"
+   },
+   {
+    "t": "Mixed",
+    "u": "https://mixed-news.com/en/apple-touchscreen-macbook-pro-oled-dynamic-island-price/"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela aprovação de uma pessoa, o editor responsável, antes do envio.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "após 1 rodada de ajuste",
+  "resumo": "A edição passa no teste do espelho. Na nota sobre Flávio, ele, a PF, o governo e Trump falam na própria voz, e a palavra \"fuga\" só aparece entre aspas, atribuída ao ministro. Em Israel e na Sérvia, cada lado tem sua fala.",
+  "pontos": [
+   "Brasil 1: o título usa \"deixa o Brasil\", e não \"foge\"; \"fugiu\" aparece só entre aspas, na fala de Boulos, ao lado da frase de Flávio \"não fugi do Brasil\" e da nota da PF.",
+   "Brasil 1: a acusação de \"fraude\" é atribuída a Flávio, com a informação de que não apresentou provas; a checagem do Metrópoles sobre os 10 milhões de votos foi incluída.",
+   "Brasil 2: as fontes divergem no fechamento do dólar (R$ 5,3402 e R$ 5,3466); a nota diz \"perto de R$ 5,34\" e a Notícia completa mostra os dois.",
+   "Brasil 2: uma reportagem dizia que o Bradesco caiu 6,68% e outra que subiu; o dado foi retirado.",
+   "Brasil 3: o governo não informou a filiação das vítimas; a nota diz isso, e a Notícia completa registra que a oposição não tinha comentado.",
+   "Mundo 1: a afirmação do Likud de que a eleição foi \"roubada\" aparece atribuída e com a ressalva de que não há indício nas reportagens.",
+   "Mundo 2: nota sobre mortes, sem menção leve à IA.",
+   "Mundo 3: o resultado é de domingo (25) e não estava em edições anteriores; a nota avisa isso.",
+   "Inovação 1: os números de desempenho são atribuídos à Apple."
+  ],
+  "equilibrio": "Governo federal: duas menções neutras (balanço de violência e fala de Boulos, atribuída). Oposição: uma nota com a fala de Flávio e a posição do PL. Nenhum adjetivo de valor fora de aspas.",
+  "foraDaEdicao": [
+   "Fala do diretor da AIEA, Rafael Grossi, sobre as instalações nucleares do Irã: só uma fonte aberta a tempo.",
+   "Votação da ONU sobre o embargo a Cuba: o resultado não tinha saído no fechamento.",
+   "Emboscada na Somália e ataque a navio no Mar Negro: só uma fonte aberta a tempo.",
+   "Mundo 2 e Mundo 3 e as duas notas de Inovação saíram sem página de Contexto; Brasil 3 usa o Contexto das eleições."
+  ]
+ }
+}

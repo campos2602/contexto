@@ -1,6 +1,6 @@
 {
  "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
- "atualizado": "28 out 2026",
+ "atualizado": "29 out 2026",
  "selo": "Checado",
  "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
  "linha": [
@@ -19,6 +19,10 @@
   {
    "d": "25 de outubro de 2026",
    "t": "O ministro Cristiano Zanin prorroga a votação até as 19h após relatos de falta de ônibus. Flávio diz que vai pedir a anulação do segundo turno."
+  },
+  {
+   "d": "26 a 28 de outubro de 2026",
+   "t": "Moraes manda Flávio entregar os passaportes; ele deixa o país pela Argentina e chega a Miami. O governo registra 45 casos de violência política e 10 mortes."
   },
   {
    "d": "5 e 6 de janeiro de 2027",
@@ -79,6 +83,14 @@
   {
    "b": "Governadores eleitos no 2º turno",
    "t": "Celina Leão (PP-DF), Omar Aziz (PSD-AM), Mailza Assis (PP-AC), Vicentinho Júnior (PSDB-TO), Lorenzo Pazolini (Republicanos-ES) e Cadu de Lula (PT-RN)."
+  },
+  {
+   "b": "Alexandre de Moraes",
+   "t": "ministro do STF, relator do inquérito sobre suspeita de lavagem de dinheiro em que Flávio é investigado."
+  },
+  {
+   "b": "Guilherme Boulos",
+   "t": "ministro da Secretaria-Geral da Presidência."
   }
  ],
  "disputa": [
@@ -91,6 +103,10 @@
    "t": "reconheceu o resultado em nota de Valdemar Costa Neto, mas disse que os questionamentos \"precisam ser devidamente esclarecidos\"."
   },
   {
+   "b": "O governo",
+   "t": "diz, pela voz de Boulos, que o caso de Flávio é \"assunto da Justiça e da Polícia Federal\"; a PF diz que ele não é considerado foragido."
+  },
+  {
    "b": "O TSE",
    "t": "chamou de falsa a afirmação de Flávio de que fiscais do PL foram retirados da sala-cofre."
   },
@@ -100,8 +116,9 @@
   }
  ],
  "observar": [
+  "Se Flávio volta ao Brasil e o que Moraes decide sobre o descumprimento da ordem.",
   "Se o pedido de cassação anunciado por Flávio chega ao TSE até a diplomação, em dezembro.",
-  "A composição do novo Congresso, que toma posse em 1º de fevereiro de 2027.",
+  "O andamento das investigações de violência política.",
   "As posses em 5 e 6 de janeiro de 2027."
  ],
  "fontes": [
@@ -132,6 +149,18 @@
   {
    "t": "Deutsche Welle, via Terra: Flávio muda de rota",
    "u": "https://www.terra.com.br/noticias/flavio-altera-rota-para-buscar-reversao-da-derrota,0ef294f61d85f09d8ecc017cd245b2car4swreci.html"
+  },
+  {
+   "t": "Gazeta do Povo: o que se sabe sobre a saída de Flávio",
+   "u": "https://www.gazetadopovo.com.br/republica/o-que-se-sabe-sobre-a-saida-de-flavio-bolsonaro-do-brasil-apos-ordem-de-moraes/"
+  },
+  {
+   "t": "CNN Brasil: rota e passaportes",
+   "u": "https://www.cnnbrasil.com.br/politica/como-flavio-entrou-na-argentina-e-nos-eua-veja-quais-passaportes-ele-usou/"
+  },
+  {
+   "t": "CNN Brasil: violência política",
+   "u": "https://www.cnnbrasil.com.br/politica/governo-diz-acompanhar-45-casos-de-violencia-politica-nas-eleicoes-de-2026/"
   }
  ]
 }
