@@ -43,11 +43,13 @@ select { font: inherit; font-size: 16px; padding: 8px; border-radius: 8px; borde
     var t = e.target.previousElementSibling.textContent;
     navigator.clipboard.writeText(t).then(function () { e.target.textContent = "Copiado"; setTimeout(function () { e.target.textContent = "Copiar"; }, 1500); });
   });
+  var VIDEO = "https://github.com/campos2602/contexto/releases/download/kit-redes/reels.mp4", ULTIMO = null;
   function mostrar(k) {
-    var imgs = k.arquivos.filter(function (a) { return /\.png$/.test(a); });
+    var imgs = k.arquivos.filter(function (a) { return /\.(png|jpg)$/.test(a); });
     Promise.all([texto(k.id + "/legenda.txt"), texto(k.id + "/whatsapp.txt")]).then(function (t) {
       document.getElementById("kit").innerHTML = '<section class="kit"><h2>Carrossel e story</h2><div class="grade">' +
         imgs.map(function (a) { return '<a href="' + k.id + "/" + a + '" target="_blank"><img src="' + k.id + "/" + a + '" alt="' + esc(a) + '" loading="lazy"></a>'; }).join("") + "</div>" +
+        (k === ULTIMO ? '<h2>Vídeo para Reels, TikTok e Shorts</h2><p>Sem som: escolha a música na biblioteca da rede na hora de postar. Use a mesma legenda.</p><a href="' + VIDEO + '"><button type="button">Baixar o vídeo do dia</button></a>' : "") +
         bloco("Legenda do Instagram e LinkedIn", t[0]) + bloco("Em 30 segundos, para o WhatsApp", t[1]) + "</section>";
     });
   }
@@ -55,6 +57,7 @@ select { font: inherit; font-size: 16px; padding: 8px; border-radius: 8px; borde
     var sel = document.getElementById("dia");
     sel.innerHTML = kits.map(function (k, i) { return '<option value="' + i + '">' + esc(k.id) + "</option>"; }).join("");
     sel.addEventListener("change", function () { mostrar(kits[+sel.value]); });
+    ULTIMO = kits[0] || null;
     if (kits[0]) mostrar(kits[0]);
   });
   var L = ["post-1-o-que-e", "post-2-como-fazemos", "post-3-escrito-por-ia"];

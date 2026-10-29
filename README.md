@@ -22,6 +22,6 @@ O app acima é o do editor: mostra o status de aprovação e o parecer da Ouvido
 - `feed.xml` e `sitemap.xml`, para leitores de RSS e para o Google.
 - Cada nota tem botão de compartilhar (WhatsApp ou o menu do celular) e "Achei tendencioso", que cai nos comentários da redação marcado como `[leitor]`.
 
-`ferramentas/instagram.js` gera em `social/<id>/` o carrossel do Instagram (1080x1350), o story do Número do dia, a legenda e o texto do WhatsApp. A página `social/` mostra o kit do dia para salvar e postar. `node ferramentas/instagram.js lancamento` gera os 3 posts fixos de abertura do perfil.
+`ferramentas/instagram.js` gera em `social/<id>/` o carrossel do Instagram (1080x1350), o story do Número do dia, um vídeo vertical para Reels, TikTok e Shorts, a legenda e o texto do WhatsApp. O vídeo não fica no repositório: o workflow publica o do dia na versão `kit-redes` da página Releases. A página `social/` mostra o kit do dia para salvar e postar. `node ferramentas/instagram.js lancamento` gera os 3 posts fixos de abertura do perfil.
 
 O workflow `.github/workflows/site.yml` roda os dois scripts a cada edição gravada na main e grava o resultado de volta. O endereço do site fica em `ferramentas/site.json`; quando houver domínio próprio, é só trocar ali.

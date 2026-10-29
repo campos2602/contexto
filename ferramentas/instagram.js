@@ -4,6 +4,7 @@
 const fs = require("fs");
 const path = require("path");
 const { chromium } = require("playwright");
+const { execFileSync } = require("child_process");
 
 const RAIZ = path.join(__dirname, "..");
 const SITE = JSON.parse(fs.readFileSync(path.join(__dirname, "site.json"), "utf8")).site.replace(/\/$/, "");
@@ -111,7 +112,7 @@ async function foto(browser, html, h, arquivo) {
     let fs = 38;
     while (card.scrollHeight > card.clientHeight && fs > 26) { fs -= 1; corpo.style.setProperty("--fs", fs + "px"); }
   });
-  await p.screenshot({ path: arquivo, type: "png" });
+  await p.screenshot(arquivo.endsWith(".jpg") ? { path: arquivo, type: "jpeg", quality: 90 } : { path: arquivo, type: "png" });
   await p.close();
 }
 
@@ -137,6 +138,20 @@ const LANCAMENTO = [
     <div class="rodape"><span>Assine grátis: link na bio</span><span></span></div></div>`,
     legenda: "Sim, o Contexto é escrito por inteligência artificial. E a gente prefere dizer isso logo.\n\nO que a IA faz: lê as fontes, escreve as notas e explica o contexto.\nO que garante a qualidade: duas fontes independentes por notícia, uma Ouvidoria de neutralidade e a aprovação de uma pessoa antes de cada envio.\n\nErrou? Corrigimos em público.\n\n📩 Newsletter grátis no link da bio." },
 ];
+
+// Vídeo vertical (1080x1920) para Reels, TikTok e Shorts: os cartões do carrossel em sequência, sem som,
+// para a música ser escolhida na biblioteca da rede. Sem ffmpeg, o kit sai só com as imagens.
+function video(dir, n) {
+  const DUR = (i) => (i === 0 ? 4 : i === n - 1 ? 3.5 : i === n - 2 ? 4 : 6.5), T = 0.4;
+  const args = ["-y", "-loglevel", "error"];
+  for (let i = 0; i < n; i++) args.push("-loop", "1", "-t", String(DUR(i)), "-i", path.join(dir, `carrossel-${String(i + 1).padStart(2, "0")}.png`));
+  const f = [];
+  for (let i = 0; i < n; i++) f.push(`[${i}:v]scale=1080:1350,pad=1080:1920:0:285:color=0x121821,setsar=1,fps=30,format=yuv420p[v${i}]`);
+  let ant = "v0", t = 0;
+  for (let i = 1; i < n; i++) { t += DUR(i - 1) - T; f.push(`[${ant}][v${i}]xfade=transition=fade:duration=${T}:offset=${t.toFixed(2)}[x${i}]`); ant = `x${i}`; }
+  args.push("-filter_complex", f.join(";"), "-map", `[${ant}]`, "-c:v", "libx264", "-preset", "veryfast", "-crf", "23", "-movflags", "+faststart", path.join(dir, "reels.mp4"));
+  try { execFileSync("ffmpeg", args, { stdio: "inherit" }); } catch (e) { console.log("Vídeo não gerado (ffmpeg indisponível ou com erro)."); }
+}
 
 (async () => {
   if (process.argv[2] === "lancamento") {
@@ -166,6 +181,7 @@ const LANCAMENTO = [
   const st = story(ed);
   if (st) await foto(browser, st, 1920, path.join(dir, "story-numero.png"));
   await browser.close();
+  video(dir, cs.length);
   fs.writeFileSync(path.join(dir, "legenda.txt"), legenda(ed));
   fs.writeFileSync(path.join(dir, "whatsapp.txt"), whatsapp(ed));
 

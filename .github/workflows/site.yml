@@ -45,3 +45,12 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
+      - name: Publicar o vídeo do dia na página de versões
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          v=$(ls -d social/2*/ | sort | tail -1)reels.mp4
+          [ -f "$v" ] || exit 0
+          gh release view kit-redes >/dev/null 2>&1 || gh release create kit-redes --title "Kit de redes: vídeo do dia" --notes "Vídeo vertical da edição mais recente, para Reels, TikTok e Shorts. Substituído a cada edição."
+          gh release upload kit-redes "$v" --clobber
