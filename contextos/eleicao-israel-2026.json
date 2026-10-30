@@ -1,6 +1,6 @@
 {
  "titulo": "Eleição em Israel: como se forma um governo",
- "atualizado": "29 out 2026",
+ "atualizado": "30 out 2026",
  "selo": "Checado",
  "frase": "Israel escolhe 120 deputados por lista nacional, e nenhum partido costuma ter maioria sozinho. Governa quem consegue reunir 61 cadeiras numa coalizão.",
  "linha": [
@@ -31,6 +31,10 @@
   {
    "d": "28 de outubro de 2026",
    "t": "Com cerca de 90% dos votos contados: bloco de Netanyahu 53, de Eisenkot 48, partidos árabes 19, recorde."
+  },
+  {
+   "d": "29 de outubro de 2026",
+   "t": "Fim da contagem: Netanyahu 53, Eisenkot 48, partidos árabes 19. Comparecimento de 77,9%."
   }
  ],
  "termos": [
@@ -88,10 +92,10 @@
   }
  ],
  "observar": [
-  "A contagem dos envelopes duplos, até a noite de 29 de outubro.",
-  "A certificação oficial em 4 de novembro.",
-  "Quem o presidente Isaac Herzog convida para formar governo.",
-  "Se há governo de união, aliança com partidos árabes ou nova eleição."
+  "A entrega do resultado oficial a Herzog em 4 de novembro.",
+  "A posse do novo Parlamento em 10 de novembro.",
+  "Quem Herzog convida para formar governo.",
+  "Se há governo de união, governo com apoio árabe ou nova eleição."
  ],
  "fontes": [
   {
@@ -125,6 +129,14 @@
   {
    "t": "Ynet: resultado parcial",
    "u": "https://www.ynetnews.com/article/hjnatbkaml"
+  },
+  {
+   "t": "The Times of Israel: todos os votos contados",
+   "u": "https://www.timesofisrael.com/with-all-votes-counted-netanyahus-bloc-at-53-seats-eisenkots-48-arab-parties-19/"
+  },
+  {
+   "t": "Israel Hayom: resultados",
+   "u": "https://www.israelhayom.com/2026/10/29/israels-2026-election-results-released/"
   }
  ]
 }

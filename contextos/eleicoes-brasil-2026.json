@@ -1,6 +1,6 @@
 {
  "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
- "atualizado": "29 out 2026",
+ "atualizado": "30 out 2026",
  "selo": "Checado",
  "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
  "linha": [
@@ -21,8 +21,8 @@
    "t": "O ministro Cristiano Zanin prorroga a votação até as 19h após relatos de falta de ônibus. Flávio diz que vai pedir a anulação do segundo turno."
   },
   {
-   "d": "26 a 28 de outubro de 2026",
-   "t": "Moraes manda Flávio entregar os passaportes; ele deixa o país pela Argentina e chega a Miami. O governo registra 45 casos de violência política e 10 mortes."
+   "d": "26 a 29 de outubro de 2026",
+   "t": "Moraes manda Flávio entregar os passaportes; ele deixa o país e chega a Miami. Trump diz que a eleição foi \"uma vergonha\". O governo registra 45 casos de violência política."
   },
   {
    "d": "5 e 6 de janeiro de 2027",
@@ -113,10 +113,14 @@
   {
    "b": "Lula",
    "t": "disse que vai \"mudar o jeito de governar este país\"."
+  },
+  {
+   "b": "Donald Trump",
+   "t": "disse que a eleição brasileira foi \"uma vergonha\" e \"muito estranha\", sem apresentar provas, e que não vai \"se envolver\"."
   }
  ],
  "observar": [
-  "Se Flávio volta ao Brasil e o que Moraes decide sobre o descumprimento da ordem.",
+  "Se Moraes decide sobre o pedido de prisão de Flávio e se ele pede licença do Senado.",
   "Se o pedido de cassação anunciado por Flávio chega ao TSE até a diplomação, em dezembro.",
   "O andamento das investigações de violência política.",
   "As posses em 5 e 6 de janeiro de 2027."
@@ -161,6 +165,14 @@
   {
    "t": "CNN Brasil: violência política",
    "u": "https://www.cnnbrasil.com.br/politica/governo-diz-acompanhar-45-casos-de-violencia-politica-nas-eleicoes-de-2026/"
+  },
+  {
+   "t": "Estado de Minas: Casa Branca e coletiva cancelada",
+   "u": "https://www.em.com.br/politica/2026/10/7530105-o-recado-duro-da-casa-branca-para-flavio-bolsonaro.html"
+  },
+  {
+   "t": "O Povo, com DW: falas de Trump",
+   "u": "https://www.opovo.com.br/noticias/brasil/2026/10/30/apos-carta-golpista-de-flavio-trump-volta-a-questionar-pleito-no-brasil.html"
   }
  ]
 }
