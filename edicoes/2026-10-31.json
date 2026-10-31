@@ -1,0 +1,759 @@
+{
+ "data": "2026-10-31",
+ "dia": "Sábado, 31 de outubro de 2026",
+ "leitura": "5 min",
+ "geradaEm": "2026-10-31T07:42:29Z",
+ "status": "aguardando",
+ "statusTexto": "Para sua aprovação",
+ "abre": "Bom dia. A redação de inteligência artificial do Contexto não tem fim de semana, mas respeita o seu: a edição de sábado é um pouco mais curta. Hoje: a primeira fala de Flávio Bolsonaro desde Miami, a pior semana da Bolsa desde 2020 e o maior roubo de criptomoedas da história.",
+ "trinta": [
+  "Flávio Bolsonaro falou de Miami e disse que \"perdi para o sistema\".",
+  "A Bolsa teve a pior semana desde 2020, e o dólar, a maior alta desde 2008.",
+  "Hackers roubaram US$ 6,3 bilhões da Binance."
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Flávio fala de Miami e diz que vai atuar pelo Senado",
+     "texto": "Em transmissão ao vivo no Instagram na sexta (30), o senador Flávio Bolsonaro (PL) disse que \"saí pelo Brasil\" e que \"perdi para o sistema, não perdi para o meu adversário\". Sem apresentar provas, ele disse haver coisas \"matematicamente impossíveis\" na eleição.",
+     "pq": "foi a primeira fala pública dele desde que deixou o país contrariando ordem do STF. Ele disse que a \"trincheira\" da oposição será o Congresso, sobretudo o Senado, e pediu votos para Rogério Marinho na presidência da Casa. Lula venceu com 51,79% dos votos válidos, segundo o TSE.",
+     "fontes": [
+      {
+       "t": "O Liberal",
+       "u": "https://www.oliberal.com/politica/flavio-bolsonaro-conta-detalhes-da-saida-do-brasil-para-os-eua-1.1189130"
+      },
+      {
+       "t": "ABCD Jornal",
+       "u": "https://abcdjornal.com.br/brasil/noticia/2026/10/30/flavio-bolsonaro-fala-pela-primeira-vez-apos-viagem-e-diz-que-perdeu-para-o-sistema/"
+      }
+     ],
+     "contexto": "eleicoes-brasil-2026",
+     "completa": {
+      "fina": "O senador não disse se pretende voltar ao Brasil e não descartou disputar a Presidência de novo.",
+      "atualizada": "31 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O senador Flávio Bolsonaro (PL-RJ), que está em Miami desde quarta (28), fez na sexta-feira (30) uma transmissão de cerca de 20 minutos no Instagram, segundo o jornal O Liberal. Foi a primeira fala pública dele desde que deixou o Brasil sem entregar os passaportes ao Supremo Tribunal Federal. Na quinta, uma entrevista coletiva anunciada por um aliado tinha sido cancelada.",
+      "blocos": [
+       {
+        "h": "O que Flávio disse",
+        "li": [
+         "Sobre a saída: \"Eu não saí do Brasil. Eu saí pelo Brasil\" e \"Não foi fácil. Sair do seu país para continuar, pelo menos, tendo uma voz ativa\".",
+         "Sobre a eleição: \"Eu perdi para o sistema, não perdi para o meu adversário\", segundo o ABCD Jornal, e \"Muitas coisas estão sem explicação nessas eleições, matematicamente impossíveis de terem ocorrido no mundo real\". Ele não apresentou provas.",
+         "Sobre o futuro: \"A nossa trincheira neste momento será o Congresso Nacional, em especial o Senado Federal\".",
+         "Pediu que eleitores cobrem os senadores para votar em Rogério Marinho (PL-RN) para presidente do Senado.",
+         "Não descartou disputar de novo a Presidência, \"inclusive se for preciso\"."
+        ]
+       },
+       {
+        "h": "O que dizem os outros",
+        "li": [
+         {
+          "b": "O TSE",
+          "t": "proclamou a reeleição de Lula com 51,79% dos votos válidos, contra 48,21% de Flávio. O tribunal registrou cerca de 34 mil votos depois das 17h, quando a votação foi prorrogada em algumas seções."
+         },
+         {
+          "b": "O PL",
+          "t": "reconheceu o resultado em nota de Valdemar Costa Neto."
+         },
+         {
+          "b": "A Polícia Federal",
+          "t": "disse na quarta que Flávio não é considerado foragido e que investiga o descumprimento da ordem judicial."
+         },
+         {
+          "b": "O governo",
+          "t": "disse, pela voz do ministro Guilherme Boulos, que o caso é \"assunto da Justiça e da Polícia Federal\"."
+         }
+        ]
+       },
+       {
+        "h": "A situação nos EUA",
+        "p": [
+         "Segundo o New York Times, citado pelo Just Security, Flávio está na Flórida com um status migratório temporário, concedido por ordem do presidente Donald Trump, e deve receber depois residência permanente. A Reuters informou, segundo a mesma fonte, que Trump não pretende apoiar a pretensão de Flávio de se apresentar como líder do Brasil. Ainda segundo a Reuters, o aliado Paulo Figueiredo atribuiu ao ChatGPT o trecho da carta de quarta em que Flávio se dizia \"presidente eleito\"; o texto foi mudado cerca de uma hora depois."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se Flávio pretende voltar ao Brasil, e quando.",
+         "Se Moraes vai decidir sobre o pedido de prisão preventiva feito por deputados do PT.",
+         "Se ele vai pedir licença do mandato. Pela Constituição, um senador perde o mandato se faltar a mais de um terço das sessões do ano sem licença."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O Senado elege o novo presidente em fevereiro de 2027, quando começa a nova legislatura."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "O Liberal: a transmissão de Flávio",
+        "u": "https://www.oliberal.com/politica/flavio-bolsonaro-conta-detalhes-da-saida-do-brasil-para-os-eua-1.1189130"
+       },
+       {
+        "t": "ABCD Jornal: \"perdi para o sistema\"",
+        "u": "https://abcdjornal.com.br/brasil/noticia/2026/10/30/flavio-bolsonaro-fala-pela-primeira-vez-apos-viagem-e-diz-que-perdeu-para-o-sistema/"
+       },
+       {
+        "t": "Just Security, com Reuters e NYT: resumo de 30 out",
+        "u": "https://www.justsecurity.org/162627/early-edition-october-30-2026/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Bolsa tem pior semana desde 2020; dólar, maior alta desde 2008",
+     "texto": "O Ibovespa fechou a sexta (30) em 167.921 pontos, queda de 0,75%. Na semana após a eleição, caiu 18,12%, o pior resultado desde março de 2020. O dólar fechou a R$ 5,446 e subiu 9,15% na semana, a maior alta desde outubro de 2008.",
+     "pq": "a queda reduz o valor de investimentos em ações e fundos, e o dólar mais caro encarece importados e viagens. Investidores estrangeiros retiraram quase R$ 7,6 bilhões da Bolsa nos três primeiros pregões da semana, segundo a Agência Brasil. O mercado aguarda a equipe econômica do novo mandato.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008"
+      },
+      {
+       "t": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-30-outubro-2026/"
+      }
+     ],
+     "contexto": "dolar-bolsa-e-juros",
+     "completa": {
+      "fina": "Em outubro, o Ibovespa caiu quase 10%, o pior mês desde junho de 2022; nos EUA, ações de tecnologia também caíram.",
+      "atualizada": "31 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Ibovespa, principal índice da Bolsa brasileira, fechou a sexta-feira (30) em 167.921,80 pontos, queda de 0,75%, a quinta sessão seguida de perdas. Na semana que começou com a reeleição de Lula, o índice acumulou queda de 18,12%, a pior desde março de 2020, no início da pandemia. O dólar comercial fechou a R$ 5,446, alta de 1,09% no dia e de 9,15% na semana, a maior alta semanal desde outubro de 2008, segundo a Agência Brasil.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Ibovespa no dia:",
+          "t": "167.921,80 pontos, −0,75%. Oscilou entre 167.007 e 169.184 pontos."
+         },
+         {
+          "b": "Ibovespa na semana:",
+          "t": "−18,12%."
+         },
+         {
+          "b": "Ibovespa em outubro:",
+          "t": "−9,88%, segundo a Agência Brasil; a CNN Brasil informa −9,75%. É o pior mês desde junho de 2022."
+         },
+         {
+          "b": "Dólar:",
+          "t": "R$ 5,446, o maior valor de 2026, segundo a CNN Brasil. Alta de 9,15% na semana e de 5,27% em outubro. No ano, sobe 0,81%."
+         }
+        ]
+       },
+       {
+        "h": "O que pesou",
+        "li": [
+         "A reavaliação de investidores depois da reeleição de Lula, que contrariou a aposta de parte do mercado, e a incerteza sobre a política fiscal.",
+         "Saída de capital estrangeiro: quase R$ 7,6 bilhões retirados do mercado secundário de ações de segunda a quarta, segundo a Agência Brasil.",
+         "A formação da Ptax de fim de mês, taxa usada em contratos, e a procura por proteção cambial antes do feriado de Finados.",
+         "No exterior, a queda de ações de tecnologia: o S&P 500 caiu 1,82%, segundo a Agência Brasil. O tema está em outra nota desta edição."
+        ]
+       },
+       {
+        "h": "Um dado bom no meio do dia",
+        "p": [
+         "O IBGE informou que o desemprego caiu para 5,2% no trimestre até setembro, o menor para o período desde 2012. O resultado ficou dentro do esperado e não mudou a direção do mercado. O tema está em outra nota desta edição."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "A Agência Brasil",
+          "t": "diz que o mercado aguarda a definição da equipe econômica do próximo governo e a apresentação de medidas para as contas públicas, sem data informada."
+         },
+         {
+          "b": "O ministro da Fazenda, Dario Durigan,",
+          "t": "disse na terça (27) que o governo tem medidas prontas para buscar o centro da meta fiscal."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem será o ministro da Fazenda a partir de 5 de janeiro.",
+         "Se o Banco Central vai intervir no câmbio."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Segunda (2) é feriado de Finados, e a B3 não abre. O Boletim Focus sai no dia útil seguinte.",
+         "O Copom decide a Selic, hoje em 13,75%, em 4 de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: fechamento de 30 out",
+        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008"
+       },
+       {
+        "t": "CNN Brasil: mercado em 30 out",
+        "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-30-outubro-2026/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Desemprego cai para 5,2%, o menor para o período desde 2012",
+     "texto": "A taxa de desemprego ficou em 5,2% no trimestre encerrado em setembro, segundo o IBGE. É a menor para um terceiro trimestre desde o início da série, em 2012. O país tem 103,6 milhões de pessoas ocupadas, recorde, e 5,6 milhões procurando trabalho.",
+     "pq": "menos desemprego significa mais renda nas famílias: a renda média real chegou a R$ 3.790, alta de 3,6% em um ano. Por outro lado, um mercado de trabalho aquecido pode pressionar a inflação, o que pesa nas decisões do Banco Central sobre os juros.",
+     "fontes": [
+      {
+       "t": "Forbes Brasil",
+       "u": "https://forbes.com.br/forbes-money/2026/10/desemprego-brasil-minima-historica-recorde-ocupacao-ibge/"
+      },
+      {
+       "t": "O Povo, com Agência Estado",
+       "u": "https://www.opovo.com.br/noticias/economia/2026/10/30/taxa-de-desemprego-no-brasil-cai-para-52-no-trimestre-ate-setembro-mostra-ibge.html"
+      }
+     ],
+     "completa": {
+      "fina": "A construção civil foi o setor que mais contratou; o número de trabalhadores com carteira assinada ficou estável.",
+      "atualizada": "31 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "A taxa de desocupação no Brasil ficou em 5,2% no trimestre de julho a setembro de 2026, segundo a Pesquisa Nacional por Amostra de Domicílios Contínua, a Pnad, divulgada pelo IBGE na sexta-feira (30). No trimestre anterior, era de 5,4%; um ano antes, de 5,6%. É a menor taxa para um terceiro trimestre desde 2012, quando a série começou.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Desocupados:",
+          "t": "5,6 milhões de pessoas, 234 mil a menos que no trimestre anterior e 417 mil a menos que um ano antes, segundo a Forbes Brasil."
+         },
+         {
+          "b": "Ocupados:",
+          "t": "103,6 milhões, o maior número da série. São 581 mil a mais no trimestre e 1,2 milhão a mais em 12 meses."
+         },
+         {
+          "b": "Construção civil:",
+          "t": "210 mil trabalhadores a mais, alta de 2,8%, a maior contribuição entre os setores."
+         },
+         {
+          "b": "Carteira assinada no setor privado:",
+          "t": "39,4 milhões, estável."
+         },
+         {
+          "b": "Sem carteira:",
+          "t": "13,7 milhões. Por conta própria: 26,1 milhões. Domésticos: 5,4 milhões. Todos estáveis."
+         },
+         {
+          "b": "Renda média real:",
+          "t": "R$ 3.790, alta de 3,6% em um ano, segundo o O Povo, com Agência Estado."
+         },
+         {
+          "b": "Massa de renda:",
+          "t": "R$ 387,5 bilhões no trimestre, alta de 4,7%."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "William Kratochwill, analista do IBGE,",
+          "t": "disse, segundo a Forbes Brasil, que os empregadores podem ampliar a oferta de trabalho porque seus negócios estão criando vagas."
+         },
+         {
+          "b": "Analistas consultados pelo Projeções Broadcast",
+          "t": "esperavam taxa entre 5,2% e 5,3%; o resultado ficou na mediana."
+         }
+        ]
+       },
+       {
+        "h": "Como ler o número",
+        "p": [
+         "A Pnad considera desocupada a pessoa que não trabalha e procurou emprego no período. Quem desistiu de procurar não entra na conta. A taxa é a média de três meses, por isso muda devagar. Como a série atual começou em 2012, não há comparação com anos anteriores pela mesma metodologia. Um desemprego baixo costuma vir com salários em alta, o que é bom para as famílias, mas pode pressionar preços de serviços."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a queda da Bolsa e a alta do dólar desta semana vão afetar as contratações nos próximos meses.",
+         "A taxa de informalidade do trimestre. As fontes consultadas não a informam."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O IBGE divulga no fim de novembro o resultado do trimestre até outubro.",
+         "O Copom, que decide a Selic em 4 de novembro, leva em conta o mercado de trabalho."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Forbes Brasil: desemprego e ocupação recorde",
+        "u": "https://forbes.com.br/forbes-money/2026/10/desemprego-brasil-minima-historica-recorde-ocupacao-ibge/"
+       },
+       {
+        "t": "O Povo, com Agência Estado: renda e projeções",
+        "u": "https://www.opovo.com.br/noticias/economia/2026/10/30/taxa-de-desemprego-no-brasil-cai-para-52-no-trimestre-ate-setembro-mostra-ibge.html"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Ataques russos matam ao menos 20 na Ucrânia, 14 em estação",
+     "texto": "Um drone russo atingiu na quinta (29) uma plataforma lotada da estação ferroviária de Dnipro e matou ao menos 14 pessoas, segundo autoridades ucranianas. Em Chernihiv, Kremenchuk e Kyiv, outros ataques mataram ao menos seis.",
+     "pq": "os ataques ocorrem enquanto os EUA tentam retomar negociações entre Ucrânia e Rússia. Segundo o Wall Street Journal, citado pela Reuters, a Ucrânia suspendeu informalmente ataques a refinarias russas após pressão de Donald Trump. A Rússia não comentou os ataques nas reportagens.",
+     "fontes": [
+      {
+       "t": "AAP, com Reuters",
+       "u": "https://aapnews.aap.com.au/news/russian-drone-strike-kills-14-at-ukraine-rail-station"
+      },
+      {
+       "t": "Arab News, com Reuters",
+       "u": "https://arabnews.com/world/ukraine-pauses-refinery-strikes-after-trump-pressure-as-russian-attacks-kill-at-least-20-3008931"
+      }
+     ],
+     "contexto": "negociacoes-ucrania-russia",
+     "completa": {
+      "fina": "O primeiro-ministro ucraniano disse que a Rússia \"caça civis\"; uma trégua local em Kherson permite a chegada de ajuda à cidade ocupada de Oleshky.",
+      "atualizada": "31 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "Ataques russos com drones e mísseis mataram ao menos 20 pessoas em cidades da Ucrânia na quinta-feira (29). O mais grave foi em Dnipro, no centro-leste do país, onde um drone a jato atingiu uma plataforma lotada da principal estação de trem e matou ao menos 14 pessoas, segundo a Reuters, citada pela Arab News e pela AAP.",
+      "blocos": [
+       {
+        "h": "As vítimas por cidade",
+        "li": [
+         {
+          "b": "Dnipro:",
+          "t": "14 mortos na estação. Um alojamento de estudantes pegou fogo, e cerca de 350 mil casas ficaram sem luz."
+         },
+         {
+          "b": "Chernihiv:",
+          "t": "duas adolescentes mortas e 23 feridos, quatro deles crianças, numa rua do centro."
+         },
+         {
+          "b": "Kremenchuk:",
+          "t": "três mortos e 32 feridos em prédios residenciais, segundo a Arab News; a AAP fala em 15 feridos, citando o governador regional."
+         },
+         {
+          "b": "Kyiv:",
+          "t": "um morto num ataque com mísseis no fim da noite."
+         },
+         {
+          "b": "Zaporíjia:",
+          "t": "seis feridos quando drones atingiram ônibus."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Sergiy Koretskyi, primeiro-ministro da Ucrânia:",
+          "t": "\"A Rússia está deliberadamente caçando civis: em trens, em estações, em prédios residenciais.\" Tradução do Contexto."
+         },
+         {
+          "b": "Volodymyr Zelensky, presidente:",
+          "t": "chamou os ataques de \"muito cruéis\" e \"deliberados quando todos esperam passos de desescalada\" e disse ter informações sobre novos ataques com mísseis balísticos."
+         },
+         {
+          "b": "Dmytro Bryzhynskyi, chefe da administração militar de Chernihiv:",
+          "t": "\"Pessoas comuns e pacíficas foram atacadas.\""
+         },
+         {
+          "b": "A Rússia",
+          "t": "não comentou os ataques nas reportagens consultadas. Moscou disse que a trégua humanitária de seis dias vale só para a região de Kherson."
+         }
+        ]
+       },
+       {
+        "h": "A pausa nos ataques a refinarias",
+        "p": [
+         "Segundo o Wall Street Journal, que cita autoridades ucranianas, unidades de longo alcance da Ucrânia receberam em meados de outubro a orientação de suspender os ataques a refinarias russas. A pausa não foi anunciada oficialmente e deve durar até depois das eleições de meio de mandato nos EUA. A Reuters não conseguiu confirmar a informação. Segundo a reportagem, Trump se irritou com os ataques num momento de preço recorde do diesel."
+        ]
+       },
+       {
+        "h": "A trégua de Oleshky",
+        "p": [
+         "Uma trégua local de seis dias, mediada pelos EUA, permite que ajuda humanitária chegue à cidade de Oleshky, ocupada pela Rússia na região de Kherson, e que moradores saiam se quiserem. Moscou e Kyiv dizem que a remoção de minas foi concluída."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O número final de mortos em Dnipro.",
+         "A data da negociação entre Ucrânia, Rússia e EUA, prevista para novembro."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A Ucrânia pede mais mísseis de defesa aérea, que estão em falta, segundo a Arab News."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "AAP, com Reuters: ataque em Dnipro",
+        "u": "https://aapnews.aap.com.au/news/russian-drone-strike-kills-14-at-ukraine-rail-station"
+       },
+       {
+        "t": "Arab News, com Reuters: pausa nas refinarias e mortes",
+        "u": "https://arabnews.com/world/ukraine-pauses-refinery-strikes-after-trump-pressure-as-russian-attacks-kill-at-least-20-3008931"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Drones afundam navio grego no Mar Negro, e Grécia pede trégua marítima",
+     "texto": "Três drones marítimos atingiram o porta-contêineres Contship Jet a cerca de 21 milhas náuticas de Shabla, na Bulgária, no Mar Negro, e o navio afundou. O primeiro-ministro da Grécia, Kyriakos Mitsotakis, pediu na ONU uma \"trégua marítima\" global.",
+     "pq": "ataques a navios comerciais encarecem o frete e o seguro, e esse custo chega aos preços para o consumidor, como disse Mitsotakis. O ataque foi o mais recente de uma série no oeste do Mar Negro neste mês. As fontes consultadas não informam quem o fez.",
+     "fontes": [
+      {
+       "t": "MarineLink, com Reuters",
+       "u": "https://www.marinelink.com/news/greece-encourages-global-truce-drone-544005"
+      },
+      {
+       "t": "Morning Star",
+       "u": "https://morningstaronline.co.uk/article/world-brief-october-28-2026"
+      }
+     ],
+     "completa": {
+      "fina": "O premiê grego falou num debate do Conselho de Segurança sobre segurança marítima; a autoria do ataque não foi informada.",
+      "atualizada": "31 out 2026, 5h",
+      "selo": "Com ressalva",
+      "fato": "Três drones marítimos atingiram o navio porta-contêineres Contship Jet a cerca de 21 milhas náuticas a sudeste de Shabla, na costa da Bulgária, no Mar Negro, segundo o ministro da Defesa búlgaro, Dimitar Stoyanov, citado pelo Morning Star. O jornal descreve o navio com bandeira da Libéria; a Reuters, citada pelo MarineLink, fala em navio grego que afundou.",
+      "blocos": [
+       {
+        "h": "Por que a ressalva",
+        "p": [
+         "As fontes divergem sobre a bandeira do navio: Libéria, segundo o Morning Star; grego, segundo a Reuters, que pode se referir ao dono. Nenhuma das reportagens consultadas informa a situação da tripulação nem quem fez o ataque. A redação publica os dados atribuídos a cada fonte."
+        ]
+       },
+       {
+        "h": "O que disse Mitsotakis",
+        "li": [
+         "Falou num debate de alto nível do Conselho de Segurança da ONU sobre segurança marítima, durante a presidência grega do conselho.",
+         "Defendeu uma trégua marítima global e disse que navios comerciais precisam navegar com segurança mesmo durante conflitos.",
+         "\"Atacar navios comerciais civis é completamente inaceitável\" e \"Não podemos deixar que nossos mares virem uma selva\", segundo a Reuters. Tradução do Contexto.",
+         "Disse que ataques encarecem o frete e o seguro, e que isso chega ao consumidor."
+        ]
+       },
+       {
+        "h": "O contexto",
+        "p": [
+         "O Mar Negro é rota de exportação de grãos e de outras cargas da Ucrânia, da Rússia e de países como Bulgária e Romênia. Segundo a Reuters, o ataque foi o mais recente de uma série contra navios no oeste do Mar Negro neste mês. No mesmo discurso, Mitsotakis criticou um acordo marítimo entre Turquia e Líbia, que chamou de nulo."
+        ]
+       },
+       {
+        "h": "Onde foi",
+        "p": [
+         "Shabla fica no extremo nordeste da Bulgária, perto da fronteira com a Romênia. Os dois países fazem parte da União Europeia e da Otan e têm portos importantes no Mar Negro, como Varna, Burgas e Constança."
+        ]
+       },
+       {
+        "h": "O que é um drone marítimo",
+        "p": [
+         "É uma embarcação pequena, sem tripulação, controlada a distância e carregada de explosivos. Desde 2022, esse tipo de arma passou a ser usado na guerra entre Rússia e Ucrânia, sobretudo no Mar Negro, contra navios e instalações no litoral."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem lançou os drones.",
+         "A situação dos tripulantes.",
+         "Que carga o navio levava."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A proposta grega de trégua marítima depende de apoio no Conselho de Segurança, que não votou nenhum texto sobre o tema nas reportagens consultadas."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "MarineLink, com Reuters: Mitsotakis na ONU",
+        "u": "https://www.marinelink.com/news/greece-encourages-global-truce-drone-544005"
+       },
+       {
+        "t": "Morning Star: o ataque ao Contship Jet",
+        "u": "https://morningstaronline.co.uk/article/world-brief-october-28-2026"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Hackers roubam US$ 6,3 bilhões da Binance, recorde em criptomoedas",
+     "texto": "A Binance, maior corretora de criptomoedas do mundo, disse que cerca de US$ 6,3 bilhões foram roubados entre quinta (29) e sexta (30). Empresas de análise de blockchain ligaram o ataque à Coreia do Norte. Cerca de US$ 3 bilhões foram congelados.",
+     "pq": "é mais de quatro vezes o recorde anterior, o roubo de US$ 1,5 bilhão da Bybit em 2025. A Binance diz que os fundos dos clientes estão \"seguros\" e que vai cobrir as perdas. Os saques foram suspensos, e o bitcoin caiu à menor cotação em seis semanas.",
+     "fontes": [
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know"
+      },
+      {
+       "t": "RTÉ",
+       "u": "https://www.rte.ie/news/business/2026/1030/1597305-binance-bitcoin-world/"
+      }
+     ],
+     "completa": {
+      "fina": "A maior parte do dinheiro saiu em cerca de 20 minutos, por dez blockchains diferentes; a empresa ainda não atribuiu a autoria.",
+      "atualizada": "31 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Binance, maior corretora de criptomoedas do mundo, informou que cerca de US$ 6,3 bilhões foram retirados das suas carteiras num ataque hacker que começou no fim da quinta-feira (29). Segundo a TRM Labs, empresa de análise de blockchain, o invasor moveu cerca de US$ 6,36 bilhões em dez blockchains, a maior parte em cerca de 20 minutos. A Binance disse que o valor ainda pode subir.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Roubado:",
+          "t": "cerca de US$ 6,3 bilhões, segundo a Binance."
+         },
+         {
+          "b": "Congelado:",
+          "t": "cerca de US$ 3 bilhões. A Tether congelou quase US$ 1,57 bilhão; a Circle, mais de US$ 800 milhões; a Ripple, cerca de US$ 200 milhões, segundo a RTÉ."
+         },
+         {
+          "b": "Recorde anterior:",
+          "t": "o roubo de cerca de US$ 1,5 bilhão da Bybit, em fevereiro de 2025."
+         },
+         {
+          "b": "Comparação:",
+          "t": "em todo o ano passado, a TRM Labs contou US$ 2,9 bilhões roubados em quase 150 ataques."
+         }
+        ]
+       },
+       {
+        "h": "Quem fez",
+        "p": [
+         "A TRM Labs e a Chainalysis ligaram o ataque à Coreia do Norte. A TRM disse avaliar \"com alta confiança\" que o grupo TraderTraitor, ligado ao Lazarus, foi o autor, e apontou semelhanças com o ataque à Bybit, que o FBI atribuiu a Pyongyang. A Coreia do Norte costuma negar envolvimento em ataques hackers."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "A Binance",
+          "t": "chamou o ataque de \"complexo\", com vários \"pontos de invasão\", e disse que a investigação inicial apontou para o notebook invadido de um engenheiro. Disse que \"os fundos dos usuários continuam seguros\"."
+         },
+         {
+          "b": "Yi He, cofundadora,",
+          "t": "disse que a empresa vai cobrir \"todas as perdas\"."
+         },
+         {
+          "b": "Richard Teng, copresidente-executivo:",
+          "t": "\"Nossa investigação não atribuiu a responsabilidade a nenhum indivíduo\", segundo a Al Jazeera."
+         }
+        ]
+       },
+       {
+        "h": "O efeito no mercado",
+        "li": [
+         "O bitcoin caiu à menor cotação em seis semanas, US$ 76.368, e o ether, à menor em dois meses, US$ 2.178.",
+         "A BNB, moeda ligada à Binance, caiu cerca de 5%.",
+         "As ações da Coinbase, que disse não ter sido afetada, caíram 4,8%."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O destino dos outros US$ 3,3 bilhões.",
+         "Quando os saques voltam. A Binance falou em 45 horas, segundo a Al Jazeera, e em 48 horas, segundo a RTÉ.",
+         "Se houve vazamento de chaves privadas. A empresa diz não ter evidência disso."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A Binance diz coordenar a investigação com autoridades policiais."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: o que se sabe",
+        "u": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know"
+       },
+       {
+        "t": "RTÉ: o maior roubo de criptomoedas",
+        "u": "https://www.rte.ie/news/business/2026/1030/1597305-binance-bitcoin-world/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Gastos com IA derrubam Amazon e Intel e pesam na Nasdaq",
+     "texto": "As ações da Intel chegaram a cair mais de 30% na sexta (30), depois de a empresa dizer que vai queimar caixa neste ano. A Amazon caiu ao sinalizar mais aumento dos investimentos em 2027. A Nasdaq foi à mínima em quase três meses, segundo a Reuters.",
+     "pq": "a semana mostrou investidores cobrando retorno dos gastos bilionários com inteligência artificial. A Nasdaq-100 caminhava para perder cerca de US$ 1 trilhão em valor no dia. A queda chegou a outras Bolsas, inclusive à brasileira.",
+     "fontes": [
+      {
+       "t": "GV Wire, com Reuters",
+       "u": "https://gvwire.com/2026/10/30/nasdaq-hits-near-three-month-low-as-amazon-intel-deepen-ai-capex-concerns/"
+      },
+      {
+       "t": "TimesLIVE, com Reuters",
+       "u": "https://www.timeslive.co.za/news/sci-tech/2026-10-30-nasdaq-faces-1-trillion-hit-as-ai-spending-soars/"
+      }
+     ],
+     "completa": {
+      "fina": "Um estrategista disse que é uma \"rotação\" para fora de um investimento muito popular, e não uma virada geral.",
+      "atualizada": "31 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "As ações de tecnologia caíram nos EUA na sexta-feira (30) depois dos balanços de Amazon e Intel. A Intel disse que vai queimar caixa neste ano por causa do mercado fraco de computadores, de dificuldades de fabricação e do gasto com expansão da produção. A Amazon sinalizou novo aumento dos investimentos em 2027, depois de uma forte saída de caixa no terceiro trimestre, segundo a Reuters.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Intel:",
+          "t": "queda de mais de 25% no pré-mercado e de mais de 30% no início do pregão, a caminho da maior queda diária da sua história, segundo a Reuters."
+         },
+         {
+          "b": "Amazon:",
+          "t": "queda de cerca de 6,5% no pré-mercado e de cerca de 2% no início do pregão."
+         },
+         {
+          "b": "Nasdaq:",
+          "t": "queda de 2,21%, a 25.606 pontos, no início da manhã. A CNN Brasil informou queda de 3,64% à tarde."
+         },
+         {
+          "b": "Valor perdido:",
+          "t": "se as quedas se mantivessem, Amazon e Intel perderiam cerca de US$ 300 bilhões juntas, e a Nasdaq-100, cerca de US$ 1 trilhão no dia, depois de quase US$ 1,4 trilhão em outubro."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Art Hogan, estrategista-chefe da B. Riley Wealth:",
+          "t": "\"É mais uma questão do que está no preço de uma ação e de quanto os investidores esperam\". Ele disse ver uma \"rotação\" para fora de um investimento muito popular em tecnologia, e não uma virada geral do mercado."
+         },
+         {
+          "b": "Hogan também disse",
+          "t": "que, para ações como Alphabet, Amazon e Intel, \"a punição pode ser bem dura\" quando as expectativas são altas."
+         }
+        ]
+       },
+       {
+        "h": "A semana das big techs",
+        "p": [
+         "Na quarta (28), a Alphabet, dona do Google, caiu mais de 10% depois de dizer que vai aumentar muito o gasto com infraestrutura de IA em 2027, enquanto a Microsoft subiu com o crescimento da nuvem. A sequência mostra o mercado separando empresas cujos investimentos em IA já viram receita das que ainda não mostraram retorno."
+        ]
+       },
+       {
+        "h": "Por que isso chega ao Brasil",
+        "p": [
+         "Quando as Bolsas americanas caem, investidores costumam reduzir risco em outros mercados. Na sexta, o S&P 500 caiu 1,82% e o Ibovespa, 0,75%, segundo a Agência Brasil."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quanto a Amazon vai investir em 2027. A empresa não deu valor nas reportagens.",
+         "O fechamento oficial das ações de Intel e Amazon na sexta."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Investidores acompanham os próximos balanços de tecnologia, entre eles o da Nvidia, em novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "GV Wire, com Reuters: Nasdaq e Intel",
+        "u": "https://gvwire.com/2026/10/30/nasdaq-hits-near-three-month-low-as-amazon-intel-deepen-ai-capex-concerns/"
+       },
+       {
+        "t": "TimesLIVE, com Reuters: perda de valor",
+        "u": "https://www.timeslive.co.za/news/sci-tech/2026-10-30-nasdaq-faces-1-trillion-hit-as-ai-spending-soars/"
+       },
+       {
+        "t": "Agência Brasil: mercados em 30 out",
+        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "18,12%",
+  "texto": "foi a queda do Ibovespa na semana seguinte à eleição, a maior desde março de 2020, segundo a Agência Brasil.",
+  "fontes": [
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008"
+   },
+   {
+    "t": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-30-outubro-2026/"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "O TikTok lançou o Must Eat, guia de restaurantes feito com mais de 40 milhões de posts, por ora em Nova York, Los Angeles e São Francisco. A redação, que é uma IA, não come, mas leu tudo.",
+  "fontes": [
+   {
+    "t": "Nation's Restaurant News",
+    "u": "https://www.nrn.com/independent-restaurants/tiktok-launches-must-eat-a-dining-guide-powered-by-content-creators"
+   },
+   {
+    "t": "Tubefilter",
+    "u": "https://www.tubefilter.com/2026/10/28/tiktok-local-feed-must-eats-foodtok-restaurant-guide/"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela aprovação de uma pessoa, o editor responsável, antes do envio. Esta edição cita o ChatGPT, da OpenAI, concorrente da Anthropic.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Flávio fala na própria voz, com a ressalva de que não apresentou provas, ao lado do resultado do TSE, da PF e do governo. Na Ucrânia, a falta de resposta russa está registrada.",
+  "pontos": [
+   "Brasil 1: as afirmações sobre a eleição estão entre aspas e atribuídas, com o resultado oficial na mesma nota.",
+   "Brasil 1: a menção ao ChatGPT vem da Reuters, citada pelo Just Security; o rodapé avisa que a OpenAI concorre com a Anthropic.",
+   "Brasil 2: as fontes divergem na queda de outubro (−9,88% e −9,75%); a Notícia completa mostra as duas.",
+   "Mundo 1: nota sobre mortes, sem menção leve à IA; a pausa nas refinarias é atribuída ao Wall Street Journal, com a ressalva de que a Reuters não confirmou.",
+   "Mundo 2: Notícia completa com selo \"Com ressalva\" porque as fontes divergem sobre a bandeira do navio e nenhuma informa a tripulação.",
+   "Inovação 1: a autoria norte-coreana é atribuída às empresas de análise; a posição da Binance, que não atribuiu autoria, aparece ao lado."
+  ],
+  "equilibrio": "Governo federal: duas menções neutras (Boulos, com fala atribuída; dado do IBGE). Oposição: uma nota com a fala de Flávio. Nenhum adjetivo de valor fora de aspas.",
+  "foraDaEdicao": [
+   "Acusações de fraude do Likud contra partidos árabes em Israel: tratadas na edição de ontem, sem fato novo confirmado por duas fontes.",
+   "Fechamento do jornal russo Novaya Gazeta: a redação não confirmou a informação em duas fontes deste ano.",
+   "Novo órgão do governo irlandês para estudar a unificação da ilha: só uma fonte aberta a tempo.",
+   "Ressalva da redação: a edição tem 2 notas em Mundo, abaixo das 3 previstas; Brasil 3, Mundo 2 e as duas notas de Inovação saíram sem página de Contexto."
+  ]
+ }
+}

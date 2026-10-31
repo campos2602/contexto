@@ -1,6 +1,6 @@
 {
  "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
- "atualizado": "30 out 2026",
+ "atualizado": "31 out 2026",
  "selo": "Checado",
  "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
  "linha": [
@@ -21,8 +21,8 @@
    "t": "O ministro Cristiano Zanin prorroga a votação até as 19h após relatos de falta de ônibus. Flávio diz que vai pedir a anulação do segundo turno."
   },
   {
-   "d": "26 a 29 de outubro de 2026",
-   "t": "Moraes manda Flávio entregar os passaportes; ele deixa o país e chega a Miami. Trump diz que a eleição foi \"uma vergonha\". O governo registra 45 casos de violência política."
+   "d": "26 a 30 de outubro de 2026",
+   "t": "Moraes manda Flávio entregar os passaportes; ele deixa o país e, de Miami, diz que \"perdi para o sistema\". Trump chama a eleição de \"uma vergonha\". O governo registra 45 casos de violência política."
   },
   {
    "d": "5 e 6 de janeiro de 2027",
@@ -96,7 +96,7 @@
  "disputa": [
   {
    "b": "Flávio Bolsonaro",
-   "t": "disse no domingo que era \"impossível reconhecer o resultado\" e, na segunda, que vai pedir a cassação da chapa de Lula por \"abuso de poder político e econômico\", sem apresentar provas."
+   "t": "diz que \"perdi para o sistema, não perdi para o meu adversário\" e fala em fatos \"matematicamente impossíveis\" na eleição, sem apresentar provas."
   },
   {
    "b": "O PL",
@@ -173,6 +173,10 @@
   {
    "t": "O Povo, com DW: falas de Trump",
    "u": "https://www.opovo.com.br/noticias/brasil/2026/10/30/apos-carta-golpista-de-flavio-trump-volta-a-questionar-pleito-no-brasil.html"
+  },
+  {
+   "t": "O Liberal: transmissão de Flávio",
+   "u": "https://www.oliberal.com/politica/flavio-bolsonaro-conta-detalhes-da-saida-do-brasil-para-os-eua-1.1189130"
   }
  ]
 }

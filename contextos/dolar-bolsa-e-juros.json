@@ -1,13 +1,9 @@
 {
  "titulo": "Dólar, Bolsa e juros: como o mercado reage a um susto",
- "atualizado": "30 out 2026",
+ "atualizado": "31 out 2026",
  "selo": "Checado",
  "frase": "Quando investidores mudam de ideia sobre o futuro da economia de um país, eles vendem ações e reais e cobram juros mais altos para emprestar dinheiro ao governo. O dólar, o Ibovespa e os juros futuros medem esses três movimentos.",
  "linha": [
-  {
-   "d": "2008",
-   "t": "Na crise financeira dos EUA, a B3 interrompe o pregão seis vezes em menos de um mês."
-  },
   {
    "d": "18 de maio de 2017",
    "t": "No chamado Joesley Day, dia de crise política no governo Michel Temer, o dólar sobe mais de 8%."
@@ -35,6 +31,10 @@
   {
    "d": "29 de outubro de 2026",
    "t": "O Ibovespa cai pela quarta vez seguida, a 169.186 pontos, e o dólar sobe a R$ 5,387. O BC informa dívida bruta de 82,9% do PIB em setembro."
+  },
+  {
+   "d": "30 de outubro de 2026",
+   "t": "O Ibovespa fecha a semana com queda de 18,12%, a pior desde março de 2020. O dólar sobe 9,15% na semana, a maior alta desde outubro de 2008."
   }
  ],
  "termos": [
@@ -157,6 +157,10 @@
   {
    "t": "O Povo, com Agência Brasil: dívida pública",
    "u": "https://www.opovo.com.br/noticias/economia/2026/10/29/divida-publica-fica-em-829-do-pib-e-deficit-soma-rs-55-bilhoes.html"
+  },
+  {
+   "t": "Agência Brasil: fechamento de 30 out",
+   "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008"
   }
  ]
 }
