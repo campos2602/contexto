@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://campos2602.github.io/contexto/sitemap.xml
