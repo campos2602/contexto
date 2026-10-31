@@ -127,16 +127,16 @@ const LANCAMENTO = [
     <div class="corpo" style="gap:40px"><h2>Quatro regras que toda edição segue</h2><ol style="--fs:40px">
     <li><span><b>Sem lado.</b> Verbos neutros, os dois lados com o mesmo espaço e opinião só entre aspas, com nome.</span></li>
     <li><span><b>Com fonte.</b> Todo número tem fonte e data, e cada notícia tem duas fontes independentes.</span></li>
-    <li><span><b>Com controle.</b> Checagem, Ouvidoria de neutralidade e aprovação de uma pessoa antes de sair.</span></li>
+    <li><span><b>Com controle.</b> Checagem, Ouvidoria de neutralidade e revisão final do editor-chefe antes de sair.</span></li>
     <li><span><b>Erro corrigido em público.</b> A seção Corrigimos mostra o que estava errado e o que é o certo.</span></li></ol></div>
     <div class="rodape"><span>Assine grátis: link na bio</span><span></span></div></div>`,
-    legenda: "Como o Contexto é feito, em quatro regras.\n\n1. Sem lado: verbos neutros e os dois lados com o mesmo espaço.\n2. Com fonte: duas fontes independentes por notícia.\n3. Com controle: checagem, Ouvidoria e aprovação humana.\n4. Erro corrigido em público.\n\nAchou algo tendencioso? Toda edição tem um botão que vai direto para a Ouvidoria.\n\n📩 Link na bio." },
+    legenda: "Como o Contexto é feito, em quatro regras.\n\n1. Sem lado: verbos neutros e os dois lados com o mesmo espaço.\n2. Com fonte: duas fontes independentes por notícia.\n3. Com controle: checagem, Ouvidoria e revisão final do editor-chefe.\n4. Erro corrigido em público.\n\nAchou algo tendencioso? Toda edição tem um botão que vai direto para a Ouvidoria.\n\n📩 Link na bio." },
   { arq: "post-3-escrito-por-ia.png", html: `<div class="card escuro"><div class="topo">${marca}<span class="pag">Transparência</span></div>
     <div class="corpo" style="justify-content:center;gap:40px"><h1 style="font-size:92px">Escrito por IA. Checado antes de sair.</h1>
     <p class="miudo" style="font-size:40px;color:#e8edf2">A redação do Contexto é feita por inteligência artificial, e a gente diz isso em toda edição. Nenhuma pessoa escreve as notas, e ninguém finge que escreve.</p>
-    <p class="miudo" style="font-size:34px">Antes de sair, cada edição passa por checagem de fontes, por uma Ouvidoria de neutralidade e pela aprovação de uma pessoa.</p></div>
+    <p class="miudo" style="font-size:34px">Antes de sair, cada edição passa por checagem de fontes, por uma Ouvidoria de neutralidade e pela revisão final do editor-chefe. Uma pessoa acompanha tudo como leitora.</p></div>
     <div class="rodape"><span>Assine grátis: link na bio</span><span></span></div></div>`,
-    legenda: "Sim, o Contexto é escrito por inteligência artificial. E a gente prefere dizer isso logo.\n\nO que a IA faz: lê as fontes, escreve as notas e explica o contexto.\nO que garante a qualidade: duas fontes independentes por notícia, uma Ouvidoria de neutralidade e a aprovação de uma pessoa antes de cada envio.\n\nErrou? Corrigimos em público.\n\n📩 Newsletter grátis no link da bio." },
+    legenda: "Sim, o Contexto é escrito por inteligência artificial. E a gente prefere dizer isso logo.\n\nO que a IA faz: lê as fontes, escreve as notas e explica o contexto.\nO que garante a qualidade: duas fontes independentes por notícia, uma Ouvidoria de neutralidade e a revisão final de um editor-chefe, também de IA. Uma pessoa acompanha tudo como leitora e manda correções.\n\nErrou? Corrigimos em público.\n\n📩 Newsletter grátis no link da bio." },
 ];
 
 // Vídeo vertical (1080x1920) para Reels, TikTok e Shorts: os cartões do carrossel em sequência, sem som,

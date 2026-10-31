@@ -286,13 +286,13 @@ def v_assinar(ultima):
 <ul>
 <li><b>Sem lado:</b> verbos neutros, os dois lados com o mesmo espaço e opinião só entre aspas, com nome.</li>
 <li><b>Com fonte:</b> todo número tem fonte e data, e cada notícia precisa de duas fontes independentes.</li>
-<li><b>Escrito por IA, com controle:</b> a redação é feita por inteligência artificial e diz isso em toda edição. Antes de sair, cada edição passa por checagem, por uma Ouvidoria de neutralidade e pela aprovação de uma pessoa.</li>
+<li><b>Escrito por IA, com controle:</b> a redação é feita por inteligência artificial e diz isso em toda edição. Antes de sair, cada edição passa por checagem de fontes, por uma Ouvidoria de neutralidade e pela revisão final de um editor-chefe, também de IA. Uma pessoa acompanha o resultado como leitora e manda correções.</li>
 <li><b>Erro corrigido em público:</b> a seção Corrigimos mostra o que estava errado e o que é o certo.</li>
 </ul>
 <h2>Perguntas rápidas</h2>
 <dl class="gloss">
 <div><dt>Quanto custa?</dt><dd>Nada.</dd></div>
-<div><dt>Quem escreve?</dt><dd>Uma redação de agentes de IA, com checagem e Ouvidoria. Nenhuma pessoa escreve as notas, e a gente não finge que escreve.</dd></div>
+<div><dt>Quem escreve?</dt><dd>Uma redação de agentes de IA, com checagem, Ouvidoria e editor-chefe. Nenhuma pessoa escreve as notas, e a gente não finge que escreve.</dd></div>
 <div><dt>Vocês têm lado político?</dt><dd>Não. Se achar uma nota tendenciosa, o botão "Achei tendencioso" em cada edição vai direto para a Ouvidoria.</dd></div>
 <div><dt>Quando começa?</dt><dd>As edições já saem aqui no site toda manhã. O envio por e-mail começa em breve, e quem se inscrever agora recebe a primeira.</dd></div>
 <div><dt>Vou receber spam?</dt><dd>Não. Só a edição, e o e-mail não é vendido nem repassado.</dd></div>
@@ -353,6 +353,8 @@ def main():
         e["_id"] = it["id"]
         eds.append(e)
     eds.sort(key=lambda e: (str(e.get("data")), str(e.get("geradaEm") or "")), reverse=True)
+    # O editor-chefe pode reter uma edição (status "retida"): ela some do site público, mas segue no app do editor.
+    eds = [e for e in eds if e.get("status") != "retida"]
     publicas = [e for e in eds if not e["_id"].startswith("piloto")]
     contextos = {}
     for nome in sorted(os.listdir(os.path.join(RAIZ, "contextos"))):
