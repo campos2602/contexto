@@ -1,6 +1,6 @@
 {
  "titulo": "Guerra na Ucrânia: onde estão as negociações",
- "atualizado": "27 out 2026",
+ "atualizado": "31 out 2026",
  "selo": "Checado",
  "frase": "A Rússia invadiu a Ucrânia em fevereiro de 2022. Desde então, houve rodadas de conversa sem acordo de paz; uma nova rodada, com os EUA, está prevista para novembro de 2026.",
  "linha": [
@@ -27,6 +27,10 @@
   {
    "d": "26 de outubro de 2026",
    "t": "Ataque de drones mata dois em Voronezh; ataques russos ferem civis em Zaporíjia, Chernihiv e Izium."
+  },
+  {
+   "d": "29 de outubro de 2026",
+   "t": "Ataques russos matam ao menos 20 pessoas, 14 numa estação de trem em Dnipro. Segundo o Wall Street Journal, a Ucrânia suspendeu informalmente ataques a refinarias russas."
   }
  ],
  "termos": [
@@ -72,9 +76,10 @@
   }
  ],
  "observar": [
-  "A data do encontro em Abu Dhabi.",
-  "Se o cessar-fogo local de Oleshky se mantém.",
-  "Ataques a infraestrutura de energia com a chegada do inverno."
+  "A data do encontro entre Ucrânia, Rússia e EUA, previsto para novembro.",
+  "Se a trégua local de Oleshky se mantém e a ajuda chega.",
+  "Se a pausa nos ataques a refinarias é confirmada.",
+  "Ataques a infraestrutura de energia e transporte com a chegada do inverno."
  ],
  "fontes": [
   {
@@ -84,6 +89,14 @@
   {
    "t": "The Moscow Times, com Reuters",
    "u": "https://www.themoscowtimes.com/2026/10/26/ukrainian-drone-barrage-against-voronezh-kills-at-least-2-a94081"
+  },
+  {
+   "t": "Arab News, com Reuters: ataques de 29 out",
+   "u": "https://arabnews.com/world/ukraine-pauses-refinery-strikes-after-trump-pressure-as-russian-attacks-kill-at-least-20-3008931"
+  },
+  {
+   "t": "AAP, com Reuters: Dnipro",
+   "u": "https://aapnews.aap.com.au/news/russian-drone-strike-kills-14-at-ukraine-rail-station"
   }
  ]
 }

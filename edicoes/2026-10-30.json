@@ -1,0 +1,957 @@
+{
+ "data": "2026-10-30",
+ "dia": "Sexta, 30 de outubro de 2026",
+ "leitura": "5 min",
+ "geradaEm": "2026-10-30T07:43:48Z",
+ "status": "aguardando",
+ "statusTexto": "Para sua aprovação",
+ "abre": "Bom dia. A redação de inteligência artificial do Contexto trabalhou a madrugada inteira e chega à sexta sem cansaço, o que ainda não é uma vantagem para você. Hoje: as falas de Trump sobre a eleição brasileira, mais um dia de queda na Bolsa e o acidente de trem na Espanha.",
+ "trinta": [
+  "Flávio cancelou a entrevista em Miami, e Trump disse que a eleição brasileira foi \"uma vergonha\".",
+  "O Ibovespa caiu pelo quarto dia seguido e fechou abaixo de 170 mil pontos.",
+  "Uma colisão de trens na Espanha matou ao menos 68 pessoas."
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Flávio cancela entrevista em Miami, e Trump volta a criticar eleição brasileira",
+     "texto": "A entrevista que Flávio Bolsonaro (PL) daria em Miami na quinta (29) foi cancelada, segundo o Estado de Minas. No mesmo dia, o presidente dos EUA, Donald Trump, disse a jornalistas: \"Acho que a eleição foi uma vergonha no Brasil\". Ele não apresentou provas de fraude.",
+     "pq": "o senador saiu do país contrariando ordem do STF, e o Brasil vai precisar lidar com o caso junto aos EUA, que autorizaram a entrada dele. Deputados do PT pediram a prisão preventiva; a Procuradoria-Geral da República ainda não se manifestou publicamente.",
+     "fontes": [
+      {
+       "t": "Estado de Minas",
+       "u": "https://www.em.com.br/politica/2026/10/7530105-o-recado-duro-da-casa-branca-para-flavio-bolsonaro.html"
+      },
+      {
+       "t": "O Povo, com DW",
+       "u": "https://www.opovo.com.br/noticias/brasil/2026/10/30/apos-carta-golpista-de-flavio-trump-volta-a-questionar-pleito-no-brasil.html"
+      },
+      {
+       "t": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/pt-pede-prisao-preventiva-de-flavio-bolsonaro-e-inclusao-na-difusao-vermelha-da-interpol/"
+      }
+     ],
+     "contexto": "eleicoes-brasil-2026",
+     "completa": {
+      "fina": "Trump confirmou que os EUA autorizaram a entrada do senador e disse que não vai \"se envolver\"; a regra de faltas do Senado entrou no debate.",
+      "atualizada": "30 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O senador Flávio Bolsonaro (PL-RJ), que chegou a Miami na quarta (28) depois de deixar o Brasil sem entregar os passaportes, não deu a entrevista coletiva que um aliado tinha anunciado para quinta-feira (29). Segundo o Estado de Minas, a coletiva foi anunciada e depois cancelada, e o senador ainda não detalhou seus planos nos EUA. A única manifestação dele desde a viagem é a carta de três páginas divulgada na quarta.",
+      "blocos": [
+       {
+        "h": "O que disse Trump",
+        "li": [
+         "Na madrugada de quarta (28), a bordo do avião presidencial, sobre a entrada de Flávio nos EUA: \"Bem, eu teria aprovado\", segundo o O Povo, com a DW.",
+         "Na quarta, sobre a carta de Flávio: \"Não vou me envolver. Foi uma eleição muito estranha, isso é certo.\" E: \"Achei que ele e sua família foram tratados de maneira muito injusta\", segundo o Estado de Minas.",
+         "Na quinta (29), perguntado sobre quem venceu: \"Acho que a eleição foi uma vergonha no Brasil.\" Ele disse que o presidente brasileiro pediu que ele não tomasse partido e que não tomou.",
+         "As falas foram publicadas em português pelos veículos; a redação não encontrou a íntegra em inglês."
+        ]
+       },
+       {
+        "h": "O que dizem os outros",
+        "li": [
+         {
+          "b": "O TSE",
+          "t": "proclamou o resultado no domingo (25): Lula teve 51,79% dos votos válidos, e Flávio, 48,21%. O presidente do tribunal, Kassio Nunes Marques, disse ter \"absoluta segurança\" no processo."
+         },
+         {
+          "b": "O PL",
+          "t": "reconheceu o resultado em nota de Valdemar Costa Neto. O governador de São Paulo, Tarcísio de Freitas, também reconheceu, segundo o O Povo."
+         },
+         {
+          "b": "O governo brasileiro",
+          "t": "não tinha respondido às falas de Trump nas reportagens consultadas."
+         },
+         {
+          "b": "Um integrante do governo americano,",
+          "t": "sem nome, disse à colunista Patrícia Vasconcellos, do SBT News, que os EUA não querem ver o senador se apresentar como presidente de fato do Brasil, segundo o Estado de Minas."
+         }
+        ]
+       },
+       {
+        "h": "O pedido de prisão",
+        "p": [
+         "Na terça (27), os deputados federais Lindbergh Farias (PT-RJ) e Rogério Correia (PT-MG) e a deputada eleita Ana Elisa Santos (PT-MG) pediram ao ministro Alexandre de Moraes a prisão preventiva de Flávio e a inclusão do nome dele na difusão vermelha da Interpol, a lista internacional de procurados, segundo a Gazeta do Povo. Segundo a CNN Brasil, fontes anônimas da Procuradoria-Geral da República criticaram a decisão original de Moraes por ter sido tomada sem consulta ao Ministério Público, mas avaliam que a saída do país mudou a situação e abriu a possibilidade de prisão."
+        ]
+       },
+       {
+        "h": "E o mandato no Senado",
+        "p": [
+         "Pela Constituição, um senador perde o mandato se faltar a mais de um terço das sessões ordinárias do ano sem licença. Segundo o DGABC, o Senado fez 46 sessões até 26 de outubro e prevê 71 no ano; 24 faltas sem justificativa ultrapassariam o limite. O senador pode pedir licença sem salário de até 120 dias. Há também o caminho do Conselho de Ética, por quebra de decoro, que exige 41 votos no plenário."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se Moraes vai decidir sobre o pedido de prisão, e quando.",
+         "Se Flávio vai pedir licença do Senado.",
+         "Que tipo de visto os EUA concederam a ele e à família."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Na carta, Flávio disse que vai falar regularmente com os brasileiros e apresentar uma estratégia de mobilização da oposição."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Estado de Minas: coletiva cancelada e Casa Branca",
+        "u": "https://www.em.com.br/politica/2026/10/7530105-o-recado-duro-da-casa-branca-para-flavio-bolsonaro.html"
+       },
+       {
+        "t": "O Povo, com DW: as falas de Trump",
+        "u": "https://www.opovo.com.br/noticias/brasil/2026/10/30/apos-carta-golpista-de-flavio-trump-volta-a-questionar-pleito-no-brasil.html"
+       },
+       {
+        "t": "Gazeta do Povo: pedido de prisão",
+        "u": "https://www.gazetadopovo.com.br/republica/pt-pede-prisao-preventiva-de-flavio-bolsonaro-e-inclusao-na-difusao-vermelha-da-interpol/"
+       },
+       {
+        "t": "CNN Brasil: críticas na PGR",
+        "u": "https://www.cnnbrasil.com.br/blogs/taina-falcao/politica/decisao-de-moraes-contra-flavio-gera-criticas-na-cupula-da-pgr/"
+       },
+       {
+        "t": "DGABC: regras do mandato",
+        "u": "https://www.dgabc.com.br/Noticia/4365856/fuga-de-flavio-bolsonaro-poe-em-risco-o-mandato-no-senado-veja-o-que-preve-a-lei"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Ibovespa cai pelo quarto dia seguido e fecha abaixo de 170 mil",
+     "texto": "Na quinta (29), o Ibovespa fechou em 169.186 pontos, queda de 1,06%, a quarta seguida. O dólar subiu 0,76%, a R$ 5,387, depois de dados mais fortes da economia americana. Lula ainda não anunciou o ministro da Fazenda do novo mandato.",
+     "pq": "desde a eleição, o índice já perdeu mais de 16% somando os quatro pregões. A alta do dólar encarece importados e viagens. Investidores dizem esperar sinais da política econômica de 2027, segundo o Metrópoles.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-076-e-fecha-r-539-em-dia-de-cautela"
+      },
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/ibovespa-cai-pela-4a-vez-seguida-e-dolar-fecha-a-r-538"
+      }
+     ],
+     "contexto": "dolar-bolsa-e-juros",
+     "completa": {
+      "fina": "O PIB dos EUA cresceu acima do esperado, o que fortaleceu o dólar no mundo; a Petrobras divulgou produção recorde.",
+      "atualizada": "30 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Ibovespa, principal índice da Bolsa brasileira, fechou a quinta-feira (29) em 169.186,42 pontos, queda de 1,06%. Foi o quarto pregão seguido de queda desde a reeleição de Lula, e o índice fechou abaixo dos 170 mil pontos. O dólar comercial subiu 0,76%, a R$ 5,387, depois de chegar a R$ 5,43 por volta das 15h30, segundo a Agência Brasil.",
+      "blocos": [
+       {
+        "h": "A semana até aqui",
+        "li": [
+         {
+          "b": "Segunda (26):",
+          "t": "Ibovespa −13,88%; dólar +8,36%, a R$ 5,4066."
+         },
+         {
+          "b": "Terça (27):",
+          "t": "Ibovespa −0,51%; dólar −1,07%, a R$ 5,349."
+         },
+         {
+          "b": "Quarta (28):",
+          "t": "Ibovespa −2,68%, a 171.006 pontos; dólar perto de R$ 5,34."
+         },
+         {
+          "b": "Quinta (29):",
+          "t": "Ibovespa −1,06%, a 169.186 pontos; dólar +0,76%, a R$ 5,387."
+         }
+        ]
+       },
+       {
+        "h": "O que pesou",
+        "li": [
+         "Nos EUA, o PIB do terceiro trimestre cresceu 3,4% em ritmo anual, acima dos 3,2% esperados, e o consumo subiu 0,5% em setembro. Com isso, o dólar ganhou força ante moedas de países emergentes, como o peso mexicano, o peso chileno e o rand sul-africano, além do real, segundo a Agência Brasil.",
+         "No Brasil, investidores acompanham a montagem da equipe econômica. Lula não anunciou o novo ministro da Fazenda, e nenhum prazo oficial foi informado.",
+         "O Banco Central divulgou que a dívida bruta ficou em 82,9% do PIB em setembro. O tema está em outra nota desta edição.",
+         "A queda do petróleo no exterior pesou sobre a Petrobras, que responde por cerca de 13,5% do Ibovespa, segundo o Metrópoles."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "O Metrópoles",
+          "t": "diz que os investidores seguem \"atentos aos próximos passos da política econômica\"."
+         },
+         {
+          "b": "O ministro da Fazenda, Dario Durigan,",
+          "t": "disse na terça (27) que o governo tem medidas prontas para buscar o centro da meta fiscal, sem detalhá-las."
+         },
+         {
+          "b": "O governador do Piauí, Rafael Fonteles (PT),",
+          "t": "citado como possível ministro, nega ter discutido o cargo com o presidente, segundo coluna do ND Mais."
+         }
+        ]
+       },
+       {
+        "h": "Uma boa notícia no dia",
+        "p": [
+         "A Petrobras informou na quarta (28) produção recorde de petróleo e gás no terceiro trimestre: 3,512 milhões de barris de óleo equivalente por dia, alta de 11,7% em um ano, segundo o Metrópoles."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem comanda a Fazenda a partir de 5 de janeiro.",
+         "Se o Banco Central vai intervir no câmbio."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O Copom decide a Selic, hoje em 13,75%, em 4 de novembro.",
+         "O Boletim Focus de segunda (2) traz as primeiras projeções feitas depois da eleição."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: fechamento de 29 out",
+        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-076-e-fecha-r-539-em-dia-de-cautela"
+       },
+       {
+        "t": "Metrópoles: fechamento de 29 out",
+        "u": "https://www.metropoles.com/brasil/ibovespa-cai-pela-4a-vez-seguida-e-dolar-fecha-a-r-538"
+       },
+       {
+        "t": "ND Mais: coluna sobre a Fazenda",
+        "u": "https://ndmais.com.br/economia/lula-da-o-bolo-no-mercado-e-precos-na-bolsa-ainda-derretem-sem-resposta-sobre-a-fazenda/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Dívida bruta fica em 82,9% do PIB, a maior desde 2021",
+     "texto": "A dívida bruta do governo ficou em 82,9% do PIB em setembro, cerca de R$ 11,1 trilhões, segundo o Banco Central. É o maior nível desde 2021. O setor público teve déficit primário de R$ 5,5 bilhões no mês.",
+     "pq": "a dívida mostra quanto o governo deve; quanto maior, mais juros os investidores cobram para financiá-la. Em 12 meses, os juros da dívida somaram R$ 1,2 trilhão, 8,99% do PIB. O número pesa na discussão sobre as metas fiscais do novo mandato.",
+     "fontes": [
+      {
+       "t": "O Povo, com Agência Brasil",
+       "u": "https://www.opovo.com.br/noticias/economia/2026/10/29/divida-publica-fica-em-829-do-pib-e-deficit-soma-rs-55-bilhoes.html"
+      },
+      {
+       "t": "Bora Investir, da B3",
+       "u": "https://borainvestir.b3.com.br/noticias/divida-publica-fica-em-829-do-pib-e-deficit-soma-r-55-bilhoes/"
+      }
+     ],
+     "contexto": "dolar-bolsa-e-juros",
+     "completa": {
+      "fina": "O déficit de setembro foi menor que o do mesmo mês de 2025; o Tesouro, por outra metodologia, registrou superávit de R$ 4,8 bilhões.",
+      "atualizada": "30 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Banco Central divulgou na quinta-feira (29) as estatísticas fiscais de setembro. A dívida bruta do governo geral, que inclui União, estados e municípios, ficou em 82,9% do Produto Interno Bruto, cerca de R$ 11,1 trilhões, estável em relação a agosto e no maior nível desde 2021, segundo a Agência Brasil.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Dívida bruta:",
+          "t": "82,9% do PIB em setembro. Subiu 4,3 pontos percentuais em 2026."
+         },
+         {
+          "b": "Dívida líquida:",
+          "t": "R$ 9,4 trilhões, 70% do PIB, ante 69,3% em agosto. A dívida líquida desconta o que o governo tem a receber, como reservas internacionais."
+         },
+         {
+          "b": "Resultado primário de setembro:",
+          "t": "déficit de R$ 5,5 bilhões no setor público consolidado, ante R$ 17,5 bilhões em setembro de 2025 e R$ 10 bilhões em agosto de 2026."
+         },
+         {
+          "b": "Em 12 meses:",
+          "t": "déficit primário de R$ 70,1 bilhões, 0,52% do PIB."
+         },
+         {
+          "b": "Juros da dívida em 12 meses:",
+          "t": "R$ 1,205 trilhão, 8,99% do PIB, ante R$ 984,8 bilhões, 7,86%, um ano antes."
+         },
+         {
+          "b": "Déficit nominal em 12 meses:",
+          "t": "R$ 1,275 trilhão, 9,51% do PIB. É o resultado com os juros incluídos."
+         }
+        ]
+       },
+       {
+        "h": "Por que os números do Tesouro e do BC diferem",
+        "p": [
+         "Na véspera, o Tesouro Nacional informou superávit primário de R$ 4,8 bilhões do governo central em setembro. O número do Banco Central é diferente porque inclui estados, municípios e estatais e usa outra metodologia, com base no financiamento, segundo a Agência Brasil. No acumulado do ano, o governo central tem déficit de R$ 90,2 bilhões, segundo coluna do ND Mais."
+        ]
+       },
+       {
+        "h": "Por que os juros pesaram",
+        "p": [
+         "Os juros pagos em setembro foram de R$ 107,5 bilhões, R$ 22,8 bilhões a mais que um ano antes. O Banco Central atribui parte da alta a resultados desfavoráveis em operações de swap cambial, instrumentos que ele usa para conter a volatilidade do dólar, segundo a Agência Brasil. Com a Selic em 13,75%, a conta de juros continua alta."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "O ministro da Fazenda, Dario Durigan,",
+          "t": "disse na terça (27) que o governo vai buscar o centro da meta fiscal e que a proposta será discutida com o Congresso."
+         },
+         {
+          "b": "Analistas ouvidos pela imprensa nesta semana",
+          "t": "citaram a situação fiscal como um dos motivos da queda da Bolsa. Lucas Xavier, da AW Capital, disse à Reuters na quarta que \"nenhum cenário positivo em relação à situação fiscal do Brasil foi divulgado até o momento\"."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quais medidas fiscais o governo vai propor e quanto elas economizam."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O Banco Central divulga os números de outubro no fim de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "O Povo, com Agência Brasil: estatísticas fiscais de setembro",
+        "u": "https://www.opovo.com.br/noticias/economia/2026/10/29/divida-publica-fica-em-829-do-pib-e-deficit-soma-rs-55-bilhoes.html"
+       },
+       {
+        "t": "Bora Investir, da B3",
+        "u": "https://borainvestir.b3.com.br/noticias/divida-publica-fica-em-829-do-pib-e-deficit-soma-r-55-bilhoes/"
+       },
+       {
+        "t": "ND Mais: resultado do Tesouro",
+        "u": "https://ndmais.com.br/economia/lula-da-o-bolo-no-mercado-e-precos-na-bolsa-ainda-derretem-sem-resposta-sobre-a-fazenda/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Colisão de trens de alta velocidade mata ao menos 68 na Espanha",
+     "texto": "Um trem da Renfe que ia de Madri a Sevilha bateu na quarta (28) na traseira de um trem parado da Iryo, perto de Urda, na província de Toledo. Ao menos 68 pessoas morreram e cerca de 80 ficaram feridas, segundo o governo regional.",
+     "pq": "é o acidente ferroviário mais grave da Europa desde 2013 e o segundo com trens de alta velocidade na Espanha em 2026. O ministro dos Transportes, Óscar Puente, chamou de \"inexplicável\" a ordem do centro de controle que liberou o trem. O país tem três dias de luto.",
+     "fontes": [
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/10/29/what-we-know-about-spains-second-high-speed-rail-tragedy-this-year"
+      },
+      {
+       "t": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/internacional/colisao-de-trem-na-espanha-deixa-pelo-menos-68-mortos-diz-governo/"
+      },
+      {
+       "t": "NPR",
+       "u": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates"
+      }
+     ],
+     "completa": {
+      "fina": "Uma falha no sistema de sinalização parou os trens; o centro de controle mandou que voltassem a andar, e o da Renfe passou de 200 km/h antes da batida.",
+      "atualizada": "30 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "Um trem de alta velocidade da Renfe, estatal espanhola, com 397 pessoas a bordo, bateu às 8h53 de quarta-feira (28) na traseira de um trem da Iryo, empresa privada, com 147 pessoas, que estava parado na mesma linha entre Urda e Los Yébenes, na província de Toledo, ao sul de Madri. Dois vagões da Iryo saíram dos trilhos e caíram de um barranco, segundo a Al Jazeera e a CNN Brasil.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         "Ao menos 68 mortos, segundo o presidente de Castilla-La Mancha, Emiliano García-Page, e a porta-voz regional Esther Padilla. Reportagens da quinta (29) falam em 69.",
+         "Cerca de 80 feridos, 50 em estado grave e 15 em estado crítico.",
+         "É o acidente ferroviário com mais mortes na Europa desde o descarrilamento de Santiago de Compostela, em 2013, que matou 80 pessoas."
+        ]
+       },
+       {
+        "h": "Como aconteceu",
+        "p": [
+         "Segundo a Al Jazeera, uma falha de computador desligou por volta das 8h30 o LZB, sistema principal de sinalização da linha, e cerca de seis trens pararam num trecho de 63 km. O centro de controle da Adif, gestora da rede, em Madri, autorizou os trens a voltar a andar: a Renfe às 8h36 e a Iryo às 8h41. O trem da Iryo continuou parado, e o da Renfe passou de 200 km/h antes da colisão. As regras espanholas limitam a velocidade a 40 km/h quando o LZB falha."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Óscar Puente,",
+          "t": "ministro dos Transportes, chamou de \"inexplicável\" a ordem do centro de controle e disse que as tripulações não têm culpa."
+         },
+         {
+          "b": "Pedro Sánchez,",
+          "t": "primeiro-ministro, foi ao local, decretou três dias de luto nacional e prometeu responsabilização."
+         },
+         {
+          "b": "A Renfe",
+          "t": "diz que o trem seguiu as instruções recebidas. Fontes da Iryo dizem que o trem parou num sinal e chamou o controle, como manda a regra."
+         },
+         {
+          "b": "Alberto Núñez Feijóo,",
+          "t": "líder do Partido Popular, de oposição, pediu investigação completa."
+         },
+         {
+          "b": "Santiago Abascal,",
+          "t": "líder do Vox, chamou o governo de \"organização criminosa\"."
+         }
+        ]
+       },
+       {
+        "h": "O acidente de janeiro",
+        "p": [
+         "Em 18 de janeiro, um trem de alta velocidade descarrilou perto de Adamuz, na província de Córdoba, e bateu num trem que vinha em sentido contrário, matando 46 pessoas, segundo a Al Jazeera. Também envolveu trens da Renfe e da Iryo. Sánchez disse que os dois acidentes parecem não ter relação. A linha Madri–Sevilha é a única de alta velocidade que ainda usa o LZB, de 1992, cuja troca começou em 2021."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Onde exatamente falhou o centro de controle. A Adif ainda não identificou o ponto da falha.",
+         "Se há brasileiros entre as vítimas. As fontes consultadas não informam."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O luto nacional vai até sábado (31).",
+         "A Renfe suspendeu a venda de passagens no corredor Madri–Andaluzia até 13 de dezembro.",
+         "O acidente acontece semanas antes de eleições gerais; Sánchez e Feijóo cancelaram atos de campanha."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: o que se sabe",
+        "u": "https://www.aljazeera.com/news/2026/10/29/what-we-know-about-spains-second-high-speed-rail-tragedy-this-year"
+       },
+       {
+        "t": "CNN Brasil: colisão na Espanha",
+        "u": "https://www.cnnbrasil.com.br/internacional/colisao-de-trem-na-espanha-deixa-pelo-menos-68-mortos-diz-governo/"
+       },
+       {
+        "t": "NPR: o segundo acidente do ano",
+        "u": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Contagem termina em Israel sem maioria, e árabes chegam a 19 cadeiras",
+     "texto": "Com todos os votos contados, o bloco de Benjamin Netanyahu tem 53 das 120 cadeiras do Parlamento de Israel; o de Gadi Eisenkot, 48; e os partidos árabes, 19, recorde. O comparecimento foi de 77,9%, segundo o Times of Israel. São precisas 61 cadeiras.",
+     "pq": "o resultado abre semanas de negociação. O presidente Isaac Herzog pediu que se evite nova eleição. A Comissão Eleitoral disse que são \"totalmente infundadas\" as acusações do Likud de fraude dos partidos árabes. O resultado oficial vai a Herzog na quarta (4).",
+     "fontes": [
+      {
+       "t": "The Times of Israel",
+       "u": "https://www.timesofisrael.com/with-all-votes-counted-netanyahus-bloc-at-53-seats-eisenkots-48-arab-parties-19/"
+      },
+      {
+       "t": "Israel Hayom",
+       "u": "https://www.israelhayom.com/2026/10/29/israels-2026-election-results-released/"
+      },
+      {
+       "t": "The Jerusalem Post",
+       "u": "https://www.jpost.com/israel-election-2026/article-913164"
+      }
+     ],
+     "contexto": "eleicao-israel-2026",
+     "completa": {
+      "fina": "O bloco de Netanyahu caiu de 68 para 53 cadeiras; o novo Parlamento toma posse em 10 de novembro.",
+      "atualizada": "30 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Comissão Central Eleitoral de Israel terminou de contar os votos da eleição de terça (27), incluindo os votos em envelope duplo, de soldados, diplomatas e presos, entre outros. O bloco do primeiro-ministro Benjamin Netanyahu ficou com 53 cadeiras, ante 68 no Parlamento que sai. O bloco de oposição, liderado por Gadi Eisenkot, tem 48, e os partidos árabes, 19, o maior número da história, segundo o Times of Israel.",
+      "blocos": [
+       {
+        "h": "As cadeiras por partido",
+        "li": [
+         {
+          "b": "Bloco de Netanyahu, 53:",
+          "t": "Likud 27, Judaísmo Unido da Torá 7, Otzma Yehudit 7, Shas 6, Sionismo Religioso 6."
+         },
+         {
+          "b": "Bloco de Eisenkot, 48:",
+          "t": "Yashar 21, Juntos 12, Os Democratas 8, Yisrael Beiteinu 7."
+         },
+         {
+          "b": "Partidos árabes, 19:",
+          "t": "Lista Conjunta 11 e Ra'am 8."
+         },
+         {
+          "b": "Fora do Parlamento:",
+          "t": "Reservistas, de Yoaz Hendel, com 2,63%; Povo de Israel, de Ofer Winter, com 1,7%; e o partido Público Haredi, com 0,2%."
+         },
+         {
+          "b": "Comparecimento:",
+          "t": "77,9%, com 5.716.665 votos, segundo o Times of Israel."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Isaac Herzog, presidente:",
+          "t": "\"Precisamos fazer tudo, certamente depois de ontem, para evitar outra rodada de eleições\", segundo o Jerusalem Post. Tradução do Contexto."
+         },
+         {
+          "b": "O Likud",
+          "t": "acusou partidos árabes de fraude e pediu investigação."
+         },
+         {
+          "b": "Dean Livne, diretor interino da Comissão Eleitoral,",
+          "t": "disse que as acusações são \"totalmente infundadas\" e que a apuração não muda o resultado enviado ao presidente. A polícia também disse não haver base para a tese de eleição \"roubada\", segundo o Times of Israel."
+         },
+         {
+          "b": "Yair Golan (Os Democratas):",
+          "t": "\"Sei contar até 120. Sessenta e cinco é mais que 55.\""
+         },
+         {
+          "b": "Ahmad Tibi (Lista Conjunta):",
+          "t": "\"Estamos estendendo a mão e prontos para ajudar.\""
+         }
+        ]
+       },
+       {
+        "h": "Os caminhos possíveis",
+        "li": [
+         "Governo de união entre Likud e Yashar: o Jerusalem Post considera improvável, porque Eisenkot rejeita servir sob Netanyahu.",
+         "Governo de minoria da oposição com apoio árabe: Avigdor Lieberman e outros líderes da oposição já se opuseram a depender dos partidos árabes.",
+         "Nova eleição, que Herzog pede para evitar."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem cada partido vai recomendar a Herzog para formar governo.",
+         "O resultado da investigação do serviço de segurança interna sobre suspeitas de interferência estrangeira, que, segundo o Times of Israel, não foi comprovada."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A Comissão entrega o resultado oficial a Herzog na quarta (4).",
+         "Herzog ouve os líderes dos partidos e escolhe quem tenta formar governo.",
+         "O novo Parlamento toma posse em 10 de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "The Times of Israel: todos os votos contados",
+        "u": "https://www.timesofisrael.com/with-all-votes-counted-netanyahus-bloc-at-53-seats-eisenkots-48-arab-parties-19/"
+       },
+       {
+        "t": "Israel Hayom: resultados",
+        "u": "https://www.israelhayom.com/2026/10/29/israels-2026-election-results-released/"
+       },
+       {
+        "t": "The Jerusalem Post: caminhos possíveis",
+        "u": "https://www.jpost.com/israel-election-2026/article-913164"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "ONU condena embargo a Cuba com o menor apoio desde 1995",
+     "texto": "A Assembleia Geral da ONU aprovou na quarta (28) resolução contra o embargo dos EUA a Cuba por 130 votos a 17, com 25 abstenções. Em 2025, foram 165 votos a favor e 7 contra. É o menor apoio desde 1995, segundo o Rio Times.",
+     "pq": "a resolução não obriga os EUA a nada, mas mede o apoio internacional ao fim do embargo, em vigor há mais de seis décadas. O governo Trump fez campanha por votos contrários. Chile e Peru se abstiveram, citando direitos humanos em Cuba.",
+     "fontes": [
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push"
+      },
+      {
+       "t": "Rio Times",
+       "u": "https://www.riotimesonline.com/cuba-un-general-assembly-votes-against-us-embargo/"
+      }
+     ],
+     "completa": {
+      "fina": "O embaixador americano disse que mais países mudaram de posição; o chanceler cubano disse que os EUA estão \"isolados\".",
+      "atualizada": "30 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Assembleia Geral das Nações Unidas aprovou na quarta-feira (28), pelo 34º ano, uma resolução que pede o fim do embargo econômico, comercial e financeiro dos Estados Unidos contra Cuba. Foram 130 votos a favor, 17 contra e 25 abstenções, além de 21 países que não votaram, segundo a Al Jazeera e o Rio Times.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "2026:",
+          "t": "130 a favor, 17 contra, 25 abstenções, 21 sem voto."
+         },
+         {
+          "b": "2025:",
+          "t": "165 a favor, 7 contra, 12 abstenções, 9 sem voto."
+         },
+         {
+          "b": "Diferença:",
+          "t": "35 votos a favor a menos, 10 contrários a mais e 13 abstenções a mais."
+         },
+         {
+          "b": "Histórico:",
+          "t": "em 1995, foram 117 votos a favor; em 1996, 137, segundo registros da ONU citados pelo Rio Times."
+         }
+        ]
+       },
+       {
+        "h": "Quem mudou",
+        "li": [
+         "Os EUA e Israel votaram contra. A lista completa dos 17 votos contrários não tinha sido publicada pela ONU até a tarde da votação.",
+         "Chile, Peru e Catar se abstiveram. Chile e Peru citaram a situação dos direitos humanos em Cuba. Nenhum dos três estava entre os contrários ou abstenções de 2025.",
+         "Austrália e Nova Zelândia votaram a favor e disseram que o voto não é um apoio ao governo cubano.",
+         "A União Europeia, por meio da Irlanda, criticou o alcance extraterritorial das sanções americanas.",
+         "As fontes consultadas não informam o voto do Brasil."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Mike Waltz, embaixador dos EUA na ONU,",
+          "t": "disse estar satisfeito porque países como Coreia e Alemanha mudaram de posição e que o número de países que mudaram triplicou: \"esperamos que isso continue a crescer\", segundo a Al Jazeera. Ele nega que haja bloqueio e citou US$ 876 milhões em exportações americanas para Cuba nos oito primeiros meses de 2026."
+         },
+         {
+          "b": "Bruno Rodríguez, chanceler de Cuba,",
+          "t": "disse que os EUA estão \"mais uma vez isolados na tentativa de continuar estrangulando o povo cubano\". Ele chamou as medidas de punição coletiva."
+         }
+        ]
+       },
+       {
+        "h": "O contexto",
+        "p": [
+         "O embargo começou no início dos anos 1960. Segundo a Al Jazeera, o governo Trump acrescentou novas restrições, entre elas um bloqueio de energia, e as condições de vida na ilha pioraram. Na véspera da votação, Waltz e Rodríguez discutiram no plenário."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quais foram os 17 países contrários e como votou o Brasil."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A ONU publica o registro de votos por país.",
+         "A resolução volta à Assembleia Geral no ano que vem, como acontece desde 1992.",
+         "O embargo só pode ser suspenso pelo Congresso dos EUA, por lei."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: votação na ONU",
+        "u": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push"
+       },
+       {
+        "t": "Rio Times: o menor apoio desde 1995",
+        "u": "https://www.riotimesonline.com/cuba-un-general-assembly-votes-against-us-embargo/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Microsoft sobe e Alphabet cai após balanços com gasto em IA",
+     "texto": "A Microsoft informou na quarta (28) receita de US$ 92,3 bilhões no trimestre, alta de 19%, e o Azure cresceu 48%. A Alphabet, dona do Google, teve receita de US$ 127,6 bilhões, alta de 25%, mas abaixo do esperado, e as ações caíram mais de 10%.",
+     "pq": "os resultados mostram se os bilhões gastos em inteligência artificial estão virando vendas. A Alphabet disse que vai aumentar muito os investimentos em infraestrutura de IA em 2027, e o fluxo de caixa ficou negativo de novo, segundo a Reuters.",
+     "fontes": [
+      {
+       "t": "Microsoft",
+       "u": "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/"
+      },
+      {
+       "t": "InfoMoney, com Reuters",
+       "u": "https://www.infomoney.com.br/mercados/alphabet-lucra-bilhoes-com-chips-de-ia-mas-formacao-de-estoque-aperta-o-caixa/"
+      },
+      {
+       "t": "Euronews",
+       "u": "https://www.euronews.com/2026/10/29/shares-and-us-futures-mixed-after-google-parent-alphabets-earnings-disappoint"
+      }
+     ],
+     "completa": {
+      "fina": "A receita de nuvem do Google mais que dobrou, mas o mercado reagiu ao custo dos investimentos.",
+      "atualizada": "30 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "Microsoft e Alphabet, controladora do Google, divulgaram na quarta-feira (28) os resultados do trimestre encerrado em setembro. As duas aumentaram a receita, mas a reação dos investidores foi oposta: as ações da Microsoft subiram e as da Alphabet caíram cerca de 10% no pós-mercado e mais de 13% na manhã de quinta (29), segundo a Euronews e a Reuters.",
+      "blocos": [
+       {
+        "h": "Os números da Microsoft",
+        "li": [
+         {
+          "b": "Receita:",
+          "t": "US$ 92,3 bilhões, alta de 19% em um ano, segundo a empresa."
+         },
+         {
+          "b": "Lucro líquido:",
+          "t": "US$ 36,6 bilhões, alta de 32%. Sem os efeitos do investimento na OpenAI, US$ 36,4 bilhões, alta de 18%."
+         },
+         {
+          "b": "Nuvem:",
+          "t": "a Microsoft Cloud faturou US$ 63,9 bilhões, alta de 30%. O Azure, serviço de nuvem, cresceu 48%."
+         },
+         {
+          "b": "Satya Nadella, presidente-executivo,",
+          "t": "disse que a empresa entrega \"mais capacidade, escolha, controle e eficiência de custos\" aos clientes. Tradução do Contexto."
+         }
+        ]
+       },
+       {
+        "h": "Os números da Alphabet",
+        "li": [
+         {
+          "b": "Receita:",
+          "t": "US$ 127,6 bilhões, alta de 25%, um pouco abaixo do esperado pelo mercado."
+         },
+         {
+          "b": "Lucro:",
+          "t": "abaixo das expectativas, segundo a Reuters."
+         },
+         {
+          "b": "Nuvem:",
+          "t": "a receita do Google Cloud mais que dobrou no trimestre."
+         },
+         {
+          "b": "Investimentos:",
+          "t": "a empresa disse que o gasto com infraestrutura de IA vai subir muito em 2027. O fluxo de caixa livre ficou negativo por mais um trimestre."
+         },
+         {
+          "b": "Chips próprios:",
+          "t": "a venda dos chips de IA do Google, os TPUs, teve contribuição \"significativa\", segundo a empresa, que não divulga o valor separado."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Anat Ashkenazi, diretora financeira da Alphabet:",
+          "t": "\"vemos o dinheiro saindo... não se trata do tipo tradicional de investimento em ativos fixos\", segundo a Reuters."
+         },
+         {
+          "b": "Jeremy Saltzberg, da Check Capital:",
+          "t": "\"Acreditamos plenamente que se trata de oscilações de curto prazo.\""
+         },
+         {
+          "b": "A Euronews",
+          "t": "diz que o resultado levantou dúvidas sobre se a Alphabet consegue gerar vendas suficientes para justificar os grandes investimentos em IA."
+         }
+        ]
+       },
+       {
+        "h": "Por que isso importa fora de Wall Street",
+        "p": [
+         "As grandes empresas de tecnologia estão entre as maiores compradoras de chips, energia e data centers do mundo. Quando o mercado questiona o retorno desses investimentos, o efeito chega a outras Bolsas: na quinta, o S&P 500 caiu 0,3%, puxado por ações de tecnologia, segundo a Agência Brasil."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quanto a Alphabet vai investir em 2027. A empresa não deu o valor.",
+         "Se a queda das ações se mantém nos próximos pregões."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Outras grandes empresas de tecnologia divulgam resultados nos próximos dias."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Microsoft: resultados do 1º trimestre fiscal",
+        "u": "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/"
+       },
+       {
+        "t": "InfoMoney, com Reuters: Alphabet",
+        "u": "https://www.infomoney.com.br/mercados/alphabet-lucra-bilhoes-com-chips-de-ia-mas-formacao-de-estoque-aperta-o-caixa/"
+       },
+       {
+        "t": "Euronews: reação dos mercados",
+        "u": "https://www.euronews.com/2026/10/29/shares-and-us-futures-mixed-after-google-parent-alphabets-earnings-disappoint"
+       },
+       {
+        "t": "Agência Brasil: mercados em 29 out",
+        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-076-e-fecha-r-539-em-dia-de-cautela"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "EUA oferecem US$ 5 bilhões para ampliar usinas que abastecem data centers",
+     "texto": "O Departamento de Energia dos EUA anunciou na terça (27) compromisso condicional de empréstimo de até US$ 5 bilhões à Constellation Energy para ampliar em quase 1,1 gigawatt a produção de oito usinas nucleares. Google, Amazon e Meta compraram boa parte dessa energia.",
+     "pq": "a inteligência artificial exige muita energia, e as empresas buscam fontes estáveis para seus data centers. O governo diz que o crédito garante energia \"acessível\" para casas e empresas; o TechCrunch diz não haver evidência de que a conta de luz vá cair.",
+     "fontes": [
+      {
+       "t": "Departamento de Energia dos EUA",
+       "u": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs"
+      },
+      {
+       "t": "TechCrunch",
+       "u": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/"
+      }
+     ],
+     "completa": {
+      "fina": "O empréstimo ainda não é definitivo; a empresa precisa cumprir condições técnicas, legais, ambientais e financeiras.",
+      "atualizada": "30 out 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Departamento de Energia dos Estados Unidos anunciou na terça-feira (27) um compromisso condicional de empréstimo de até US$ 5 bilhões à Constellation Energy, maior operadora de usinas nucleares do país. O dinheiro serve para aumentar a potência de 11 reatores em oito usinas em Illinois, Maryland e Pensilvânia, somando quase 1,1 gigawatt, segundo o governo.",
+      "blocos": [
+       {
+        "h": "Os detalhes",
+        "li": [
+         {
+          "b": "Valor:",
+          "t": "até US$ 5 bilhões, pelo escritório de financiamento do Departamento de Energia."
+         },
+         {
+          "b": "Tipo:",
+          "t": "compromisso condicional. Sinaliza a intenção de emprestar, mas depende de condições técnicas, legais, ambientais e financeiras."
+         },
+         {
+          "b": "Usinas:",
+          "t": "Braidwood, Byron, Clinton, Dresden, LaSalle e Quad Cities, em Illinois; Calvert Cliffs, em Maryland; e Limerick, na Pensilvânia."
+         },
+         {
+          "b": "Potência:",
+          "t": "quase 1,1 gigawatt a mais, o suficiente para mais de 930 mil casas, segundo o governo."
+         },
+         {
+          "b": "Empregos:",
+          "t": "mais de 10 mil ligados ao projeto, segundo o governo."
+         }
+        ]
+       },
+       {
+        "h": "Quem compra a energia",
+        "p": [
+         "Segundo o TechCrunch, a maior parte ou toda a energia adicional de sete das oito usinas já foi comprada por Google, Meta ou Amazon. O Google é o comprador confirmado de Limerick e de quatro usinas em Illinois; a Amazon compra de Calvert Cliffs; e a Meta compra praticamente toda a usina de Clinton. A Constellation já se comprometeu a investir mais de US$ 7 bilhões para entregar 1.080 megawatts a essas empresas."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Chris Wright, secretário de Energia:",
+          "t": "o crédito faz parte de \"liberar todo o potencial da frota nuclear do país\". Tradução do Contexto."
+         },
+         {
+          "b": "Gregory A. Beard, diretor do escritório de financiamento:",
+          "t": "os investimentos vão \"acrescentar energia de base mais confiável à rede\"."
+         },
+         {
+          "b": "A Constellation",
+          "t": "diz que o empréstimo \"pode reduzir os custos de financiamento\" dos projetos."
+         },
+         {
+          "b": "O TechCrunch",
+          "t": "diz que não há evidência de que a nova capacidade baixe a conta de luz das famílias e que a empresa não confirmou essa afirmação."
+         }
+        ]
+       },
+       {
+        "h": "O que é aumentar a potência de um reator",
+        "p": [
+         "Em vez de construir usinas novas, o que leva muitos anos, as empresas trocam equipamentos e ajustam o combustível dos reatores existentes para gerar mais energia. É uma forma mais rápida de ampliar a oferta para atender data centers de inteligência artificial."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando o empréstimo será fechado.",
+         "Quanto do benefício chega ao consumidor comum."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A Constellation precisa cumprir as condições para que o empréstimo seja assinado."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Departamento de Energia dos EUA: anúncio do empréstimo",
+        "u": "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs"
+       },
+       {
+        "t": "TechCrunch: usinas e compradores",
+        "u": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "35 votos",
+  "texto": "a menos teve, em relação a 2025, a resolução da ONU contra o embargo dos EUA a Cuba: 130 a favor, ante 165 no ano passado.",
+  "fontes": [
+   {
+    "t": "Rio Times",
+    "u": "https://www.riotimesonline.com/cuba-un-general-assembly-votes-against-us-embargo/"
+   },
+   {
+    "t": "Al Jazeera",
+    "u": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "A Meta lançou nas Filipinas o Waddle World, app em que um bichinho de pixels ouve como foi seu dia e escreve um diário. A redação, que é uma IA, já escreve o próprio diário: é esta newsletter.",
+  "fontes": [
+   {
+    "t": "TechCrunch",
+    "u": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/"
+   },
+   {
+    "t": "Gizmodo",
+    "u": "https://gizmodo.com/metas-leaning-into-tamagotchis-because-it-knows-youre-a-sucker-for-engagement-2000832062"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela aprovação de uma pessoa, o editor responsável, antes do envio. Esta edição cita a OpenAI, concorrente da Anthropic.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "após 1 rodada de ajuste",
+  "resumo": "A edição passa no teste do espelho. Na nota sobre Flávio, as falas de Trump aparecem entre aspas, com a ressalva de que ele não apresentou provas, ao lado do resultado do TSE e do reconhecimento do PL. Na Espanha e em Israel, governo e oposição aparecem na própria voz.",
+  "pontos": [
+   "Brasil 1: o título usa \"criticar\", e não \"atacar\"; a palavra \"vergonha\" aparece só entre aspas, atribuída a Trump.",
+   "Brasil 1: as críticas da PGR são de fontes anônimas e estão identificadas assim.",
+   "Brasil 1: a redação não encontrou resposta do governo brasileiro às falas de Trump e diz isso.",
+   "Brasil 2: a soma de \"mais de 16%\" de queda foi conferida com os quatro fechamentos da semana.",
+   "Mundo 1: nota sobre mortes, sem menção leve à IA; a fala de Abascal (\"organização criminosa\") aparece entre aspas, ao lado da de Feijóo.",
+   "Mundo 2: a acusação de fraude do Likud aparece com a resposta da Comissão Eleitoral e da polícia.",
+   "Inovação 1: cita a OpenAI (resultado da Microsoft); o rodapé avisa que ela é concorrente da Anthropic.",
+   "Inovação 2: a promessa de energia \"acessível\" é atribuída ao governo, com a ressalva do TechCrunch."
+  ],
+  "equilibrio": "Governo federal: duas menções neutras (Durigan, com fala atribuída; ausência de anúncio da Fazenda). Oposição: uma nota sobre Flávio, com o reconhecimento do resultado pelo PL e por Tarcísio. Nenhum adjetivo de valor fora de aspas.",
+  "foraDaEdicao": [
+   "Pedido de Moraes à PGR e eventual decisão sobre a prisão de Flávio: não houve decisão até o fechamento.",
+   "Tempestade tropical Vance, no México, e alta dos juros no Canadá: só uma fonte aberta a tempo.",
+   "Pacote de perdão de dívidas de MEIs: é de 13 de outubro; a fala nova do ministro não trazia fato novo.",
+   "Mundo 1, Mundo 3 e as duas notas de Inovação saíram sem página de Contexto."
+  ]
+ }
+}
