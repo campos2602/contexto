@@ -5,7 +5,7 @@ name: Gerar site público e kit de redes
 on:
   push:
     branches: [main]
-    paths: ["edicoes/**", "contextos/**", "ferramentas/**", "ler/estilo.css", "ler/leitor.js", ".github/workflows/site.yml"]
+    paths: ["edicoes/**", "contextos/**", "ferramentas/**", "ler/estilo.css", "ler/leitor.js", "ler/ouvir.js", "ler/falado.js", ".github/workflows/site.yml"]
   workflow_dispatch:
 
 permissions:

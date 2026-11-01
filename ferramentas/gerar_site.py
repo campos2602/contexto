@@ -127,6 +127,8 @@ def pagina(caminho, titulo, descricao, corpo, tipo="website", publicado=None, in
 </div></footer>
 <script>window.CONTEXTO = {{ site: "{s}", base: "{b}", supabase: "{sb}", chave: "{key}", inscricoes: "{isb}", chaveInscricoes: "{ikey}" }};</script>
 <script src="{b}ler/leitor.js" defer></script>
+<script src="{b}ler/falado.js" defer></script>
+<script src="{b}ler/ouvir.js" defer></script>
 </body>
 </html>
 """.format(corpo=corpo, t=esc(titulo_completo), d=esc(descricao), u=esc(url), img=esc(img), tipo=tipo, pub=meta_pub, b=BASE, s=SITE,
@@ -149,6 +151,11 @@ def caixa_assinar(origem, titulo="Receba o Contexto no seu e-mail", texto="Grát
 </section>""".format(o=esc(origem), t=esc(titulo), x=esc(texto), b=BASE)
 
 
+def botao_ouvir(alvo, titulo, rotulo="Ouvir", cheio=False):
+    """Botão que narra em voz alta o trecho `alvo` (seletor CSS) ou a edição inteira ("edicao"). Ver ler/ouvir.js."""
+    return '<button class="btn%s ouvir" type="button" data-ouvir="%s" data-titulo="%s">%s</button>' % (" cheio" if cheio else "", esc(alvo), esc(titulo), esc(rotulo))
+
+
 def botao_compartilhar(titulo, texto, url):
     return ('<button class="btn leve compartilhar" type="button" data-titulo="%s" data-texto="%s" data-url="%s">'
             '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M12 3v13M7 8l5-5 5 5M5 14v5a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-5"/></svg>'
@@ -160,26 +167,30 @@ def botao_compartilhar(titulo, texto, url):
 def v_edicao(ed, contextos, rotulo_topo=None):
     k = ed["_id"]
     url_ed = SITE + "/ler/%s/" % k
-    h = ['<article class="folha">', '<header class="edhead"><div class="linha"><span class="rotulo">%s</span><span class="rotulo">%s de leitura</span></div>'
-         % (esc(rotulo_topo or ed.get("dia") or data_curta(ed.get("data"))), esc(ed.get("leitura") or "5 min"))]
-    h.append("<h1 class=\"sr\">Contexto de %s</h1></header>" % esc(ed.get("dia") or data_curta(ed.get("data"))))
+    dia = ed.get("dia") or data_curta(ed.get("data"))
+    h = ['<article class="folha" data-ler-raiz>', '<header class="edhead"><div class="linha"><span class="rotulo">%s</span><span class="rotulo">%s de leitura</span></div>'
+         % (esc(rotulo_topo or dia), esc(ed.get("leitura") or "5 min"))]
+    h.append("<h1 class=\"sr\">Contexto de %s</h1>" % esc(dia))
+    h.append('<div class="acoes">%s</div></header>' % botao_ouvir("edicao", "Contexto de " + dia, "Ouvir a edição", True))
     if ed.get("abre"):
-        h.append('<p class="abre">%s</p>' % esc(ed["abre"]))
+        h.append('<p class="abre" data-ler="Abertura">%s</p>' % esc(ed["abre"]))
     if ed.get("trinta"):
-        h.append('<section class="sec"><span class="etq">Em 30 segundos</span><ol class="trinta">%s</ol>%s</section>' % (
+        h.append('<section class="sec" id="ler-trinta" data-ler="Em 30 segundos"><span class="etq">Em 30 segundos</span><ol class="trinta">%s</ol>%s</section>' % (
             "".join("<li><span>%s</span></li>" % esc(t) for t in ed["trinta"]),
-            '<div class="acoes">%s</div>' % botao_compartilhar("Contexto em 30 segundos", "\n".join("• " + t for t in ed["trinta"]), url_ed)))
+            '<div class="acoes">%s%s</div>' % (botao_ouvir("#ler-trinta", "Em 30 segundos", "Ouvir resumo"), botao_compartilhar("Contexto em 30 segundos", "\n".join("• " + t for t in ed["trinta"]), url_ed))))
     for s in ed.get("secoes") or []:
         h.append('<section class="sec"><span class="etq %s">%s</span>' % (SECAO.get(s.get("nome"), ""), esc(s.get("nome"))))
         for n in s.get("notas") or []:
             tem_nc = bool(n.get("completa"))
             tem_cx = bool(n.get("contexto") and n["contexto"] in contextos)
             url_nota = SITE + ("/ler/%s/%s/" % (k, n["id"]) if tem_nc else "/ler/%s/#nota-%s" % (k, n["id"]))
-            h.append('<article class="nota" id="nota-%s"><h3>%s</h3><p>%s</p>' % (esc(n["id"]), esc(n.get("titulo")), esc(n.get("texto"))))
+            h.append('<article class="nota" id="nota-%s" data-ler="%s" data-secao="%s"><h3>%s</h3><p>%s</p>' % (
+                esc(n["id"]), esc(n.get("titulo")), esc(s.get("nome")), esc(n.get("titulo")), esc(n.get("texto"))))
             if n.get("pq"):
                 h.append('<p class="pq"><b>Por que importa:</b> %s</p>' % esc(n["pq"]))
             h.append(fontes(n.get("fontes")))
             h.append('<div class="acoes">')
+            h.append(botao_ouvir("#nota-" + n["id"], n.get("titulo")))
             if tem_nc:
                 h.append('<a class="btn cheio" href="%sler/%s/%s/">Notícia completa</a>' % (BASE, k, esc(n["id"])))
             if tem_cx:
@@ -191,16 +202,16 @@ def v_edicao(ed, contextos, rotulo_topo=None):
             h.append(caixa_assinar("edicao-meio", "Gostou até aqui?", "Receba o Contexto no e-mail, de graça. Leva 5 minutos por dia."))
     if ed.get("numero"):
         nu = ed["numero"]
-        h.append('<section class="sec"><span class="etq">Número do dia</span><div class="numero"><b>%s</b><p>%s</p>%s</div></section>'
+        h.append('<section class="sec" data-ler="Número do dia"><span class="etq">Número do dia</span><div class="numero"><b>%s</b><p>%s</p>%s</div></section>'
                  % (esc(nu.get("valor")), esc(nu.get("texto")), fontes(nu.get("fontes"))))
     if ed.get("fechar"):
-        h.append('<section class="sec"><span class="etq">Para fechar</span><p>%s</p>%s</section>' % (esc(ed["fechar"].get("texto")), fontes(ed["fechar"].get("fontes"))))
+        h.append('<section class="sec" data-ler="Para fechar"><span class="etq">Para fechar</span><p>%s</p>%s</section>' % (esc(ed["fechar"].get("texto")), fontes(ed["fechar"].get("fontes"))))
     if ed.get("corrigimos"):
-        h.append('<section class="sec"><span class="etq">Corrigimos</span>%s</section>' % "".join("<p>%s</p>" % esc(c) for c in ed["corrigimos"]))
+        h.append('<section class="sec" data-ler="Corrigimos"><span class="etq">Corrigimos</span>%s</section>' % "".join("<p>%s</p>" % esc(c) for c in ed["corrigimos"]))
     h.append('<section class="sec"><div class="acoes">%s<button class="btn" type="button" data-avaliar="%s" data-alvo="edicao" data-titulo="Edição inteira">Achei tendencioso</button></div>'
              % (botao_compartilhar("Contexto de " + (ed.get("dia") or ""), (ed.get("trinta") or [""])[0], url_ed), esc(k)))
     if ed.get("transp"):
-        h.append('<p class="transp">%s</p>' % esc(ed["transp"]))
+        h.append('<p class="transp" data-ler="Transparência">%s</p>' % esc(ed["transp"]))
     h.append("</section></article>")
     h.append(caixa_assinar("edicao-fim"))
     return "".join(h)
@@ -209,10 +220,11 @@ def v_edicao(ed, contextos, rotulo_topo=None):
 def v_completa(ed, n, secao, contextos):
     c = n["completa"]
     k = ed["_id"]
-    h = ['<article class="folha pag">', '<span class="etq %s">%s</span>' % (SECAO.get(secao, ""), esc(secao)), "<h1>%s</h1>" % esc(n.get("titulo"))]
+    h = ['<article class="folha pag" id="pag-ler">', '<span class="etq %s">%s</span>' % (SECAO.get(secao, ""), esc(secao)), "<h1>%s</h1>" % esc(n.get("titulo"))]
     if c.get("fina"):
         h.append('<p class="fina">%s</p>' % esc(c["fina"]))
     h.append('<p class="meta"><span class="selo">%s</span><span>Atualizada em %s</span></p>' % (esc(c.get("selo") or n.get("selo") or "Checada"), esc(c.get("atualizada") or data_curta(ed.get("data")))))
+    h.append('<div class="acoes">%s</div>' % botao_ouvir("#pag-ler", n.get("titulo"), "Ouvir a notícia", True))
     if c.get("fato"):
         h.append("<p>%s</p>" % esc(c["fato"]))
     for b in c.get("blocos") or []:
@@ -222,7 +234,7 @@ def v_completa(ed, n, secao, contextos):
         if b.get("li"):
             h.append("<ul>%s</ul>" % "".join("<li>%s</li>" % rich(x) for x in b["li"]))
     if c.get("fontes"):
-        h.append('<h2>Fontes</h2><ul class="fonte">%s</ul>' % "".join('<li><a href="%s" target="_blank" rel="noopener">%s</a></li>' % (link(f.get("u")), esc(f.get("t"))) for f in c["fontes"]))
+        h.append('<h2 data-nao-ler>Fontes</h2><ul class="fonte">%s</ul>' % "".join('<li><a href="%s" target="_blank" rel="noopener">%s</a></li>' % (link(f.get("u")), esc(f.get("t"))) for f in c["fontes"]))
     h.append('<div class="acoes">')
     if n.get("contexto") in contextos:
         h.append('<a class="btn" href="%sler/contexto/%s/">Entenda o Contexto</a>' % (BASE, esc(n["contexto"])))
@@ -236,10 +248,11 @@ def v_completa(ed, n, secao, contextos):
 
 
 def v_contexto(slug, cx):
-    h = ['<article class="folha pag">', '<span class="etq">Contexto</span>', "<h1>%s</h1>" % esc(cx.get("titulo"))]
+    h = ['<article class="folha pag" id="pag-ler">', '<span class="etq">Contexto</span>', "<h1>%s</h1>" % esc(cx.get("titulo"))]
     if cx.get("frase"):
         h.append('<p class="fina">%s</p>' % esc(cx["frase"]))
     h.append('<p class="meta"><span class="selo">%s</span><span>Atualizado em %s</span></p>' % (esc(cx.get("selo") or "Checado"), esc(cx.get("atualizado") or "")))
+    h.append('<div class="acoes">%s</div>' % botao_ouvir("#pag-ler", "Contexto: " + str(cx.get("titulo") or ""), "Ouvir o Contexto", True))
     if cx.get("linha"):
         h.append('<h2>Como chegamos aqui</h2><ol class="tempo">%s</ol>' % "".join('<li><span class="d">%s</span><span>%s</span></li>' % (esc(x.get("d")), esc(x.get("t"))) for x in cx["linha"]))
     if cx.get("termos"):
@@ -248,7 +261,7 @@ def v_contexto(slug, cx):
         if cx.get(chave):
             h.append("<h2>%s</h2><ul>%s</ul>" % (nome, "".join("<li>%s</li>" % rich(x) for x in cx[chave])))
     if cx.get("fontes"):
-        h.append('<h2>Fontes</h2><ul class="fonte">%s</ul>' % "".join('<li><a href="%s" target="_blank" rel="noopener">%s</a></li>' % (link(f.get("u")), esc(f.get("t"))) for f in cx["fontes"]))
+        h.append('<h2 data-nao-ler>Fontes</h2><ul class="fonte">%s</ul>' % "".join('<li><a href="%s" target="_blank" rel="noopener">%s</a></li>' % (link(f.get("u")), esc(f.get("t"))) for f in cx["fontes"]))
     h.append('<div class="acoes">%s<button class="btn" type="button" data-avaliar="" data-alvo="cx-%s" data-titulo="%s">Achei tendencioso</button></div>'
              % (botao_compartilhar(cx.get("titulo"), cx.get("frase"), SITE + "/ler/contexto/%s/" % slug), esc(slug), esc(cx.get("titulo"))))
     h.append('<p class="aviso">O Contexto explica do zero como chegamos até aqui e não traz fato novo. É escrito por IA e checado contra as fontes acima.</p></article>')
