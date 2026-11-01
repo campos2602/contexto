@@ -9,6 +9,10 @@ App de leitura do Contexto, newsletter sobre Mundo, Brasil e Inovação. Instala
 
 Uma tarefa agendada grava a edição nova todo dia de madrugada.
 
+## Minha edição (categorias por leitor)
+
+O catálogo de categorias fica em `categorias.json` (Brasil, Mundo e Inovação de sempre, mais Economia, Política, Esportes, Ciência, Saúde, Meio ambiente, Cultura, Entretenimento, Celebridades, Educação e Trabalho e carreira). Cada seção de uma edição leva `"categoria"` com o id do catálogo. `categorias.js`, carregado pelo app e pelo site, deixa o leitor escolher quais categorias quer e em que ordem (botão "Personalizar"); a escolha fica no celular dele, e as seções que ele não escolheu ficam recolhidas em "Outras seções de hoje". Quem assina tem a escolha guardada também na coluna `categorias` de `contexto_inscritos` (parte "Minha edição" de `supabase/contexto_inscritos.sql`), para o e-mail personalizado. Para criar uma categoria, é só acrescentar um item em `categorias.json`.
+
 ## App Android
 
 A pasta `android/` tem um app que abre o site do Contexto em tela cheia. A cada mudança nela, o GitHub Actions gera o `contexto.apk` e publica na página Releases do repositório.

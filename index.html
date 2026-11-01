@@ -182,12 +182,15 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
 
 <script src="ler/falado.js" defer></script>
 <script src="ler/ouvir.js" defer></script>
+<script src="categorias.js"></script>
 <script>
 (function () {
   "use strict";
   var S = { edicoes: [], contextos: {}, comentarios: [], db: null, me: null, carregou: false, semDb: false };
   var app = document.getElementById("app"), topo = document.getElementById("topo"), camada = document.getElementById("camada");
   var SECAO = { "Mundo": "mundo", "Brasil": "brasil", "Inovação": "inovacao" };
+  // Categoria da seção (ver categorias.json): campo "categoria" da seção ou, nas edições antigas, o nome.
+  function catDe(nome, categoria) { return window.CtxCat ? CtxCat.idDe(nome, categoria) : (categoria || SECAO[nome] || ""); }
   var TIPOS = ["Sugestão", "Erro", "Achei tendencioso", "Gostei"];
 
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
@@ -230,7 +233,8 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
     if (ed.abre) h.push('<p class="abre" data-ler="Abertura">' + esc(ed.abre) + "</p>");
     if (ed.trinta && ed.trinta.length) h.push('<section class="sec" id="ler-trinta" data-ler="Em 30 segundos"><span class="etq">Em 30 segundos</span><ol class="trinta">' + ed.trinta.map(function (t) { return "<li><span>" + esc(t) + "</span></li>"; }).join("") + '</ol><div class="acoes"><button class="btn ouvir" type="button" data-ouvir="#ler-trinta" data-titulo="Em 30 segundos">Ouvir resumo</button></div></section>');
     (ed.secoes || []).forEach(function (s) {
-      h.push('<section class="sec"><span class="etq ' + (SECAO[s.nome] || "") + '">' + esc(s.nome) + "</span>");
+      var cat = catDe(s.nome, s.categoria);
+      h.push('<section class="sec" data-cat="' + esc(cat) + '"><span class="etq ' + esc(cat) + '">' + esc(s.nome) + "</span>");
       (s.notas || []).forEach(function (n) {
         var temNC = !!n.completa, temCX = !!(n.contexto && S.contextos[n.contexto]);
         var q = qtdCom(k, n.id);
@@ -268,7 +272,7 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
   /* ---------- Notícia completa ---------- */
   function vCompleta(ed, n, secao) {
     var c = n.completa, h = [];
-    h.push('<article class="pag" id="pag-ler"><span class="etq ' + (SECAO[secao] || "") + '">Notícia completa · ' + esc(secao) + "</span><h1>" + esc(n.titulo) + "</h1>");
+    h.push('<article class="pag" id="pag-ler"><span class="etq ' + esc(catDe(secao)) + '">Notícia completa · ' + esc(secao) + "</span><h1>" + esc(n.titulo) + "</h1>");
     if (c.fina) h.push('<p class="fina">' + esc(c.fina) + "</p>");
     h.push('<p class="meta"><span>Atualizada em ' + esc(c.atualizada || dataCurta(ed.data)) + "</span>" + (c.selo ? '<span class="selo">' + esc(c.selo) + "</span>" : "") + "</p>");
     h.push('<div class="acoes"><button class="btn cheio ouvir" type="button" data-ouvir="#pag-ler" data-titulo="' + esc(n.titulo) + '">Ouvir a notícia</button></div>');
@@ -350,6 +354,7 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
     else { aba = "hoje"; voltar = false; html = S.edicoes[0] ? vEdicao(S.edicoes[0]) : '<div class="folha">' + vazio() + "</div>"; }
     setTopo(voltar); setAba(aba);
     app.innerHTML = html;
+    if (window.CtxCat) CtxCat.aplicar(app);
   }
   function rotaAtual() { return (location.hash || "").replace(/^#/, ""); }
   window.addEventListener("hashchange", function () { render(); window.scrollTo(0, 0); });
@@ -419,6 +424,10 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
   function seguro(fn) { if (!camada.innerHTML) fn(); }
   function ordenar(a) { return a.sort(function (x, y) { return String(y.data).localeCompare(String(x.data)) || String(y.geradaEm || "").localeCompare(String(x.geradaEm || "")); }); }
 
+  if (window.CtxCat) {
+    CtxCat.sugerir = function (t) { return enviarComentario({ edicao: "", alvo: "categoria", alvoTitulo: "Nova categoria", tipo: "Sugestão de categoria", texto: t.slice(0, 300) }); };
+    CtxCat.carregar().then(function () { seguro(render); });
+  }
   var c1 = cache("edicoes"), c2 = cache("contextos");
   if (c1 && c1.length && c1[0]._id) { S.edicoes = c1; S.carregou = true; }
   if (c2) S.contextos = c2;

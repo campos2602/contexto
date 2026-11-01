@@ -20,3 +20,26 @@ create policy "contexto: inscricao publica" on public.contexto_inscritos
 -- select i.codigo, i.email, count(*) as indicacoes
 --   from public.contexto_inscritos i join public.contexto_inscritos n on n.indicado_por = i.codigo
 --  group by 1, 2 order by 3 desc;
+
+-- Minha edição (nov 2026): categorias que cada leitor escolheu, na ordem dele (ids de categorias.json).
+-- Seguro rodar mais de uma vez. Sem esta parte o site continua inscrevendo, só não guarda a escolha.
+alter table public.contexto_inscritos add column if not exists categorias text[];
+alter table public.contexto_inscritos drop constraint if exists contexto_inscritos_categorias_ck;
+alter table public.contexto_inscritos add constraint contexto_inscritos_categorias_ck
+  check (categorias is null or (cardinality(categorias) <= 30 and array_to_string(categorias, ',') ~ '^[a-z0-9-]{1,40}(,[a-z0-9-]{1,40})*$'));
+alter table public.contexto_inscritos add column if not exists categorias_em timestamptz;
+
+-- O leitor muda as categorias depois de inscrito. O código de indicação (8 letras aleatórias, só ele tem
+-- no celular) é a chave; a função só mexe nessas duas colunas e não devolve dado nenhum.
+create or replace function public.contexto_preferencias(p_codigo text, p_categorias text[])
+returns void language sql security definer set search_path = public as $$
+  update public.contexto_inscritos
+     set categorias = nullif(p_categorias, '{}'), categorias_em = now()
+   where codigo = p_codigo and p_codigo ~ '^[a-z0-9]{6,12}$' and status <> 'cancelado';
+$$;
+revoke all on function public.contexto_preferencias(text, text[]) from public;
+grant execute on function public.contexto_preferencias(text, text[]) to anon, authenticated;
+
+-- Quantos leitores querem cada categoria (rodar no painel; ajuda a decidir o que cobrir):
+-- select c as categoria, count(*) from public.contexto_inscritos, unnest(categorias) c
+--  where status = 'ativo' group by 1 order by 2 desc;
