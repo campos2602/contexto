@@ -5,8 +5,12 @@
   function guarda(k, v) { try { if (v === undefined) return localStorage.getItem("ctx-" + k); localStorage.setItem("ctx-" + k, v); } catch (e) { return null; } }
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
   function toast(t) { var el = document.createElement("div"); el.className = "toast"; el.setAttribute("role", "status"); el.textContent = t; document.body.appendChild(el); setTimeout(function () { el.remove(); }, 2600); }
+  // Inscrições ficam num projeto Supabase só do Contexto; comentários seguem no projeto do app.
+  function cab(k) { return { apikey: k, Authorization: "Bearer " + k, "Content-Type": "application/json", Prefer: "return=minimal" }; }
   function post(tabela, corpo) {
-    return fetch(C.supabase + "/rest/v1/" + tabela, { method: "POST", headers: HDR, body: JSON.stringify(corpo) })
+    var ins = tabela === "contexto_inscritos" && C.inscricoes;
+    var url = ins ? C.inscricoes : C.supabase, hdr = ins ? cab(C.chaveInscricoes) : HDR;
+    return fetch(url + "/rest/v1/" + tabela, { method: "POST", headers: hdr, body: JSON.stringify(corpo) })
       .then(function (r) { if (r.status === 409) return "repetido"; if (!r.ok) throw new Error(r.status); return "ok"; });
   }
 
