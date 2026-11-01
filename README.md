@@ -25,3 +25,13 @@ O app acima é o do editor: mostra o status de aprovação e o parecer da Ouvido
 `ferramentas/instagram.js` gera em `social/<id>/` o carrossel do Instagram (1080x1350), o story do Número do dia, um vídeo vertical para Reels, TikTok e Shorts, a legenda e o texto do WhatsApp. O vídeo não fica no repositório: o workflow publica o do dia na versão `kit-redes` da página Releases. A página `social/` mostra o kit do dia para salvar e postar. `node ferramentas/instagram.js lancamento` gera os 3 posts fixos de abertura do perfil.
 
 O workflow `.github/workflows/site.yml` roda os dois scripts a cada edição gravada na main e grava o resultado de volta. O endereço do site fica em `ferramentas/site.json`; quando houver domínio próprio, é só trocar ali.
+
+## Ouvir as notícias
+
+Toda nota, o "Em 30 segundos", a Notícia completa e cada página de Contexto têm um botão **Ouvir**, e o topo da edição tem **Ouvir a edição**, que narra tudo em sequência, como um podcast. O áudio lê exatamente o texto publicado (sem as fontes e os botões). O código fica em `ler/ouvir.js`, usado pelo app e pelo site público.
+
+- No navegador e no app instalado pelo navegador, usa a voz em português do próprio aparelho.
+- No app Android, usa o leitor de voz do celular por uma ponte nativa (`ContextoVoz` em `MainActivity.java`), que continua falando com a tela apagada.
+- Se um trecho tiver `data-audio` com o endereço de um MP3, o app toca o MP3 no lugar da voz do aparelho.
+
+A rotina diária não precisa fazer nada: o áudio é montado na hora a partir do texto da edição.

@@ -180,6 +180,7 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
 </div></nav>
 <div id="camada"></div>
 
+<script src="ler/ouvir.js" defer></script>
 <script>
 (function () {
   "use strict";
@@ -223,18 +224,20 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
     var aprov = ed.status === "aprovada" || ed.status === "piloto";
     h.push('<header class="edhead"><div class="linha"><span class="rotulo">' + esc(ed.dia || dataCurta(ed.data)) + '</span><span class="rotulo">' + esc(ed.leitura || "5 min") + ' de leitura</span></div>');
     if (ed.statusTexto) h.push('<span class="status' + (aprov ? " ok" : "") + '">' + esc(ed.statusTexto) + "</span>");
+    h.push('<div class="acoes"><button class="btn cheio ouvir" type="button" data-ouvir="edicao" data-titulo="Contexto de ' + esc(ed.dia || dataCurta(ed.data)) + '">Ouvir a edição</button></div>');
     h.push("</header>");
-    if (ed.abre) h.push('<p class="abre">' + esc(ed.abre) + "</p>");
-    if (ed.trinta && ed.trinta.length) h.push('<section class="sec"><span class="etq">Em 30 segundos</span><ol class="trinta">' + ed.trinta.map(function (t) { return "<li><span>" + esc(t) + "</span></li>"; }).join("") + "</ol></section>");
+    if (ed.abre) h.push('<p class="abre" data-ler="Abertura">' + esc(ed.abre) + "</p>");
+    if (ed.trinta && ed.trinta.length) h.push('<section class="sec" id="ler-trinta" data-ler="Em 30 segundos"><span class="etq">Em 30 segundos</span><ol class="trinta">' + ed.trinta.map(function (t) { return "<li><span>" + esc(t) + "</span></li>"; }).join("") + '</ol><div class="acoes"><button class="btn ouvir" type="button" data-ouvir="#ler-trinta" data-titulo="Em 30 segundos">Ouvir resumo</button></div></section>');
     (ed.secoes || []).forEach(function (s) {
       h.push('<section class="sec"><span class="etq ' + (SECAO[s.nome] || "") + '">' + esc(s.nome) + "</span>");
       (s.notas || []).forEach(function (n) {
         var temNC = !!n.completa, temCX = !!(n.contexto && S.contextos[n.contexto]);
         var q = qtdCom(k, n.id);
-        h.push('<article class="nota" id="nota-' + esc(n.id) + '"><h3>' + esc(n.titulo) + "</h3><p>" + esc(n.texto) + "</p>");
+        h.push('<article class="nota" id="nota-' + esc(n.id) + '" data-ler="' + esc(n.titulo) + '" data-secao="' + esc(s.nome) + '"><h3>' + esc(n.titulo) + "</h3><p>" + esc(n.texto) + "</p>");
         if (n.pq) h.push('<p class="pq"><b>Por que importa:</b> ' + esc(n.pq) + "</p>");
         h.push(fontes(n.fontes));
         h.push('<div class="acoes">');
+        h.push('<button class="btn ouvir" type="button" data-ouvir="#nota-' + esc(n.id) + '" data-titulo="' + esc(n.titulo) + '">Ouvir</button>');
         if (temNC) h.push('<a class="btn cheio" href="#nc-' + k + "--" + esc(n.id) + '">Notícia completa</a>');
         if (temCX) h.push('<a class="btn" href="#cx-' + esc(n.contexto) + '">Contexto</a>');
         h.push('<button class="btn leve" type="button" data-comentar="' + esc(n.id) + '" data-titulo="' + esc(n.titulo) + '">Comentar' + (q ? ' <span class="qtd">' + q + "</span>" : "") + "</button>");
@@ -243,11 +246,11 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
       });
       h.push("</section>");
     });
-    if (ed.numero) h.push('<section class="sec"><span class="etq">Número do dia</span><div class="numero"><b>' + esc(ed.numero.valor) + "</b><p>" + esc(ed.numero.texto) + "</p>" + fontes(ed.numero.fontes) + "</div></section>");
-    if (ed.fechar) h.push('<section class="sec"><span class="etq">Para fechar</span><p>' + esc(ed.fechar.texto) + "</p>" + fontes(ed.fechar.fontes) + "</section>");
-    if (ed.corrigimos && ed.corrigimos.length) h.push('<section class="sec"><span class="etq">Corrigimos</span>' + ed.corrigimos.map(function (c) { return "<p>" + esc(c) + "</p>"; }).join("") + "</section>");
+    if (ed.numero) h.push('<section class="sec" data-ler="Número do dia"><span class="etq">Número do dia</span><div class="numero"><b>' + esc(ed.numero.valor) + "</b><p>" + esc(ed.numero.texto) + "</p>" + fontes(ed.numero.fontes) + "</div></section>");
+    if (ed.fechar) h.push('<section class="sec" data-ler="Para fechar"><span class="etq">Para fechar</span><p>' + esc(ed.fechar.texto) + "</p>" + fontes(ed.fechar.fontes) + "</section>");
+    if (ed.corrigimos && ed.corrigimos.length) h.push('<section class="sec" data-ler="Corrigimos"><span class="etq">Corrigimos</span>' + ed.corrigimos.map(function (c) { return "<p>" + esc(c) + "</p>"; }).join("") + "</section>");
     h.push('<section class="sec"><div class="acoes"><button class="btn cheio" type="button" data-comentar="edicao" data-titulo="Edição inteira">Comentar a edição</button><button class="btn" type="button" data-comentar="edicao" data-tipo="Achei tendencioso" data-titulo="Edição inteira">Achei tendencioso</button></div>');
-    if (ed.transp) h.push('<p class="transp">' + esc(ed.transp) + "</p>");
+    if (ed.transp) h.push('<p class="transp" data-ler="Transparência">' + esc(ed.transp) + "</p>");
     h.push("</section>");
     if (ed.parecer) {
       var p = ed.parecer;
@@ -258,22 +261,23 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
       if (p.foraDaEdicao && p.foraDaEdicao.length) h.push('<span class="rotulo">Ficou de fora</span><ul>' + p.foraDaEdicao.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>");
       h.push('<p class="fonte">Só você vê este parecer. Ele não aparece para os leitores.</p></div></details>');
     }
-    return '<div class="folha">' + h.join("") + "</div>";
+    return '<div class="folha" data-ler-raiz>' + h.join("") + "</div>";
   }
 
   /* ---------- Notícia completa ---------- */
   function vCompleta(ed, n, secao) {
     var c = n.completa, h = [];
-    h.push('<article class="pag"><span class="etq ' + (SECAO[secao] || "") + '">Notícia completa · ' + esc(secao) + "</span><h1>" + esc(n.titulo) + "</h1>");
+    h.push('<article class="pag" id="pag-ler"><span class="etq ' + (SECAO[secao] || "") + '">Notícia completa · ' + esc(secao) + "</span><h1>" + esc(n.titulo) + "</h1>");
     if (c.fina) h.push('<p class="fina">' + esc(c.fina) + "</p>");
     h.push('<p class="meta"><span>Atualizada em ' + esc(c.atualizada || dataCurta(ed.data)) + "</span>" + (c.selo ? '<span class="selo">' + esc(c.selo) + "</span>" : "") + "</p>");
+    h.push('<div class="acoes"><button class="btn cheio ouvir" type="button" data-ouvir="#pag-ler" data-titulo="' + esc(n.titulo) + '">Ouvir a notícia</button></div>');
     if (c.fato) h.push("<p>" + esc(c.fato) + "</p>");
     (c.blocos || []).forEach(function (b) {
       h.push("<h2>" + esc(b.h) + "</h2>");
       (b.p || []).forEach(function (x) { h.push("<p>" + rich(x) + "</p>"); });
       if (b.li && b.li.length) h.push("<ul>" + b.li.map(function (x) { return "<li>" + rich(x) + "</li>"; }).join("") + "</ul>");
     });
-    if (c.fontes && c.fontes.length) h.push("<h2>Fontes</h2><ul class=\"fonte\">" + c.fontes.map(function (f) { return '<li><a href="' + url(f.u) + '" target="_blank" rel="noopener">' + esc(f.t) + "</a></li>"; }).join("") + "</ul>");
+    if (c.fontes && c.fontes.length) h.push("<h2 data-nao-ler>Fontes</h2><ul class=\"fonte\">" + c.fontes.map(function (f) { return '<li><a href="' + url(f.u) + '" target="_blank" rel="noopener">' + esc(f.t) + "</a></li>"; }).join("") + "</ul>");
     h.push('<div class="acoes">');
     if (n.contexto && S.contextos[n.contexto]) h.push('<a class="btn cheio" href="#cx-' + esc(n.contexto) + '">Contexto: entenda o tema</a>');
     h.push('<button class="btn leve" type="button" data-comentar="' + esc(n.id) + '-completa" data-titulo="Notícia completa: ' + esc(n.titulo) + '">Comentar esta página</button></div>');
@@ -284,15 +288,16 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
   /* ---------- Contexto ---------- */
   function vContexto(slug, cx) {
     var h = [];
-    h.push('<article class="pag"><span class="etq">Contexto</span><h1>' + esc(cx.titulo) + "</h1>");
+    h.push('<article class="pag" id="pag-ler"><span class="etq">Contexto</span><h1>' + esc(cx.titulo) + "</h1>");
     h.push('<p class="meta"><span>Atualizado em ' + esc(cx.atualizado) + "</span>" + (cx.selo ? '<span class="selo">' + esc(cx.selo) + "</span>" : "") + "</p>");
+    h.push('<div class="acoes"><button class="btn cheio ouvir" type="button" data-ouvir="#pag-ler" data-titulo="Contexto: ' + esc(cx.titulo) + '">Ouvir o Contexto</button></div>');
     if (cx.frase) h.push("<h2>Em uma frase</h2><p>" + esc(cx.frase) + "</p>");
     if (cx.linha && cx.linha.length) h.push('<h2>Como chegamos aqui</h2><ol class="tempo">' + cx.linha.map(function (x) { return '<li><span class="d">' + esc(x.d) + "</span><span>" + esc(x.t) + "</span></li>"; }).join("") + "</ol>");
     if (cx.termos && cx.termos.length) h.push('<h2>Termos que você vai ver</h2><dl class="gloss">' + cx.termos.map(function (x) { return "<div><dt>" + esc(x.t) + "</dt><dd>" + esc(x.d) + "</dd></div>"; }).join("") + "</dl>");
     [["quem", "Quem é quem"], ["disputa", "O que está em disputa"], ["observar", "O que observar"]].forEach(function (s) {
       var a = cx[s[0]]; if (a && a.length) h.push("<h2>" + s[1] + "</h2><ul>" + a.map(function (x) { return "<li>" + rich(x) + "</li>"; }).join("") + "</ul>");
     });
-    if (cx.fontes && cx.fontes.length) h.push("<h2>Fontes</h2><ul class=\"fonte\">" + cx.fontes.map(function (f) { return '<li><a href="' + url(f.u) + '" target="_blank" rel="noopener">' + esc(f.t) + "</a></li>"; }).join("") + "</ul>");
+    if (cx.fontes && cx.fontes.length) h.push("<h2 data-nao-ler>Fontes</h2><ul class=\"fonte\">" + cx.fontes.map(function (f) { return '<li><a href="' + url(f.u) + '" target="_blank" rel="noopener">' + esc(f.t) + "</a></li>"; }).join("") + "</ul>");
     h.push('<div class="acoes"><button class="btn leve" type="button" data-comentar="cx-' + esc(slug) + '" data-titulo="Contexto: ' + esc(cx.titulo) + '">Comentar esta página</button></div>');
     h.push('<p class="aviso">Escrito por IA, checado e revisado pela Ouvidoria. Atualizado sempre que o tema tiver fato novo.</p></article>');
     return '<div class="folha">' + h.join("") + "</div>";
