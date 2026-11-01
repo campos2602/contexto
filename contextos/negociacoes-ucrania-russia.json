@@ -1,6 +1,6 @@
 {
  "titulo": "Guerra na Ucrânia: onde estão as negociações",
- "atualizado": "31 out 2026",
+ "atualizado": "1º nov 2026",
  "selo": "Checado",
  "frase": "A Rússia invadiu a Ucrânia em fevereiro de 2022. Desde então, houve rodadas de conversa sem acordo de paz; uma nova rodada, com os EUA, está prevista para novembro de 2026.",
  "linha": [
@@ -31,6 +31,10 @@
   {
    "d": "29 de outubro de 2026",
    "t": "Ataques russos matam ao menos 20 pessoas, 14 numa estação de trem em Dnipro. Segundo o Wall Street Journal, a Ucrânia suspendeu informalmente ataques a refinarias russas."
+  },
+  {
+   "d": "30 e 31 de outubro de 2026",
+   "t": "Moradores de Oleshky saem da cidade ocupada durante uma trégua local; quatro aviões pousam em Gomel, em Belarus, a caminho da Ucrânia."
   }
  ],
  "termos": [
@@ -76,8 +80,8 @@
   }
  ],
  "observar": [
-  "A data do encontro entre Ucrânia, Rússia e EUA, previsto para novembro.",
-  "Se a trégua local de Oleshky se mantém e a ajuda chega.",
+  "A data do encontro entre Ucrânia, Rússia e EUA em Abu Dhabi, que Zelensky espera para 6 a 10 de novembro.",
+  "Se a trégua de Oleshky, prevista até 1º de novembro, é prorrogada.",
   "Se a pausa nos ataques a refinarias é confirmada.",
   "Ataques a infraestrutura de energia e transporte com a chegada do inverno."
  ],
@@ -97,6 +101,10 @@
   {
    "t": "AAP, com Reuters: Dnipro",
    "u": "https://aapnews.aap.com.au/news/russian-drone-strike-kills-14-at-ukraine-rail-station"
+  },
+  {
+   "t": "Al Jazeera: Oleshky",
+   "u": "https://aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine"
   }
  ]
 }
