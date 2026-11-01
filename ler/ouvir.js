@@ -70,7 +70,7 @@
     });
     return out;
   }
-  function oculto(el) { return !!el.closest("[hidden]") || !el.getClientRects().length; }
+  function oculto(el) { return !!el.closest("[hidden], details:not([open])") || !el.getClientRects().length; }
   function minutos(t) { var p = (t.match(/\S+/g) || []).length; return Math.max(1, Math.round(p / 150)); }
 
   // Monta a fila: cada item é uma frase (ou um MP3), com o trecho a destacar e o índice do capítulo.
