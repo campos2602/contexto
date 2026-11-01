@@ -17,6 +17,10 @@ O catálogo de categorias fica em `categorias.json` (Brasil, Mundo e Inovação 
 
 A pasta `android/` tem um app que abre o site do Contexto em tela cheia. A cada mudança nela, o GitHub Actions gera o `contexto.apk` e publica na página Releases do repositório.
 
+### Lembrete diário
+
+O sino no topo do app abre a folha "Lembrete diário": liga ou desliga, escolhe o horário, o que tocar ao abrir o aviso (resumo "Em 30 segundos" ou a edição inteira) e se o app deve deixar de cobrar quando a pessoa já ouviu no dia. Quem agenda é o Android (`Lembrete.java` e `LembreteReceiver.java`), então o aviso chega com o app fechado e volta a valer depois de reiniciar o celular. Tocar no aviso abre o app já tocando o áudio (`lembrete.js`); o botão "Lembrar em 30 min" adia. No navegador a folha só explica que o lembrete é do app Android. Em pull requests o APK de teste fica nos artefatos da execução do workflow.
+
 ## Site público e kit de redes
 
 O app acima é o do editor: mostra o status de aprovação e o parecer da Ouvidoria. Para os leitores existe um site público gerado a partir dos mesmos arquivos, por `ferramentas/gerar_site.py`:
