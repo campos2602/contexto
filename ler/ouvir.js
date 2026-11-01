@@ -54,7 +54,8 @@
       .replace(/\b(\d{1,2}) (jan|fev|mar|abr|mai|jun|jul|ago|set|out|nov|dez)\.?(?= \d{4}|\b)/gi, function (m, d, mes) { return d + " de " + MESES[mes.toLowerCase()]; })
       .replace(/(de \w+) (\d{4})\b/g, "$1 de $2")
       .replace(/\.\s*\./g, ".")
-      .trim();
+      .trim()
+      .replace(/^[\s\S]*$/, function (x) { return window.ContextoFalado ? window.ContextoFalado(x) : x; }); // escrito -> falado (ler/falado.js)
   }
   // Frases de até ~220 caracteres: evita o corte de falas longas no Chrome e permite voltar/avançar.
   function partir(t) {
