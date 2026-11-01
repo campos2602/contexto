@@ -29,6 +29,13 @@ jobs:
         run: gradle :app:assembleDebug --no-daemon
       - name: Renomear
         run: cp android/app/build/outputs/apk/debug/app-debug.apk contexto.apk
+      - name: Guardar o APK de teste do pull request
+        if: github.event_name == 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: contexto-apk-teste
+          path: contexto.apk
+          retention-days: 14
       - name: Publicar na página de versões
         if: github.event_name != 'pull_request'
         uses: softprops/action-gh-release@v2

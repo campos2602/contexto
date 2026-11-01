@@ -183,6 +183,7 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
 <script src="ler/falado.js" defer></script>
 <script src="ler/ouvir.js" defer></script>
 <script src="categorias.js"></script>
+<script src="lembrete.js" defer></script>
 <script>
 (function () {
   "use strict";
@@ -216,7 +217,7 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
     var marca = '<a class="wm" href="#hoje" aria-label="Contexto, edição de hoje"><span class="a">con</span><span class="b">tex</span><span class="c">to</span></a>';
     topo.innerHTML = voltar
       ? '<button class="voltar" type="button" id="btn-voltar"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>Voltar</button>' + marca
-      : marca + '<span class="desc">Mundo · Brasil · Inovação</span>';
+      : marca + '<span class="topo-dir"><span class="desc">Mundo · Brasil · Inovação</span><button class="sino" type="button" data-lembrete aria-label="Lembrete diário"></button></span>';
     var b = document.getElementById("btn-voltar");
     if (b) b.addEventListener("click", function () { if (history.length > 1) history.back(); else location.hash = "hoje"; });
   }
@@ -406,8 +407,11 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
       S.edicoes = ordenar(eds.filter(Boolean)); S.carregou = true; S.semDb = false; cache("edicoes", S.edicoes.slice(0, 15)); seguro(render);
       var slugs = {}; S.edicoes.forEach(function (e) { (e.secoes || []).forEach(function (s) { (s.notas || []).forEach(function (n) { if (n.contexto) slugs[n.contexto] = 1; }); }); });
       return Promise.all(Object.keys(slugs).map(function (k) { return getJSON("contextos/" + k + ".json").then(function (c) { S.contextos[k] = c; }).catch(function () {}); }));
-    }).then(function () { cache("contextos", S.contextos); seguro(render); })
-      .catch(function () { S.carregou = true; if (!S.edicoes.length) S.semDb = true; seguro(render); });
+    }).then(function () { cache("contextos", S.contextos); seguro(render); avisarCarga(); })
+      .catch(function () { S.carregou = true; if (!S.edicoes.length) S.semDb = true; seguro(render); avisarCarga(); });
+  }
+  // Avisa o lembrete.js que a edição de hoje chegou (para tocar o áudio pedido pela notificação).
+  function avisarCarga() { window.__ctxCarregou = true; try { document.dispatchEvent(new CustomEvent("ctx:carregou")); } catch (e) {}
   }
   function carregarComentarios() {
     return fetch(SB + "/rest/v1/contexto_comentarios?select=*&order=criado_em.desc&limit=200", { headers: HDR }).then(function (r) { return r.json(); }).then(function (rows) {
