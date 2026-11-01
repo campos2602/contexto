@@ -1,6 +1,6 @@
 // Guarda o app para abrir rápido e sem internet. Edições e contextos vêm da rede primeiro.
-const VERSAO = "contexto-v2";
-const BASE = ["./", "index.html", "manifest.webmanifest", "icones/icone-192.png", "icones/icone-512.png", "icones/favicon-64.png", "ler/ouvir.js"];
+const VERSAO = "contexto-v3";
+const BASE = ["./", "index.html", "manifest.webmanifest", "icones/icone-192.png", "icones/icone-512.png", "icones/favicon-64.png", "ler/ouvir.js", "categorias.js", "categorias.json"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(VERSAO).then((c) => c.addAll(BASE)).then(() => self.skipWaiting()));

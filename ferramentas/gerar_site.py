@@ -28,7 +28,26 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONFIG = json.load(open(os.path.join(RAIZ, "ferramentas", "site.json"), encoding="utf-8"))
 SITE = CONFIG["site"].rstrip("/")          # ex.: https://campos2602.github.io/contexto
 BASE = re.sub(r"^https?://[^/]+", "", SITE) + "/"  # ex.: /contexto/
-SECAO = {"Mundo": "mundo", "Brasil": "brasil", "Inovação": "inovacao"}
+# Catálogo de categorias (categorias.json): o leitor escolhe quais quer ver; ver categorias.js.
+CATEGORIAS = json.load(open(os.path.join(RAIZ, "categorias.json"), encoding="utf-8"))["categorias"]
+
+
+def _norm(t):
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFD", str(t or "")) if unicodedata.category(c) != "Mn").lower().strip()
+
+
+def cat_de(nome, categoria=None):
+    """Id da categoria de uma seção: o campo "categoria" ou, nas edições antigas, o nome ("Inovação" -> "inovacao")."""
+    ids = {c["id"] for c in CATEGORIAS}
+    if categoria in ids:
+        return categoria
+    n = _norm(nome)
+    for c in CATEGORIAS:
+        if n in [_norm(c["nome"]), c["id"]] + [_norm(a) for a in c.get("aliases", [])]:
+            return c["id"]
+    return re.sub(r"[^a-z0-9]+", "-", n).strip("-")
+
 MESES = ["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"]
 
 
@@ -126,6 +145,7 @@ def pagina(caminho, titulo, descricao, corpo, tipo="website", publicado=None, in
 <p><a href="{b}assinar/">Assinar</a> · <a href="{b}ler/arquivo/">Arquivo</a> · <a href="{b}feed.xml">RSS</a> · <a href="{b}privacidade/">Privacidade</a></p>
 </div></footer>
 <script>window.CONTEXTO = {{ site: "{s}", base: "{b}", supabase: "{sb}", chave: "{key}", inscricoes: "{isb}", chaveInscricoes: "{ikey}" }};</script>
+<script src="{b}categorias.js" defer></script>
 <script src="{b}ler/leitor.js" defer></script>
 <script src="{b}ler/ouvir.js" defer></script>
 </body>
@@ -178,7 +198,8 @@ def v_edicao(ed, contextos, rotulo_topo=None):
             "".join("<li><span>%s</span></li>" % esc(t) for t in ed["trinta"]),
             '<div class="acoes">%s%s</div>' % (botao_ouvir("#ler-trinta", "Em 30 segundos", "Ouvir resumo"), botao_compartilhar("Contexto em 30 segundos", "\n".join("• " + t for t in ed["trinta"]), url_ed))))
     for s in ed.get("secoes") or []:
-        h.append('<section class="sec"><span class="etq %s">%s</span>' % (SECAO.get(s.get("nome"), ""), esc(s.get("nome"))))
+        cat = cat_de(s.get("nome"), s.get("categoria"))
+        h.append('<section class="sec" data-cat="%s"><span class="etq %s">%s</span>' % (esc(cat), esc(cat), esc(s.get("nome"))))
         for n in s.get("notas") or []:
             tem_nc = bool(n.get("completa"))
             tem_cx = bool(n.get("contexto") and n["contexto"] in contextos)
@@ -219,7 +240,7 @@ def v_edicao(ed, contextos, rotulo_topo=None):
 def v_completa(ed, n, secao, contextos):
     c = n["completa"]
     k = ed["_id"]
-    h = ['<article class="folha pag" id="pag-ler">', '<span class="etq %s">%s</span>' % (SECAO.get(secao, ""), esc(secao)), "<h1>%s</h1>" % esc(n.get("titulo"))]
+    h = ['<article class="folha pag" id="pag-ler">', '<span class="etq %s">%s</span>' % (esc(cat_de(secao)), esc(secao)), "<h1>%s</h1>" % esc(n.get("titulo"))]
     if c.get("fina"):
         h.append('<p class="fina">%s</p>' % esc(c["fina"]))
     h.append('<p class="meta"><span class="selo">%s</span><span>Atualizada em %s</span></p>' % (esc(c.get("selo") or n.get("selo") or "Checada"), esc(c.get("atualizada") or data_curta(ed.get("data")))))
@@ -292,6 +313,7 @@ def v_assinar(ultima):
 <ul>
 <li><b>Em 30 segundos:</b> as 3 notícias do dia, uma linha cada, para quem só tem um minuto.</li>
 <li><b>Mundo, Brasil e Inovação:</b> o fato, por que importa e a fonte, em até 120 palavras por nota.</li>
+<li><b>Do seu jeito:</b> acrescente Esportes, Economia, Saúde, Ciência, Cultura e outras categorias, tire o que não interessa e escolha a ordem. <button class="btn leve" type="button" data-ctx-cat>Escolher categorias</button></li>
 <li><b>Número do dia:</b> um dado checado que explica o momento.</li>
 <li><b>Contexto:</b> para cada tema difícil, uma página que explica do zero como chegamos até aqui.</li>
 </ul>
