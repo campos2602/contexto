@@ -1,5 +1,9 @@
 {
   "site": "https://campos2602.github.io/contexto",
   "supabase": "https://kgowumosjfpqhmawuzjn.supabase.co",
-  "chave_publica": "sb_publishable_dFuLZUEQXNN5p_ThuomTwA_ZcSCy0Gj"
+  "chave_publica": "sb_publishable_dFuLZUEQXNN5p_ThuomTwA_ZcSCy0Gj",
+  "inscricoes": {
+    "supabase": "https://zwadqiweqngchvcclvrm.supabase.co",
+    "chave_publica": "sb_publishable_s0XTMEPiEFn9h1rkAnT03A_Bo0ibq50"
+  }
 }

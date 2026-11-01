@@ -125,12 +125,13 @@ def pagina(caminho, titulo, descricao, corpo, tipo="website", publicado=None, in
 <p>Escrito por inteligência artificial, com checagem de fontes e Ouvidoria de neutralidade antes de sair. Erros são corrigidos em público.</p>
 <p><a href="{b}assinar/">Assinar</a> · <a href="{b}ler/arquivo/">Arquivo</a> · <a href="{b}feed.xml">RSS</a> · <a href="{b}privacidade/">Privacidade</a></p>
 </div></footer>
-<script>window.CONTEXTO = {{ site: "{s}", base: "{b}", supabase: "{sb}", chave: "{key}" }};</script>
+<script>window.CONTEXTO = {{ site: "{s}", base: "{b}", supabase: "{sb}", chave: "{key}", inscricoes: "{isb}", chaveInscricoes: "{ikey}" }};</script>
 <script src="{b}ler/leitor.js" defer></script>
 </body>
 </html>
 """.format(corpo=corpo, t=esc(titulo_completo), d=esc(descricao), u=esc(url), img=esc(img), tipo=tipo, pub=meta_pub, b=BASE, s=SITE,
            sb=esc(CONFIG["supabase"]), key=esc(CONFIG["chave_publica"]),
+           isb=esc(CONFIG["inscricoes"]["supabase"]), ikey=esc(CONFIG["inscricoes"]["chave_publica"]),
            robots="" if indexar else '<meta name="robots" content="noindex">\n')
 
 
