@@ -147,6 +147,7 @@ def pagina(caminho, titulo, descricao, corpo, tipo="website", publicado=None, in
 <script>window.CONTEXTO = {{ site: "{s}", base: "{b}", supabase: "{sb}", chave: "{key}", inscricoes: "{isb}", chaveInscricoes: "{ikey}" }};</script>
 <script src="{b}categorias.js" defer></script>
 <script src="{b}ler/leitor.js" defer></script>
+<script src="{b}ler/falado.js" defer></script>
 <script src="{b}ler/ouvir.js" defer></script>
 </body>
 </html>

@@ -54,7 +54,8 @@
       .replace(/\b(\d{1,2}) (jan|fev|mar|abr|mai|jun|jul|ago|set|out|nov|dez)\.?(?= \d{4}|\b)/gi, function (m, d, mes) { return d + " de " + MESES[mes.toLowerCase()]; })
       .replace(/(de \w+) (\d{4})\b/g, "$1 de $2")
       .replace(/\.\s*\./g, ".")
-      .trim();
+      .trim()
+      .replace(/^[\s\S]*$/, function (x) { return window.ContextoFalado ? window.ContextoFalado(x) : x; }); // escrito -> falado (ler/falado.js)
   }
   // Frases de até ~220 caracteres: evita o corte de falas longas no Chrome e permite voltar/avançar.
   function partir(t) {
@@ -70,6 +71,7 @@
     });
     return out;
   }
+  function oculto(el) { return !!el.closest("[hidden], details:not([open])") || !el.getClientRects().length; }
   function minutos(t) { var p = (t.match(/\S+/g) || []).length; return Math.max(1, Math.round(p / 150)); }
 
   // Monta a fila: cada item é uma frase (ou um MP3), com o trecho a destacar e o índice do capítulo.
@@ -79,6 +81,7 @@
       var raiz = document.querySelector("[data-ler-raiz]") || document;
       var ultimaSecao = "";
       raiz.querySelectorAll("[data-ler]").forEach(function (el) {
+        if (oculto(el)) return; // seções escondidas (ex.: categorias que o leitor desligou) não são lidas
         var pre = "";
         if (el.dataset.secao && el.dataset.secao !== ultimaSecao) { pre = el.dataset.secao + ". "; ultimaSecao = el.dataset.secao; }
         trechos.push({ el: el, pre: pre });
@@ -296,7 +299,7 @@
       if (!b.dataset.pronto) {
         b.dataset.pronto = "1";
         var txt = "";
-        if (b.dataset.ouvir === "edicao") document.querySelectorAll("[data-ler]").forEach(function (el) { txt += " " + textoDe(el); });
+        if (b.dataset.ouvir === "edicao") document.querySelectorAll("[data-ler]").forEach(function (el) { if (!oculto(el)) txt += " " + textoDe(el); });
         else { var el = document.querySelector(b.dataset.ouvir); if (el) txt = textoDe(el); }
         if (!txt.trim()) { b.hidden = true; return; }
         b.dataset.rotulo = b.dataset.rotulo || b.textContent.trim() || "Ouvir";
