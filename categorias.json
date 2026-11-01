@@ -11,7 +11,8 @@
     { "id": "saude",          "nome": "Saúde",           "desc": "SUS, medicamentos, epidemias e bem-estar",                 "padrao": false, "cor": ["#f6d4d4", "#4d2222"] },
     { "id": "meio-ambiente",  "nome": "Meio ambiente",   "desc": "Clima, Amazônia, energia e desastres naturais",            "padrao": false, "cor": ["#d6ecd2", "#1f4029"], "aliases": ["Clima"] },
     { "id": "cultura",        "nome": "Cultura",         "desc": "Livros, música, arte e patrimônio",                        "padrao": false, "cor": ["#f5dcc6", "#4a2f19"] },
-    { "id": "entretenimento", "nome": "Entretenimento",  "desc": "Cinema, séries, streaming, games e celebridades",          "padrao": false, "cor": ["#f3d3e6", "#4a2038"] },
+    { "id": "entretenimento", "nome": "Entretenimento",  "desc": "Cinema, séries, streaming, música e games",              "padrao": false, "cor": ["#f3d3e6", "#4a2038"] },
+    { "id": "celebridades",   "nome": "Celebridades",    "desc": "Famosos, influenciadores e o que virou assunto",           "padrao": false, "cor": ["#fbe0c2", "#4d3214"], "aliases": ["Famosos", "Celebridade"] },
     { "id": "educacao",       "nome": "Educação",        "desc": "Escola, Enem, universidades e concursos",                  "padrao": false, "cor": ["#dcdff5", "#262b52"] },
     { "id": "carreira",       "nome": "Trabalho e carreira", "desc": "Emprego, salários, direitos e o futuro do trabalho",   "padrao": false, "cor": ["#e3e3d1", "#3a3a24"], "aliases": ["Trabalho", "Carreira"] }
   ]
