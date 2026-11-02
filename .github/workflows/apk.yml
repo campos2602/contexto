@@ -1,10 +1,10 @@
-name: Gerar APK Android
+name: Gerar app Android
 
 on:
   push:
     branches: [main]
     paths: ["android/**", ".github/workflows/apk.yml"]
-  # Em pull requests só compila, para conferir que o APK continua gerando; não publica versão.
+  # Em pull requests só compila, para conferir que o app continua gerando; não publica versão.
   pull_request:
     paths: ["android/**", ".github/workflows/apk.yml"]
   workflow_dispatch:
@@ -13,8 +13,10 @@ permissions:
   contents: write
 
 jobs:
-  apk:
+  app:
     runs-on: ubuntu-latest
+    env:
+      CONTEXTO_VERSAO: ${{ github.run_number }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-java@v4
@@ -23,24 +25,49 @@ jobs:
           java-version: "17"
       - uses: gradle/actions/setup-gradle@v4
         with:
-          gradle-version: "8.9"
+          gradle-version: "8.11.1"
+      # A chave de publicação fica nos segredos do repositório (Settings > Secrets > Actions).
+      # Sem ela, o app sai assinado com a chave de teste: instala no celular, mas não serve para a Google Play.
+      - name: Preparar a chave de publicação
+        env:
+          CHAVE_B64: ${{ secrets.CONTEXTO_KEYSTORE_B64 }}
+        run: |
+          if [ -n "$CHAVE_B64" ]; then
+            echo "$CHAVE_B64" | base64 -d > "$RUNNER_TEMP/contexto.jks"
+            echo "CONTEXTO_KEYSTORE=$RUNNER_TEMP/contexto.jks" >> "$GITHUB_ENV"
+            echo "Chave de publicação encontrada."
+          else
+            echo "Sem chave de publicação: usando a chave de teste."
+          fi
       - name: Compilar
         working-directory: android
-        run: gradle :app:assembleDebug --no-daemon
+        env:
+          CONTEXTO_KEYSTORE_SENHA: ${{ secrets.CONTEXTO_KEYSTORE_SENHA }}
+          CONTEXTO_KEY_ALIAS: ${{ secrets.CONTEXTO_KEY_ALIAS }}
+          CONTEXTO_KEY_SENHA: ${{ secrets.CONTEXTO_KEY_SENHA }}
+        run: gradle :app:assembleRelease :app:bundleRelease --no-daemon --stacktrace
       - name: Renomear
-        run: cp android/app/build/outputs/apk/debug/app-debug.apk contexto.apk
-      - name: Guardar o APK de teste do pull request
+        run: |
+          cp android/app/build/outputs/apk/release/app-release.apk contexto.apk
+          cp android/app/build/outputs/bundle/release/app-release.aab contexto.aab
+      - name: Guardar os arquivos de teste do pull request
         if: github.event_name == 'pull_request'
         uses: actions/upload-artifact@v4
         with:
-          name: contexto-apk-teste
-          path: contexto.apk
+          name: contexto-app-teste
+          path: |
+            contexto.apk
+            contexto.aab
           retention-days: 14
       - name: Publicar na página de versões
         if: github.event_name != 'pull_request'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: android-v${{ github.run_number }}
-          name: Contexto para Android (versão ${{ github.run_number }})
-          body: Baixe o arquivo contexto.apk no celular Android e abra para instalar.
-          files: contexto.apk
+          name: Contexto para Android (versão 2.0.${{ github.run_number }})
+          body: |
+            Para instalar no celular: baixe contexto.apk e abra.
+            Para a Google Play: contexto.aab é o arquivo que vai para o Play Console.
+          files: |
+            contexto.apk
+            contexto.aab

@@ -1,21 +1,66 @@
 plugins {
     id "com.android.application"
+    id "org.jetbrains.kotlin.android"
+    id "org.jetbrains.kotlin.plugin.compose"
 }
+
+// Assinatura de publicação (Google Play). Vem de variáveis de ambiente, que o GitHub Actions
+// preenche com os segredos do repositório. Sem elas, o build de release sai com a chave de teste.
+def chave = System.getenv("CONTEXTO_KEYSTORE")
+def assinar = chave != null && new File(chave).exists()
 
 android {
     namespace "br.contexto.app"
-    compileSdk 34
+    compileSdk 36
 
     defaultConfig {
         applicationId "br.contexto.app"
         minSdk 24
-        targetSdk 34
-        versionCode 3
-        versionName "1.2"
+        targetSdk 36
+        versionCode((System.getenv("CONTEXTO_VERSAO") ?: "10") as int) + 10
+        versionName "2.0." + ((System.getenv("CONTEXTO_VERSAO") ?: "0") as int)
+    }
+
+    signingConfigs {
+        publicar {
+            if (assinar) {
+                storeFile file(chave)
+                storePassword System.getenv("CONTEXTO_KEYSTORE_SENHA")
+                keyAlias System.getenv("CONTEXTO_KEY_ALIAS")
+                keyPassword System.getenv("CONTEXTO_KEY_SENHA")
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro"
+            signingConfig assinar ? signingConfigs.publicar : signingConfigs.debug
+        }
     }
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
         targetCompatibility JavaVersion.VERSION_17
     }
+    kotlinOptions { jvmTarget = "17" }
+    buildFeatures { compose true; buildConfig true }
+}
+
+dependencies {
+    def bom = platform("androidx.compose:compose-bom:2025.04.00")
+    implementation bom
+    implementation "androidx.compose.ui:ui"
+    implementation "androidx.compose.ui:ui-text"
+    implementation "androidx.compose.foundation:foundation"
+    implementation "androidx.compose.material3:material3"
+    implementation "androidx.compose.material:material-icons-core"
+    implementation "androidx.activity:activity-compose:1.10.1"
+    implementation "androidx.navigation:navigation-compose:2.8.9"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-compose:2.8.7"
+    implementation "androidx.lifecycle:lifecycle-runtime-compose:2.8.7"
+    implementation "androidx.core:core-ktx:1.16.0"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.1"
 }
