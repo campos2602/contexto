@@ -23,26 +23,26 @@ import java.util.Locale;
  * Guarda o horário escolhido no app, agenda o alarme do Android e mostra a notificação.
  * Tocar na notificação abre o app já tocando o áudio (ver MainActivity e lembrete.js).
  */
-final class Lembrete {
-    static final String CANAL = "lembrete-diario";
-    static final int ID_NOTIFICACAO = 1;
-    static final String ACAO_DISPARAR = "br.contexto.app.LEMBRETE";
-    static final String ACAO_ADIAR = "br.contexto.app.LEMBRETE_ADIAR";
-    static final String ACAO_OUVIR = "br.contexto.app.OUVIR";
-    static final String EXTRA_ABRIR = "abrir";
-    static final int MINUTOS_ADIAR = 30;
+public final class Lembrete {
+    public static final String CANAL = "lembrete-diario";
+    public static final int ID_NOTIFICACAO = 1;
+    public static final String ACAO_DISPARAR = "br.contexto.app.LEMBRETE";
+    public static final String ACAO_ADIAR = "br.contexto.app.LEMBRETE_ADIAR";
+    public static final String ACAO_OUVIR = "br.contexto.app.OUVIR";
+    public static final String EXTRA_ABRIR = "abrir";
+    public static final int MINUTOS_ADIAR = 30;
 
     private static final String PREFS = "lembrete";
     private static final int REQ_DIARIO = 10, REQ_ADIADO = 11, REQ_ABRIR = 12, REQ_BOTAO_ADIAR = 13;
 
     private Lembrete() {}
 
-    static SharedPreferences prefs(Context c) { return c.getSharedPreferences(PREFS, Context.MODE_PRIVATE); }
+    public static SharedPreferences prefs(Context c) { return c.getSharedPreferences(PREFS, Context.MODE_PRIVATE); }
 
-    static String hoje() { return new SimpleDateFormat("yyyy-MM-dd", Locale.US).format(new Date()); }
+    public static String hoje() { return new SimpleDateFormat("yyyy-MM-dd", Locale.US).format(new Date()); }
 
     /** O que a página mostra na folha "Lembrete diário". */
-    static JSONObject estado(Context c) {
+    public static JSONObject estado(Context c) {
         SharedPreferences p = prefs(c);
         JSONObject o = new JSONObject();
         try {
@@ -60,7 +60,7 @@ final class Lembrete {
     }
 
     /** Recebe {"ativo":true,"hora":7,"minuto":30,"abrir":"resumo","soSeNaoOuviu":true} e reagenda. */
-    static void salvar(Context c, JSONObject o) {
+    public static void salvar(Context c, JSONObject o) {
         SharedPreferences p = prefs(c);
         String abrir = o.optString("abrir", p.getString("abrir", "resumo"));
         p.edit()
@@ -74,28 +74,28 @@ final class Lembrete {
         agendar(c);
     }
 
-    static void marcarOuvido(Context c) {
+    public static void marcarOuvido(Context c) {
         prefs(c).edit().putString("ouviuEm", hoje()).apply();
         NotificationManager nm = c.getSystemService(NotificationManager.class);
         if (nm != null) nm.cancel(ID_NOTIFICACAO);
         cancelarAdiado(c);
     }
 
-    static boolean podeNotificar(Context c) {
+    public static boolean podeNotificar(Context c) {
         if (Build.VERSION.SDK_INT >= 33
             && c.checkSelfPermission(android.Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) return false;
         NotificationManager nm = c.getSystemService(NotificationManager.class);
         return nm == null || nm.areNotificationsEnabled();
     }
 
-    static boolean alarmeExatoPermitido(Context c) {
+    public static boolean alarmeExatoPermitido(Context c) {
         if (Build.VERSION.SDK_INT < 31) return true;
         AlarmManager am = c.getSystemService(AlarmManager.class);
         return am != null && am.canScheduleExactAlarms();
     }
 
     /** Próximo horário do lembrete, em milissegundos. */
-    static long proximo(int hora, int minuto) {
+    public static long proximo(int hora, int minuto) {
         Calendar cal = Calendar.getInstance();
         cal.set(Calendar.HOUR_OF_DAY, hora);
         cal.set(Calendar.MINUTE, minuto);
@@ -106,7 +106,7 @@ final class Lembrete {
     }
 
     /** Agenda (ou desmarca) o próximo lembrete diário. Chamado ao salvar, ao disparar, ao ligar o celular e ao atualizar o app. */
-    static void agendar(Context c) {
+    public static void agendar(Context c) {
         SharedPreferences p = prefs(c);
         PendingIntent pi = alarme(c, ACAO_DISPARAR, REQ_DIARIO);
         AlarmManager am = c.getSystemService(AlarmManager.class);
@@ -116,7 +116,7 @@ final class Lembrete {
         marcar(c, am, proximo(p.getInt("hora", 7), p.getInt("minuto", 30)), pi);
     }
 
-    static void adiar(Context c) {
+    public static void adiar(Context c) {
         NotificationManager nm = c.getSystemService(NotificationManager.class);
         if (nm != null) nm.cancel(ID_NOTIFICACAO);
         AlarmManager am = c.getSystemService(AlarmManager.class);
@@ -143,13 +143,13 @@ final class Lembrete {
     }
 
     /** Hora do lembrete: mostra a notificação, a não ser que a pessoa já tenha ouvido hoje. */
-    static void disparar(Context c, boolean teste) {
+    public static void disparar(Context c, boolean teste) {
         SharedPreferences p = prefs(c);
         if (!teste && p.getBoolean("soSeNaoOuviu", true) && hoje().equals(p.getString("ouviuEm", ""))) return;
         notificar(c, p.getString("abrir", "resumo"));
     }
 
-    static void criarCanal(Context c) {
+    public static void criarCanal(Context c) {
         if (Build.VERSION.SDK_INT < 26) return;
         NotificationManager nm = c.getSystemService(NotificationManager.class);
         if (nm == null || nm.getNotificationChannel(CANAL) != null) return;
