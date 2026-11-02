@@ -80,11 +80,12 @@ class Leitor(app: Application) : AndroidViewModel(app) {
 
 fun trechosNota(n: Nota): List<String> = listOf(n.titulo, n.texto, "Por que importa: " + n.pq)
 
-fun trechosResumo(e: Edicao): List<String> = listOf("Contexto de " + e.dia + ". Em 30 segundos.") + e.trinta
+fun trechosResumo(e: Edicao, resumo: List<String> = e.trinta): List<String> =
+    listOf("Contexto de " + e.dia + ". Em 30 segundos.") + resumo
 
-fun trechosEdicao(e: Edicao, ordem: List<Secao>): List<String> {
+fun trechosEdicao(e: Edicao, ordem: List<Secao>, resumo: List<String> = e.trinta): List<String> {
     val t = mutableListOf("Contexto de " + e.dia + ".", e.abre, "Em 30 segundos.")
-    t += e.trinta
+    t += resumo
     for (s in ordem) {
         t += s.nome + "."
         for (n in s.notas) t += trechosNota(n)
@@ -116,12 +117,44 @@ fun trechosContexto(c: Contexto): List<String> {
 }
 
 /** Seções na ordem que a pessoa escolheu; as outras vão para "Outras seções de hoje". */
-data class Arrumacao(val escolhidas: List<Secao>, val outras: List<Secao>, val faltam: List<String>)
+data class Arrumacao(
+    val escolhidas: List<Secao>, val outras: List<Secao>, val faltam: List<String>,
+    /** "Em 30 segundos" só com as seções que a pessoa escolheu, na ordem dela. */
+    val resumo: List<String>,
+)
 
 fun arrumar(e: Edicao, ordem: List<String>, cat: Catalogo): Arrumacao {
     val esc = ordem.flatMap { id -> e.secoes.filter { it.categoria == id } }
     val outras = e.secoes.filter { it.categoria !in ordem }
     val presentes = e.secoes.map { it.categoria }.toSet()
     val faltam = ordem.filter { it !in presentes }.map { cat.nome(it) }
-    return Arrumacao(esc, outras, faltam)
+    return Arrumacao(esc, outras, faltam, resumoPara(e, esc))
+}
+
+private val ACENTOS = Regex("\\p{Mn}+")
+private fun palavras(t: String): Set<String> =
+    java.text.Normalizer.normalize(t.lowercase(), java.text.Normalizer.Form.NFD).replace(ACENTOS, "")
+        .split(Regex("[^a-z0-9]+")).filter { it.length >= 4 }.toSet()
+
+/**
+ * Monta o "Em 30 segundos" de cada leitor. Cada frase do resumo da redação vai para a seção da nota
+ * de que ela trata (a que tem mais palavras em comum). Ficam as frases das seções escolhidas, na
+ * ordem escolhida; seção escolhida sem frase no resumo entra com o título da sua primeira nota.
+ */
+fun resumoPara(e: Edicao, escolhidas: List<Secao>, maximo: Int = 5): List<String> {
+    if (escolhidas.isEmpty()) return e.trinta
+    val notas = e.secoes.flatMap { s -> s.notas.map { n -> s to palavras(n.titulo + " " + n.texto + " " + n.pq) } }
+    val porSecao = mutableMapOf<Secao, MutableList<String>>()
+    for (frase in e.trinta) {
+        val p = palavras(frase)
+        val melhor = notas.maxByOrNull { (_, w) -> w.count { it in p } } ?: continue
+        if (melhor.second.count { it in p } >= 2) porSecao.getOrPut(melhor.first) { mutableListOf() } += frase
+    }
+    val r = mutableListOf<String>()
+    for (s in escolhidas) {
+        val frases = porSecao[s]
+        if (!frases.isNullOrEmpty()) r += frases
+        else s.notas.firstOrNull()?.let { r += it.titulo.trimEnd('.') + "." }
+    }
+    return r.distinct().take(maximo).ifEmpty { e.trinta }
 }

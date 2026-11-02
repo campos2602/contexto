@@ -109,24 +109,24 @@ private fun CorpoEdicao(leitor: Leitor, id: String, nav: Navegar, ehHoje: Boolea
                 val p = pedido
                 if (ehHoje && p != null) {
                     leitor.pedidoAudio.value = null
-                    tocarEdicao(ctx, e, if (p == "edicao") arr.escolhidas + arr.outras else null)
+                    tocarEdicao(ctx, e, if (p == "edicao") arr.escolhidas + arr.outras else null, arr.resumo)
                 }
             }
-            ListaEdicao(e, arr.escolhidas, arr.outras, arr.faltam, catalogo, nav, rodape)
+            ListaEdicao(e, arr.escolhidas, arr.outras, arr.faltam, arr.resumo, catalogo, nav, rodape)
         }
     }
 }
 
-private fun tocarEdicao(ctx: android.content.Context, e: Edicao, ordem: List<Secao>?) {
+private fun tocarEdicao(ctx: android.content.Context, e: Edicao, ordem: List<Secao>?, resumo: List<String>) {
     val titulo = if (ordem == null) "Em 30 segundos" else "Edição de " + e.dia
-    Voz.tocar(titulo, if (ordem == null) trechosResumo(e) else trechosEdicao(e, ordem))
+    Voz.tocar(titulo, if (ordem == null) trechosResumo(e, resumo) else trechosEdicao(e, ordem, resumo))
     Lembrete.marcarOuvido(ctx)
 }
 
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
 private fun ListaEdicao(
-    e: Edicao, secoes: List<Secao>, outras: List<Secao>, faltam: List<String>, catalogo: Catalogo,
+    e: Edicao, secoes: List<Secao>, outras: List<Secao>, faltam: List<String>, resumo: List<String>, catalogo: Catalogo,
     nav: Navegar, rodape: PaddingValues,
 ) {
     val c = LocalCores.current
@@ -141,13 +141,13 @@ private fun ListaEdicao(
     ) {
         item { Cabecalho(e) }
         if (e.abre.isNotBlank()) item { Paragrafo(e.abre) }
-        if (e.trinta.isNotEmpty()) item {
+        if (resumo.isNotEmpty()) item {
             Cartao(fundo = c.acentoSuave) {
                 Text("Em 30 segundos", style = Tipos.titulo(), color = c.tinta, modifier = Modifier.semantics { heading() })
-                e.trinta.forEach { Topico(br.contexto.app.Item(null, it)) }
+                resumo.forEach { Topico(br.contexto.app.Item(null, it)) }
                 FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
-                    Botao("Ouvir o resumo", TipoBotao.Cheio, "▶") { tocarEdicao(ctx, e, null) }
-                    Botao("Ouvir a edição inteira", TipoBotao.Contorno, "▶") { tocarEdicao(ctx, e, secoes + outras) }
+                    Botao("Ouvir o resumo", TipoBotao.Cheio, "▶") { tocarEdicao(ctx, e, null, resumo) }
+                    Botao("Ouvir a edição inteira", TipoBotao.Contorno, "▶") { tocarEdicao(ctx, e, secoes + outras, resumo) }
                 }
             }
         }
