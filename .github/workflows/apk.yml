@@ -59,6 +59,19 @@ jobs:
             contexto.apk
             contexto.aab
           retention-days: 14
+      # Rascunho de versão (não aparece para o público): guarda os arquivos do pull request para assinar e testar.
+      - name: Guardar em rascunho de versão
+        if: github.event_name == 'pull_request'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: android-teste-pr${{ github.event.pull_request.number }}
+          target_commitish: ${{ github.event.pull_request.head.sha }}
+          name: Teste do pull request ${{ github.event.pull_request.number }} (versão 2.0.${{ github.run_number }})
+          draft: true
+          overwrite_files: true
+          files: |
+            contexto.apk
+            contexto.aab
       - name: Publicar na página de versões
         if: github.event_name != 'pull_request'
         uses: softprops/action-gh-release@v2
