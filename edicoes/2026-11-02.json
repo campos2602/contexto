@@ -1,0 +1,789 @@
+{
+ "data": "2026-11-02",
+ "dia": "Segunda, 2 de novembro de 2026",
+ "leitura": "5 min",
+ "geradaEm": "2026-11-02T07:43:24Z",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. Neste feriado de Finados, a redação do Contexto, feita por inteligência artificial, abre uma semana cheia: os EUA escolhem o Congresso na terça, o Irã negocia no Catar o fim da guerra e o STF discute as bets.",
+ "trinta": [
+  "O Irã negocia no Catar um plano para reabrir o Estreito de Ormuz.",
+  "Os EUA votam na terça para escolher o Congresso de Trump.",
+  "Denúncias de violência política ao Disque 100 quadruplicaram em outubro."
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Denúncias de violência política ao Disque 100 quadruplicam em outubro",
+     "texto": "O Disque 100 recebeu 90 denúncias de violência política de 1º a 25 de outubro, contra 20 em todo o mês de setembro, segundo o Ministério dos Direitos Humanos e da Cidadania. Somando outros canais, foram 189 registros no período eleitoral.",
+     "pq": "o número mostra como a disputa eleitoral chegou a casos de ameaça e agressão registrados pelo governo. Os dias de votação concentraram 30% das denúncias do Disque 100 em outubro. Todos os casos foram enviados a órgãos como Polícia Federal e Ministério Público.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/violencia-politica-disque-100-recebeu-189-denuncias-durante-eleicao"
+      },
+      {
+       "t": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/10/30/denuncias-de-violencia-politica-ao-ministerio-dos-direitos-humanos-saltam-350-durante-o-mes-das-eleicoes/"
+      }
+     ],
+     "contexto": "eleicoes-brasil-2026",
+     "completa": {
+      "fina": "O ministério aponta violência política de gênero, étnico-racial e contra o direito de votar e ser votado.",
+      "atualizada": "2 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Ministério dos Direitos Humanos e da Cidadania (MDHC) registrou 189 denúncias de violência política durante o período eleitoral de 2026, somando o Disque 100, os relatos feitos diretamente ao ministério e os encaminhados por outras pastas. Só pelo Disque 100 foram 90 denúncias entre 1º e 25 de outubro, mais de quatro vezes as 20 de todo o mês de setembro, segundo a Agência Brasil.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Disque 100 em setembro:",
+          "t": "20 denúncias no mês inteiro."
+         },
+         {
+          "b": "Disque 100 de 1º a 25 de outubro:",
+          "t": "90 denúncias. Alta de 350% sobre setembro inteiro, segundo o balanço citado pelo Brasil de Fato."
+         },
+         {
+          "b": "Mesmo período:",
+          "t": "comparando só os dias 1 a 25, foram 13 em setembro e 90 em outubro, alta de 592,3%, segundo o Brasil de Fato."
+         },
+         {
+          "b": "Dias de votação:",
+          "t": "19 denúncias em 4 de outubro, o primeiro turno, e 8 em 25 de outubro, o segundo. Juntos, 30% do período."
+         },
+         {
+          "b": "Outros canais:",
+          "t": "38 registros vieram de canais parceiros e 41 foram entregues por parlamentares e partidos à ministra Janine Mello."
+         },
+         {
+          "b": "Total:",
+          "t": "189 registros, somando setembro e outubro."
+         }
+        ]
+       },
+       {
+        "h": "Que tipos de violência",
+        "li": [
+         "Violência política de gênero.",
+         "Violência política étnico-racial.",
+         "Violações do direito de votar e de ser votado."
+        ]
+       },
+       {
+        "h": "Para onde vão as denúncias",
+        "p": [
+         "Segundo a Agência Brasil, todos os casos foram encaminhados ao Ministério da Justiça, à Polícia Federal, à Defensoria Pública da União, ao Ministério Público, ao Ministério Público do Trabalho e à Procuradoria Federal dos Direitos do Cidadão. Cabe a esses órgãos investigar e, se for o caso, processar os responsáveis."
+        ]
+       },
+       {
+        "h": "Como ler o número",
+        "p": [
+         "As denúncias são relatos feitos por cidadãos, e não casos já confirmados pela polícia ou pela Justiça. Um aumento pode refletir tanto mais casos quanto mais divulgação do canal. O balanço não separa as denúncias por partido ou candidato das vítimas ou dos acusados."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Ministério dos Direitos Humanos, em nota:",
+          "t": "disse que os dados mostram \"uma elevação significativa dos registros de violência política\" e que a livre expressão política é um direito constitucional fundamental."
+         },
+         {
+          "b": "Partidos de oposição:",
+          "t": "as reportagens consultadas não trazem manifestação deles sobre o balanço."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantas denúncias viraram investigação ou processo.",
+         "Em que estados os casos se concentram. O balanço divulgado não traz essa divisão."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Os órgãos que receberam as denúncias decidem se abrem investigação.",
+         "O Disque 100 continua recebendo relatos pelo telefone 100, de graça e 24 horas por dia."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: o balanço",
+        "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/violencia-politica-disque-100-recebeu-189-denuncias-durante-eleicao"
+       },
+       {
+        "t": "Brasil de Fato: comparações",
+        "u": "https://www.brasildefato.com.br/2026/10/30/denuncias-de-violencia-politica-ao-ministerio-dos-direitos-humanos-saltam-350-durante-o-mes-das-eleicoes/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "STF faz audiência pública sobre a medida provisória que proíbe as bets",
+     "texto": "O ministro Luiz Fux, do STF, faz nesta terça (3), em Brasília, uma audiência pública sobre a medida provisória que proíbe as apostas online de quota fixa, as bets. A pedido da AGU, ele incluiu os ministérios da Saúde e da Justiça e a associação dos supermercados.",
+     "pq": "o STF vai decidir se a medida, editada em 25 de setembro, vale. A associação de jogos que pediu sua suspensão diz que ela é inconstitucional. A audiência terá 34 participantes, entre clubes de futebol, empresas de apostas e governo, e pode influenciar a decisão.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fux-atende-agu-e-inclui-ministerios-e-abras-em-debate-sobre-bets"
+      },
+      {
+       "t": "Notícias STF",
+       "u": "https://noticias.stf.jus.br/postsnoticias/stf-realizara-audiencia-publica-sobre-mp-que-trata-de-apostas-esportivas/"
+      }
+     ],
+     "completa": {
+      "fina": "A AGU dizia que a lista inicial tinha sobretudo clubes e casas de apostas; entidades que alertaram para danos das bets em 2024 não foram chamadas.",
+      "atualizada": "2 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O ministro Luiz Fux, do Supremo Tribunal Federal, ampliou a lista de participantes da audiência pública marcada para terça-feira (3), às 10h, sobre a Medida Provisória 1.394/2026. A MP, de 25 de setembro, proíbe a exploração das apostas de quota fixa, as bets, e prevê o fim das autorizações dadas às empresas do setor. A audiência faz parte da Ação Direta de Inconstitucionalidade (ADI) 8027.",
+      "blocos": [
+       {
+        "h": "Os detalhes",
+        "li": [
+         {
+          "b": "Quem pediu a suspensão:",
+          "t": "a Associação Nacional de Jogos e Loterias (Anjl), autora da ação. Ela diz que a MP é inconstitucional e pede que o STF a suspenda de imediato."
+         },
+         {
+          "b": "O que Fux decidiu agora:",
+          "t": "a pedido da Advocacia-Geral da União (AGU), chamou os ministérios da Saúde e da Justiça, a Associação Brasileira de Supermercados (Abras), o Comitê Paralímpico Brasileiro, a federação dos atletas profissionais de futebol (Fenapaf) e o Grêmio."
+         },
+         {
+          "b": "Participantes:",
+          "t": "34 entidades e órgãos. Cada um terá 10 minutos, das 10h10 às 17h30."
+         },
+         {
+          "b": "Onde ver:",
+          "t": "TV e Rádio Justiça e o canal do STF no YouTube."
+         }
+        ]
+       },
+       {
+        "h": "Quem vai falar",
+        "li": [
+         {
+          "b": "Clubes (11):",
+          "t": "Flamengo, Fluminense, Botafogo, Cruzeiro, São Paulo, Corinthians, Ponte Preta, Vitória, Guarani, Portuguesa e Grêmio."
+         },
+         {
+          "b": "Entidades esportivas (4):",
+          "t": "Fenapaf, CBF, COB e Comitê Paralímpico Brasileiro."
+         },
+         {
+          "b": "Governo (6):",
+          "t": "AGU, PGR e os ministérios da Fazenda, do Esporte, da Justiça e da Saúde."
+         },
+         {
+          "b": "Associações e setor (13):",
+          "t": "entre elas a Anjl, o Instituto Brasileiro de Jogo Responsável, a CNC, a CNI e a Abras."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "AGU:",
+          "t": "pediu a ampliação porque a lista era \"predominantemente integrado por entidades esportivas e representantes de operadoras de apostas\", o que dificultaria a \"vocalização equilibrada das diversas correntes de opinião\", segundo a Agência Brasil."
+         },
+         {
+          "b": "Luiz Fux, ministro do STF:",
+          "t": "escreveu que \"os malefícios sociais das apostas já são de conhecimento desta Corte\"."
+         },
+         {
+          "b": "Anjl:",
+          "t": "diz que a MP é inconstitucional e pede que o STF reconheça como válidas as leis que regulamentaram as apostas."
+         }
+        ]
+       },
+       {
+        "h": "Quem ficou de fora",
+        "p": [
+         "Em novembro de 2024, Fux fez duas audiências em que entidades críticas às apostas falaram sobre efeitos sociais, como a Associação Brasileira de Psiquiatria, o Instituto Alana e o Idec. Segundo a Agência Brasil, nenhuma delas foi chamada para a audiência desta terça."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando Fux vai decidir sobre o pedido de suspensão da MP.",
+         "Se o Congresso vai aprovar a MP, que precisa ser votada para virar lei."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A audiência ocorre nesta terça (3), na sala da Segunda Turma do STF.",
+         "Depois, Fux decide sobre o pedido de suspensão, e o caso pode ir ao plenário."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: a nova lista",
+        "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/fux-atende-agu-e-inclui-ministerios-e-abras-em-debate-sobre-bets"
+       },
+       {
+        "t": "Notícias STF: a convocação",
+        "u": "https://noticias.stf.jus.br/postsnoticias/stf-realizara-audiencia-publica-sobre-mp-que-trata-de-apostas-esportivas/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Irã negocia no Catar plano para reabrir o Estreito de Ormuz",
+     "texto": "Negociadores do Irã fizeram no domingo (1º), em Doha, o terceiro dia seguido de conversas com mediadores do Catar para encerrar a guerra com os EUA e Israel. Segundo o chanceler iraniano, Abbas Araghchi, há uma proposta para reabrir o Estreito de Ormuz em dois dias, caso haja acordo.",
+     "pq": "o Estreito de Ormuz é rota de boa parte do petróleo do mundo, e as restrições à navegação elevaram o preço dos combustíveis, inclusive no Brasil. Donald Trump disse que não haverá novos ataques antes da eleição americana de terça (3), mas não descartou ação depois.",
+     "fontes": [
+      {
+       "t": "Agência Brasil, com Reuters",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/ira-e-mediadores-do-catar-travam-negociacoes-para-fim-de-guerra"
+      },
+      {
+       "t": "CBS News",
+       "u": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+      }
+     ],
+     "completa": {
+      "fina": "O chanceler iraniano disse que não há acordo final; o líder supremo mandou as Forças Armadas ficarem prontas para qualquer ataque.",
+      "atualizada": "2 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Negociadores iranianos fizeram no domingo (1º) o terceiro dia seguido de conversas com mediadores do Catar em Doha, segundo a Reuters, citada pela Agência Brasil. Os mediadores catarianos estiveram em Teerã na sexta (30) e levaram as conversas para Doha no sábado (31). A guerra, iniciada por EUA e Israel contra o Irã em 28 de fevereiro, dura cerca de oito meses.",
+      "blocos": [
+       {
+        "h": "O que está na mesa",
+        "li": [
+         {
+          "b": "Plano de dois dias:",
+          "t": "segundo Araghchi, os negociadores redigiram uma proposta para reabrir o Estreito de Ormuz em até dois dias depois de um eventual acordo com Washington."
+         },
+         {
+          "b": "Sem encontro direto:",
+          "t": "no sábado (31), Araghchi disse que o Irã não planeja se reunir com representantes dos EUA, segundo a CBS News. Mediadores do Paquistão também participaram."
+         },
+         {
+          "b": "Sem conclusão:",
+          "t": "o chanceler disse que não há acordo final."
+         }
+        ]
+       },
+       {
+        "h": "O estreito em números",
+        "li": [
+         "A agência marítima britânica UKMTO contou 145 incidentes desde o início da guerra, segundo a CBS News.",
+         "Outubro teve pouco mais de 30 ataques a navios, o maior número de um mês.",
+         "O bloqueio americano desviou 144 navios, segundo o Comando Central dos EUA.",
+         "Em 30 de outubro, os petróleos Brent e WTI estavam cerca de 70% mais caros que um ano antes."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Abbas Araghchi, chanceler do Irã:",
+          "t": "\"Estamos fazendo o nosso melhor nesse processo\" e disse esperar que o outro lado priorize a diplomacia. Afirmou que Teerã está pronto para \"a defesa\" e \"a diplomacia\"."
+         },
+         {
+          "b": "Mojtaba Khamenei, líder supremo do Irã:",
+          "t": "mandou as Forças Armadas ficarem prontas para qualquer ataque."
+         },
+         {
+          "b": "Donald Trump, presidente dos EUA:",
+          "t": "disse que não haverá novos ataques antes da eleição de terça (3) e chamou as conversas de produtivas. No sábado, disse que elas iam \"bem\", mas que os iranianos \"não são muito confiáveis\", segundo a CBS. Tradução do Contexto."
+         },
+         {
+          "b": "Marco Rubio, secretário de Estado:",
+          "t": "disse que Trump não decidiu sobre novos ataques e prefere resolver o conflito pela diplomacia."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa para o Brasil",
+        "p": [
+         "A alta do petróleo encarece combustíveis no mundo todo. No domingo (1º), a Petrobras aumentou o querosene de aviação em 7,2% e citou as tensões no Oriente Médio, segundo a Agência Brasil."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se os EUA aceitam a proposta e o que pedem em troca.",
+         "Se os ataques serão retomados depois da eleição americana."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "As conversas continuam em Doha.",
+         "A eleição americana de terça (3) é vista como marco para a decisão de Trump."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil, com Reuters: as conversas em Doha",
+        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/ira-e-mediadores-do-catar-travam-negociacoes-para-fim-de-guerra"
+       },
+       {
+        "t": "CBS News: Ormuz e declarações",
+        "u": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "EUA votam nesta terça em eleição que define o Congresso de Trump",
+     "texto": "Cerca de 210 milhões de eleitores americanos podem votar nesta terça (3) para escolher todas as 435 cadeiras da Câmara, 35 das 100 do Senado e governadores de 36 estados. Os republicanos, partido do presidente Donald Trump, têm hoje maioria estreita nas duas Casas.",
+     "pq": "se os democratas conquistarem uma das Casas, poderão abrir investigações e travar projetos de Trump nos dois anos que restam do mandato. Pesquisas indicam vantagem democrata, puxada pelo custo de vida. Trump disse que vai respeitar o resultado \"se forem eleições honestas\".",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/eleicao-nos-estados-unidos-define-futuro-de-trump-nesta-terca-feira"
+      },
+      {
+       "t": "Al Jazeera",
+       "u": "https://aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts"
+      }
+     ],
+     "completa": {
+      "fina": "Os democratas precisam ganhar três cadeiras a mais na Câmara e quatro no Senado para virar a maioria.",
+      "atualizada": "2 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Os Estados Unidos fazem na terça-feira (3) as eleições de meio de mandato. Estão em disputa as 435 cadeiras da Câmara dos Representantes, 35 das 100 cadeiras do Senado e os governos de 36 dos 50 estados, segundo a Agência Brasil e a Al Jazeera. Cerca de 210 milhões de pessoas podem votar.",
+      "blocos": [
+       {
+        "h": "A conta de cada Casa",
+        "li": [
+         {
+          "b": "Câmara hoje:",
+          "t": "218 republicanos, 214 democratas e um independente que vota com os republicanos; duas cadeiras vagas. A maioria é de 218. Os democratas precisam ganhar três cadeiras a mais, segundo a Al Jazeera."
+         },
+         {
+          "b": "Senado hoje:",
+          "t": "53 republicanos e 47 no bloco democrata, contando dois independentes. Os democratas precisam ganhar quatro a mais. Com 50, os republicanos mantêm o controle porque o vice-presidente, JD Vance, desempata."
+         },
+         {
+          "b": "Cadeiras do Senado em jogo:",
+          "t": "22 são hoje republicanas e 13 democratas. Há eleições especiais na Flórida e em Ohio para as vagas que eram de Marco Rubio e JD Vance."
+         }
+        ]
+       },
+       {
+        "h": "As pesquisas",
+        "li": [
+         "Uma pesquisa do Pew Research Center feita de 28 de setembro a 4 de outubro mostrou 44% dos eleitores registrados com o candidato democrata do seu distrito, 36% com o republicano e 15% indecisos.",
+         "A média de pesquisas do New York Times mostra 61% de desaprovação a Trump e 36% de aprovação, segundo a Agência Brasil.",
+         "Trump prometeu US$ 5.000 a cada adulto americano se os republicanos vencerem nas duas Casas."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Paulo Abraão, diretor-executivo da Brazil Office Alliance:",
+          "t": "\"O controle da Câmara é particularmente relevante para a fiscalização\", disse à Agência Brasil. Para ele, o Senado aprova ou rejeita indicações de autoridades e juízes."
+         },
+         {
+          "b": "Abraão, sobre os republicanos:",
+          "t": "disse que manter as duas Casas daria a Trump condições mais favoráveis, sem eliminar divergências dentro do partido."
+         },
+         {
+          "b": "Donald Trump:",
+          "t": "disse que vai respeitar o resultado \"se forem eleições honestas\". Em 2020, afirmou sem provas que houve fraude na derrota para Joe Biden."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa para o Brasil",
+        "p": [
+         "Segundo Abraão, um Congresso com maioria democrata poderia ampliar apurações sobre atividades da família Bolsonaro nos EUA. Democratas já enviaram cartas à Casa Branca sobre a saída de Flávio Bolsonaro do Brasil, segundo a Agência Brasil. Ele disse que isso \"não é automático\" e depende das prioridades da nova maioria."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem vai controlar cada Casa. Em disputas apertadas, a contagem pode levar dias.",
+         "Se o resultado muda a política dos EUA na guerra com o Irã."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "As urnas fecham na noite de terça (3), em horários diferentes em cada estado.",
+         "O novo Congresso toma posse em janeiro de 2027."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: o que está em jogo",
+        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/eleicao-nos-estados-unidos-define-futuro-de-trump-nesta-terca-feira"
+       },
+       {
+        "t": "Al Jazeera: as contas de cada Casa",
+        "u": "https://aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Com ressalva",
+     "titulo": "Iliana Iotova vence o segundo turno para presidente da Bulgária",
+     "texto": "A presidente interina da Bulgária, Iliana Iotova, venceu no domingo (1º) o segundo turno da eleição presidencial, segundo estimativas citadas pela AFP. Ela teve de 57,4% a 58,2% dos votos, contra 38,6% a 39,6% do banqueiro Andrey Gyurov.",
+     "pq": "se confirmada, Iotova será a primeira mulher eleita presidente da Bulgária, país da União Europeia e da Otan no Mar Negro. Ela defende diálogo com a Rússia e é contra ajuda militar à Ucrânia; Gyurov tinha apoio da oposição pró-Ocidente. O cargo é sobretudo cerimonial.",
+     "fontes": [
+      {
+       "t": "RTÉ, com AFP",
+       "u": "https://www.rte.ie/news/2026/1102/1597575-bulgaria-runoff/"
+      },
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show"
+      }
+     ],
+     "completa": {
+      "fina": "O comparecimento ficou perto de 27%; no primeiro turno, foi de 23%, o menor já registrado.",
+      "atualizada": "2 nov 2026, 5h",
+      "selo": "Com ressalva",
+      "fato": "Iliana Iotova, presidente interina da Bulgária desde janeiro, venceu o segundo turno da eleição presidencial no domingo (1º), segundo estimativas de vários institutos citadas pela AFP e publicadas pela RTÉ. As estimativas dão a ela de 57,4% a 58,2% dos votos, contra 38,6% a 39,6% de Andrey Gyurov. O resultado oficial é esperado para segunda-feira (2).",
+      "blocos": [
+       {
+        "h": "Por que a ressalva",
+        "p": [
+         "Os números ainda são estimativas. Uma primeira leitura das pesquisas de boca de urna, publicada pela Al Jazeera com base na agência búlgara BTA, dava cerca de 51% a Iotova e 44% a Gyurov. As estimativas mais recentes, citadas pela AFP, mostram vantagem maior. O Contexto publica as duas e vai atualizar com o resultado oficial."
+        ]
+       },
+       {
+        "h": "Quem são",
+        "li": [
+         {
+          "b": "Iliana Iotova:",
+          "t": "ex-jornalista e ex-deputada europeia, foi vice-presidente de Rumen Radev em 2016 e 2021. Assumiu a Presidência quando Radev renunciou para disputar a eleição parlamentar, que venceu; hoje ele é primeiro-ministro."
+         },
+         {
+          "b": "Andrey Gyurov:",
+          "t": "banqueiro, ex-primeiro-ministro interino e ex-vice-presidente do Banco Nacional da Bulgária, com apoio da oposição pró-Ocidente."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Iliana Iotova:",
+          "t": "disse querer a Bulgária \"forte em uma Europa forte\" e \"soberana em suas decisões\"; afirmou que a paz na Ucrânia só virá por negociação."
+         },
+         {
+          "b": "Andrey Gyurov:",
+          "t": "disse aceitar \"os resultados como são\", segundo a AFP. Na campanha, cobrou que Iotova responsabilizasse a Rússia e disse que \"a Rússia precisa parar sua agressão\". Tradução do Contexto."
+         },
+         {
+          "b": "Rumen Radev, primeiro-ministro:",
+          "t": "\"Hoje o povo búlgaro escolheu o futuro em vez do passado\". Tradução do Contexto."
+         },
+         {
+          "b": "Ursula von der Leyen, presidente da Comissão Europeia:",
+          "t": "escreveu \"por uma Bulgária forte em uma Europa forte\"."
+         }
+        ]
+       },
+       {
+        "h": "O pano de fundo",
+        "p": [
+         "Em outubro, drones atingiram navios comerciais perto da costa búlgara no Mar Negro; 21 pessoas seguem desaparecidas, segundo a AFP. Radev disse que os ataques parecem servir a interesses russos e convocou o embaixador da Rússia, mas o governo diz não haver prova que os ligue diretamente a Moscou. Os dois candidatos condenaram os ataques."
+        ]
+       },
+       {
+        "h": "O que faz o presidente",
+        "p": [
+         "Na Bulgária, quem governa é o primeiro-ministro, escolhido pelo Parlamento. O presidente representa o país, comanda formalmente as Forças Armadas, pode devolver leis ao Parlamento e nomeia governos interinos quando não há maioria."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O resultado oficial e o comparecimento final."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A comissão eleitoral divulga o resultado oficial nesta segunda (2)."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "RTÉ, com AFP: estimativas e reações",
+        "u": "https://www.rte.ie/news/2026/1102/1597575-bulgaria-runoff/"
+       },
+       {
+        "t": "Al Jazeera: boca de urna e candidatos",
+        "u": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Exportações de chips da Coreia do Sul sobem 259% com a IA",
+     "texto": "A Coreia do Sul exportou US$ 115,3 bilhões em outubro, recorde mensal e alta de 93,7% em um ano, segundo o Ministério do Comércio. Os semicondutores somaram US$ 56,4 bilhões, alta de 259% e cerca de metade do total.",
+     "pq": "a Coreia do Sul é uma das maiores fabricantes de chips de memória do mundo, usados em data centers de inteligência artificial. O salto mostra o tamanho dos investimentos das grandes empresas de tecnologia em IA, que preocupam parte do mercado.",
+     "fontes": [
+      {
+       "t": "Korea Times",
+       "u": "https://www.koreatimes.co.kr/amp/economy/20261101/koreas-monthly-exports-hit-1153-bil-in-oct-on-record-chip-sales"
+      },
+      {
+       "t": "Korea JoongAng Daily",
+       "u": "https://www.koreajoongangdaily.com/business/exports-jump-nearly-94-in-october-to-hit-record-1153-billion-on-chip-demand/12948409"
+      }
+     ],
+     "completa": {
+      "fina": "As vendas para os EUA subiram 185,8%, puxadas por chips e equipamentos de infraestrutura de IA.",
+      "atualizada": "2 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Coreia do Sul exportou US$ 115,3 bilhões em outubro de 2026, recorde para um mês e alta de 93,7% sobre outubro de 2025, segundo dados do Ministério do Comércio, Indústria e Recursos divulgados no domingo (1º). As exportações de semicondutores subiram 259%, para US$ 56,4 bilhões, cerca de 49% do total, segundo o Korea Times e o JoongAng Daily.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Exportações:",
+          "t": "US$ 115,3 bilhões, alta de 93,7%."
+         },
+         {
+          "b": "Importações:",
+          "t": "US$ 72,78 bilhões, alta de 36%."
+         },
+         {
+          "b": "Saldo comercial:",
+          "t": "US$ 42,5 bilhões."
+         },
+         {
+          "b": "Chips:",
+          "t": "US$ 56,4 bilhões, alta de 259%."
+         },
+         {
+          "b": "Derivados de petróleo:",
+          "t": "US$ 6,92 bilhões, alta de 80%."
+         },
+         {
+          "b": "Carros:",
+          "t": "US$ 6,55 bilhões, alta de 18,1%, com a procura por híbridos."
+         }
+        ]
+       },
+       {
+        "h": "Para onde foram",
+        "li": [
+         {
+          "b": "China:",
+          "t": "US$ 26,98 bilhões, alta de 133,6%."
+         },
+         {
+          "b": "Estados Unidos:",
+          "t": "US$ 24,9 bilhões, alta de 185,8%, com chips, computadores e equipamentos elétricos para infraestrutura de IA."
+         },
+         {
+          "b": "Sudeste Asiático:",
+          "t": "US$ 21,33 bilhões, alta de 128%, segundo o Korea Times."
+         },
+         {
+          "b": "União Europeia:",
+          "t": "US$ 8,1 bilhões, alta de 56,4%."
+         }
+        ]
+       },
+       {
+        "h": "Por que os chips subiram tanto",
+        "p": [
+         "Data centers de inteligência artificial usam grandes quantidades de chips de memória, área em que empresas sul-coreanas estão entre as maiores do mundo. Segundo o ministério, o crescimento veio da forte demanda global por semicondutores e dos investimentos contínuos das grandes empresas de tecnologia em infraestrutura de IA. Os preços desses chips também subiram ao longo do ano."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Kim Jung-kwan, ministro da Indústria:",
+          "t": "disse que o ambiente do comércio global \"continua incerto\", citando protecionismo, mudanças nas cadeias de suprimento e tensões no Oriente Médio, segundo o Korea Times. Tradução do Contexto."
+         },
+         {
+          "b": "Ministério do Comércio, em nota:",
+          "t": "atribuiu a alta aos \"investimentos contínuos das grandes empresas de tecnologia em infraestrutura de IA\". Tradução do Contexto."
+         }
+        ]
+       },
+       {
+        "h": "Como ler o número",
+        "p": [
+         "A comparação é com outubro de 2025, quando a Coreia teve o feriado de Chuseok, o que reduziu os dias úteis e deixou a base mais baixa. Mesmo assim, o resultado é o maior já registrado para um mês."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o ritmo se mantém, já que parte do mercado questiona o retorno dos gastos com IA.",
+         "Se o saldo com os EUA vai gerar nova pressão comercial de Washington."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O ministério projeta que as exportações do ano podem passar de US$ 1 trilhão já em novembro, segundo o Korea Times."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Korea Times: números de outubro",
+        "u": "https://www.koreatimes.co.kr/amp/economy/20261101/koreas-monthly-exports-hit-1153-bil-in-oct-on-record-chip-sales"
+       },
+       {
+        "t": "Korea JoongAng Daily: chips e destinos",
+        "u": "https://www.koreajoongangdaily.com/business/exports-jump-nearly-94-in-october-to-hit-record-1153-billion-on-chip-demand/12948409"
+       },
+       {
+        "t": "Herald Business: dias úteis e Chuseok",
+        "u": "https://biz.heraldcorp.com/article/10909625"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Esportes",
+   "categoria": "esportes",
+   "notas": [
+    {
+     "id": "es1",
+     "selo": "Checada",
+     "titulo": "Palmeiras vence o Vasco por 1 a 0 na ida da semifinal",
+     "texto": "O Palmeiras venceu o Vasco por 1 a 0 no domingo (1º), no Nubank Parque, em São Paulo, no jogo de ida da semifinal da Copa do Brasil. Maurício fez o gol no primeiro tempo. O Vasco teve Saldivia expulso no segundo tempo.",
+     "pq": "o Palmeiras joga pelo empate na volta, no domingo (8), em São Januário, no Rio. O Vasco precisa vencer por dois gols ou mais para passar direto; se vencer por um, a vaga vai para os pênaltis.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/palmeiras-sai-na-frente-do-vasco-na-semifinal-da-copa-do-brasil-1-0"
+      },
+      {
+       "t": "Gazeta Esportiva",
+       "u": "https://www.gazetaesportiva.com/campeonatos/copa-do-brasil/palmeiras-vasco-semifinal-copa-do-brasil-2026/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Educação",
+   "categoria": "educacao",
+   "notas": [
+    {
+     "id": "ed1",
+     "selo": "Checada",
+     "titulo": "Enem 2026 começa no próximo domingo; portões abrem ao meio-dia",
+     "texto": "As provas do Enem 2026 serão nos domingos 8 e 15 de novembro. Os portões abrem às 12h e fecham às 13h, no horário de Brasília, e as provas começam às 13h30. Mais de 5 milhões de pessoas se inscreveram, segundo a Agência Brasil.",
+     "pq": "o Enem é a principal porta de entrada para universidades públicas e programas como o Prouni. É obrigatório levar documento oficial com foto e caneta preta de tubo transparente. Foto ou print de documento não vale.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/falta-uma-semana-para-o-enem-2026-veja-horarios-e-o-que-levar"
+      },
+      {
+       "t": "Itatiaia",
+       "u": "https://www.itatiaia.com.br/educacao/quando-serao-as-provas-do-enem-2026-mec-divulga-edital-e-cronograma/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "189",
+  "texto": "denúncias de violência política chegaram ao Ministério dos Direitos Humanos no período eleitoral; em setembro, o Disque 100 tinha recebido 20.",
+  "fontes": [
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/violencia-politica-disque-100-recebeu-189-denuncias-durante-eleicao"
+   },
+   {
+    "t": "Brasil de Fato",
+    "u": "https://www.brasildefato.com.br/2026/10/30/denuncias-de-violencia-politica-ao-ministerio-dos-direitos-humanos-saltam-350-durante-o-mes-das-eleicoes/"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "A Coreia do Sul deve virar neste mês o quarto país a exportar US$ 1 trilhão em um ano. A redação, que é uma IA, depende de chips como esses para funcionar.",
+  "fontes": [
+   {
+    "t": "Korea Times",
+    "u": "https://www.koreatimes.co.kr/amp/economy/20261101/koreas-monthly-exports-hit-1153-bil-in-oct-on-record-chip-sales"
+   },
+   {
+    "t": "Korea JoongAng Daily",
+    "u": "https://www.koreajoongangdaily.com/business/exports-jump-nearly-94-in-october-to-hit-record-1153-billion-on-chip-demand/12948409"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Nos EUA, republicanos e democratas aparecem com as contas de cada lado, e a fala de Trump sobre o resultado vem com o registro de 2020. No Irã, falam o chanceler iraniano, Trump e Rubio.",
+  "pontos": [
+   "Brasil 1: o texto registra que denúncias não são casos confirmados e que o balanço não separa por partido.",
+   "Brasil 2: a crítica da AGU à lista de participantes e a posição da associação de jogos aparecem na própria voz.",
+   "Mundo 1: nota sobre guerra, sem menção leve à IA; a guerra é descrita como iniciada por EUA e Israel, como na Reuters.",
+   "Mundo 2: a promessa de US$ 5.000 é atribuída à Agência Brasil.",
+   "Mundo 3: selo \"Com ressalva\" porque o resultado oficial ainda não saiu e as estimativas divergem.",
+   "Esportes: as fontes dão minutos diferentes para o gol (23 e 24); a nota diz só \"no primeiro tempo\"."
+  ],
+  "equilibrio": "Governo federal: duas notas com dados e posições atribuídas (ministério e AGU). Oposição: nenhuma nota com fala própria; o balanço de violência política não identifica partidos. Nenhum adjetivo de valor fora de aspas.",
+  "foraDaEdicao": [
+   "Lula diz em vídeo que vai manter os programas sociais: só uma fonte, baseada no próprio vídeo.",
+   "Reajuste de 7,2% no querosene de aviação: só uma fonte de 2026; aparece como contexto em Mundo 1.",
+   "Acordos da OpenAI com Abu Dhabi: só uma fonte.",
+   "Ressalva da redação: a edição tem 2 notas em Brasil e 1 em Inovação, abaixo do previsto; só Brasil 1 tem página de Contexto.",
+   "Categorias extras sem nota hoje (Economia, Política, Ciência, Saúde, Meio ambiente, Cultura, Entretenimento, Celebridades, Trabalho e carreira): não houve fato novo checado em duas fontes a tempo. Em Saúde, os números do ebola no Congo divergem entre as fontes."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Retirado o minuto do gol do Palmeiras, porque as fontes divergem.",
+   "Retirado o horário de término das provas do Enem, porque as fontes divergem.",
+   "Número do dia trocado para as 189 denúncias, para não repetir a Coreia, que já aparece no Para fechar."
+  ]
+ }
+}
