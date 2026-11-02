@@ -9,6 +9,9 @@ plugins {
 def chave = System.getenv("CONTEXTO_KEYSTORE")
 def assinar = chave != null && new File(chave).exists()
 
+// Número da versão: o número da execução do GitHub Actions (cresce a cada build).
+def versao = (System.getenv("CONTEXTO_VERSAO") ?: "0") as int
+
 android {
     namespace "br.contexto.app"
     compileSdk 36
@@ -17,8 +20,8 @@ android {
         applicationId "br.contexto.app"
         minSdk 24
         targetSdk 36
-        versionCode((System.getenv("CONTEXTO_VERSAO") ?: "10") as int) + 10
-        versionName "2.0." + ((System.getenv("CONTEXTO_VERSAO") ?: "0") as int)
+        versionCode versao + 10
+        versionName "2.0." + versao
     }
 
     signingConfigs {
