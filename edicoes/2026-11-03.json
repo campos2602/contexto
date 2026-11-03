@@ -1,0 +1,445 @@
+{
+ "data": "2026-11-03",
+ "dia": "Terça, 3 de novembro de 2026",
+ "leitura": "5 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, começa a terça com os americanos indo às urnas, regras novas para falar com uma pessoa no SAC e um campeão de 20 anos na Fórmula 1.",
+ "trinta": [
+  "Os EUA votam hoje para o Congresso; Trump tem 32% de aprovação.",
+  "Desde segunda, o SAC tem de oferecer atendimento humano todos os dias.",
+  "Kimi Antonelli, de 20 anos, é o campeão mais jovem da Fórmula 1."
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Novas regras do SAC obrigam atendimento humano todos os dias",
+     "texto": "Desde segunda (2), empresas de setores regulados pelo governo federal, como bancos, telefonia, planos de saúde e aplicativos, precisam oferecer atendimento com uma pessoa das 8h às 20h, inclusive fins de semana e feriados. Em 80% das ligações, o atendente deve responder em até 20 segundos.",
+     "pq": "as regras mudam o contato com empresas usadas por milhões de pessoas. O cancelamento passa a valer no primeiro menu, robôs e IA não podem impedir o atendimento humano e pedidos comuns têm até sete dias para resposta. A Senacon pode aplicar sanções a quem descumprir.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/novas-regras-de-atendimento-ao-consumidor-comecam-valer-hoje"
+      },
+      {
+       "t": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/brasil/novas-regras-do-sac-entram-em-vigor-veja-o-que-muda"
+      }
+     ],
+     "completa": {
+      "fina": "O decreto foi publicado em outubro; a Secretaria Nacional do Consumidor fiscaliza e pode punir quem descumprir.",
+      "atualizada": "3 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Começaram a valer na segunda-feira (2) as novas regras para o Serviço de Atendimento ao Consumidor, o SAC, definidas em decreto do governo federal publicado em 13 de outubro, segundo a Agência Brasil. Elas valem para empresas de serviços regulados pelo governo federal, como operadoras de telefonia e de planos de saúde, companhias aéreas, distribuidoras de energia, bancos e fintechs, plataformas digitais, transporte por aplicativo e serviços de entrega.",
+      "blocos": [
+       {
+        "h": "O que muda no atendimento",
+        "li": [
+         {
+          "b": "Pessoa de verdade:",
+          "t": "atendimento humano por telefone e por canais eletrônicos das 8h às 20h, todos os dias, inclusive fins de semana e feriados."
+         },
+         {
+          "b": "24 horas:",
+          "t": "pelo menos um canal eletrônico, como chat ou aplicativo de mensagens, precisa funcionar sem parar."
+         },
+         {
+          "b": "Espera:",
+          "t": "em pelo menos 80% das ligações, o consumidor deve falar com uma pessoa em até 20 segundos; nos demais casos, a espera máxima é de 5 minutos."
+         },
+         {
+          "b": "Ligação caiu:",
+          "t": "a empresa deve retornar em até 5 minutos, sem que o consumidor precise repetir as informações, segundo a Agência Brasil."
+         },
+         {
+          "b": "Sem cadastro antes:",
+          "t": "a empresa não pode exigir CPF ou número de contrato para começar o atendimento, que deve ser gratuito e sem propaganda durante a espera."
+         }
+        ]
+       },
+       {
+        "h": "Robôs e inteligência artificial",
+        "p": [
+         "Sistemas automáticos e ferramentas de inteligência artificial podem ser usados para triagem e para resolver pedidos, mas não podem bloquear ou impedir a opção de falar em tempo real com uma pessoa, segundo a Senacon, citada pela Agência Brasil."
+        ]
+       },
+       {
+        "h": "Cancelamento e prazos",
+        "li": [
+         {
+          "b": "Cancelar:",
+          "t": "a opção deve estar em todos os níveis do SAC, inclusive no primeiro menu, e em todo canal usado para contratar o serviço."
+         },
+         {
+          "b": "Resposta:",
+          "t": "pedidos que não são urgentes devem ser respondidos em até sete dias corridos. Casos de risco relevante têm atendimento imediato."
+         },
+         {
+          "b": "Histórico:",
+          "t": "o consumidor pode pedir de graça o histórico das suas demandas, entregue em até cinco dias úteis. Gravações e mensagens ficam guardadas por pelo menos 90 dias."
+         },
+         {
+          "b": "Aplicativos:",
+          "t": "plataformas de intermediação, como as de entrega e de transporte, devem divulgar dados de atendimento, como volume de reclamações e taxas de resolução, segundo o SBT News."
+         }
+        ]
+       },
+       {
+        "h": "Quem tem prioridade",
+        "p": [
+         "Pessoas idosas têm atendimento prioritário, e os canais precisam ter acessibilidade para pessoas com deficiência, conforme regras que as agências reguladoras ainda vão definir."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como as agências reguladoras vão definir quais situações contam como urgentes.",
+         "Quais serão as sanções aplicadas a empresas que descumprirem as regras. As reportagens consultadas não detalham valores."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "As empresas precisam enviar dados de atendimento à Senacon.",
+         "As agências reguladoras ainda vão definir os casos urgentes e as regras de acessibilidade de cada setor."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: as novas regras",
+        "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/novas-regras-de-atendimento-ao-consumidor-comecam-valer-hoje"
+       },
+       {
+        "t": "SBT News: o que muda",
+        "u": "https://sbtnews.sbt.com.br/noticia/brasil/novas-regras-do-sac-entram-em-vigor-veja-o-que-muda"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Presidente do TJ-MS governa Mato Grosso do Sul até sexta",
+     "texto": "O desembargador Dorival Renato Pavan, presidente do Tribunal de Justiça de Mato Grosso do Sul, assumiu no domingo (1º) o governo do estado. O governador Eduardo Riedel (PP), o vice Barbosinha (Republicanos) e o presidente da Assembleia, Gerson Claro (PP), estão afastados nesta semana.",
+     "pq": "é a quarta vez desde 2002 que um presidente do Tribunal de Justiça comanda o Executivo do estado, segundo o TJ-MS. Pavan disse que não fará mudanças em políticas públicas nem no orçamento. Riedel, reeleito em 4 de outubro, pediu licença para descansar depois da eleição.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/desembargador-assume-governo-de-ms-apos-licenca-de-governador-e-vice"
+      },
+      {
+       "t": "A Crítica",
+       "u": "https://acritica.net/noticias/pavan-promete-governar-ms-seis-dias-sem-mudancas-quarto-presidente-tj/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Americanos votam hoje com aprovação de Trump em 32%",
+     "texto": "Os Estados Unidos escolhem nesta terça (3) a Câmara inteira, parte do Senado e governadores. Na véspera, uma pesquisa Reuters/Ipsos mostrou 32% de aprovação ao presidente Donald Trump, perto da mínima, e 46% de preferência por candidatos democratas, contra 38% por republicanos.",
+     "pq": "o resultado define se Trump mantém a maioria republicana no Congresso nos dois últimos anos de mandato. O Departamento de Justiça tentou anular votos e travar resultados em dois estados, e tribunais rejeitaram os pedidos. Trump disse que, se perder, os democratas podem tentar um novo impeachment.",
+     "fontes": [
+      {
+       "t": "Al Jazeera, com Reuters/Ipsos",
+       "u": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll"
+      },
+      {
+       "t": "Agência Brasil, com Reuters",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/departamento-de-justica-rompe-com-tradicao-ao-intervir-nas-eleicoes"
+      }
+     ],
+     "completa": {
+      "fina": "O Departamento de Justiça agiu na Califórnia e no Alasca; críticos dizem que a pasta rompeu uma tradição de neutralidade, e o governo diz que só cumpre a lei.",
+      "atualizada": "3 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Os americanos votam nesta terça-feira (3) para escolher a Câmara dos Representantes, parte do Senado e governadores de dezenas de estados. Uma pesquisa Reuters/Ipsos divulgada na véspera, citada pela Al Jazeera, mostrou 32% de aprovação ao presidente Donald Trump, um ponto acima da medição de duas semanas antes, que tinha registrado a mínima de 31%.",
+      "blocos": [
+       {
+        "h": "A pesquisa",
+        "li": [
+         {
+          "b": "Aprovação de Trump:",
+          "t": "32%, perto da menor marca, segundo a Reuters/Ipsos."
+         },
+         {
+          "b": "Voto para o Congresso:",
+          "t": "46% disseram preferir um candidato democrata e 38%, um republicano."
+         },
+         {
+          "b": "Por que caiu:",
+          "t": "segundo a Al Jazeera, a aprovação vem caindo desde o início da guerra de EUA e Israel contra o Irã, em 28 de fevereiro, que encareceu gasolina e diesel."
+         }
+        ]
+       },
+       {
+        "h": "O Departamento de Justiça nas eleições",
+        "li": [
+         {
+          "b": "Califórnia:",
+          "t": "a pasta tentou descartar votos pelo correio de cerca de 20 mil eleitores que, segundo ela, provavelmente não são cidadãos americanos. O estado diz que tem mecanismos contra o voto de estrangeiros e que o departamento não tem poder para barrar votos."
+         },
+         {
+          "b": "Alasca:",
+          "t": "a pasta investiga se um candidato ao Senado chamado Daniel J. Sullivan entrou na disputa para confundir eleitores do senador republicano Dan Sullivan, e tentou impedir a certificação em caso de derrota apertada. No domingo (1º), a juíza federal Sharon Gleason rejeitou o pedido; o departamento recorreu."
+         },
+         {
+          "b": "Nos tribunais:",
+          "t": "as ações contra os dois estados foram rejeitadas, segundo a Reuters."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Kiersten Pels, porta-voz do Departamento de Justiça:",
+          "t": "\"O Departamento não está ajudando nenhuma campanha. Está fazendo cumprir a lei.\""
+         },
+         {
+          "b": "Todd Blanche, procurador-geral:",
+          "t": "diz que as ações são legais e protegem a integridade do voto."
+         },
+         {
+          "b": "Peter Keisler, procurador-geral interino no governo de George W. Bush:",
+          "t": "disse que o departamento precisa deixar claro que não toma partido; para ele, a ação no Alasca arrisca parecer favorecer o senador republicano."
+         },
+         {
+          "b": "Campanha da democrata Mary Peltola:",
+          "t": "disse que \"não teve envolvimento\" com as campanhas de Sullivan, depois de o New York Times relatar participação dela no recrutamento do candidato."
+         },
+         {
+          "b": "Donald Trump:",
+          "t": "disse em comício em Washington que, \"por algum motivo, o presidente no cargo não vence as eleições de meio de mandato\". Tradução do Contexto."
+         }
+        ]
+       },
+       {
+        "h": "Os antecedentes",
+        "p": [
+         "A Constituição americana dá aos estados a responsabilidade de organizar as eleições. Trump diz sem provas que fraudes lhe custaram a eleição de 2020; estudos independentes e auditorias estaduais concluíram que fraudes são raras, e mais de 60 ações de aliados contra aquele resultado fracassaram, segundo a Reuters."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando sairão os resultados das disputas mais apertadas.",
+         "Se o Departamento de Justiça vai contestar resultados depois da votação."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A apuração começa depois do fechamento das urnas, nesta terça.",
+         "Segue na Justiça o recurso do Departamento de Justiça no caso do Alasca."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: a pesquisa Reuters/Ipsos",
+        "u": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll"
+       },
+       {
+        "t": "Agência Brasil, com Reuters: o Departamento de Justiça",
+        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/departamento-de-justica-rompe-com-tradicao-ao-intervir-nas-eleicoes"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Marvell anuncia compra da Lumentum por US$ 115 bilhões em ações",
+     "texto": "A americana Marvell, que projeta chips, anunciou na segunda (2) a compra da Lumentum, fabricante de lasers e peças ópticas para data centers de IA. O negócio, pago só com ações, foi avaliado em US$ 115 bilhões e precisa de aprovação de acionistas e reguladores.",
+     "pq": "a disputa por centros de dados de IA fez a conexão por luz, mais rápida e econômica, virar gargalo. O negócio junta projeto de chips e fabricação de lasers numa só empresa. A conclusão está prevista só para o primeiro semestre de 2028.",
+     "fontes": [
+      {
+       "t": "24/7 Wall St.",
+       "u": "https://247wallst.com/investing/2026/11/02/marvell-slides-3-lumentum-drops-6-on-115-billion-all-stock-merger-deal-coherent-climbs-2/"
+      },
+      {
+       "t": "INDmoney",
+       "u": "https://www.indmoney.com/blog/us-stocks/marvell-lumentum-acquisition-deal-explained-mrvl-lite-investors-impact"
+      }
+     ],
+     "completa": {
+      "fina": "Cada ação da Lumentum vira 4,5 ações da Marvell; os acionistas da Marvell ficam com 67% da empresa resultante.",
+      "atualizada": "3 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Marvell Technology anunciou na segunda-feira (2) um acordo para comprar a Lumentum em uma transação feita só com ações, com valor de empresa estimado em US$ 115 bilhões. Os conselhos das duas companhias aprovaram o negócio por unanimidade, segundo o 24/7 Wall St.",
+      "blocos": [
+       {
+        "h": "Os termos",
+        "li": [
+         {
+          "b": "Troca:",
+          "t": "cada ação da Lumentum vira 4,5 ações da Marvell, o que equivalia a cerca de US$ 1.132 por ação com os preços de 28 de outubro, prêmio de 23,9%."
+         },
+         {
+          "b": "Divisão:",
+          "t": "os acionistas da Marvell ficam com cerca de 67% da empresa combinada e os da Lumentum, com 33%."
+         },
+         {
+          "b": "Economia prevista:",
+          "t": "mais de US$ 1 bilhão por ano em custos, segundo as empresas."
+         },
+         {
+          "b": "Prazo:",
+          "t": "conclusão esperada no primeiro semestre de 2028, depois de aprovações de acionistas e de órgãos reguladores."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "A Lumentum fabrica lasers e módulos ópticos que transmitem dados dentro de data centers usados para inteligência artificial. A Marvell projeta chips sob medida, mas depende de parceiros para fabricar componentes. Com o negócio, as duas partes ficam sob a mesma empresa, segundo o 24/7 Wall St. Em março, a Nvidia tinha acertado comprar uma participação de US$ 2 bilhões na Lumentum. No primeiro trimestre do ano fiscal de 2027, a Lumentum teve receita de US$ 1,26 bilhão, pouco acima do esperado pelo mercado, segundo o mesmo site."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Matt Murphy, presidente-executivo da Marvell:",
+          "t": "chamou a mudança para a conexão óptica de oportunidade que \"aparece uma vez a cada geração\", segundo o 24/7 Wall St. Tradução do Contexto."
+         },
+         {
+          "b": "24/7 Wall St.:",
+          "t": "a reportagem aponta o longo prazo até a conclusão e o risco de análise antitruste como dúvidas sobre o negócio."
+         }
+        ]
+       },
+       {
+        "h": "O valor muda",
+        "p": [
+         "Como o pagamento é em ações, o valor por ação da Lumentum varia com a cotação da Marvell. Segundo o INDmoney, em 30 de outubro 4,5 ações da Marvell valiam cerca de US$ 883,80, abaixo dos US$ 1.132 calculados com os preços de 28 de outubro."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se autoridades de concorrência dos EUA e de outros países vão aprovar a compra.",
+         "Como ficam os contratos da Lumentum com outras fabricantes de chips."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Os acionistas das duas empresas votam o acordo.",
+         "Três conselheiros da Lumentum, entre eles o presidente-executivo, Michael Hurlston, devem entrar no conselho da Marvell."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "24/7 Wall St.: o acordo e a reação",
+        "u": "https://247wallst.com/investing/2026/11/02/marvell-slides-3-lumentum-drops-6-on-115-billion-all-stock-merger-deal-coherent-climbs-2/"
+       },
+       {
+        "t": "INDmoney: os termos",
+        "u": "https://www.indmoney.com/blog/us-stocks/marvell-lumentum-acquisition-deal-explained-mrvl-lite-investors-impact"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Esportes",
+   "categoria": "esportes",
+   "notas": [
+    {
+     "id": "es1",
+     "selo": "Checada",
+     "titulo": "Kimi Antonelli, de 20 anos, é campeão da Fórmula 1",
+     "texto": "O italiano Kimi Antonelli, da Mercedes, terminou em terceiro o GP do México, no domingo (1º), e garantiu o título de 2026. Ele soma 380 pontos, contra 261 de Max Verstappen, vencedor da prova. Aos 20 anos, é o campeão mais jovem da história da categoria.",
+     "pq": "Antonelli é o primeiro italiano campeão desde 1953, segundo a Agência Brasil, e superou o recorde de idade de Sebastian Vettel, de 2010. A próxima etapa é o GP de São Paulo, em Interlagos, de 6 a 8 de novembro.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/italia-celebra-o-jovem-campeao-de-formula1-kimi-antonelli"
+      },
+      {
+       "t": "F1Mania",
+       "u": "https://www.f1mania.net/f1/f1-verstappen-vence-gp-do-mexico-e-antonelli-conquista-titulo-mundial-aos-20-anos/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "90 dias",
+  "texto": "é o tempo mínimo que as empresas terão de guardar gravações de ligações e mensagens do SAC; o consumidor pode pedir o histórico de graça.",
+  "fontes": [
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/novas-regras-de-atendimento-ao-consumidor-comecam-valer-hoje"
+   },
+   {
+    "t": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/brasil/novas-regras-do-sac-entram-em-vigor-veja-o-que-muda"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "Em Imola, pista ligada à Ferrari, centenas de torcedores viram a corrida num museu e comemoraram o título de Antonelli, piloto da Mercedes. No rádio, ele só repetia: \"Conseguimos!\".",
+  "fontes": [
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/italia-celebra-o-jovem-campeao-de-formula1-kimi-antonelli"
+   },
+   {
+    "t": "F1Mania",
+    "u": "https://www.f1mania.net/f1/f1-verstappen-vence-gp-do-mexico-e-antonelli-conquista-titulo-mundial-aos-20-anos/"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Nos EUA, o Departamento de Justiça, o governo Trump e os críticos falam na própria voz, e a pesquisa vem com a fonte e a comparação.",
+  "pontos": [
+   "Brasil 1: o uso de IA no SAC é descrito como a regra o define, sem juízo; nota de serviço, sem governo nem oposição.",
+   "Brasil 2: partidos do governador, do vice e do presidente da Assembleia informados; a promessa de Pavan aparece na voz dele.",
+   "Mundo 1: a ação do Departamento de Justiça vem com a resposta da pasta e as decisões judiciais; a frase de Trump sobre fraude em 2020 vem com o resultado das auditorias.",
+   "Inovação 1: o valor do negócio é atribuído às empresas; a variação de valor por ação está explicada.",
+   "Esportes 1: placar e pontuação com fonte, sem torcida."
+  ],
+  "equilibrio": "Governo Trump: 3 menções (neutras); democratas: 2 (neutras). Brasil: nenhuma nota de disputa partidária.",
+  "foraDaEdicao": [
+   "Mundo: só uma nota; outras pautas do dia (negociações do Irã e alertas falsos na Ucrânia e na Rússia) não tiveram duas fontes abertas a tempo.",
+   "Categorias extras (Economia, Política, Ciência, Saúde, Meio ambiente, Cultura, Entretenimento, Celebridades, Educação, Trabalho e carreira): sem fato novo checado em duas fontes até o fechamento.",
+   "Inovação: só uma nota; outras pautas do dia tinham uma só fonte aberta."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Retirada a queda das ações da Marvell e da Lumentum, porque as fontes trazem números diferentes.",
+   "Retirado o recorde de idade em dias de Antonelli, porque só uma fonte traz o número exato.",
+   "Número do dia trocado para as gravações do SAC, para não repetir a pesquisa de Trump."
+  ]
+ },
+ "geradaEm": "2026-11-03T07:40:48Z"
+}
