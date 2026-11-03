@@ -13,6 +13,10 @@ Uma tarefa agendada grava a edição nova todo dia de madrugada.
 
 O catálogo de categorias fica em `categorias.json` (Brasil, Mundo e Inovação de sempre, mais Economia, Política, Esportes, Ciência, Saúde, Meio ambiente, Cultura, Entretenimento, Celebridades, Educação e Trabalho e carreira). Cada seção de uma edição leva `"categoria"` com o id do catálogo. `categorias.js`, carregado pelo app e pelo site, deixa o leitor escolher quais categorias quer e em que ordem (botão "Personalizar"); a escolha fica no celular dele, e as seções que ele não escolheu ficam recolhidas em "Outras seções de hoje". Quem assina tem a escolha guardada também na coluna `categorias` de `contexto_inscritos` (parte "Minha edição" de `supabase/contexto_inscritos.sql`), para o e-mail personalizado. Para criar uma categoria, é só acrescentar um item em `categorias.json`.
 
+O leitor também escolhe quantas notícias quer de cada categoria (1 a 5; padrão no campo `qtd` do catálogo). A edição traz as notas de cada seção da mais para a menos importante; o app mostra as N primeiras e guarda o resto em "Ver mais".
+
+**O que você não pode deixar de saber hoje**: o campo `essencial` da edição (`[{"id": "b1", "porque": "..."}]`) lista as 2 a 4 notas que o editor-chefe destacou. Elas saem da seção delas e abrem a edição para todo leitor, com a frase "Por que não dá para perder".
+
 ## App Android
 
 A pasta `android/` tem um app que abre o site do Contexto em tela cheia. A cada mudança nela, o GitHub Actions gera o `contexto.apk` e publica na página Releases do repositório.

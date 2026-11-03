@@ -28,17 +28,25 @@ alter table public.contexto_inscritos drop constraint if exists contexto_inscrit
 alter table public.contexto_inscritos add constraint contexto_inscritos_categorias_ck
   check (categorias is null or (cardinality(categorias) <= 30 and array_to_string(categorias, ',') ~ '^[a-z0-9-]{1,40}(,[a-z0-9-]{1,40})*$'));
 alter table public.contexto_inscritos add column if not exists categorias_em timestamptz;
+-- Quantas notícias o leitor quer de cada categoria, ex.: {"mundo": 3, "brasil": 2, "esportes": 1}.
+alter table public.contexto_inscritos add column if not exists quantidades jsonb;
+alter table public.contexto_inscritos drop constraint if exists contexto_inscritos_quantidades_ck;
+alter table public.contexto_inscritos add constraint contexto_inscritos_quantidades_ck
+  check (quantidades is null or (jsonb_typeof(quantidades) = 'object' and pg_column_size(quantidades) <= 2000));
 
 -- O leitor muda as categorias depois de inscrito. O código de indicação (8 letras aleatórias, só ele tem
 -- no celular) é a chave; a função só mexe nessas duas colunas e não devolve dado nenhum.
-create or replace function public.contexto_preferencias(p_codigo text, p_categorias text[])
+drop function if exists public.contexto_preferencias(text, text[]);
+create or replace function public.contexto_preferencias(p_codigo text, p_categorias text[], p_quantidades jsonb default null)
 returns void language sql security definer set search_path = public as $$
   update public.contexto_inscritos
-     set categorias = nullif(p_categorias, '{}'), categorias_em = now()
+     set categorias = nullif(p_categorias, '{}'),
+         quantidades = case when jsonb_typeof(p_quantidades) = 'object' and pg_column_size(p_quantidades) <= 2000 then p_quantidades end,
+         categorias_em = now()
    where codigo = p_codigo and p_codigo ~ '^[a-z0-9]{6,12}$' and status <> 'cancelado';
 $$;
-revoke all on function public.contexto_preferencias(text, text[]) from public;
-grant execute on function public.contexto_preferencias(text, text[]) to anon, authenticated;
+revoke all on function public.contexto_preferencias(text, text[], jsonb) from public;
+grant execute on function public.contexto_preferencias(text, text[], jsonb) to anon, authenticated;
 
 -- Quantos leitores querem cada categoria (rodar no painel; ajuda a decidir o que cobrir):
 -- select c as categoria, count(*) from public.contexto_inscritos, unnest(categorias) c

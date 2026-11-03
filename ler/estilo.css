@@ -164,3 +164,14 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
 .msg { font-family: var(--f-display); font-size: 14px; color: var(--muted); min-height: 1.2em; }
 .toast { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(80px + env(safe-area-inset-bottom, 0px)); z-index: 30; background: var(--ink); color: var(--surface); font-family: var(--f-display); font-weight: 600; font-size: 15px; padding: 10px 16px; border-radius: 10px; max-width: calc(100% - 32px); }
 @media (prefers-reduced-motion: no-preference) { .sheet { animation: sobe .2s ease-out; } @keyframes sobe { from { transform: translateY(24px); opacity: .6; } } }
+
+/* "O que você não pode deixar de saber hoje": destaques da redação no topo da edição. */
+.essencial-cab { display: grid; gap: 8px; }
+.essencial { background: var(--accent-soft); border: 1px solid var(--accent); border-left-width: 5px; border-radius: 12px; padding: 18px 16px 20px; gap: 14px; }
+.essencial-cab > .etq { background: var(--accent); color: var(--on-accent); }
+.essencial h2 { font-size: 23px; line-height: 1.2; }
+.essencial-fina { font-family: var(--f-display); font-size: 14px; color: var(--muted); }
+.essencial .nota { border-top-color: color-mix(in srgb, var(--accent) 35%, transparent); }
+.essencial .nota > .etq { font-size: 11px; padding: 3px 7px; }
+.essencial-pq { font-family: var(--f-display); font-size: 15px; }
+.essencial-pq b { color: var(--accent); }

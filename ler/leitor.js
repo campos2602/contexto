@@ -50,10 +50,10 @@
       var c = novoCodigo(), ind = guarda("indicado");
       var origem = (location.pathname.replace(C.base, "/") + " " + (box.dataset.origem || "") + (utm ? " " + utm : "")).slice(0, 200);
       var corpo = { email: email, codigo: c, indicado_por: ind && ind !== c ? ind : null, origem: origem }, cats = window.CtxCat && CtxCat.escolhidas();
-      if (cats) corpo.categorias = cats;
+      if (cats) { corpo.categorias = cats; corpo.quantidades = {}; cats.forEach(function (id) { corpo.quantidades[id] = CtxCat.qtd(id); }); }
       post("contexto_inscritos", corpo)
         // Se a coluna "categorias" ainda não existir no banco, inscreve sem ela.
-        .catch(function (e) { if (!cats || String(e.message) !== "400") throw e; delete corpo.categorias; return post("contexto_inscritos", corpo); })
+        .catch(function (e) { if (!cats || String(e.message) !== "400") throw e; delete corpo.categorias; delete corpo.quantidades; return post("contexto_inscritos", corpo); })
         .then(function (r) {
           if (r === "repetido") { btn.disabled = false; msg.textContent = "Esse e-mail já está na lista. Obrigado!"; return; }
           guarda("codigo", c);
@@ -67,10 +67,10 @@
   if (window.CtxCat) {
     CtxCat.carregar().then(function () { CtxCat.aplicar(document); });
     CtxCat.sugerir = function (t) { return post("contexto_comentarios", { edicao: "", alvo: "categoria", alvo_titulo: "Nova categoria", tipo: "Sugestão de categoria", texto: ("[leitor] " + t).slice(0, 300) }); };
-    CtxCat.aoSalvar.push(function (lista) {
+    CtxCat.aoSalvar.push(function (lista, qtds) {
       var cod = guarda("codigo");
       if (!cod || !C.inscricoes) return;
-      fetch(C.inscricoes + "/rest/v1/rpc/contexto_preferencias", { method: "POST", headers: cab(C.chaveInscricoes), body: JSON.stringify({ p_codigo: cod, p_categorias: lista || [] }) }).catch(function () {});
+      fetch(C.inscricoes + "/rest/v1/rpc/contexto_preferencias", { method: "POST", headers: cab(C.chaveInscricoes), body: JSON.stringify({ p_codigo: cod, p_categorias: lista || [], p_quantidades: qtds || null }) }).catch(function () {});
     });
   }
 

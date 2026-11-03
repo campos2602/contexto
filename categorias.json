@@ -1,9 +1,9 @@
 {
-  "_sobre": "Catálogo de categorias do Contexto. Cada seção de uma edição leva \"categoria\" com um destes ids. Para criar uma categoria nova, acrescente um item aqui (id em ascii com hífens) e a rotina diária passa a cobrir. \"padrao\": aparece para quem ainda não personalizou. \"cor\": fundo da etiqueta no tema claro e no escuro.",
+  "_sobre": "\"qtd\": quantas notícias da categoria o leitor vê se não escolher outra quantidade (1 se faltar). Catálogo de categorias do Contexto. Cada seção de uma edição leva \"categoria\" com um destes ids. Para criar uma categoria nova, acrescente um item aqui (id em ascii com hífens) e a rotina diária passa a cobrir. \"padrao\": aparece para quem ainda não personalizou. \"cor\": fundo da etiqueta no tema claro e no escuro.",
   "categorias": [
-    { "id": "brasil",         "nome": "Brasil",          "desc": "Governo, Congresso, Justiça e o que muda no país",         "padrao": true,  "cor": ["#b2dcd7", "#1b5651"] },
-    { "id": "mundo",          "nome": "Mundo",           "desc": "Guerras, eleições e acordos lá fora",                      "padrao": true,  "cor": ["#cfe9e6", "#15403d"] },
-    { "id": "inovacao",       "nome": "Inovação",        "desc": "Tecnologia, inteligência artificial e startups",           "padrao": true,  "cor": ["#93cec7", "#226c66"], "aliases": ["Tecnologia", "Tecnologia e Inovação"] },
+    { "id": "brasil",         "nome": "Brasil",          "desc": "Governo, Congresso, Justiça e o que muda no país",         "padrao": true, "qtd": 3,  "cor": ["#b2dcd7", "#1b5651"] },
+    { "id": "mundo",          "nome": "Mundo",           "desc": "Guerras, eleições e acordos lá fora",                      "padrao": true, "qtd": 3,  "cor": ["#cfe9e6", "#15403d"] },
+    { "id": "inovacao",       "nome": "Inovação",        "desc": "Tecnologia, inteligência artificial e startups",           "padrao": true, "qtd": 2,  "cor": ["#93cec7", "#226c66"], "aliases": ["Tecnologia", "Tecnologia e Inovação"] },
     { "id": "economia",       "nome": "Economia",        "desc": "Juros, dólar, Bolsa, emprego e o seu bolso",               "padrao": false, "cor": ["#f3e2b3", "#4a3b12"], "aliases": ["Dinheiro", "Economia e Dinheiro"] },
     { "id": "politica",       "nome": "Política",        "desc": "Partidos, eleições e bastidores do poder",                 "padrao": false, "cor": ["#e6d3f0", "#3d2550"] },
     { "id": "esportes",       "nome": "Esportes",        "desc": "Futebol, Fórmula 1, vôlei e o resto do placar",            "padrao": false, "cor": ["#cfe8c3", "#26401d"], "aliases": ["Esporte"] },

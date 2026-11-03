@@ -165,6 +165,16 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
 .msg { font-family: var(--f-display); font-size: 14px; color: var(--muted); min-height: 1.2em; }
 .toast { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(80px + env(safe-area-inset-bottom, 0px)); z-index: 30; background: var(--ink); color: var(--surface); font-family: var(--f-display); font-weight: 600; font-size: 15px; padding: 10px 16px; border-radius: 10px; max-width: calc(100% - 32px); }
 @media (prefers-reduced-motion: no-preference) { .sheet { animation: sobe .2s ease-out; } @keyframes sobe { from { transform: translateY(24px); opacity: .6; } } }
+/* "O que você não pode deixar de saber hoje": destaques da redação no topo da edição. */
+.essencial-cab { display: grid; gap: 8px; }
+.essencial { background: var(--accent-soft); border: 1px solid var(--accent); border-left-width: 5px; border-radius: 12px; padding: 18px 16px 20px; gap: 14px; }
+.essencial-cab > .etq { background: var(--accent); color: var(--on-accent); }
+.essencial h2 { font-size: 23px; line-height: 1.2; }
+.essencial-fina { font-family: var(--f-display); font-size: 14px; color: var(--muted); }
+.essencial .nota { border-top-color: color-mix(in srgb, var(--accent) 35%, transparent); }
+.essencial .nota > .etq { font-size: 11px; padding: 3px 7px; }
+.essencial-pq { font-family: var(--f-display); font-size: 15px; }
+.essencial-pq b { color: var(--accent); }
 </style>
 
 </head>
@@ -209,7 +219,16 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
   function toast(t) { var el = document.createElement("div"); el.className = "toast"; el.setAttribute("role", "status"); el.textContent = t; document.body.appendChild(el); setTimeout(function () { el.remove(); }, 2600); }
 
   function acharEdicao(k) { for (var i = 0; i < S.edicoes.length; i++) if (S.edicoes[i]._id === k) return S.edicoes[i]; return null; }
-  function acharNota(ed, id) { var r = null; (ed.secoes || []).forEach(function (s) { (s.notas || []).forEach(function (n) { if (n.id === id) r = { nota: n, secao: s.nome }; }); }); return r; }
+  // Campo "essencial" da edição: ["m1", ...] ou [{id, porque}, ...], na ordem da redação.
+  function essenciais(ed) {
+    var r = [], visto = {};
+    (ed.essencial || []).forEach(function (e) {
+      var id = e && typeof e === "object" ? e.id : e, a = acharNota(ed, id);
+      if (a && !visto[id]) { visto[id] = 1; r.push({ nota: a.nota, secao: a.sec, porque: e && typeof e === "object" ? e.porque : null }); }
+    });
+    return r;
+  }
+  function acharNota(ed, id) { var r = null; (ed.secoes || []).forEach(function (s) { (s.notas || []).forEach(function (n) { if (n.id === id) r = { nota: n, secao: s.nome, sec: s }; }); }); return r; }
   function qtdCom(edK, alvo) { return S.comentarios.filter(function (c) { return chave(c.edicao) === edK && c.alvo === alvo; }).length; }
 
   /* ---------- Topo ---------- */
@@ -232,14 +251,12 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
     h.push('<div class="acoes"><button class="btn cheio ouvir" type="button" data-ouvir="edicao" data-titulo="Contexto de ' + esc(ed.dia || dataCurta(ed.data)) + '">Ouvir a edição</button></div>');
     h.push("</header>");
     if (ed.abre) h.push('<p class="abre" data-ler="Abertura">' + esc(ed.abre) + "</p>");
-    if (ed.trinta && ed.trinta.length) h.push('<section class="sec" id="ler-trinta" data-ler="Em 30 segundos"><span class="etq">Em 30 segundos</span><ol class="trinta">' + ed.trinta.map(function (t) { return "<li><span>" + esc(t) + "</span></li>"; }).join("") + '</ol><div class="acoes"><button class="btn ouvir" type="button" data-ouvir="#ler-trinta" data-titulo="Em 30 segundos">Ouvir resumo</button></div></section>');
-    (ed.secoes || []).forEach(function (s) {
-      var cat = catDe(s.nome, s.categoria);
-      h.push('<section class="sec" data-cat="' + esc(cat) + '"><span class="etq ' + esc(cat) + '">' + esc(s.nome) + "</span>");
-      (s.notas || []).forEach(function (n) {
+    function nota(n, s, cat, porque) {
         var temNC = !!n.completa, temCX = !!(n.contexto && S.contextos[n.contexto]);
         var q = qtdCom(k, n.id);
-        h.push('<article class="nota" id="nota-' + esc(n.id) + '" data-ler="' + esc(n.titulo) + '" data-secao="' + esc(s.nome) + '"><h3>' + esc(n.titulo) + "</h3><p>" + esc(n.texto) + "</p>");
+        h.push('<article class="nota" id="nota-' + esc(n.id) + '" data-ler="' + esc(n.titulo) + '" data-secao="' + esc(s.nome) + '"' + (cat ? ' data-cat="' + esc(cat) + '"' : "") + ">" +
+          (cat ? '<span class="etq ' + esc(cat) + '" data-nao-ler>' + esc(s.nome) + "</span>" : "") + "<h3>" + esc(n.titulo) + "</h3><p>" + esc(n.texto) + "</p>");
+        if (porque) h.push('<p class="essencial-pq"><b>Por que não dá para perder:</b> ' + esc(porque) + "</p>");
         if (n.pq) h.push('<p class="pq"><b>Por que importa:</b> ' + esc(n.pq) + "</p>");
         h.push(fontes(n.fontes));
         h.push('<div class="acoes">');
@@ -249,7 +266,21 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
         h.push('<button class="btn leve" type="button" data-comentar="' + esc(n.id) + '" data-titulo="' + esc(n.titulo) + '">Comentar' + (q ? ' <span class="qtd">' + q + "</span>" : "") + "</button>");
         if (!temNC && !temCX) h.push('<span class="sem-pagina">Páginas desta nota ainda não publicadas</span>');
         h.push("</div></article>");
-      });
+    }
+    // "O que você não pode deixar de saber hoje": destaques da redação saem da seção e abrem a edição.
+    var ess = essenciais(ed), idsEss = {};
+    if (ess.length) {
+      h.push('<section class="sec essencial" id="ler-essencial"><div class="essencial-cab" data-ler="Não deixe de saber"><span class="etq" data-nao-ler>Não deixe de saber</span><h2>O que você não pode deixar de saber hoje</h2><p class="essencial-fina" data-nao-ler>Escolhidas pela redação para quem tem pouco tempo. Se ler só isto, você está em dia.</p></div>');
+      ess.forEach(function (e) { idsEss[e.nota.id] = 1; nota(e.nota, e.secao, catDe(e.secao.nome, e.secao.categoria), e.porque); });
+      h.push("</section>");
+    }
+    if (ed.trinta && ed.trinta.length) h.push('<section class="sec" id="ler-trinta" data-ler="Em 30 segundos"><span class="etq">Em 30 segundos</span><ol class="trinta">' + ed.trinta.map(function (t) { return "<li><span>" + esc(t) + "</span></li>"; }).join("") + '</ol><div class="acoes"><button class="btn ouvir" type="button" data-ouvir="#ler-trinta" data-titulo="Em 30 segundos">Ouvir resumo</button></div></section>');
+    (ed.secoes || []).forEach(function (s) {
+      var notas = (s.notas || []).filter(function (n) { return !idsEss[n.id]; });
+      if (!notas.length) return;
+      var cat = catDe(s.nome, s.categoria);
+      h.push('<section class="sec" data-cat="' + esc(cat) + '"><span class="etq ' + esc(cat) + '">' + esc(s.nome) + "</span>");
+      notas.forEach(function (n) { nota(n, s); });
       h.push("</section>");
     });
     if (ed.numero) h.push('<section class="sec" data-ler="Número do dia"><span class="etq">Número do dia</span><div class="numero"><b>' + esc(ed.numero.valor) + "</b><p>" + esc(ed.numero.texto) + "</p>" + fontes(ed.numero.fontes) + "</div></section>");
