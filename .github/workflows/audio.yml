@@ -1,0 +1,56 @@
+name: Gravar áudio da edição (ElevenLabs)
+
+# A cada edição gravada na main, grava a narração com a voz da ElevenLabs em audio/<id>/.
+# Sem o segredo ELEVENLABS_API_KEY, não faz nada: o app e o site usam a voz do aparelho.
+on:
+  push:
+    branches: [main]
+    paths: ["edicoes/**", "ferramentas/audio.js", "ler/falado.js"]
+  workflow_dispatch:
+    inputs:
+      edicao:
+        description: "Id da edição (vazio = a mais recente). Use --amostras para ouvir as vozes da conta."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: audio
+  cancel-in-progress: false
+
+jobs:
+  gravar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Gravar
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOZ: ${{ vars.ELEVENLABS_VOZ }}
+          ELEVENLABS_MODELO: ${{ vars.ELEVENLABS_MODELO }}
+          EDICAO: ${{ github.event.inputs.edicao }}
+        run: node ferramentas/audio.js $EDICAO
+      - name: Gravar na main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "contexto-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A audio 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
+          git commit -q -m "Áudio da edição gravado"
+          for i in 1 2 3 4; do
+            if git pull -q --rebase origin main && git push -q origin HEAD:main; then
+              # Push feito pelo GitHub Actions não dispara outros workflows: pede o site de novo, agora com os MP3.
+              gh workflow run site.yml --ref main
+              exit 0
+            fi
+            sleep $((i * 5))
+          done
+          exit 1

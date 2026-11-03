@@ -184,8 +184,26 @@ def botao_compartilhar(titulo, texto, url):
 
 # ---------- Páginas ----------
 
+def audios(k):
+    """Texto escrito -> endereço do MP3 gravado com a ElevenLabs (ferramentas/audio.js), se houver."""
+    try:
+        clipes = ler_json("audio", k, "audio.json").get("clipes") or []
+    except Exception:
+        return {}
+    return {c["texto"].strip(): "%saudio/%s/%s" % (BASE, k, c["arquivo"]) for c in clipes if c.get("texto") and c.get("arquivo")}
+
+
+def attr_audio(au, *textos):
+    """data-audio com os MP3 dos textos, só se todos estiverem gravados (senão o trecho usa a voz do aparelho)."""
+    ts = [t.strip() for t in textos if t and t.strip()]
+    if not ts or not all(t in au for t in ts):
+        return ""
+    return ' data-audio="%s"' % esc(" ".join(au[t] for t in ts))
+
+
 def v_edicao(ed, contextos, rotulo_topo=None):
     k = ed["_id"]
+    au = audios(k)
     url_ed = SITE + "/ler/%s/" % k
     dia = ed.get("dia") or data_curta(ed.get("data"))
     h = ['<article class="folha" data-ler-raiz>', '<header class="edhead"><div class="linha"><span class="rotulo">%s</span><span class="rotulo">%s de leitura</span></div>'
@@ -193,9 +211,10 @@ def v_edicao(ed, contextos, rotulo_topo=None):
     h.append("<h1 class=\"sr\">Contexto de %s</h1>" % esc(dia))
     h.append('<div class="acoes">%s</div></header>' % botao_ouvir("edicao", "Contexto de " + dia, "Ouvir a edição", True))
     if ed.get("abre"):
-        h.append('<p class="abre" data-ler="Abertura">%s</p>' % esc(ed["abre"]))
+        h.append('<p class="abre" data-ler="Abertura"%s>%s</p>' % (attr_audio(au, ed["abre"]), esc(ed["abre"])))
     if ed.get("trinta"):
-        h.append('<section class="sec" id="ler-trinta" data-ler="Em 30 segundos"><span class="etq">Em 30 segundos</span><ol class="trinta">%s</ol>%s</section>' % (
+        h.append('<section class="sec" id="ler-trinta" data-ler="Em 30 segundos"%s><span class="etq">Em 30 segundos</span><ol class="trinta">%s</ol>%s</section>' % (
+            attr_audio(au, "Em 30 segundos.", *ed["trinta"]),
             "".join("<li><span>%s</span></li>" % esc(t) for t in ed["trinta"]),
             '<div class="acoes">%s%s</div>' % (botao_ouvir("#ler-trinta", "Em 30 segundos", "Ouvir resumo"), botao_compartilhar("Contexto em 30 segundos", "\n".join("• " + t for t in ed["trinta"]), url_ed))))
     for s in ed.get("secoes") or []:
@@ -205,8 +224,12 @@ def v_edicao(ed, contextos, rotulo_topo=None):
             tem_nc = bool(n.get("completa"))
             tem_cx = bool(n.get("contexto") and n["contexto"] in contextos)
             url_nota = SITE + ("/ler/%s/%s/" % (k, n["id"]) if tem_nc else "/ler/%s/#nota-%s" % (k, n["id"]))
-            h.append('<article class="nota" id="nota-%s" data-ler="%s" data-secao="%s"><h3>%s</h3><p>%s</p>' % (
-                esc(n["id"]), esc(n.get("titulo")), esc(s.get("nome")), esc(n.get("titulo")), esc(n.get("texto"))))
+            secao_mp3 = au.get((s.get("nome") or "").strip() + ".")
+            h.append('<article class="nota" id="nota-%s" data-ler="%s" data-secao="%s"%s%s><h3>%s</h3><p>%s</p>' % (
+                esc(n["id"]), esc(n.get("titulo")), esc(s.get("nome")),
+                attr_audio(au, n.get("titulo"), n.get("texto"), ("Por que importa: " + n["pq"]) if n.get("pq") else None),
+                (' data-audio-secao="%s"' % esc(secao_mp3)) if secao_mp3 else "",
+                esc(n.get("titulo")), esc(n.get("texto"))))
             if n.get("pq"):
                 h.append('<p class="pq"><b>Por que importa:</b> %s</p>' % esc(n["pq"]))
             h.append(fontes(n.get("fontes")))
@@ -223,10 +246,12 @@ def v_edicao(ed, contextos, rotulo_topo=None):
             h.append(caixa_assinar("edicao-meio", "Gostou até aqui?", "Receba o Contexto no e-mail, de graça. Leva 5 minutos por dia."))
     if ed.get("numero"):
         nu = ed["numero"]
-        h.append('<section class="sec" data-ler="Número do dia"><span class="etq">Número do dia</span><div class="numero"><b>%s</b><p>%s</p>%s</div></section>'
-                 % (esc(nu.get("valor")), esc(nu.get("texto")), fontes(nu.get("fontes"))))
+        h.append('<section class="sec" data-ler="Número do dia"%s><span class="etq">Número do dia</span><div class="numero"><b>%s</b><p>%s</p>%s</div></section>'
+                 % (attr_audio(au, "Número do dia: %s. %s" % (nu.get("valor") or "", nu.get("texto") or "")),
+                    esc(nu.get("valor")), esc(nu.get("texto")), fontes(nu.get("fontes"))))
     if ed.get("fechar"):
-        h.append('<section class="sec" data-ler="Para fechar"><span class="etq">Para fechar</span><p>%s</p>%s</section>' % (esc(ed["fechar"].get("texto")), fontes(ed["fechar"].get("fontes"))))
+        h.append('<section class="sec" data-ler="Para fechar"%s><span class="etq">Para fechar</span><p>%s</p>%s</section>' % (
+            attr_audio(au, "Para fechar. " + (ed["fechar"].get("texto") or "")), esc(ed["fechar"].get("texto")), fontes(ed["fechar"].get("fontes"))))
     if ed.get("corrigimos"):
         h.append('<section class="sec" data-ler="Corrigimos"><span class="etq">Corrigimos</span>%s</section>' % "".join("<p>%s</p>" % esc(c) for c in ed["corrigimos"]))
     h.append('<section class="sec"><div class="acoes">%s<button class="btn" type="button" data-avaliar="%s" data-alvo="edicao" data-titulo="Edição inteira">Achei tendencioso</button></div>'

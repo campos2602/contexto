@@ -94,7 +94,13 @@
     trechos.forEach(function (tr, cap) {
       if (!tr.el.id) tr.el.id = "ler-" + Math.random().toString(36).slice(2, 8);
       var alvo = "#" + tr.el.id;
-      if (tr.el.dataset.audio) { itens.push({ src: tr.el.dataset.audio, alvo: alvo, cap: cap }); return; }
+      // Trecho gravado com a voz da ElevenLabs (ferramentas/audio.js): um ou mais MP3, na ordem.
+      if (tr.el.dataset.audio) {
+        if (tr.pre && tr.el.dataset.audioSecao) itens.push({ src: tr.el.dataset.audioSecao, alvo: alvo, cap: cap });
+        else if (tr.pre) partir(limpar(tr.pre)).forEach(function (f) { itens.push({ texto: f, alvo: alvo, cap: cap }); });
+        tr.el.dataset.audio.split(/\s+/).filter(Boolean).forEach(function (src) { itens.push({ src: src, alvo: alvo, cap: cap }); });
+        return;
+      }
       partir(limpar(tr.pre) + (tr.pre ? " " : "") + textoDe(tr.el)).forEach(function (f) { itens.push({ texto: f, alvo: alvo, cap: cap }); });
     });
     return itens;
@@ -165,7 +171,8 @@
       if (g !== P.gen) return;
       // MP3 indisponível: cai para a voz do aparelho no mesmo trecho.
       var el = document.querySelector(it.alvo), novos = el ? partir(textoDe(el)).map(function (f) { return { texto: f, alvo: it.alvo, cap: it.cap }; }) : [];
-      P.itens.splice.apply(P.itens, [P.i, 1].concat(novos)); tocar(P.i);
+      var n = 0; while (P.i + n < P.itens.length && P.itens[P.i + n].src && P.itens[P.i + n].alvo === it.alvo) n++;
+      P.itens.splice.apply(P.itens, [P.i, Math.max(1, n)].concat(novos)); tocar(P.i);
     };
     if ("mediaSession" in navigator) try { navigator.mediaSession.metadata = new MediaMetadata({ title: P.titulo, artist: "Contexto" }); } catch (e) {}
     audio.play().catch(function () { if (g === P.gen) { P.tocando = false; atualizar(); } });
