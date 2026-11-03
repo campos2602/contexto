@@ -201,6 +201,21 @@ def attr_audio(au, *textos):
     return ' data-audio="%s"' % esc(" ".join(au[t] for t in ts))
 
 
+ESSENCIAL_FALA = "O que você não pode deixar de saber hoje."  # mesmo texto em ferramentas/audio.js
+
+
+def essenciais(ed):
+    """[(nota, seção, porque)] do campo "essencial" da edição, na ordem da redação.
+    Aceita ["m1", ...] ou [{"id": "m1", "porque": "..."}, ...]; ids que não existem são ignorados."""
+    por_id = {n["id"]: (n, s) for s in ed.get("secoes") or [] for n in s.get("notas") or []}
+    r = []
+    for e in ed.get("essencial") or []:
+        i, pq = (e.get("id"), e.get("porque")) if isinstance(e, dict) else (e, None)
+        if i in por_id and all(x[0]["id"] != i for x in r):
+            r.append(por_id[i] + (pq,))
+    return r
+
+
 def v_edicao(ed, contextos, rotulo_topo=None):
     k = ed["_id"]
     au = audios(k)
@@ -212,37 +227,61 @@ def v_edicao(ed, contextos, rotulo_topo=None):
     h.append('<div class="acoes">%s</div></header>' % botao_ouvir("edicao", "Contexto de " + dia, "Ouvir a edição", True))
     if ed.get("abre"):
         h.append('<p class="abre" data-ler="Abertura"%s>%s</p>' % (attr_audio(au, ed["abre"]), esc(ed["abre"])))
+    def nota(n, s, cat=None, porque=None):
+        tem_nc = bool(n.get("completa"))
+        tem_cx = bool(n.get("contexto") and n["contexto"] in contextos)
+        url_nota = SITE + ("/ler/%s/%s/" % (k, n["id"]) if tem_nc else "/ler/%s/#nota-%s" % (k, n["id"]))
+        secao_mp3 = au.get((s.get("nome") or "").strip() + ".")
+        h.append('<article class="nota" id="nota-%s" data-ler="%s" data-secao="%s"%s%s%s>%s<h3>%s</h3><p>%s</p>' % (
+            esc(n["id"]), esc(n.get("titulo")), esc(s.get("nome")), (' data-cat="%s"' % esc(cat)) if cat else "",
+            attr_audio(au, n.get("titulo"), n.get("texto"), ("Por que não dá para perder: " + porque) if porque else None,
+                       ("Por que importa: " + n["pq"]) if n.get("pq") else None),
+            (' data-audio-secao="%s"' % esc(secao_mp3)) if secao_mp3 else "",
+            ('<span class="etq %s" data-nao-ler>%s</span>' % (esc(cat), esc(s.get("nome")))) if cat else "",
+            esc(n.get("titulo")), esc(n.get("texto"))))
+        if porque:
+            h.append('<p class="essencial-pq"><b>Por que não dá para perder:</b> %s</p>' % esc(porque))
+        if n.get("pq"):
+            h.append('<p class="pq"><b>Por que importa:</b> %s</p>' % esc(n["pq"]))
+        h.append(fontes(n.get("fontes")))
+        h.append('<div class="acoes">')
+        h.append(botao_ouvir("#nota-" + n["id"], n.get("titulo")))
+        if tem_nc:
+            h.append('<a class="btn cheio" href="%sler/%s/%s/">Notícia completa</a>' % (BASE, k, esc(n["id"])))
+        if tem_cx:
+            h.append('<a class="btn" href="%sler/contexto/%s/">Contexto</a>' % (BASE, esc(n["contexto"])))
+        h.append(botao_compartilhar(n.get("titulo"), n.get("texto"), url_nota))
+        h.append("</div></article>")
+
+    # "O que você não pode deixar de saber hoje": as notas que a redação destacou saem da seção
+    # delas e abrem a edição, para quem tem pouco tempo.
+    ess = essenciais(ed)
+    if ess:
+        h.append('<section class="sec essencial" id="ler-essencial"><div class="essencial-cab" data-ler="Não deixe de saber"%s>'
+                 '<span class="etq" data-nao-ler>Não deixe de saber</span><h2>O que você não pode deixar de saber hoje</h2>'
+                 '<p class="essencial-fina" data-nao-ler>Escolhidas pela redação para quem tem pouco tempo. Se ler só isto, você está em dia.</p></div>'
+                 % attr_audio(au, ESSENCIAL_FALA))
+        for n, s, porque in ess:
+            nota(n, s, cat_de(s.get("nome"), s.get("categoria")), porque)
+        h.append("</section>")
     if ed.get("trinta"):
         h.append('<section class="sec" id="ler-trinta" data-ler="Em 30 segundos"%s><span class="etq">Em 30 segundos</span><ol class="trinta">%s</ol>%s</section>' % (
             attr_audio(au, "Em 30 segundos.", *ed["trinta"]),
             "".join("<li><span>%s</span></li>" % esc(t) for t in ed["trinta"]),
             '<div class="acoes">%s%s</div>' % (botao_ouvir("#ler-trinta", "Em 30 segundos", "Ouvir resumo"), botao_compartilhar("Contexto em 30 segundos", "\n".join("• " + t for t in ed["trinta"]), url_ed))))
+    ids_ess = {n["id"] for n, _, _ in ess}
+    secoes_feitas = 0
     for s in ed.get("secoes") or []:
+        notas = [n for n in s.get("notas") or [] if n["id"] not in ids_ess]
+        if not notas:
+            continue
         cat = cat_de(s.get("nome"), s.get("categoria"))
         h.append('<section class="sec" data-cat="%s"><span class="etq %s">%s</span>' % (esc(cat), esc(cat), esc(s.get("nome"))))
-        for n in s.get("notas") or []:
-            tem_nc = bool(n.get("completa"))
-            tem_cx = bool(n.get("contexto") and n["contexto"] in contextos)
-            url_nota = SITE + ("/ler/%s/%s/" % (k, n["id"]) if tem_nc else "/ler/%s/#nota-%s" % (k, n["id"]))
-            secao_mp3 = au.get((s.get("nome") or "").strip() + ".")
-            h.append('<article class="nota" id="nota-%s" data-ler="%s" data-secao="%s"%s%s><h3>%s</h3><p>%s</p>' % (
-                esc(n["id"]), esc(n.get("titulo")), esc(s.get("nome")),
-                attr_audio(au, n.get("titulo"), n.get("texto"), ("Por que importa: " + n["pq"]) if n.get("pq") else None),
-                (' data-audio-secao="%s"' % esc(secao_mp3)) if secao_mp3 else "",
-                esc(n.get("titulo")), esc(n.get("texto"))))
-            if n.get("pq"):
-                h.append('<p class="pq"><b>Por que importa:</b> %s</p>' % esc(n["pq"]))
-            h.append(fontes(n.get("fontes")))
-            h.append('<div class="acoes">')
-            h.append(botao_ouvir("#nota-" + n["id"], n.get("titulo")))
-            if tem_nc:
-                h.append('<a class="btn cheio" href="%sler/%s/%s/">Notícia completa</a>' % (BASE, k, esc(n["id"])))
-            if tem_cx:
-                h.append('<a class="btn" href="%sler/contexto/%s/">Contexto</a>' % (BASE, esc(n["contexto"])))
-            h.append(botao_compartilhar(n.get("titulo"), n.get("texto"), url_nota))
-            h.append("</div></article>")
+        for n in notas:
+            nota(n, s)
         h.append("</section>")
-        if s is (ed.get("secoes") or [None])[0]:
+        secoes_feitas += 1
+        if secoes_feitas == 1:
             h.append(caixa_assinar("edicao-meio", "Gostou até aqui?", "Receba o Contexto no e-mail, de graça. Leva 5 minutos por dia."))
     if ed.get("numero"):
         nu = ed["numero"]

@@ -33,6 +33,9 @@ function trechos(e) {
   add(e.abre);
   add("Em 30 segundos.");
   (e.trinta || []).forEach(add);
+  // "O que você não pode deixar de saber hoje" (campo essencial): mesmo texto de gerar_site.py.
+  if ((e.essencial || []).length) add("O que você não pode deixar de saber hoje.");
+  (e.essencial || []).forEach((x) => { if (x && sem(x.porque)) add("Por que não dá para perder: " + x.porque); });
   (e.secoes || []).forEach((s) => {
     add(s.nome + ".");
     (s.notas || []).forEach((n) => {
