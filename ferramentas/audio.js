@@ -13,7 +13,8 @@ const crypto = require("crypto");
 const falado = require("../ler/falado.js");
 
 const RAIZ = path.join(__dirname, "..");
-const CHAVE = process.env.ELEVENLABS_API_KEY || "";
+const CHAVE = ["ELEVENLABS_API_KEY", "ELEVEN_LABS_API_KEY", "ELEVENLABS_KEY", "ELEVEN_API_KEY", "XI_API_KEY"]
+  .map((n) => process.env[n]).find(Boolean) || "";
 const VOZ = process.env.ELEVENLABS_VOZ || "21m00Tcm4TlvDq8ikWAM";
 const MODELO = process.env.ELEVENLABS_MODELO || "eleven_turbo_v2_5";
 const FORMATO = "mp3_44100_64";
