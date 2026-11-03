@@ -62,8 +62,11 @@ class Leitor(app: Application) : AndroidViewModel(app) {
         val f = edicoes.getOrPut(id) { MutableStateFlow(Carga.Carregando) }
         viewModelScope.launch {
             val e = repo.edicao(id, _catalogo.value, forcar)
-            if (e != null) f.value = Carga.Pronto(e)
-            else if (f.value !is Carga.Pronto) f.value = Carga.Falhou("Não foi possível abrir esta edição. Confira a internet e tente de novo.")
+            if (e != null) {
+                // Antes de mostrar, para o Ouvir (e o lembrete) já usarem a voz gravada.
+                Voz.gravados(repo.audios(id, forcar))
+                f.value = Carga.Pronto(e)
+            } else if (f.value !is Carga.Pronto) f.value = Carga.Falhou("Não foi possível abrir esta edição. Confira a internet e tente de novo.")
         }
     }
 

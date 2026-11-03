@@ -229,6 +229,19 @@ class Repositorio(private val ctx: Context) {
         obter("edicoes/$id.json", forcar)?.let { runCatching { lerEdicao(id, JSONObject(it), cats) }.getOrNull() }
             ?.takeIf { it.status != "retida" }
 
+    /** Lista dos áudios gravados (voz da ElevenLabs) desta edição: texto escrito -> endereço do MP3. */
+    suspend fun audios(id: String, forcar: Boolean = false): Map<String, String> =
+        obter("audio/$id/audio.json", forcar)?.let { txt ->
+            runCatching {
+                val a = JSONObject(txt).optJSONArray("clipes") ?: JSONArray()
+                (0 until a.length()).mapNotNull { i ->
+                    val o = a.optJSONObject(i) ?: return@mapNotNull null
+                    val t = o.s("texto"); val f = o.s("arquivo")
+                    if (t.isBlank() || f.isBlank()) null else t.trim() to (SITE + "audio/" + id + "/" + f)
+                }.toMap()
+            }.getOrNull()
+        } ?: emptyMap()
+
     suspend fun contexto(slug: String): Contexto? =
         obter("contextos/$slug.json", false)?.let { runCatching { lerContexto(JSONObject(it)) }.getOrNull() }
 }
