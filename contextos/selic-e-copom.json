@@ -1,0 +1,126 @@
+{
+ "titulo": "Selic e Copom: como o Banco Central decide os juros",
+ "atualizado": "4 nov 2026",
+ "selo": "Checado",
+ "frase": "A Selic é a taxa básica de juros do país. O Copom, comitê do Banco Central, a sobe para frear a inflação e a reduz quando a inflação dá sinais de controle, e cada decisão passa para os juros de empréstimos, financiamentos e aplicações.",
+ "linha": [
+  {
+   "d": "Junho de 2025",
+   "t": "A Selic chega a 15% ao ano, o nível mais alto em quase 20 anos, e fica nesse patamar até março de 2026, segundo a Agência Brasil."
+  },
+  {
+   "d": "Fim de 2025",
+   "t": "Terminam os mandatos de dois diretores do Banco Central. Até 4 de novembro de 2026, o presidente Lula não tinha enviado os nomes dos substitutos ao Senado, segundo a Agência Brasil."
+  },
+  {
+   "d": "Março de 2026",
+   "t": "O Copom começa a cortar a Selic, com redução de 0,25 ponto, segundo o The Rio Times."
+  },
+  {
+   "d": "Setembro de 2026",
+   "t": "Quinto corte seguido de 0,25 ponto leva a Selic a 13,75%, segundo o Times Brasil."
+  },
+  {
+   "d": "Outubro de 2026",
+   "t": "O IPCA-15 sobe 0,32% no mês e 4,62% em 12 meses, acima do teto da meta, de 4,5%."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "Penúltima reunião do ano, com analistas divididos entre manter a Selic em 13,75% e cortar para 13,5%."
+  },
+  {
+   "d": "10 de novembro de 2026",
+   "t": "Data prevista para a ata da reunião, segundo o The Rio Times."
+  },
+  {
+   "d": "8 e 9 de dezembro de 2026",
+   "t": "Última reunião do Copom no ano, segundo o Metrópoles."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Selic",
+   "d": "A taxa básica de juros. É a referência para o que bancos cobram em empréstimos e para o rendimento de aplicações como o Tesouro Selic e o CDB."
+  },
+  {
+   "t": "Copom",
+   "d": "O Comitê de Política Monetária, formado pelo presidente e pelos diretores do Banco Central. Reúne-se a cada 45 dias, segundo a Agência Brasil."
+  },
+  {
+   "t": "Meta de inflação",
+   "d": "O alvo que o Banco Central persegue. Hoje é de 3% ao ano, com tolerância de 1,5 ponto para cima ou para baixo, ou seja, de 1,5% a 4,5%, medida de forma contínua."
+  },
+  {
+   "t": "IPCA e IPCA-15",
+   "d": "Os índices oficiais de inflação ao consumidor, do IBGE. O IPCA-15 é uma prévia, com coleta de preços em meados do mês."
+  },
+  {
+   "t": "Boletim Focus",
+   "d": "Pesquisa semanal do Banco Central com as projeções de economistas de bancos e consultorias para inflação, juros, PIB e dólar."
+  },
+  {
+   "t": "Ata",
+   "d": "Documento que o Copom publica alguns dias depois da reunião, explicando os motivos da decisão e o que pode vir a seguir."
+  },
+  {
+   "t": "Corte, manutenção e alta",
+   "d": "As três decisões possíveis. Corte barateia o crédito e estimula a economia; alta encarece o crédito para conter a inflação; manutenção deixa a taxa como está."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Banco Central do Brasil",
+   "t": "autarquia com autonomia que define a Selic por meio do Copom."
+  },
+  {
+   "b": "Gabriel Galípolo",
+   "t": "presidente do Banco Central."
+  },
+  {
+   "b": "Presidente Lula",
+   "t": "indica os diretores do Banco Central, que precisam ser aprovados pelo Senado."
+  },
+  {
+   "b": "Bancos e consultorias",
+   "t": "respondem ao Boletim Focus e publicam projeções para cada reunião, como Santander, Itaú, XP, Bradesco e Goldman Sachs."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Quem defende pausa",
+   "t": "diz que a inflação acima do teto e as projeções em alta pedem cautela. Alberto Ramos, do Goldman Sachs, avalia que o balanço de riscos piorou, segundo o Times Brasil."
+  },
+  {
+   "b": "Quem defende novo corte",
+   "t": "aponta a desaceleração da atividade. O Banco Daycoval escreveu que o Copom, \"sob um quadro de contínua desaceleração da atividade, deve realizar mais um corte de juros\", segundo o Metrópoles."
+  },
+  {
+   "b": "O efeito no dia a dia",
+   "t": "juros mais altos encarecem prestações e cartão, mas aumentam o rendimento de aplicações atreladas à Selic; juros mais baixos fazem o contrário."
+  }
+ ],
+ "observar": [
+  "O comunicado do Copom na noite de 4 de novembro: se a decisão foi unânime e se o comitê sinaliza novos cortes.",
+  "A ata, prevista para 10 de novembro.",
+  "O IPCA de outubro, que mostra se a inflação continua acima do teto.",
+  "A indicação dos dois diretores do Banco Central que faltam."
+ ],
+ "fontes": [
+  {
+   "t": "Agência Brasil: Copom decide nesta quarta",
+   "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/copom-decide-nesta-quarta-feira-se-corta-ou-mantem-taxa-selic"
+  },
+  {
+   "t": "Times Brasil: mercado dividido",
+   "u": "https://timesbrasil.com.br/brasil/copom-decide-selic-nesta-quarta-feira-com-mercado-dividido-entre-manutencao-e-corte-dos-juros/"
+  },
+  {
+   "t": "Metrópoles: mercado prevê manutenção",
+   "u": "https://www.metropoles.com/brasil/mercado-preve-fim-da-sequencia-de-cortes-na-selic-com-manutencao-em-1375"
+  },
+  {
+   "t": "The Rio Times: resumo de 4 de novembro",
+   "u": "https://www.riotimesonline.com/the-big-read-brazil-4-november-2026"
+  }
+ ]
+}

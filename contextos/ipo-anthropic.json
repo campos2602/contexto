@@ -1,0 +1,110 @@
+{
+ "titulo": "A abertura de capital da Anthropic",
+ "atualizado": "4 nov 2026",
+ "selo": "Checado",
+ "frase": "A Anthropic, empresa de inteligência artificial que desenvolve o Claude, prepara a venda de ações na Bolsa. O documento entregue ao regulador americano mostra receita em alta rápida e gastos bilionários com computação. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic. Esta página trata da própria Anthropic e segue as mesmas regras de checagem e de neutralidade.",
+ "linha": [
+  {
+   "d": "Terceiro trimestre de 2025",
+   "t": "Receita de US$ 1,38 bilhão, segundo a Forbes."
+  },
+  {
+   "d": "Primeiro trimestre de 2026",
+   "t": "Receita cresce 132% sobre o trimestre anterior, segundo a Dealroom."
+  },
+  {
+   "d": "Segundo trimestre de 2026",
+   "t": "Receita de US$ 11,56 bilhões, alta de 144% no trimestre, e lucro operacional de US$ 974 milhões."
+  },
+  {
+   "d": "Fim de outubro de 2026",
+   "t": "A empresa publica o prospecto de abertura de capital, segundo a Dealroom."
+  },
+  {
+   "d": "2 de novembro de 2026",
+   "t": "Versão revisada do documento mostra receita de US$ 16,96 bilhões no terceiro trimestre e prejuízo operacional de US$ 567 milhões."
+  },
+  {
+   "d": "Próximas semanas",
+   "t": "Oferta de ações esperada, segundo a Dealroom."
+  }
+ ],
+ "termos": [
+  {
+   "t": "IPO",
+   "d": "Oferta pública inicial: quando uma empresa vende ações na Bolsa pela primeira vez."
+  },
+  {
+   "t": "S-1",
+   "d": "O documento de registro que a empresa entrega à SEC, o regulador do mercado americano, antes do IPO. Traz números, riscos e planos."
+  },
+  {
+   "t": "Prejuízo operacional",
+   "d": "Quando os custos da operação, como computação e salários, superam a receita."
+  },
+  {
+   "t": "Prejuízo líquido",
+   "d": "O resultado final, que inclui efeitos contábeis. No caso da Anthropic, a maior parte vem da reavaliação de títulos conversíveis, não da operação."
+  },
+  {
+   "t": "Títulos conversíveis",
+   "d": "Dívidas que podem virar ações. Quando a empresa passa a valer mais, o valor contábil dessas dívidas sobe e aparece como despesa."
+  },
+  {
+   "t": "Compromissos de computação",
+   "d": "Contratos de longo prazo para comprar capacidade de data centers e chips."
+  },
+  {
+   "t": "Receita",
+   "d": "O dinheiro que a empresa recebe dos clientes pela venda de produtos e serviços, antes de descontar os custos. No terceiro trimestre, a Anthropic teve mais de 11,9 mil clientes pagando mais de US$ 100 mil por ano, segundo a Forbes."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Anthropic",
+   "t": "empresa americana de inteligência artificial, desenvolvedora do Claude."
+  },
+  {
+   "b": "Amazon",
+   "t": "tem compromissos de pelo menos US$ 110 bilhões da Anthropic até abril de 2036, segundo a Forbes."
+  },
+  {
+   "b": "Microsoft",
+   "t": "tem compromissos de US$ 44,9 bilhões até junho de 2033."
+  },
+  {
+   "b": "SEC",
+   "t": "a comissão de valores mobiliários dos EUA, que analisa o pedido."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "O que a empresa diz",
+   "t": "que opera com \"a demanda dos clientes maior do que a computação disponível\" e que a computação de curto prazo comprada no trimestre custa bem mais do que a contratada em compromissos longos, segundo a Forbes."
+  },
+  {
+   "b": "O que pesa contra",
+   "t": "os compromissos somam cerca de US$ 895,4 bilhões, cerca de US$ 447,5 bilhões até o fim de 2030, e o crescimento trimestral desacelerou de 144% para 47%, segundo a Dealroom e a Forbes."
+  },
+  {
+   "b": "Como ler o prejuízo",
+   "t": "o prejuízo líquido de US$ 23,29 bilhões é em grande parte contábil; o resultado operacional ajustado foi de US$ 2,5 bilhões positivos, segundo a Forbes."
+  }
+ ],
+ "observar": [
+  "A data da oferta e o preço das ações.",
+  "Se o prejuízo operacional se repete no próximo trimestre.",
+  "Como a empresa vai pagar os compromissos de computação.",
+  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic. Esta página trata da própria Anthropic e segue as mesmas regras de checagem e de neutralidade."
+ ],
+ "fontes": [
+  {
+   "t": "Dealroom: o S-1 revisado",
+   "u": "https://dealroom.co/news/168953-anthropics-amended-s-1-17b-in-q3-revenue-a-slide-back-to-an-operating-lo/"
+  },
+  {
+   "t": "Forbes: o prejuízo operacional",
+   "u": "https://www.forbes.com/sites/jonmarkman/2026/11/03/anthropic-posts-a-567-million-operating-loss-from-buying-extra-compute/"
+  }
+ ]
+}

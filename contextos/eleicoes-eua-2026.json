@@ -1,0 +1,130 @@
+{
+ "titulo": "As eleições de meio de mandato nos Estados Unidos",
+ "atualizado": "4 nov 2026",
+ "selo": "Checado",
+ "frase": "A cada quatro anos, no meio do mandato presidencial, os americanos renovam a Câmara inteira, um terço do Senado e muitos governos estaduais. O resultado define se o presidente governa com ou sem maioria no Congresso.",
+ "linha": [
+  {
+   "d": "Desde 1934",
+   "t": "O partido do presidente ganhou cadeiras na Câmara numa eleição de meio de mandato só três vezes; a última foi em 2002, segundo a CBS News."
+  },
+  {
+   "d": "28 de fevereiro de 2026",
+   "t": "Começa a guerra de EUA e Israel contra o Irã. Segundo a Al Jazeera, a aprovação de Trump cai desde então, com a alta da gasolina e do diesel."
+  },
+  {
+   "d": "Antes da eleição",
+   "t": "Republicanos têm 53 das 100 cadeiras do Senado e 218 das 435 da Câmara, mais um independente; democratas têm 214, com duas vagas abertas, segundo a CBS News."
+  },
+  {
+   "d": "2 de novembro de 2026",
+   "t": "Pesquisa Reuters/Ipsos mostra 32% de aprovação a Trump e 46% de preferência por democratas para o Congresso, contra 38% por republicanos."
+  },
+  {
+   "d": "Antes da votação",
+   "t": "Mais de 57 milhões de americanos votam antecipadamente, segundo a CBS News, que cita o Voting Lab da Universidade da Flórida."
+  },
+  {
+   "d": "3 de novembro de 2026",
+   "t": "Dia da eleição: 435 cadeiras da Câmara, 35 do Senado e 36 governos estaduais em disputa."
+  },
+  {
+   "d": "Noite de 3 de novembro",
+   "t": "A AP projeta a maioria democrata no Senado e a CNN, na Câmara."
+  },
+  {
+   "d": "Janeiro de 2027",
+   "t": "Toma posse o novo Congresso."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Midterms",
+   "d": "Nome em inglês das eleições de meio de mandato, dois anos depois da eleição presidencial."
+  },
+  {
+   "t": "Câmara dos Representantes",
+   "d": "435 deputados com mandato de dois anos. A maioria é de 218."
+  },
+  {
+   "t": "Senado",
+   "d": "100 senadores, dois por estado, com mandato de seis anos. Um terço é renovado a cada dois anos. Em caso de empate, vota o vice-presidente."
+  },
+  {
+   "t": "Projeção",
+   "d": "Quando uma agência ou emissora, como a AP ou a CNN, conclui com base nos votos contados que um candidato venceu. Não é o resultado oficial, que vem com a certificação de cada estado."
+  },
+  {
+   "t": "Virar uma cadeira",
+   "d": "Quando um partido conquista um lugar que era do outro."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Donald Trump",
+   "t": "presidente dos EUA, republicano, no segundo mandato."
+  },
+  {
+   "b": "Chuck Schumer",
+   "t": "líder dos democratas no Senado."
+  },
+  {
+   "b": "Hakeem Jeffries",
+   "t": "líder dos democratas na Câmara."
+  },
+  {
+   "b": "Mike Johnson",
+   "t": "presidente da Câmara, republicano."
+  },
+  {
+   "b": "Departamento de Justiça",
+   "t": "tentou anular votos na Califórnia e travar resultados no Alasca antes da eleição; tribunais rejeitaram os pedidos, segundo a Agência Brasil, com a Reuters."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Republicanos",
+   "t": "Trump disse que, se estivesse na cédula, o partido teria vencido com folga, e que \"uma parte foi o Irã\". Também afirmou: \"Trabalharemos com os democratas\", segundo a RTP."
+  },
+  {
+   "b": "Democratas",
+   "t": "Schumer disse que o partido venceu \"contra todas as expectativas\"; Jeffries prometeu cobrar responsabilidade de quem, segundo ele, impôs \"uma corrupção sem precedentes\"."
+  },
+  {
+   "b": "O que muda",
+   "t": "com maioria nas duas casas, os democratas controlam a pauta de votações, as comissões de investigação e a aprovação de nomeações do presidente."
+  }
+ ],
+ "observar": [
+  "O número final de cadeiras de cada partido, com a apuração no Alasca, no Mississippi e no Maine.",
+  "Se algum resultado será contestado na Justiça.",
+  "Como Trump vai negociar orçamento e nomeações com o novo Congresso.",
+  "A posse do novo Congresso, em janeiro."
+ ],
+ "fontes": [
+  {
+   "t": "Al Jazeera: democratas viram o Senado",
+   "u": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+  },
+  {
+   "t": "RTP: democratas vencem com domínio do Congresso",
+   "u": "https://www.rtp.pt/noticias/mundo/eua-mudam-de-vermelho-para-azul-democratas-vencem-intercalares-com-dominio-do-congresso_e1776677"
+  },
+  {
+   "t": "CBS News: a Câmara antes da eleição",
+   "u": "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+  },
+  {
+   "t": "CBS News: o dia da eleição",
+   "u": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+  },
+  {
+   "t": "Al Jazeera: pesquisa Reuters/Ipsos",
+   "u": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll"
+  },
+  {
+   "t": "Agência Brasil: o Departamento de Justiça",
+   "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/departamento-de-justica-rompe-com-tradicao-ao-intervir-nas-eleicoes"
+  }
+ ]
+}

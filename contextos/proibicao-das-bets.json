@@ -1,0 +1,118 @@
+{
+ "titulo": "A proibição das bets: da regulação à medida provisória",
+ "atualizado": "4 nov 2026",
+ "selo": "Checado",
+ "frase": "O Brasil liberou as apostas esportivas de quota fixa em 2018 e regulamentou o setor em 2023. Em setembro de 2026, o governo proibiu essas apostas por medida provisória, e agora o Supremo e o Congresso decidem se a proibição fica.",
+ "linha": [
+  {
+   "d": "2018",
+   "t": "A Lei 13.756 autoriza as apostas de quota fixa no país, segundo o portal de notícias do STF."
+  },
+  {
+   "d": "2023",
+   "t": "A Lei 14.790 regulamenta as bets, com regras para empresas e licenças."
+  },
+  {
+   "d": "2024",
+   "t": "Chegam ao STF as ações 7721, 7723 e 7749 sobre a lei das apostas. Em novembro, o ministro Luiz Fux conduz a primeira audiência pública, com mais de 50 especialistas, autoridades e representantes da sociedade civil em dois dias."
+  },
+  {
+   "d": "25 de setembro de 2026",
+   "t": "O governo Lula publica a Medida Provisória 1.394, que proíbe as apostas de quota fixa, segundo o The Rio Times."
+  },
+  {
+   "d": "Depois da medida",
+   "t": "São apresentadas as ações 8024, 8027, 8028 e 8035 contra a medida provisória, o que leva Fux a convocar nova audiência."
+  },
+  {
+   "d": "3 de novembro de 2026",
+   "t": "Segunda audiência pública no STF, com o governo defendendo a proibição e clubes pedindo transição e proteção de contratos."
+  },
+  {
+   "d": "9 de novembro de 2026",
+   "t": "A medida provisória passa a trancar a pauta de votações do Congresso, segundo o The Rio Times."
+  },
+  {
+   "d": "23 de novembro de 2026",
+   "t": "Termina o primeiro prazo de 60 dias da medida no Congresso, que pode ser prorrogado."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Aposta de quota fixa",
+   "d": "Aposta em que o apostador sabe, no momento da aposta, quanto vai receber se acertar. É o modelo das bets esportivas."
+  },
+  {
+   "t": "Medida provisória",
+   "d": "Norma editada pelo presidente que vale como lei assim que é publicada, mas precisa ser aprovada pelo Congresso em até 120 dias, ou perde a validade."
+  },
+  {
+   "t": "Trancar a pauta",
+   "d": "Quando uma medida provisória não é votada a tempo, ela passa à frente das outras votações da Casa."
+  },
+  {
+   "t": "ADI",
+   "d": "Ação direta de inconstitucionalidade: pede ao STF que declare uma lei ou norma contrária à Constituição."
+  },
+  {
+   "t": "Audiência pública",
+   "d": "Sessão em que o relator ouve especialistas, governo e setores afetados antes de decidir. Não é julgamento."
+  },
+  {
+   "t": "Relator",
+   "d": "O ministro responsável por conduzir o processo e propor a decisão. Nas ações sobre bets, é Luiz Fux."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Luiz Fux",
+   "t": "ministro do STF, relator das ações sobre as apostas."
+  },
+  {
+   "b": "Governo federal",
+   "t": "editou a medida; na audiência foi representado pelo ministro da Justiça, Wellington César Lima e Silva, e pelo advogado-geral da União, Jorge Messias."
+  },
+  {
+   "b": "Clubes de futebol",
+   "t": "muitos têm patrocínio de empresas de apostas. Flamengo, Fluminense, Botafogo, Cruzeiro, São Paulo e Corinthians falaram na audiência."
+  },
+  {
+   "b": "Fenapaf",
+   "t": "federação dos atletas profissionais de futebol."
+  },
+  {
+   "b": "Congresso Nacional",
+   "t": "precisa votar a medida provisória para que ela continue valendo."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Governo",
+   "t": "diz que os danos à saúde, à segurança pública e às famílias justificam a proibição e que as leis anteriores não deram a proteção exigida pela Constituição, segundo o STF."
+  },
+  {
+   "b": "Clubes",
+   "t": "falam em segurança jurídica e em prejuízos com contratos de patrocínio. O Fluminense estimou impacto de R$ 200 milhões; o presidente do Flamengo, perdas de até R$ 430 milhões em 2027, segundo o The Rio Times. O Cruzeiro defendeu regulamentar e fiscalizar em vez de proibir."
+  },
+  {
+   "b": "Atletas",
+   "t": "a Fenapaf alertou que um mercado clandestino exporia jogadores à manipulação de resultados e disse que a mudança poderia ter sido mais bem planejada."
+  }
+ ],
+ "observar": [
+  "Quando e como Fux decide sobre as ações.",
+  "Se o Congresso vota, muda ou deixa a medida perder a validade.",
+  "O que acontece com os contratos de patrocínio dos clubes.",
+  "Como o governo vai tratar as empresas que pagaram licenças."
+ ],
+ "fontes": [
+  {
+   "t": "STF: governo defende medida e setor esportivo alerta para prejuízos",
+   "u": "https://noticias.stf.jus.br/postsnoticias/proibicao-das-bets-governo-defende-medida-e-setor-esportivo-alerta-para-prejuizos/"
+  },
+  {
+   "t": "The Rio Times: resumo de 4 de novembro",
+   "u": "https://www.riotimesonline.com/the-big-read-brazil-4-november-2026"
+  }
+ ]
+}

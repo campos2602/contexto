@@ -143,7 +143,8 @@
         "u": "https://www.riotimesonline.com/the-big-read-brazil-4-november-2026"
        }
       ]
-     }
+     },
+     "contexto": "selic-e-copom"
     },
     {
      "id": "b2",
@@ -231,7 +232,8 @@
         "u": "https://www.riotimesonline.com/the-big-read-brazil-4-november-2026"
        }
       ]
-     }
+     },
+     "contexto": "proibicao-das-bets"
     },
     {
      "id": "b3",
@@ -324,7 +326,8 @@
         "u": "https://www.yahoo.com/news/science/articles/ahead-cop31-brazil-offers-global-154448917.html"
        }
       ]
-     }
+     },
+     "contexto": "combustiveis-fosseis-cop"
     }
    ]
   },
@@ -431,7 +434,8 @@
         "u": "https://www.cbsnews.com/live-updates/house-election-results-2026/"
        }
       ]
-     }
+     },
+     "contexto": "eleicoes-eua-2026"
     },
     {
      "id": "m2",
@@ -595,7 +599,8 @@
         "u": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-3-2026"
        }
       ]
-     }
+     },
+     "contexto": "guerra-ira-eua-2026"
     }
    ]
   },
@@ -681,7 +686,8 @@
         "u": "https://www.forbes.com/sites/jonmarkman/2026/11/03/anthropic-posts-a-567-million-operating-loss-from-buying-extra-compute/"
        }
       ]
-     }
+     },
+     "contexto": "ipo-anthropic"
     },
     {
      "id": "i2",
@@ -765,7 +771,8 @@
         "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-restricts-chinese-access-112552007.html"
        }
       ]
-     }
+     },
+     "contexto": "nvidia-china-chips"
     }
    ]
   }
@@ -818,8 +825,7 @@
    "Edição produzida fora do horário: a rotina automática estava pausada desde a tarde de 3 de novembro e foi religada para os próximos dias.",
    "Categorias extras (Economia, Política, Esportes, Ciência, Saúde, Meio ambiente, Cultura, Entretenimento, Celebridades, Educação, Trabalho e carreira): sem fato novo checado em duas fontes a tempo. O roteiro dos combustíveis fósseis ficou em Brasil.",
    "Instabilidade no site e no aplicativo do Banco do Brasil: a página da Agência Brasil não abriu e não houve segunda fonte.",
-   "Fim da ajuda militar dos EUA a Israel anunciado por Trump: só uma fonte aberta.",
-   "Contextos: só o de Israel foi atualizado; os demais temas ainda não têm página de contexto checada."
+   "Fim da ajuda militar dos EUA a Israel anunciado por Trump: só uma fonte aberta."
   ]
  },
  "editorChefe": {
@@ -828,7 +834,8 @@
    "Essencial: Copom e eleições nos EUA, pelo critério de efeito direto no dinheiro de muita gente no Brasil e de consequência próxima no mundo; uma de Brasil e uma de Mundo.",
    "Mundo 1 com selo Com ressalva e aviso de que a contagem de cadeiras não está fechada, porque as fontes trazem números parciais diferentes.",
    "Retirados os números finais de cadeiras na Câmara, que não batiam entre as fontes.",
-   "Abertura avisa que a edição saiu mais tarde."
+   "Abertura avisa que a edição saiu mais tarde.",
+   "Às 14h, a redação acrescentou páginas de contexto às sete notas que estavam sem, depois de uma pergunta do leitor."
   ]
  },
  "geradaEm": "2026-11-04T10:53:06Z"

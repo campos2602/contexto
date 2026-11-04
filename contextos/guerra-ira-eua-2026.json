@@ -1,0 +1,126 @@
+{
+ "titulo": "A guerra entre Estados Unidos e Irã em 2026",
+ "atualizado": "4 nov 2026",
+ "selo": "Checado",
+ "frase": "Estados Unidos e Israel entraram em guerra com o Irã no fim de fevereiro de 2026. Desde então houve cessar-fogo, um acordo provisório que venceu sem renovação, bloqueio naval e ataques no Estreito de Ormuz, enquanto mediadores tentam um acordo.",
+ "linha": [
+  {
+   "d": "28 de fevereiro de 2026",
+   "t": "Começa a guerra de EUA e Israel contra o Irã, segundo a Al Jazeera."
+  },
+  {
+   "d": "7 de abril de 2026",
+   "t": "É anunciado um cessar-fogo de duas semanas, horas depois de uma publicação de Trump; o petróleo cai 16% em um dia, segundo a ND Mais."
+  },
+  {
+   "d": "Julho de 2026",
+   "t": "O barril do Brent chega a US$ 100. Antes da guerra, em 2025, estava em US$ 69."
+  },
+  {
+   "d": "17 de agosto de 2026",
+   "t": "Termina sem acordo um prazo de 60 dias para negociação. Perguntado se buscaria prorrogação, Trump respondeu \"não\", segundo a ND Mais."
+  },
+  {
+   "d": "Agosto de 2026",
+   "t": "Os EUA retomam o bloqueio naval no Estreito de Ormuz, e o Irã volta a atacar navios."
+  },
+  {
+   "d": "Semanas antes de 2 de novembro",
+   "t": "Os EUA fazem ataques na costa iraniana de Ormuz para conter ataques com mísseis, segundo o Al-Monitor."
+  },
+  {
+   "d": "2 de novembro de 2026",
+   "t": "Mediadores do Catar se reúnem em Teerã. À noite, os EUA atacam a ilha de Qeshm."
+  },
+  {
+   "d": "3 de novembro de 2026",
+   "t": "O Catar diz que os dois países analisam um rascunho de proposta para encerrar a guerra."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Estreito de Ormuz",
+   "d": "Passagem marítima entre o Irã e a Península Arábica por onde passam cerca de 20% do petróleo e do gás do mundo, segundo a ND Mais."
+  },
+  {
+   "t": "Bloqueio naval",
+   "d": "Uso de navios de guerra para controlar ou impedir a passagem de embarcações numa área."
+  },
+  {
+   "t": "Cessar-fogo",
+   "d": "Acordo para suspender os combates. Não encerra a guerra, que depende de um acordo mais amplo."
+  },
+  {
+   "t": "Brent",
+   "d": "Tipo de petróleo usado como referência de preço no mercado internacional."
+  },
+  {
+   "t": "Guarda Revolucionária",
+   "d": "Força militar do Irã, separada do Exército regular e ligada ao líder supremo."
+  },
+  {
+   "t": "Mediação",
+   "d": "Quando um terceiro país leva propostas entre os dois lados. Catar e Paquistão têm feito esse papel."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Donald Trump",
+   "t": "presidente dos EUA."
+  },
+  {
+   "b": "JD Vance",
+   "t": "vice-presidente dos EUA."
+  },
+  {
+   "b": "Governo do Irã",
+   "t": "o presidente, o chanceler e o negociador-chefe falam pelo país nas conversas."
+  },
+  {
+   "b": "Catar e Paquistão",
+   "t": "mediadores das negociações."
+  },
+  {
+   "b": "Israel",
+   "t": "aliado dos EUA na guerra; disse não ter participado dos ataques a Qeshm."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Governo dos EUA",
+   "t": "chama os ataques recentes de \"defensivos\" e diz que eles continuarão limitados enquanto o Irã não ampliar os próprios ataques. Trump disse que a proposta está \"se encaixando muito bem\", segundo o Al-Monitor."
+  },
+  {
+   "b": "Governo do Irã",
+   "t": "diz que cabe aos EUA \"evitar a guerra\" e que a retomada dos combates não beneficiaria \"ninguém\"; um alto funcionário disse à Reuters que o acordo ainda está distante, segundo o Khaleej Times."
+  },
+  {
+   "b": "Efeito no mundo",
+   "t": "a guerra encarece combustíveis. A Lufthansa disse que vai gastar 2 bilhões de euros a mais com combustível em 2026."
+  }
+ ],
+ "observar": [
+  "As respostas de Washington e de Teerã ao rascunho de proposta do Catar.",
+  "Se haverá novos ataques no Estreito de Ormuz.",
+  "O preço do petróleo e dos combustíveis.",
+  "O efeito das eleições americanas sobre a política de Trump para o Irã."
+ ],
+ "fontes": [
+  {
+   "t": "Al-Monitor: ataques a Qeshm",
+   "u": "https://www.al-monitor.com/originals/2026/11/us-strikes-irans-qeshm-island-trump-hints-possible-deal"
+  },
+  {
+   "t": "Khaleej Times: cobertura de 3 de novembro",
+   "u": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-3-2026"
+  },
+  {
+   "t": "ND Mais: prazo do acordo expirou",
+   "u": "https://ndmais.com.br/mundo/o-prazo-do-acordo-com-o-ira-expirou-trump-recusou-a-extensao-e-o-petroleo-continua-oscilando/"
+  },
+  {
+   "t": "Al Jazeera: aprovação de Trump e a guerra",
+   "u": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll"
+  }
+ ]
+}

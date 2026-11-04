@@ -1,0 +1,122 @@
+{
+ "titulo": "O fim dos combustíveis fósseis nas conferências do clima",
+ "atualizado": "4 nov 2026",
+ "selo": "Checado",
+ "frase": "Petróleo, gás e carvão são a maior fonte das emissões que aquecem o planeta. Desde 2023, as conferências do clima da ONU discutem como os países vão deixá-los, mas grandes produtores resistem a prazos e metas obrigatórias.",
+ "linha": [
+  {
+   "d": "2023",
+   "t": "Na COP28, em Dubai, quase 200 países aprovam texto que pede a \"transição para longe dos combustíveis fósseis nos sistemas de energia\", segundo a AFP."
+  },
+  {
+   "d": "Novembro de 2025",
+   "t": "Na COP30, em Belém, cerca de 80 países tentam incluir a transição nas negociações formais; produtores como Arábia Saudita e Rússia se opõem, e o acordo final não cita os combustíveis fósseis, segundo a AFP e a Climate Home News."
+  },
+  {
+   "d": "Fim da COP30",
+   "t": "A presidência brasileira lança, por fora das negociações, o trabalho de um roteiro para a transição."
+  },
+  {
+   "d": "3 de novembro de 2026",
+   "t": "A presidência da COP30 divulga o roteiro, de 182 páginas, com três etapas até 2033, e um plano para acabar com o desmatamento até 2030."
+  },
+  {
+   "d": "9 de novembro de 2026",
+   "t": "Começa a COP31, em Antália, na Turquia, com duas semanas de duração."
+  },
+  {
+   "d": "10 de novembro de 2026",
+   "t": "Data prevista para a discussão do roteiro em Antália, segundo Ana Toni."
+  },
+  {
+   "d": "Até 2028",
+   "t": "Prazo sugerido para os países prepararem planos nacionais de transição."
+  },
+  {
+   "d": "2031 a 2033",
+   "t": "Etapa em que o roteiro prevê a principal redução da produção."
+  }
+ ],
+ "termos": [
+  {
+   "t": "COP",
+   "d": "Conferência das Partes, a reunião anual dos países que assinaram a convenção do clima da ONU."
+  },
+  {
+   "t": "Transição energética",
+   "d": "A troca de petróleo, gás e carvão por fontes que emitem menos, como solar, eólica e hidrelétrica, e por eletrificação de carros e indústrias."
+  },
+  {
+   "t": "1,5 °C",
+   "d": "O limite de aquecimento em relação à era pré-industrial que o Acordo de Paris busca não ultrapassar."
+  },
+  {
+   "t": "Balanço global",
+   "d": "Avaliação periódica, prevista no Acordo de Paris, de quanto os países avançaram nas metas de clima."
+  },
+  {
+   "t": "Metano",
+   "d": "Gás de efeito estufa que vaza de poços e instalações de petróleo e gás. Reduzir vazamentos é uma das primeiras medidas sugeridas pelo roteiro."
+  },
+  {
+   "t": "Texto de negociação",
+   "d": "Documento que os países votam e que cria compromissos. O roteiro brasileiro não é isso: é uma proposta voluntária."
+  }
+ ],
+ "quem": [
+  {
+   "b": "André Corrêa do Lago",
+   "t": "presidente da COP30, diplomata brasileiro."
+  },
+  {
+   "b": "Ana Toni",
+   "t": "diretora-executiva da COP30."
+  },
+  {
+   "b": "Turquia e Austrália",
+   "t": "a Turquia preside a COP31; a Austrália conduz as negociações."
+  },
+  {
+   "b": "Grandes produtores de petróleo",
+   "t": "países como Arábia Saudita e Rússia, que se opuseram a citar os combustíveis fósseis no acordo da COP30."
+  },
+  {
+   "b": "Organizações ambientais",
+   "t": "como Oil Change International, E3G e 350.org, que acompanham as negociações."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Presidência da COP30",
+   "t": "diz que o roteiro é uma ferramenta para organizar o debate e não uma negociação. \"Os acordos já existem. O importante é implementá-los\", disse Corrêa do Lago, segundo a AFP."
+  },
+  {
+   "b": "Ambientalistas",
+   "t": "elogiam a iniciativa, mas cobram rapidez. Para a Oil Change International, adiar os cortes de produção para os anos 2030 seria \"um erro grave\"."
+  },
+  {
+   "b": "Cautela com a oferta",
+   "t": "o próprio roteiro alerta que cortar a produção cedo demais pode elevar preços e reduzir o apoio da população à transição, segundo a Climate Home News."
+  },
+  {
+   "b": "Produtores",
+   "t": "resistiram a citar os combustíveis fósseis na COP30. As reportagens consultadas não trazem reação deles ao roteiro."
+  }
+ ],
+ "observar": [
+  "Se a Turquia e a Austrália levam o roteiro para a agenda da COP31.",
+  "A discussão marcada para 10 de novembro, em Antália.",
+  "Se o Brasil publica o próprio plano nacional de transição.",
+  "Se algum país se compromete a apresentar um plano até 2028."
+ ],
+ "fontes": [
+  {
+   "t": "Climate Home News: o calendário do roteiro",
+   "u": "https://www.climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable/"
+  },
+  {
+   "t": "AFP: Brasil oferece plano global",
+   "u": "https://www.yahoo.com/news/science/articles/ahead-cop31-brazil-offers-global-154448917.html"
+  }
+ ]
+}

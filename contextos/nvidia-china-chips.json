@@ -1,0 +1,118 @@
+{
+ "titulo": "Nvidia, China e a disputa pelos chips de inteligência artificial",
+ "atualizado": "4 nov 2026",
+ "selo": "Com ressalva",
+ "frase": "Os chips da Nvidia são a base do treinamento de inteligência artificial. Desde 2022, os EUA limitam a venda dos modelos mais avançados à China, e a China, por sua vez, passou a restringir a compra de alguns deles.",
+ "linha": [
+  {
+   "d": "Outubro de 2022",
+   "t": "O governo americano restringe a venda dos chips A100 e H100 à China. A Nvidia lança versões mais lentas, A800 e H800, segundo o What Led To e o Tech Insider."
+  },
+  {
+   "d": "Outubro de 2023",
+   "t": "Novas regras fecham a brecha dos modelos adaptados; a Nvidia desenvolve o H20 para o mercado chinês."
+  },
+  {
+   "d": "Abril de 2025",
+   "t": "Os EUA passam a exigir licença para exportar o H20 à China, segundo documento da Nvidia citado pelo What Led To."
+  },
+  {
+   "d": "8 de dezembro de 2025",
+   "t": "Trump diz que clientes chineses aprovados poderão comprar o H200, com 25% da receita indo para o governo americano."
+  },
+  {
+   "d": "Início de 2026",
+   "t": "A alfândega chinesa passa a barrar o H200, apesar da aprovação americana, segundo as duas fontes."
+  },
+  {
+   "d": "Agosto de 2026",
+   "t": "A Nvidia registra despesa de US$ 400 milhões com estoque de H200 e diz que Pequim restringiu as vendas, segundo o What Led To."
+  },
+  {
+   "d": "3 de novembro de 2026",
+   "t": "O Financial Times informa que a Nvidia exige que parceiros de nuvem vendam pelo menos 51% dos serviços a clientes de fora da China."
+  }
+ ],
+ "termos": [
+  {
+   "t": "GPU",
+   "d": "Processador gráfico. Os da Nvidia são usados para treinar e rodar modelos de inteligência artificial."
+  },
+  {
+   "t": "Controle de exportação",
+   "d": "Regra do governo que exige licença ou proíbe a venda de um produto a certos países."
+  },
+  {
+   "t": "BIS",
+   "d": "Escritório de Indústria e Segurança do Departamento de Comércio dos EUA, que define os controles de exportação."
+  },
+  {
+   "t": "Nuvem",
+   "d": "Serviço que aluga capacidade de computação em data centers pela internet."
+  },
+  {
+   "t": "H20 e H200",
+   "d": "Modelos de chips da Nvidia. O H20 foi feito para cumprir as regras de exportação; o H200 é mais avançado."
+  },
+  {
+   "t": "Taxa sobre a receita",
+   "d": "Na liberação do H200 anunciada por Trump em dezembro de 2025, 25% do que a Nvidia faturasse com essas vendas à China iria para o governo americano."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Nvidia",
+   "t": "maior fabricante de chips para inteligência artificial, com sede nos EUA."
+  },
+  {
+   "b": "Governo dos EUA",
+   "t": "define quais chips podem ser vendidos à China."
+  },
+  {
+   "b": "Governo da China",
+   "t": "controla a importação e orienta empresas chinesas sobre a compra de chips americanos."
+  },
+  {
+   "b": "Empresas de nuvem",
+   "t": "compram chips da Nvidia e alugam capacidade a clientes de vários países."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Nvidia",
+   "t": "diz que \"data centers e nuvens construídos com chips americanos são a base\" para os desenvolvedores dos EUA, segundo a AFP."
+  },
+  {
+   "b": "China",
+   "t": "a chancelaria diz esperar \"um ambiente de negócios justo, transparente e não discriminatório\" para empresas de todos os países."
+  },
+  {
+   "b": "A disputa maior",
+   "t": "EUA e China se acusam mutuamente de roubar tecnologia de inteligência artificial e de pôr a segurança em risco, segundo a AFP."
+  }
+ ],
+ "observar": [
+  "Se a Nvidia confirma a regra de 51%.",
+  "Como as empresas de nuvem fora da China vão reagir.",
+  "Novas regras do governo americano ou chinês sobre chips.",
+  "Ressalva: a regra de 51% vem de uma reportagem com fontes anônimas; o histórico vem de duas compilações de cronologia, que citam documentos da Nvidia e do governo americano."
+ ],
+ "fontes": [
+  {
+   "t": "Taipei Times (AFP): Nvidia e a exposição à China",
+   "u": "https://www.taipeitimes.com/News/biz/archives/2026/11/04/2003867097"
+  },
+  {
+   "t": "Yahoo Finance: restrição a clientes chineses",
+   "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-restricts-chinese-access-112552007.html"
+  },
+  {
+   "t": "What Led To: cronologia dos controles de exportação",
+   "u": "https://whatledto.com/events/nvidia-china-export-controls"
+  },
+  {
+   "t": "Tech Insider: vendas do H200 à China",
+   "u": "https://tech-insider.org/nvidia-h200-chip-sales-china-2026/"
+  }
+ ]
+}
