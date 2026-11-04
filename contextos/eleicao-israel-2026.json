@@ -1,6 +1,6 @@
 {
  "titulo": "Eleição em Israel: como se forma um governo",
- "atualizado": "30 out 2026",
+ "atualizado": "4 nov 2026",
  "selo": "Checado",
  "frase": "Israel escolhe 120 deputados por lista nacional, e nenhum partido costuma ter maioria sozinho. Governa quem consegue reunir 61 cadeiras numa coalizão.",
  "linha": [
@@ -35,6 +35,14 @@
   {
    "d": "29 de outubro de 2026",
    "t": "Fim da contagem: Netanyahu 53, Eisenkot 48, partidos árabes 19. Comparecimento de 77,9%."
+  },
+  {
+   "d": "3 de novembro de 2026",
+   "t": "Cinco líderes da oposição decidem recomendar Gadi Eisenkot para primeiro-ministro. Netanyahu defende um governo nacional amplo sob seu comando."
+  },
+  {
+   "d": "4 e 5 de novembro de 2026",
+   "t": "O presidente Isaac Herzog ouve os partidos antes de escolher quem tentará formar governo."
   }
  ],
  "termos": [
@@ -92,9 +100,9 @@
   }
  ],
  "observar": [
-  "A entrega do resultado oficial a Herzog em 4 de novembro.",
+  "Quem Herzog convida para formar governo, depois das consultas de 4 e 5 de novembro.",
   "A posse do novo Parlamento em 10 de novembro.",
-  "Quem Herzog convida para formar governo.",
+  "Se a oposição aceita o apoio dos partidos árabes, sem os quais não chega a 61 cadeiras.",
   "Se há governo de união, governo com apoio árabe ou nova eleição."
  ],
  "fontes": [
@@ -137,6 +145,14 @@
   {
    "t": "Israel Hayom: resultados",
    "u": "https://www.israelhayom.com/2026/10/29/israels-2026-election-results-released/"
+  },
+  {
+   "t": "Al Jazeera: oposição apoia Eisenkot",
+   "u": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu"
+  },
+  {
+   "t": "The Times of Israel: cobertura de 3 de novembro",
+   "u": "https://www.timesofisrael.com/liveblog-november-03-2026/"
   }
  ]
 }

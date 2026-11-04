@@ -1,0 +1,835 @@
+{
+ "data": "2026-11-04",
+ "dia": "Quarta, 4 de novembro de 2026",
+ "leitura": "5 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, chega um pouco mais tarde hoje com a virada no Congresso dos Estados Unidos, a decisão do Copom sobre os juros e o debate no Supremo sobre as bets.",
+ "trinta": [
+  "Democratas conquistam a maioria no Senado e na Câmara dos EUA.",
+  "O Copom decide hoje à noite se mantém a Selic em 13,75%.",
+  "O STF ouviu governo e clubes sobre a medida que proibiu as bets."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "A decisão sobre a Selic mexe nos juros de empréstimos, financiamentos e aplicações."
+  },
+  {
+   "id": "m1",
+   "porque": "Muda quem controla o Congresso dos EUA, com efeito sobre comércio, guerra e economia mundial."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Copom decide hoje se mantém a Selic em 13,75%",
+     "texto": "O Comitê de Política Monetária do Banco Central anuncia no início da noite desta quarta (4) a taxa básica de juros. A Selic está em 13,75% ao ano desde setembro, depois de cinco cortes seguidos de 0,25 ponto desde março, quando estava em 15%.",
+     "pq": "a Selic orienta os juros de empréstimos, financiamentos e aplicações. Os analistas estão divididos: Santander, Itaú, XP e Goldman Sachs esperam manutenção; Bradesco e Daycoval, corte para 13,5%. A inflação em 12 meses, de 4,62% pelo IPCA-15 de outubro, está acima do teto da meta.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/copom-decide-nesta-quarta-feira-se-corta-ou-mantem-taxa-selic"
+      },
+      {
+       "t": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/copom-decide-selic-nesta-quarta-feira-com-mercado-dividido-entre-manutencao-e-corte-dos-juros/"
+      },
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/mercado-preve-fim-da-sequencia-de-cortes-na-selic-com-manutencao-em-1375"
+      }
+     ],
+     "completa": {
+      "fina": "É a penúltima reunião do ano. O mercado de opções da B3 indicava, na terça, mais chance de manutenção do que de corte.",
+      "atualizada": "4 nov 2026, 8h",
+      "selo": "Checada",
+      "fato": "O Copom, comitê do Banco Central que define a taxa básica de juros, termina nesta quarta-feira (4) a penúltima reunião de 2026 e divulga a decisão no início da noite, segundo a Agência Brasil. A Selic está em 13,75% ao ano. Ela chegou a 15%, o nível mais alto em quase 20 anos, e ficou nesse patamar de junho de 2025 a março de 2026. Desde então, o comitê fez cinco cortes seguidos de 0,25 ponto, o último em setembro, segundo o Times Brasil.",
+      "blocos": [
+       {
+        "h": "O que o mercado espera",
+        "li": [
+         {
+          "b": "Manutenção em 13,75%:",
+          "t": "é a aposta de Santander, Itaú, XP e Goldman Sachs, segundo o Times Brasil. O Santander deixou de prever corte em novembro e passou a projetar pausa."
+         },
+         {
+          "b": "Corte para 13,5%:",
+          "t": "é a projeção do Bradesco, segundo o Times Brasil, e do Banco Daycoval, segundo o Metrópoles."
+         },
+         {
+          "b": "Opções da B3:",
+          "t": "na terça (3), os preços indicavam 72,5% de chance de manutenção e 26% de corte de 0,25 ponto, segundo o Times Brasil."
+         },
+         {
+          "b": "Boletim Focus:",
+          "t": "a Agência Brasil informa que a pesquisa com o mercado aponta corte para 13,5%; o Times Brasil diz que as respostas dos últimos cinco dias úteis indicam manutenção. A diferença mostra o quanto as apostas mudaram nos últimos dias."
+         }
+        ]
+       },
+       {
+        "h": "Os números que o Copom pesa",
+        "li": [
+         {
+          "b": "Inflação:",
+          "t": "o IPCA-15 de outubro subiu 0,32% no mês e 4,62% em 12 meses, acima do teto da meta, de 4,5%. O centro da meta é 3%."
+         },
+         {
+          "b": "Projeções:",
+          "t": "o Focus prevê inflação de 5,22% em 2026 e de 4,6% em 2027, segundo o Metrópoles."
+         },
+         {
+          "b": "Alimentos:",
+          "t": "alimentos e bebidas subiram 0,88% no IPCA-15 de outubro, e a alimentação em casa, 1,01%."
+         },
+         {
+          "b": "Emprego e atividade:",
+          "t": "o desemprego foi de 5,2% no trimestre até setembro, o menor para o período, e o IBC-Br caiu 0,6% no trimestre até agosto, segundo o Metrópoles."
+         },
+         {
+          "b": "Dólar:",
+          "t": "fechou a terça (3) a R$ 5,48, segundo o Metrópoles."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Quem espera pausa:",
+          "t": "Gabriel Magno, sócio da AW Capital, disse ao Metrópoles: \"Acredito que não haverá um corte de 0,25 ponto percentual na Selic.\" Alberto Ramos, economista-chefe do Goldman Sachs para a América Latina, avalia que a inflação continua desafiadora e que o balanço de riscos piorou, segundo o Times Brasil."
+         },
+         {
+          "b": "Quem espera corte:",
+          "t": "o Banco Daycoval escreveu em relatório que o Copom, \"sob um quadro de contínua desaceleração da atividade, deve realizar mais um corte de juros\", segundo o Metrópoles."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a decisão será unânime e qual será o tom do comunicado sobre os próximos passos.",
+         "Quando o presidente Lula vai indicar os dois diretores cujos mandatos acabaram no fim de 2025, segundo a Agência Brasil."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A ata da reunião deve sair na terça-feira (10).",
+         "A última reunião do ano está marcada para 8 e 9 de dezembro, segundo o Metrópoles."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: Copom decide nesta quarta",
+        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/copom-decide-nesta-quarta-feira-se-corta-ou-mantem-taxa-selic"
+       },
+       {
+        "t": "Times Brasil: mercado dividido",
+        "u": "https://timesbrasil.com.br/brasil/copom-decide-selic-nesta-quarta-feira-com-mercado-dividido-entre-manutencao-e-corte-dos-juros/"
+       },
+       {
+        "t": "Metrópoles: mercado prevê manutenção",
+        "u": "https://www.metropoles.com/brasil/mercado-preve-fim-da-sequencia-de-cortes-na-selic-com-manutencao-em-1375"
+       },
+       {
+        "t": "The Rio Times: data da ata",
+        "u": "https://www.riotimesonline.com/the-big-read-brazil-4-november-2026"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "STF ouve governo e clubes sobre a medida que proibiu as bets",
+     "texto": "O ministro Luiz Fux, do Supremo Tribunal Federal, conduziu na terça (3) uma audiência pública sobre a Medida Provisória 1.394/2026, que proibiu as apostas de quota fixa, as bets. O governo defendeu a medida; clubes de futebol pediram regras de transição e proteção dos contratos de patrocínio.",
+     "pq": "Fux é o relator de sete ações sobre o tema no STF, e a decisão pode manter ou suspender a proibição. No Congresso, o primeiro prazo de 60 dias para votar a medida provisória termina em 23 de novembro e pode ser prorrogado.",
+     "fontes": [
+      {
+       "t": "STF",
+       "u": "https://noticias.stf.jus.br/postsnoticias/proibicao-das-bets-governo-defende-medida-e-setor-esportivo-alerta-para-prejuizos/"
+      },
+      {
+       "t": "The Rio Times",
+       "u": "https://www.riotimesonline.com/the-big-read-brazil-4-november-2026"
+      }
+     ],
+     "completa": {
+      "fina": "Foi a segunda audiência pública do STF sobre apostas; a primeira foi em novembro de 2024.",
+      "atualizada": "4 nov 2026, 8h",
+      "selo": "Checada",
+      "fato": "O Supremo Tribunal Federal fez na terça-feira (3) uma audiência pública sobre os efeitos da Medida Provisória 1.394/2026, editada pelo presidente Lula, que proibiu as apostas de quota fixa, conhecidas como bets. A audiência foi conduzida pelo ministro Luiz Fux, relator das ações sobre o tema, segundo o portal de notícias do STF. A medida foi publicada em 25 de setembro, segundo o The Rio Times.",
+      "blocos": [
+       {
+        "h": "As ações no Supremo",
+        "p": [
+         "Já tramitavam no STF as ações diretas de inconstitucionalidade 7721, 7723 e 7749, sobre a lei das apostas. Depois da medida provisória, chegaram as ADIs 8024, 8027, 8028 e 8035, o que levou Fux a convocar a segunda audiência. Na abertura, o ministro rebateu críticas de que as audiências favoreceriam empresas de apostas e clubes e lembrou que mais de 50 especialistas, autoridades e representantes da sociedade civil foram ouvidos em 2024, segundo o STF."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Governo:",
+          "t": "o ministro da Justiça, Wellington César Lima e Silva, disse que os danos à saúde, à segurança pública e às famílias justificam a intervenção do Estado e que a regulação anterior era insuficiente. O advogado-geral da União, Jorge Messias, defendeu que a medida é constitucional e que as leis de 2018 e de 2023 não garantiram a proteção exigida pela Constituição, segundo o STF."
+         },
+         {
+          "b": "Flamengo:",
+          "t": "o representante do clube invocou a segurança jurídica e perguntou quem vai pagar os prejuízos com o fim dos contratos de patrocínio. O presidente do clube, Luiz Eduardo Baptista, estimou perdas de até R$ 430 milhões em 2027, segundo o The Rio Times."
+         },
+         {
+          "b": "Fluminense:",
+          "t": "disse que a medida teve impacto de R$ 200 milhões só no clube."
+         },
+         {
+          "b": "Botafogo:",
+          "t": "pediu a suspensão dos efeitos da medida e disse que 10 dias são insuficientes para os clubes se adaptarem."
+         },
+         {
+          "b": "Cruzeiro:",
+          "t": "disse que não há modelo para devolver o dinheiro a empresas que pagaram mais de R$ 30 milhões em licenças e defendeu regulamentar e fiscalizar o setor como resposta ao vício em apostas."
+         },
+         {
+          "b": "São Paulo e Corinthians:",
+          "t": "o São Paulo pediu a proteção dos contratos firmados de boa-fé; o Corinthians pediu ajustes e se ofereceu para fazer campanhas de conscientização com o governo."
+         },
+         {
+          "b": "Atletas:",
+          "t": "a federação nacional dos atletas profissionais de futebol, a Fenapaf, disse que é preciso olhar para os jogadores, não só para clubes e empresas, e alertou que um mercado clandestino exporia atletas à manipulação de resultados."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando Fux vai decidir. Não há data marcada para o julgamento, segundo o The Rio Times.",
+         "Se o Congresso vai aprovar, mudar ou deixar a medida provisória perder a validade."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O primeiro prazo de 60 dias da medida provisória no Congresso termina em 23 de novembro e pode ser prorrogado, segundo o The Rio Times.",
+         "A partir de 9 de novembro, a medida passa a trancar a pauta de votações, segundo o mesmo jornal."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "STF: governo defende medida e setor esportivo alerta para prejuízos",
+        "u": "https://noticias.stf.jus.br/postsnoticias/proibicao-das-bets-governo-defende-medida-e-setor-esportivo-alerta-para-prejuizos/"
+       },
+       {
+        "t": "The Rio Times: resumo do dia",
+        "u": "https://www.riotimesonline.com/the-big-read-brazil-4-november-2026"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Brasil propõe roteiro global para reduzir combustíveis fósseis até 2033",
+     "texto": "A presidência brasileira da COP30 divulgou na terça (3) um roteiro voluntário para os países deixarem os combustíveis fósseis, em três etapas até 2033. O documento, de 182 páginas, não cita países nem fixa prazo para encerrar a produção.",
+     "pq": "o roteiro será discutido na COP31, a conferência do clima da ONU que começa na segunda (9) em Antália, na Turquia. Na COP30, em Belém, o acordo final não citou os combustíveis fósseis, depois da oposição de grandes produtores de petróleo.",
+     "fontes": [
+      {
+       "t": "Climate Home News",
+       "u": "https://www.climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable/"
+      },
+      {
+       "t": "AFP, via Yahoo",
+       "u": "https://www.yahoo.com/news/science/articles/ahead-cop31-brazil-offers-global-154448917.html"
+      }
+     ],
+     "completa": {
+      "fina": "O Brasil também publicou um roteiro para acabar com o desmatamento até 2030.",
+      "atualizada": "4 nov 2026, 8h",
+      "selo": "Checada",
+      "fato": "A presidência da COP30, comandada pelo Brasil, divulgou na terça-feira (3) um roteiro para os países se afastarem dos combustíveis fósseis. O documento conclui que a mudança é \"urgente, inevitável e ainda possível\" e diz que não há solução única, segundo a AFP. A proposta é voluntária e não é um texto de negociação, segundo os responsáveis.",
+      "blocos": [
+       {
+        "h": "As três etapas",
+        "li": [
+         {
+          "b": "Até 2028:",
+          "t": "os países são incentivados a preparar planos nacionais de transição, a tempo do próximo balanço global do Acordo de Paris. Os primeiros passos incluem rever subsídios a combustíveis fósseis e reduzir vazamentos de metano em instalações de petróleo e gás, segundo a Climate Home News."
+         },
+         {
+          "b": "2029 e 2030:",
+          "t": "o foco passa a ser a construção de alternativas, como energia limpa, transporte elétrico, eficiência energética, redes e baterias."
+         },
+         {
+          "b": "2031 a 2033:",
+          "t": "começa a principal redução da produção. Os produtores devem \"ajustar e diversificar a oferta no ritmo da demanda\"."
+         }
+        ]
+       },
+       {
+        "h": "O que diz o documento",
+        "p": [
+         "O texto tem uma ferramenta de autoavaliação e 12 perfis de países, cada um com sugestões de primeiros passos. Ele diz que a demanda por combustíveis fósseis precisa cair muito mais rápido para limitar o aquecimento a 1,5 °C, mas alerta que cortar a oferta cedo demais pode elevar os preços e reduzir o apoio da população à transição, segundo a Climate Home News."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Presidência da COP30:",
+          "t": "o presidente da conferência, André Corrêa do Lago, disse: \"Não estamos sugerindo negociações\". A diretora-executiva, Ana Toni, afirmou: \"A transição é inevitável, então comecem a planejar agora\", segundo a AFP."
+         },
+         {
+          "b": "Oil Change International:",
+          "t": "Romain Ioualalen chamou o roteiro de \"um projeto valioso\", mas disse que adiar os cortes de produção para a década de 2030 seria \"um erro grave\", segundo a Climate Home News."
+         },
+         {
+          "b": "350.org:",
+          "t": "Fanny Petitbon disse que o roteiro não pode virar \"mais um relatório juntando poeira na prateleira\", segundo a AFP."
+         },
+         {
+          "b": "Produtores de petróleo:",
+          "t": "na COP30, Arábia Saudita e Rússia estavam entre os países que se opuseram a citar os combustíveis fósseis no acordo final, segundo a AFP. As reportagens não trazem reação deles ao roteiro."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a Turquia, que preside a COP31, ou a Austrália, que conduz as negociações, vão levar o roteiro adiante, segundo a Climate Home News.",
+         "Quando o Brasil vai publicar o próprio plano nacional de transição, que ainda depende da aprovação do presidente Lula."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A COP31 começa na segunda-feira (9), em Antália, e dura duas semanas.",
+         "Ana Toni disse que o roteiro será discutido em Antália em 10 de novembro, segundo a AFP."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Climate Home News: o calendário do roteiro",
+        "u": "https://www.climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable/"
+       },
+       {
+        "t": "AFP: Brasil oferece plano global",
+        "u": "https://www.yahoo.com/news/science/articles/ahead-cop31-brazil-offers-global-154448917.html"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Com ressalva",
+     "titulo": "Democratas conquistam maioria no Senado e na Câmara dos EUA",
+     "texto": "O Partido Democrata conquistou a maioria do Senado e da Câmara nas eleições de terça (3), segundo projeções da AP e da CNN. No Senado, os democratas tomaram dos republicanos ao menos cinco cadeiras, entre elas as do Texas, do Kansas e da Carolina do Sul.",
+     "pq": "a partir de janeiro, o presidente Donald Trump, republicano, terá de negociar com um Congresso de maioria oposta para aprovar leis, orçamento e nomeações. Ressalva: o número final de cadeiras ainda não estava fechado no fechamento desta edição.",
+     "fontes": [
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+      },
+      {
+       "t": "RTP",
+       "u": "https://www.rtp.pt/noticias/mundo/eua-mudam-de-vermelho-para-azul-democratas-vencem-intercalares-com-dominio-do-congresso_e1776677"
+      }
+     ],
+     "completa": {
+      "fina": "Trump disse que vai trabalhar com os democratas; o líder democrata no Senado, Chuck Schumer, disse que o partido venceu \"contra todas as expectativas\".",
+      "atualizada": "4 nov 2026, 8h",
+      "selo": "Com ressalva",
+      "fato": "Os democratas conquistaram a maioria nas duas casas do Congresso dos Estados Unidos nas eleições de meio de mandato de terça-feira (3). A agência AP projetou a vitória no Senado na noite de terça, com ao menos 51 cadeiras para os democratas, segundo a Al Jazeera. A CNN projetou a maioria democrata na Câmara, segundo a RTP. Antes da eleição, os republicanos tinham 53 das 100 cadeiras do Senado e 218 das 435 da Câmara.",
+      "blocos": [
+       {
+        "h": "As cadeiras que mudaram de partido no Senado",
+        "li": [
+         {
+          "b": "Texas:",
+          "t": "o deputado estadual James Talarico venceu o procurador-geral do estado, Ken Paxton, apoiado por Trump. É a primeira vitória democrata para um cargo estadual no Texas desde 1994, segundo a Al Jazeera."
+         },
+         {
+          "b": "Kansas:",
+          "t": "o pastor Adam Hamilton venceu o senador Roger Marshall. O estado não elegia um senador democrata desde 1932."
+         },
+         {
+          "b": "Carolina do Sul:",
+          "t": "a pediatra Annie Andrews venceu Darline Graham, irmã do ex-senador Lindsey Graham."
+         },
+         {
+          "b": "Ohio e Carolina do Norte:",
+          "t": "Sherrod Brown venceu o senador Jon Husted, e o ex-governador Roy Cooper venceu Michael Whatley."
+         },
+         {
+          "b": "Outros estados:",
+          "t": "a RTP, com a agência Lusa, informa também vitórias democratas no Iowa e no Maine, onde a senadora Susan Collins reconheceu a derrota antes do fim da apuração. A Al Jazeera não lista esses dois estados."
+         }
+        ]
+       },
+       {
+        "h": "Governadores",
+        "p": [
+         "Segundo a RTP, Keisha Lance Bottoms, democrata, venceu na Geórgia e deve ser a primeira mulher negra a governar um estado americano; o republicano Byron Donalds venceu na Flórida e deve ser o primeiro governador negro do estado. A RTP informa ainda a vitória da democrata Gina Hinojosa sobre o governador Greg Abbott, no Texas."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Donald Trump:",
+          "t": "disse à Fox News que \"uma parte foi o Irã\", sobre a guerra no Oriente Médio, e escreveu na rede Truth Social que, se estivesse na cédula, o partido teria vencido com folga. Também afirmou: \"Trabalharemos com os democratas\", segundo a RTP."
+         },
+         {
+          "b": "Chuck Schumer, líder democrata no Senado:",
+          "t": "disse que os democratas conquistaram o Senado \"contra todas as expectativas\"."
+         },
+         {
+          "b": "Hakeem Jeffries, líder democrata na Câmara:",
+          "t": "prometeu cobrar responsabilidade de quem, segundo ele, impôs \"uma corrupção sem precedentes\"."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O número final de cadeiras de cada partido. A apuração continuava no Alasca, no Mississippi e no Maine, segundo a RTP.",
+         "As contagens parciais divulgadas pela imprensa ainda não batem entre si."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O novo Congresso toma posse em janeiro de 2027.",
+         "Até lá, o Congresso atual, de maioria republicana, segue em funcionamento."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: democratas viram o Senado",
+        "u": "https://www.aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections"
+       },
+       {
+        "t": "RTP: democratas vencem com domínio do Congresso",
+        "u": "https://www.rtp.pt/noticias/mundo/eua-mudam-de-vermelho-para-azul-democratas-vencem-intercalares-com-dominio-do-congresso_e1776677"
+       },
+       {
+        "t": "CBS News: a Câmara antes da eleição",
+        "u": "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Oposição de Israel indica Eisenkot para formar governo",
+     "texto": "Cinco líderes da oposição israelense, entre eles Yair Lapid e Naftali Bennett, decidiram na terça (3) recomendar Gadi Eisenkot, do partido Yashar, para primeiro-ministro. O presidente Isaac Herzog ouve os partidos nesta quarta (4) e na quinta (5) antes de escolher quem tentará formar governo.",
+     "pq": "nenhum bloco chegou às 61 cadeiras da maioria no Parlamento, de 120. O bloco de Benjamin Netanyahu tem 53; a oposição, 48; partidos de liderança árabe, 19. Netanyahu defende um governo nacional amplo sob seu comando e descarta aliança com listas árabes.",
+     "fontes": [
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu"
+      },
+      {
+       "t": "The Times of Israel",
+       "u": "https://www.timesofisrael.com/liveblog-november-03-2026/"
+      }
+     ],
+     "contexto": "eleicao-israel-2026",
+     "completa": {
+      "fina": "A oposição está dividida sobre aceitar o apoio de partidos árabes, sem os quais não alcança a maioria.",
+      "atualizada": "4 nov 2026, 8h",
+      "selo": "Checada",
+      "fato": "Os líderes de cinco partidos da oposição de Israel se reuniram na terça-feira (3) em Herzliya e decidiram recomendar ao presidente Isaac Herzog que o ex-chefe do Estado-Maior Gadi Eisenkot, do partido Yashar, seja encarregado de formar o próximo governo, segundo a Al Jazeera. Participaram Eisenkot, Naftali Bennett, Avigdor Liberman, do Yisrael Beytenu, Yair Golan, dos Democratas, e Yair Lapid, do Yesh Atid.",
+      "blocos": [
+       {
+        "h": "A conta das cadeiras",
+        "p": [
+         "Na eleição de 27 de outubro, o bloco de Netanyahu conquistou 53 cadeiras, 27 delas do Likud. A oposição ficou com 48, e os partidos de liderança árabe, com 19: 11 da Lista Conjunta e 8 do Ra'am, segundo a Al Jazeera. A maioria exige 61. Sozinha, a oposição fica 13 cadeiras abaixo; com os partidos árabes, somaria 67."
+        ]
+       },
+       {
+        "h": "Como se chegou aqui",
+        "p": [
+         "A eleição de 27 de outubro teve comparecimento de 77,9%, e os partidos de liderança árabe somaram 19 cadeiras, o maior número já registrado, segundo a contagem final acompanhada pelo Contexto em edições anteriores. Nenhum dos dois blocos principais chegou perto da maioria sozinho. Liberman, do Yisrael Beytenu, anunciou que vai recomendar Eisenkot, ex-chefe do Estado-Maior de Israel, segundo o The Times of Israel. Lapid, Bennett e Golan também participam da articulação, e cada partido será recebido separadamente por Herzog."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Oposição:",
+          "t": "em nota conjunta, os cinco líderes disseram que estão coordenados e que vão \"agir imediatamente para substituir o 'governo de 7 de outubro'\", segundo a Al Jazeera. Lapid afirmou: \"Estamos diante de uma tentativa grave e perigosa de minar o resultado da eleição\", segundo o The Times of Israel."
+         },
+         {
+          "b": "Divisão na oposição:",
+          "t": "Golan defende abertamente trabalhar com os partidos árabes; Liberman é contra. Liberman escreveu no X: \"Precisamos evitar outra eleição\", sem dizer como formar governo sem os partidos árabes, segundo o The Times of Israel."
+         },
+         {
+          "b": "Benjamin Netanyahu:",
+          "t": "na segunda-feira (2), o primeiro-ministro defendeu um \"governo nacional amplo\" sob sua liderança e descartou coalizão com listas de maioria árabe, que, segundo ele, \"apoiam o terrorismo e negam a existência do Estado judeu\", segundo a Al Jazeera."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem Herzog vai convidar para formar governo.",
+         "Se algum candidato consegue reunir 61 cadeiras ou se Israel caminha para nova eleição."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Herzog ouve os partidos nesta quarta (4) e na quinta (5).",
+         "O novo Parlamento toma posse em 10 de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: oposição apoia Eisenkot",
+        "u": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu"
+       },
+       {
+        "t": "The Times of Israel: cobertura de 3 de novembro",
+        "u": "https://www.timesofisrael.com/liveblog-november-03-2026/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "EUA atacam ilha do Irã enquanto Catar media proposta de acordo",
+     "texto": "Os Estados Unidos atacaram a ilha iraniana de Qeshm, no Estreito de Ormuz, na noite de segunda (2). Um funcionário americano chamou os ataques de \"defensivos\". Na terça (3), o Catar disse que os dois países analisam um rascunho de proposta para encerrar a guerra.",
+     "pq": "o Estreito de Ormuz é rota de boa parte do petróleo do Golfo, e o conflito afeta o preço do combustível no mundo. Trump disse que a proposta está \"se encaixando muito bem\"; um funcionário iraniano disse à Reuters que o acordo ainda está distante.",
+     "fontes": [
+      {
+       "t": "Al-Monitor",
+       "u": "https://www.al-monitor.com/originals/2026/11/us-strikes-irans-qeshm-island-trump-hints-possible-deal"
+      },
+      {
+       "t": "Khaleej Times",
+       "u": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-3-2026"
+      }
+     ],
+     "completa": {
+      "fina": "O Catar e o Paquistão intensificaram a mediação; as respostas dos dois lados à proposta eram esperadas em até 36 horas.",
+      "atualizada": "4 nov 2026, 8h",
+      "selo": "Checada",
+      "fato": "As Forças Armadas dos Estados Unidos atacaram na noite de segunda-feira (2) a ilha de Qeshm, do Irã, no Estreito de Ormuz, segundo o Al-Monitor. Um funcionário americano descreveu a ação como \"ataques defensivos limitados para inibir novos ataques iranianos\" na hidrovia. O Comando Central dos EUA não anunciou os ataques publicamente. Trump confirmou um ataque ao Irã em entrevista por telefone à Fox, segundo o Khaleej Times.",
+      "blocos": [
+       {
+        "h": "A negociação",
+        "li": [
+         {
+          "b": "Catar:",
+          "t": "disse na terça (3) que os EUA e o Irã analisam um rascunho de proposta para encerrar a guerra e que continua \"esperançoso\" de um acordo. As respostas dos dois lados eram esperadas em até 36 horas, segundo o Khaleej Times."
+         },
+         {
+          "b": "Mediadores:",
+          "t": "mediadores do Catar se reuniram em Teerã na segunda (2), segundo o Al-Monitor. O Irã disse que as conversas estão se intensificando com a mediação do Catar e do Paquistão."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Governo dos EUA:",
+          "t": "Trump disse que a proposta mais recente está \"se encaixando muito bem\". O vice-presidente JD Vance afirmou: \"Certamente fizemos algum progresso. Vamos ver se conseguimos fazer mais\", segundo o Al-Monitor."
+         },
+         {
+          "b": "Governo do Irã:",
+          "t": "o negociador-chefe iraniano disse que cabe aos EUA \"evitar a guerra\", e o presidente do Irã disse que a retomada dos combates não beneficiaria \"ninguém\". Um alto funcionário iraniano disse à Reuters que o acordo ainda está fora de alcance, segundo o Khaleej Times."
+         },
+         {
+          "b": "Israel:",
+          "t": "disse que não participou dos ataques à ilha."
+         }
+        ]
+       },
+       {
+        "h": "Ormuz e o petróleo",
+        "p": [
+         "O petróleo subiu depois da notícia do ataque, segundo o Khaleej Times. A mídia estatal iraniana informou que três petroleiros atingiram minas no estreito; a informação não foi confirmada por outras fontes até o fechamento. A companhia aérea Lufthansa disse que vai gastar 2 bilhões de euros a mais com combustível em 2026 por causa da guerra."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O conteúdo do rascunho de proposta.",
+         "Se haverá novos ataques. Um funcionário americano disse que as ações continuarão limitadas enquanto o Irã não ampliar os próprios ataques, segundo o Al-Monitor."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Os mediadores aguardam as respostas de Washington e de Teerã à proposta.",
+         "O chanceler do Irã disse que Teerã não tem hostilidade contra os países do Golfo e que as conversas com a Arábia Saudita continuam, segundo o Khaleej Times."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al-Monitor: ataques a Qeshm",
+        "u": "https://www.al-monitor.com/originals/2026/11/us-strikes-irans-qeshm-island-trump-hints-possible-deal"
+       },
+       {
+        "t": "Khaleej Times: cobertura de 3 de novembro",
+        "u": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-3-2026"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Anthropic fatura US$ 17 bilhões no trimestre e volta ao prejuízo operacional",
+     "texto": "A Anthropic informou num documento revisado do pedido de abertura de capital, apresentado na segunda (2), receita de US$ 16,96 bilhões no terceiro trimestre, 1.127% acima de um ano antes. A empresa teve prejuízo operacional de US$ 567 milhões, depois de lucro de US$ 974 milhões no trimestre anterior.",
+     "pq": "os números mostram o custo da corrida por computação para inteligência artificial: a empresa tem compromissos de cerca de US$ 895 bilhões em infraestrutura e prepara a estreia na Bolsa. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic.",
+     "fontes": [
+      {
+       "t": "Dealroom",
+       "u": "https://dealroom.co/news/168953-anthropics-amended-s-1-17b-in-q3-revenue-a-slide-back-to-an-operating-lo/"
+      },
+      {
+       "t": "Forbes",
+       "u": "https://www.forbes.com/sites/jonmarkman/2026/11/03/anthropic-posts-a-567-million-operating-loss-from-buying-extra-compute/"
+      }
+     ],
+     "completa": {
+      "fina": "O crescimento trimestral desacelerou para 47%, depois de 144% no segundo trimestre.",
+      "atualizada": "4 nov 2026, 8h",
+      "selo": "Checada",
+      "fato": "A Anthropic, empresa americana de inteligência artificial que desenvolve o Claude, divulgou na segunda-feira (2) uma versão revisada do documento de abertura de capital, o S-1. A receita do trimestre encerrado em 30 de setembro foi de US$ 16,96 bilhões, contra US$ 1,38 bilhão um ano antes e US$ 11,56 bilhões no segundo trimestre, segundo a Dealroom. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic. Esta nota trata da própria Anthropic e passou pela mesma checagem e pela Ouvidoria.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Crescimento:",
+          "t": "1.127% em um ano e 47% sobre o trimestre anterior. No segundo trimestre, a alta trimestral tinha sido de 144%, segundo a Dealroom."
+         },
+         {
+          "b": "Resultado operacional:",
+          "t": "prejuízo de US$ 567 milhões, depois de lucro de US$ 974 milhões no segundo trimestre."
+         },
+         {
+          "b": "Por que o prejuízo:",
+          "t": "a empresa gastou US$ 5 bilhões com computação de curto prazo, que, segundo o documento, \"custa atualmente bem mais\" do que a contratada em compromissos de vários anos, e registrou uma despesa contábil de US$ 2 bilhões ligada a um programa de doações, segundo a Forbes."
+         },
+         {
+          "b": "Prejuízo líquido:",
+          "t": "US$ 23,29 bilhões no trimestre. A maior parte vem da reavaliação de títulos conversíveis, não da operação, segundo a Dealroom e a Forbes."
+         },
+         {
+          "b": "Clientes:",
+          "t": "mais de 11,9 mil clientes pagam mais de US$ 100 mil por ano, contra mais de 950 um ano antes, segundo a Forbes."
+         }
+        ]
+       },
+       {
+        "h": "Os compromissos de infraestrutura",
+        "p": [
+         "A empresa informa compromissos de compra e arrendamento de cerca de US$ 895,4 bilhões, quase todos em computação e infraestrutura. Cerca de US$ 447,5 bilhões devem ser gastos até o fim de 2030. Os compromissos incluem pelo menos US$ 110 bilhões com a Amazon até abril de 2036 e US$ 44,9 bilhões com a Microsoft até junho de 2033, segundo a Forbes. No documento, a empresa diz que opera com \"a demanda dos clientes maior do que a computação disponível\"."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "A data exata da estreia na Bolsa e o valor das ações. A Dealroom diz que a oferta é esperada nas próximas semanas.",
+         "Se o prejuízo operacional se repete nos próximos trimestres.",
+         "Por quanto a empresa será avaliada na oferta. As reportagens consultadas para esta nota não trazem um valor confirmado."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O pedido segue em análise pelo regulador do mercado americano, a SEC, antes da oferta de ações."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Dealroom: o S-1 revisado",
+        "u": "https://dealroom.co/news/168953-anthropics-amended-s-1-17b-in-q3-revenue-a-slide-back-to-an-operating-lo/"
+       },
+       {
+        "t": "Forbes: o prejuízo operacional",
+        "u": "https://www.forbes.com/sites/jonmarkman/2026/11/03/anthropic-posts-a-567-million-operating-loss-from-buying-extra-compute/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Com ressalva",
+     "titulo": "Nvidia limita clientes chineses em nuvens com seus chips, diz jornal",
+     "texto": "A Nvidia passou a exigir que empresas de computação em nuvem que usam seus chips vendam pelo menos 51% dos serviços a clientes de fora da China, segundo o Financial Times. A regra vale para contratos futuros. A Nvidia não confirmou nem negou a reportagem.",
+     "pq": "a Nvidia fabrica a maior parte dos chips usados para treinar inteligência artificial, e a regra pode reduzir o acesso de empresas chinesas a essa capacidade por meio de data centers fora da China. Ressalva: a informação vem de uma reportagem com cinco fontes anônimas.",
+     "fontes": [
+      {
+       "t": "Taipei Times (AFP)",
+       "u": "https://www.taipeitimes.com/News/biz/archives/2026/11/04/2003867097"
+      },
+      {
+       "t": "Yahoo Finance",
+       "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-restricts-chinese-access-112552007.html"
+      }
+     ],
+     "completa": {
+      "fina": "As instruções teriam sido passadas verbalmente por equipes de vendas, sem documento formal, segundo a reportagem.",
+      "atualizada": "4 nov 2026, 8h",
+      "selo": "Com ressalva",
+      "fato": "A Nvidia está orientando empresas de data centers e de computação em nuvem que compram seus chips a reduzir o trabalho com clientes chineses, segundo reportagem do jornal britânico Financial Times publicada na terça-feira (3), que cita cinco pessoas com conhecimento do assunto. Pela regra, essas empresas precisam vender pelo menos 51% dos serviços a companhias que não sejam chinesas, segundo a AFP, citada pelo Taipei Times.",
+      "blocos": [
+       {
+        "h": "Os detalhes",
+        "li": [
+         {
+          "b": "Alcance:",
+          "t": "a regra vale apenas para contratos novos, não para os já assinados, segundo a AFP."
+         },
+         {
+          "b": "Como foi comunicada:",
+          "t": "por representantes de vendas e equipes regionais, de forma verbal e sem documento formal, segundo o Yahoo Finance, que cita o Financial Times."
+         },
+         {
+          "b": "Mudança:",
+          "t": "a orientação muda a forma como a Nvidia lidava com a carteira de clientes desses parceiros, segundo o Yahoo Finance."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Nvidia:",
+          "t": "não confirmou nem negou a reportagem. Em nota, disse que \"data centers e nuvens construídos com chips americanos são a base\" para os desenvolvedores americanos e que \"a política de longa data dos EUA incentiva toda nuvem a usar infraestrutura americana\", segundo a AFP."
+         },
+         {
+          "b": "Governo da China:",
+          "t": "a porta-voz da chancelaria, Mao Ning, disse não ter conhecimento da reportagem e que Pequim espera \"um ambiente de negócios justo, transparente e não discriminatório\" para empresas de todos os países, segundo a AFP."
+         }
+        ]
+       },
+       {
+        "h": "A disputa por trás",
+        "p": [
+         "Estados Unidos e China disputam a liderança em inteligência artificial e, nas últimas semanas, se acusaram mutuamente de roubar tecnologia e de pôr a segurança em risco, segundo a AFP. A regra descrita pelo Financial Times atinge os data centers fora da China que atendem empresas chinesas, porque obriga os parceiros da Nvidia a ter a maior parte das vendas de serviços com clientes de outros países. O Contexto não conseguiu abrir o texto original do Financial Times; as informações vêm da AFP e do Yahoo Finance, que reproduzem a reportagem."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como a Nvidia vai verificar a proporção de clientes de cada empresa.",
+         "Se a regra tem relação com pedidos do governo americano. As reportagens não dizem."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Empresas de nuvem que negociam novos contratos com chips da Nvidia terão de seguir a proporção, se a reportagem se confirmar."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Taipei Times (AFP): Nvidia e a exposição à China",
+        "u": "https://www.taipeitimes.com/News/biz/archives/2026/11/04/2003867097"
+       },
+       {
+        "t": "Yahoo Finance: restrição a clientes chineses",
+        "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-restricts-chinese-access-112552007.html"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "4,62%",
+  "texto": "foi a inflação em 12 meses pelo IPCA-15 de outubro, acima do teto da meta, de 4,5%. É um dos números que o Copom pesa hoje.",
+  "fontes": [
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/copom-decide-nesta-quarta-feira-se-corta-ou-mantem-taxa-selic"
+   },
+   {
+    "t": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/mercado-preve-fim-da-sequencia-de-cortes-na-selic-com-manutencao-em-1375"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "Nove cidades têm feriado hoje e bancos fechados. Três delas se chamam São Carlos: em São Paulo, em Santa Catarina e São Carlos do Ivaí, no Paraná. O Pix funciona normalmente.",
+  "fontes": [
+   {
+    "t": "O Antagonista",
+    "u": "https://oantagonista.com.br/economia/bancos-nao-abrem-nesta-quarta-feira-4-de-novembro-de-2026-em-9-cidades-brasileiras-por-causa-de-feriados-municipais/"
+   },
+   {
+    "t": "O Povo",
+    "u": "https://www.opovo.com.br/noticias/curiosidades/2026/11/04/hoje-4-de-novembro-e-feriado-veja-onde-e-quem-folga-nesta-quarta-feira.html"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Conflito de interesse: esta edição traz uma nota sobre a própria Anthropic (Inovação 1), checada pelas mesmas regras das outras.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Nos EUA, Trump e os líderes democratas falam na própria voz; em Israel, a oposição e Netanyahu têm espaço parecido; no Irã, Washington e Teerã aparecem cada um com a sua versão.",
+  "pontos": [
+   "Brasil 1: as apostas de manutenção e de corte aparecem com o mesmo peso e com o nome de quem as fez.",
+   "Brasil 2: o governo e os clubes têm espaço parecido; falas reproduzidas como discurso indireto porque a fonte não traz citação literal.",
+   "Brasil 3: a crítica de ambientalistas vem acompanhada da posição dos produtores de petróleo na COP30, e a nota diz que eles não comentaram o roteiro.",
+   "Mundo 1: 'tsunami' e 'derrota' de títulos de outros veículos ficaram fora; a frase de Jeffries sobre corrupção está entre aspas e atribuída.",
+   "Mundo 2: a frase de Netanyahu sobre os partidos árabes só aparece entre aspas, com o nome dele, na notícia completa.",
+   "Mundo 3: 'defensivos' fica entre aspas, como palavra do governo americano; a versão iraniana vem logo depois.",
+   "Inovação 1: aviso de conflito de interesse no texto e no rodapé; prejuízo líquido explicado como efeito contábil, sem adjetivo.",
+   "Inovação 2: selo Com ressalva porque tudo vem de uma única reportagem com fontes anônimas, reproduzida por dois veículos."
+  ],
+  "equilibrio": "Governo Trump: 4 menções (neutras); democratas: 3 (neutras). Governo Lula: 2 menções (neutras), sem nota de disputa partidária no Brasil.",
+  "foraDaEdicao": [
+   "Edição produzida fora do horário: a rotina automática estava pausada desde a tarde de 3 de novembro e foi religada para os próximos dias.",
+   "Categorias extras (Economia, Política, Esportes, Ciência, Saúde, Meio ambiente, Cultura, Entretenimento, Celebridades, Educação, Trabalho e carreira): sem fato novo checado em duas fontes a tempo. O roteiro dos combustíveis fósseis ficou em Brasil.",
+   "Instabilidade no site e no aplicativo do Banco do Brasil: a página da Agência Brasil não abriu e não houve segunda fonte.",
+   "Fim da ajuda militar dos EUA a Israel anunciado por Trump: só uma fonte aberta.",
+   "Contextos: só o de Israel foi atualizado; os demais temas ainda não têm página de contexto checada."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Essencial: Copom e eleições nos EUA, pelo critério de efeito direto no dinheiro de muita gente no Brasil e de consequência próxima no mundo; uma de Brasil e uma de Mundo.",
+   "Mundo 1 com selo Com ressalva e aviso de que a contagem de cadeiras não está fechada, porque as fontes trazem números parciais diferentes.",
+   "Retirados os números finais de cadeiras na Câmara, que não batiam entre as fontes.",
+   "Abertura avisa que a edição saiu mais tarde."
+  ]
+ },
+ "geradaEm": "2026-11-04T10:53:06Z"
+}
