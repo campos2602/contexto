@@ -1,25 +1,9 @@
 {
  "titulo": "Eleição em Israel: como se forma um governo",
- "atualizado": "4 nov 2026",
+ "atualizado": "5 nov 2026",
  "selo": "Checado",
  "frase": "Israel escolhe 120 deputados por lista nacional, e nenhum partido costuma ter maioria sozinho. Governa quem consegue reunir 61 cadeiras numa coalizão.",
  "linha": [
-  {
-   "d": "Outubro de 2023",
-   "t": "Ataques de 7 de outubro e início da guerra em Gaza. As falhas de segurança viram tema central da política israelense, segundo a Al Jazeera."
-  },
-  {
-   "d": "Outubro de 2026",
-   "t": "O Parlamento eleito em 2022 completa o mandato de quatro anos."
-  },
-  {
-   "d": "23 de outubro de 2026",
-   "t": "Entra em vigor a proibição de novas pesquisas eleitorais."
-  },
-  {
-   "d": "25 de outubro de 2026",
-   "t": "O Exército fecha passagens da Cisjordânia para o dia da votação, depois da morte de dois soldados em Hebron, segundo a Euronews."
-  },
   {
    "d": "27 de outubro de 2026",
    "t": "Dia da eleição. Boca de urna às 22h de Israel."
@@ -43,6 +27,14 @@
   {
    "d": "4 e 5 de novembro de 2026",
    "t": "O presidente Isaac Herzog ouve os partidos antes de escolher quem tentará formar governo."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "Herzog recebe o resultado oficial e começa as consultas. Ra'am e Yisrael Beytenu indicam Eisenkot; Sionismo Religioso, Shas e Zehut indicam Netanyahu."
+  },
+  {
+   "d": "5 de novembro de 2026",
+   "t": "Último dia de consultas, com Likud e Yashar."
   }
  ],
  "termos": [
@@ -61,6 +53,10 @@
   {
    "t": "Bloco",
    "d": "Grupo de partidos que costuma votar junto. Hoje se fala em bloco de Netanyahu e bloco de oposição."
+  },
+  {
+   "t": "Consultas do presidente",
+   "d": "Depois da eleição, o presidente de Israel ouve todos os partidos eleitos e escolhe quem tem mais chance de formar governo. Não precisa ser o líder do maior partido. O escolhido tem 28 dias, prorrogáveis por 14, segundo a RTÉ."
   }
  ],
  "quem": [
@@ -100,7 +96,7 @@
   }
  ],
  "observar": [
-  "Quem Herzog convida para formar governo, depois das consultas de 4 e 5 de novembro.",
+  "Quem Herzog convida para formar governo.",
   "A posse do novo Parlamento em 10 de novembro.",
   "Se a oposição aceita o apoio dos partidos árabes, sem os quais não chega a 61 cadeiras.",
   "Se há governo de união, governo com apoio árabe ou nova eleição."
@@ -153,6 +149,14 @@
   {
    "t": "The Times of Israel: cobertura de 3 de novembro",
    "u": "https://www.timesofisrael.com/liveblog-november-03-2026/"
+  },
+  {
+   "t": "Ynet: Herzog começa as consultas",
+   "u": "https://www.ynetnews.com/article/sjzk4rutmg"
+  },
+  {
+   "t": "RTÉ: Herzog pede que aceitem que não houve vencedor claro",
+   "u": "https://www.rte.ie/news/world/2026/1104/1597892-israel-election/"
   }
  ]
 }

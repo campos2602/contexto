@@ -1,13 +1,9 @@
 {
  "titulo": "As eleições de meio de mandato nos Estados Unidos",
- "atualizado": "4 nov 2026",
+ "atualizado": "5 nov 2026",
  "selo": "Checado",
  "frase": "A cada quatro anos, no meio do mandato presidencial, os americanos renovam a Câmara inteira, um terço do Senado e muitos governos estaduais. O resultado define se o presidente governa com ou sem maioria no Congresso.",
  "linha": [
-  {
-   "d": "Desde 1934",
-   "t": "O partido do presidente ganhou cadeiras na Câmara numa eleição de meio de mandato só três vezes; a última foi em 2002, segundo a CBS News."
-  },
   {
    "d": "28 de fevereiro de 2026",
    "t": "Começa a guerra de EUA e Israel contra o Irã. Segundo a Al Jazeera, a aprovação de Trump cai desde então, com a alta da gasolina e do diesel."
@@ -35,6 +31,10 @@
   {
    "d": "Janeiro de 2027",
    "t": "Toma posse o novo Congresso."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "Democratas controlam pelo menos 54 cadeiras do Senado, segundo a CBS News. Schumer promete investigações contra Trump; Mississippi e Alasca seguem sem resultado."
   }
  ],
  "termos": [
@@ -96,8 +96,8 @@
   }
  ],
  "observar": [
-  "O número final de cadeiras de cada partido, com a apuração no Alasca, no Mississippi e no Maine.",
-  "Se algum resultado será contestado na Justiça.",
+  "O resultado final no Mississippi e no Alasca.",
+  "Se algum resultado apertado vai parar na Justiça.",
   "Como Trump vai negociar orçamento e nomeações com o novo Congresso.",
   "A posse do novo Congresso, em janeiro."
  ],
@@ -125,6 +125,10 @@
   {
    "t": "Agência Brasil: o Departamento de Justiça",
    "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/departamento-de-justica-rompe-com-tradicao-ao-intervir-nas-eleicoes"
+  },
+  {
+   "t": "CBS News: resultados do Senado",
+   "u": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
   }
  ]
 }

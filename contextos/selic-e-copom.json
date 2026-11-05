@@ -1,13 +1,9 @@
 {
  "titulo": "Selic e Copom: como o Banco Central decide os juros",
- "atualizado": "4 nov 2026",
+ "atualizado": "5 nov 2026",
  "selo": "Checado",
  "frase": "A Selic é a taxa básica de juros do país. O Copom, comitê do Banco Central, a sobe para frear a inflação e a reduz quando a inflação dá sinais de controle, e cada decisão passa para os juros de empréstimos, financiamentos e aplicações.",
  "linha": [
-  {
-   "d": "Junho de 2025",
-   "t": "A Selic chega a 15% ao ano, o nível mais alto em quase 20 anos, e fica nesse patamar até março de 2026, segundo a Agência Brasil."
-  },
   {
    "d": "Fim de 2025",
    "t": "Terminam os mandatos de dois diretores do Banco Central. Até 4 de novembro de 2026, o presidente Lula não tinha enviado os nomes dos substitutos ao Senado, segundo a Agência Brasil."
@@ -35,6 +31,10 @@
   {
    "d": "8 e 9 de dezembro de 2026",
    "t": "Última reunião do Copom no ano, segundo o Metrópoles."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "O Copom mantém a Selic em 13,75%, por unanimidade, e interrompe os cortes. O comunicado cita piora do cenário e o petróleo mais caro com a guerra no Oriente Médio."
   }
  ],
  "termos": [
@@ -100,10 +100,10 @@
   }
  ],
  "observar": [
-  "O comunicado do Copom na noite de 4 de novembro: se a decisão foi unânime e se o comitê sinaliza novos cortes.",
-  "A ata, prevista para 10 de novembro.",
+  "A ata, prevista para 10 de novembro, e se ela indica espaço para novos cortes.",
+  "A reunião de 8 e 9 de dezembro.",
   "O IPCA de outubro, que mostra se a inflação continua acima do teto.",
-  "A indicação dos dois diretores do Banco Central que faltam."
+  "A indicação dos substitutos dos diretores Renato Gomes e Diego Guillen."
  ],
  "fontes": [
   {
@@ -121,6 +121,18 @@
   {
    "t": "The Rio Times: resumo de 4 de novembro",
    "u": "https://www.riotimesonline.com/the-big-read-brazil-4-november-2026"
+  },
+  {
+   "t": "Metrópoles: Copom mantém a Selic",
+   "u": "https://www.metropoles.com/brasil/copom-mantem-taxa-selic-e-juros-ficam-em-1375-ao-ano"
+  },
+  {
+   "t": "Sou Brasília: decisão unânime",
+   "u": "https://soubrasilia.com/copom-mantem-selic-13-75-unanimidade-4-novembro-2026/"
+  },
+  {
+   "t": "TMC: Copom congela a Selic",
+   "u": "https://tmc.com.br/economia/copom-mantem-selic-13-75-reuniao-pos-eleicoes-2026/"
   }
  ]
 }

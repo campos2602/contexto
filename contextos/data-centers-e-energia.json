@@ -1,0 +1,114 @@
+{
+ "titulo": "Data centers de inteligência artificial e a conta de luz",
+ "atualizado": "5 nov 2026",
+ "selo": "Checado",
+ "frase": "Os data centers que treinam e rodam inteligência artificial consomem tanta energia quanto cidades inteiras. Nos EUA, a alta das contas de luz levou distribuidoras, governos e empresas a discutir quem paga a nova infraestrutura. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, concorrente da OpenAI.",
+ "linha": [
+  {
+   "d": "Janeiro de 2025",
+   "t": "A comissão de serviços públicos da Geórgia aprova regras novas para grandes consumidores de energia, segundo a Georgia Power."
+  },
+  {
+   "d": "Julho de 2025",
+   "t": "A comissão aprova o congelamento da tarifa básica da Georgia Power, segundo o Atlanta News First."
+  },
+  {
+   "d": "22 de julho de 2026",
+   "t": "A Georgia Power anuncia que vai atender o campus da OpenAI em Effingham, de cerca de 3.200 MW, com contrato de 25 anos e corte de até 1.000 MW nos picos."
+  },
+  {
+   "d": "Agosto de 2026",
+   "t": "A comissão aprova o contrato. A Georgia Power projeta economia de US$ 15 por mês para uma casa típica a partir de 2029."
+  },
+  {
+   "d": "2 de novembro de 2026",
+   "t": "A OpenAI lança o Grid Protectors, programa para seus data centers reduzirem consumo quando a rede estiver sob pressão."
+  },
+  {
+   "d": "2028",
+   "t": "Previsão de funcionamento da primeira fase do campus de Effingham."
+  },
+  {
+   "d": "2030",
+   "t": "A capacidade dos data centers nos EUA deve passar de 100 GW, segundo projeção da BNEF citada pela OpenAI."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Data center",
+   "d": "Prédio com milhares de servidores que processam dados. Os de inteligência artificial usam chips que consomem muita energia."
+  },
+  {
+   "t": "Megawatt (MW) e gigawatt (GW)",
+   "d": "Unidades de potência. 1 GW são 1.000 MW. Segundo a OpenAI, 1.000 MW equivalem ao consumo médio de cerca de 700 mil casas."
+  },
+  {
+   "t": "Resposta da demanda",
+   "d": "Acordo em que um grande consumidor reduz o uso de energia quando a rede está sobrecarregada, para evitar apagões e a construção de usinas extras."
+  },
+  {
+   "t": "Pico de demanda",
+   "d": "Horários em que o consumo de eletricidade é maior, como tardes muito quentes com ar-condicionado ligado."
+  },
+  {
+   "t": "Distribuidora",
+   "d": "Empresa que entrega a energia aos consumidores. Na Geórgia, a Georgia Power."
+  }
+ ],
+ "quem": [
+  {
+   "b": "OpenAI",
+   "t": "empresa americana de inteligência artificial, dona do ChatGPT, concorrente da Anthropic."
+  },
+  {
+   "b": "Georgia Power",
+   "t": "distribuidora de energia da Geórgia, que atende o campus de Effingham."
+  },
+  {
+   "b": "Comissão de serviços públicos da Geórgia",
+   "t": "órgão estadual que aprova tarifas e contratos."
+  },
+  {
+   "b": "Southern Environmental Law Center",
+   "t": "organização ambiental que acompanha os contratos."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Empresas e distribuidora",
+   "t": "dizem que os grandes consumidores devem pagar os próprios custos e que a flexibilidade reduz a necessidade de novas usinas. \"Grandes instalações de computação devem pagar os seus custos e ajudar as distribuidoras a gerir os sistemas de que dependem\", diz a OpenAI, segundo a TED Magazine."
+  },
+  {
+   "b": "Críticos",
+   "t": "querem saber quais custos são de fato cobertos e o que acontece se um data center sair antes do fim do contrato, nas palavras de Bob Sherrier, do Southern Environmental Law Center, segundo o Atlanta News First."
+  },
+  {
+   "b": "Governo e Congresso dos EUA",
+   "t": "o Congresso discutiu obrigar grandes consumidores a pagar melhorias na rede, e a Casa Branca pediu às construtoras um compromisso voluntário de cobrir os próprios custos de energia, segundo o The Next Web."
+  }
+ ],
+ "observar": [
+  "Quais outros campi entram no programa da OpenAI.",
+  "Se outras empresas de inteligência artificial fazem acordos parecidos.",
+  "O efeito real nas contas de luz da Geórgia a partir de 2029.",
+  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, concorrente da OpenAI."
+ ],
+ "fontes": [
+  {
+   "t": "TED Magazine: o programa",
+   "u": "https://tedmag.com/openai-launches-program-to-ease-data-center-grid-demand/"
+  },
+  {
+   "t": "The Next Web: o piloto na Geórgia",
+   "u": "https://thenextweb.com/news/openai-grid-protectors-program-demand-response-georgia"
+  },
+  {
+   "t": "Georgia Power: o contrato",
+   "u": "https://www.georgiapower.com/news-hub/press-releases/georgia-power-to-serve-openai-project-in-effingham-county.html"
+  },
+  {
+   "t": "Atlanta News First: a aprovação",
+   "u": "https://atlantanewsfirst.com/2026/08/27/georgia-powers-openai-contract-effingham-county-approved-expected-lower-residential-bills"
+  }
+ ]
+}

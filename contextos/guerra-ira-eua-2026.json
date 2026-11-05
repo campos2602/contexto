@@ -1,13 +1,9 @@
 {
  "titulo": "A guerra entre Estados Unidos e Irã em 2026",
- "atualizado": "4 nov 2026",
+ "atualizado": "5 nov 2026",
  "selo": "Checado",
  "frase": "Estados Unidos e Israel entraram em guerra com o Irã no fim de fevereiro de 2026. Desde então houve cessar-fogo, um acordo provisório que venceu sem renovação, bloqueio naval e ataques no Estreito de Ormuz, enquanto mediadores tentam um acordo.",
  "linha": [
-  {
-   "d": "28 de fevereiro de 2026",
-   "t": "Começa a guerra de EUA e Israel contra o Irã, segundo a Al Jazeera."
-  },
   {
    "d": "7 de abril de 2026",
    "t": "É anunciado um cessar-fogo de duas semanas, horas depois de uma publicação de Trump; o petróleo cai 16% em um dia, segundo a ND Mais."
@@ -35,6 +31,10 @@
   {
    "d": "3 de novembro de 2026",
    "t": "O Catar diz que os dois países analisam um rascunho de proposta para encerrar a guerra."
+  },
+  {
+   "d": "3 e 4 de novembro de 2026",
+   "t": "O Irã rejeita a resposta dos EUA e mantém sete exigências, entre elas o fim do bloqueio naval e das sanções, para reabrir o estreito."
   }
  ],
  "termos": [
@@ -100,10 +100,10 @@
   }
  ],
  "observar": [
-  "As respostas de Washington e de Teerã ao rascunho de proposta do Catar.",
+  "Se os EUA aceitam suspender o bloqueio e as sanções antes da reabertura do estreito.",
+  "Uma nova rodada de conversas em Doha.",
   "Se haverá novos ataques no Estreito de Ormuz.",
-  "O preço do petróleo e dos combustíveis.",
-  "O efeito das eleições americanas sobre a política de Trump para o Irã."
+  "O preço do petróleo e dos combustíveis."
  ],
  "fontes": [
   {
@@ -121,6 +121,14 @@
   {
    "t": "Al Jazeera: aprovação de Trump e a guerra",
    "u": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll"
+  },
+  {
+   "t": "The Media Line: Irã rejeita resposta dos EUA",
+   "u": "https://themedialine.org/mideast-daily-news/iran-rejects-us-response-to-hormuz-demands-as-qatar-pushes-for-deal/"
+  },
+  {
+   "t": "GMA News, com Reuters: negociadores deixam Doha",
+   "u": "https://www.gmanetwork.com/news/topstories/content/1008015/iranians-have-left-doha-talks-draft-proposal-for-us-deal-being-circulated-official-says/story/"
   }
  ]
 }

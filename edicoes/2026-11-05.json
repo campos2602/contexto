@@ -1,0 +1,750 @@
+{
+ "data": "2026-11-05",
+ "dia": "Quinta, 5 de novembro de 2026",
+ "leitura": "5 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, abre a quinta com a pausa nos cortes de juros, o pronunciamento que Lula prepara para domingo e as primeiras consultas para o novo governo de Israel.",
+ "trinta": [
+  "O Copom manteve a Selic em 13,75% e interrompeu os cortes.",
+  "Lula fará pronunciamento no domingo para defender responsabilidade fiscal.",
+  "Herzog começou a ouvir os partidos para escolher quem forma governo em Israel."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "Os juros de empréstimos, financiamentos e aplicações ficam onde estão até pelo menos dezembro."
+  },
+  {
+   "id": "b3",
+   "porque": "Define o imposto que cigarros, bebidas e veículos pagarão a partir de fevereiro de 2027."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Copom interrompe cortes e mantém a Selic em 13,75%",
+     "contexto": "selic-e-copom",
+     "texto": "O Comitê de Política Monetária do Banco Central manteve na quarta (4), por unanimidade, a taxa básica de juros em 13,75% ao ano. Foi a primeira pausa depois de cinco cortes seguidos de 0,25 ponto, iniciados em março, quando a Selic estava em 15%.",
+     "pq": "os juros de empréstimos, financiamentos e aplicações seguem no patamar atual. O comitê disse que o cenário piorou desde setembro e citou o petróleo mais caro com a guerra no Oriente Médio. A próxima reunião, a última do ano, é em 8 e 9 de dezembro.",
+     "fontes": [
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/copom-mantem-taxa-selic-e-juros-ficam-em-1375-ao-ano"
+      },
+      {
+       "t": "Sou Brasília",
+       "u": "https://soubrasilia.com/copom-mantem-selic-13-75-unanimidade-4-novembro-2026/"
+      },
+      {
+       "t": "TMC",
+       "u": "https://tmc.com.br/economia/copom-mantem-selic-13-75-reuniao-pos-eleicoes-2026/"
+      }
+     ],
+     "completa": {
+      "fina": "A decisão foi unânime e encerrou a 282ª reunião do comitê; a ata sai na terça (10).",
+      "atualizada": "5 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Copom manteve a Selic em 13,75% ao ano na noite de quarta-feira (4), na primeira reunião depois das eleições. A decisão foi unânime, segundo o Metrópoles e o Sou Brasília. O comitê interrompeu a sequência de cortes iniciada em março de 2026, quando a taxa caiu de 15% para 14,75%; houve novos cortes em abril, junho, agosto e setembro, segundo o TMC.",
+      "blocos": [
+       {
+        "h": "O que diz o comunicado",
+        "li": [
+         {
+          "b": "Piora do cenário:",
+          "t": "desde a reunião de 16 de setembro, o comitê avaliou que houve piora nos ambientes interno e externo, segundo o Metrópoles."
+         },
+         {
+          "b": "Petróleo:",
+          "t": "o prolongamento da guerra no Oriente Médio elevou ainda mais os preços do petróleo. Sobre a volatilidade de ativos e de matérias-primas, o comunicado diz: \"Tal cenário exige cautela por parte de países emergentes\"."
+         },
+         {
+          "b": "Cautela:",
+          "t": "o texto fala em \"um cenário desafiador para a política monetária, demandando serenidade e cautela na sua condução\", segundo o Sou Brasília, que cita também a alta do dólar e o fenômeno El Niño entre os fatores mencionados."
+         },
+         {
+          "b": "Objetivo:",
+          "t": "a decisão \"é compatível com a estratégia de convergência da inflação para o redor da meta ao longo do horizonte relevante\" e \"também implica suavização das flutuações do nível de atividade econômica e fomento do pleno emprego\", segundo o TMC."
+         }
+        ]
+       },
+       {
+        "h": "Os números de fundo",
+        "p": [
+         "A Selic ficou em 15% de junho de 2025 a março de 2026. A inflação em 12 meses pelo IPCA-15 de outubro foi de 4,62%, acima do teto da meta, de 4,5%, como o Contexto informou na edição de ontem. A maior parte dos analistas já esperava a manutenção, segundo o Metrópoles."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Banco Central:",
+          "t": "fala por meio do comunicado e da ata; o presidente e os diretores não deram entrevistas sobre a decisão até o fechamento."
+         },
+         {
+          "b": "Mercado:",
+          "t": "a decisão era amplamente esperada por participantes do mercado financeiro, que já precificavam a manutenção, segundo o Metrópoles. Os textos consultados não trazem análises com nome de economistas depois do anúncio."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o comitê vê espaço para voltar a cortar em dezembro. O comunicado não indica os próximos passos, segundo o Sou Brasília.",
+         "Quando o presidente Lula vai indicar os substitutos dos diretores Renato Gomes e Diego Guillen, cujos mandatos terminaram no fim de 2025."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A ata da reunião deve sair na terça-feira (10).",
+         "A última reunião do ano está marcada para 8 e 9 de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Metrópoles: Copom mantém a Selic",
+        "u": "https://www.metropoles.com/brasil/copom-mantem-taxa-selic-e-juros-ficam-em-1375-ao-ano"
+       },
+       {
+        "t": "Sou Brasília: decisão unânime",
+        "u": "https://soubrasilia.com/copom-mantem-selic-13-75-unanimidade-4-novembro-2026/"
+       },
+       {
+        "t": "TMC: Copom congela a Selic",
+        "u": "https://tmc.com.br/economia/copom-mantem-selic-13-75-reuniao-pos-eleicoes-2026/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Lula fará pronunciamento no domingo para defender responsabilidade fiscal",
+     "contexto": "dolar-bolsa-e-juros",
+     "texto": "O presidente Lula fará um pronunciamento em cadeia nacional de rádio e TV no domingo (8). Segundo o Estadão e O Globo, ele deve dizer que vai perseguir as metas fiscais sem abandonar as promessas de campanha, e pedir união em torno dos projetos do governo.",
+     "pq": "o mercado financeiro cobra do governo sinais sobre corte de despesas desde a queda forte da Bolsa depois do segundo turno. Segundo o Estadão, os ajustes no Orçamento de 2027 devem somar pelo menos R$ 39,8 bilhões, com medidas a serem anunciadas nas próximas semanas.",
+     "fontes": [
+      {
+       "t": "Seu Dinheiro, com Estadão Conteúdo",
+       "u": "https://www.seudinheiro.com/2026/economia/lula-fara-pronunciamento-neste-domingo-para-anunciar-medidas-de-ajuste-e-tentar-acalmar-mercado-jcav/"
+      },
+      {
+       "t": "Agenda do Poder, com O Globo",
+       "u": "https://agendadopoder.com.br/lula-defendera-responsabilidade-fiscal-em-pronunciamento-na-televisao/"
+      }
+     ],
+     "completa": {
+      "fina": "A mensagem foi gravada na terça (3), depois de reunião longa com os ministros da Fazenda e do Planejamento, segundo as reportagens.",
+      "atualizada": "5 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente Luiz Inácio Lula da Silva fará no domingo (8) um pronunciamento em cadeia nacional de rádio e televisão sobre os desafios econômicos do quarto mandato, segundo o Estadão, publicado pelo Seu Dinheiro, e O Globo, citado pela Agenda do Poder. A mensagem foi gravada na terça-feira (3).",
+      "blocos": [
+       {
+        "h": "O que ele deve dizer",
+        "li": [
+         {
+          "b": "Contas públicas:",
+          "t": "que vai continuar perseguindo as metas fiscais e terá responsabilidade fiscal ao longo de todo o mandato, segundo o Estadão/Broadcast. Segundo O Globo, ele deve afirmar que \"não abrirá mão da responsabilidade fiscal\"."
+         },
+         {
+          "b": "Programas sociais:",
+          "t": "que todos serão mantidos, o que, segundo aliados ouvidos pelo O Globo, não significa abandonar o controle das contas."
+         },
+         {
+          "b": "Pacificação:",
+          "t": "o discurso deve ter tom de união nacional e agradecer pelos 64 milhões de votos recebidos, segundo O Globo, e a mulheres, estudantes e idosos, segundo o Estadão."
+         }
+        ]
+       },
+       {
+        "h": "Os ajustes em preparação",
+        "p": [
+         "Lula discutiu as medidas com os ministros Dario Durigan, da Fazenda, e Bruno Moretti, do Planejamento, numa reunião longa no Palácio da Alvorada na terça (3), segundo o Estadão. As medidas de contenção de gastos e de aumento de arrecadação devem ser anunciadas nas próximas semanas. Levantamento anterior do jornal estimou ajustes de pelo menos R$ 39,8 bilhões no Orçamento de 2027 por causa de novas medidas e promessas de campanha, como o Pé-de-Meia para universitários, a universalização do Pé-de-Meia no ensino médio, mais de 100 presídios de segurança máxima e reajustes do Bolsa Família e do salário mínimo."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Governo:",
+          "t": "antes do primeiro turno, Durigan disse que Lula faria o ajuste sem \"cavalo de pau\" nem \"loucuras na economia\", segundo o Estadão."
+         },
+         {
+          "b": "Mercado:",
+          "t": "o governo enfrenta cobranças por diretrizes mais claras, sobretudo sobre a redução de despesas, segundo a Agenda do Poder. No primeiro pregão depois do segundo turno, em 26 de outubro, o Ibovespa caiu 13,88%, como o Contexto informou."
+         },
+         {
+          "b": "Oposição:",
+          "t": "as reportagens consultadas não trazem reação da oposição ao anúncio do pronunciamento."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quais medidas de corte de gastos e de aumento de arrecadação serão anunciadas e quando.",
+         "Se o pronunciamento trará números."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O pronunciamento vai ao ar no domingo (8).",
+         "As medidas de ajuste são esperadas nas semanas seguintes."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Seu Dinheiro, com Estadão Conteúdo: pronunciamento e ajustes",
+        "u": "https://www.seudinheiro.com/2026/economia/lula-fara-pronunciamento-neste-domingo-para-anunciar-medidas-de-ajuste-e-tentar-acalmar-mercado-jcav/"
+       },
+       {
+        "t": "Agenda do Poder, com O Globo: responsabilidade fiscal",
+        "u": "https://agendadopoder.com.br/lula-defendera-responsabilidade-fiscal-em-pronunciamento-na-televisao/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Medida provisória define o imposto seletivo de 2027",
+     "contexto": "imposto-seletivo",
+     "texto": "O governo publicou na quarta (4) a Medida Provisória 1.399, com as regras do imposto seletivo, chamado de imposto do pecado, em 2027. A cobrança começa em 2 de fevereiro sobre cigarros, bebidas alcoólicas e açucaradas, veículos, aeronaves e embarcações, com carga igual à do IPI atual.",
+     "pq": "é a primeira cobrança do imposto criado pela reforma tributária. Na mesma data, o IPI desses produtos vai a zero, e o governo diz que a troca não muda a carga. Loterias pagam 0,5%; minérios extraídos têm alíquota zero até o fim de 2027.",
+     "fontes": [
+      {
+       "t": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/governo-fixa-regras-do-imposto-seletivo-para-2027/"
+      },
+      {
+       "t": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/economia/governo-assina-mp-com-regras-do-imposto-seletivo"
+      },
+      {
+       "t": "ND Mais",
+       "u": "https://ndmais.com.br/politica/governo-lula-define-aliquota-do-imposto-do-pecado-para-7-categorias-de-produtos-confira/"
+      }
+     ],
+     "completa": {
+      "fina": "A regra é temporária: até 31 de maio de 2027, o governo precisa mandar ao Congresso as alíquotas que valerão a partir de 2028.",
+      "atualizada": "5 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente Lula assinou a Medida Provisória 1.399/2026, publicada em edição extra do Diário Oficial da União na quarta-feira (4), com as alíquotas e as regras do imposto seletivo para 2027, segundo o Times Brasil e o ND Mais. O tributo incide sobre bens e serviços \"prejudiciais à saúde ou ao meio ambiente\", segundo a Casa Civil, citada pelo ND Mais, e foi criado pela Emenda Constitucional 132, de 2023, da reforma tributária.",
+      "blocos": [
+       {
+        "h": "Quem paga e quanto",
+        "li": [
+         {
+          "b": "Cigarros, bebidas e veículos:",
+          "t": "cigarros, bebidas alcoólicas e açucaradas, veículos, aeronaves e embarcações terão alíquotas com base nas do IPI atual, com fatores de conversão que consideram diferenças nas bases de cálculo, para manter o nível de tributação, segundo o Times Brasil e o SBT News."
+         },
+         {
+          "b": "Loterias:",
+          "t": "concursos de prognósticos, como Mega-Sena, Lotofácil e Loteca, pagam 0,5%."
+         },
+         {
+          "b": "Minérios:",
+          "t": "bens minerais extraídos têm alíquota zero até o fim de 2027."
+         }
+        ]
+       },
+       {
+        "h": "Quem não paga",
+        "li": [
+         {
+          "b": "Alíquota zero:",
+          "t": "veículos comprados por pessoas com deficiência ou com transtorno do espectro autista, táxis e versões de carros reconhecidas como sustentáveis pelo Ministério do Desenvolvimento."
+         },
+         {
+          "b": "Fora do imposto:",
+          "t": "caminhões com peso bruto total de pelo menos 3.500 kg, exceto picapes, e equipamentos de uso operacional das Forças Armadas e da segurança pública, segundo o Times Brasil e o ND Mais."
+         }
+        ]
+       },
+       {
+        "h": "A transição",
+        "p": [
+         "A cobrança começa em 2 de fevereiro de 2027, respeitando o prazo mínimo de 90 dias entre a publicação e a cobrança, segundo o SBT News. Na mesma data, o IPI sobre esses produtos vai a zero. Para que cigarros e bebidas alcoólicas não fiquem sem tributo, o governo diz que vai enviar ao Congresso uma proposta de emenda à Constituição para prorrogar o IPI até o imposto seletivo produzir efeito integral. Se a arrecadação do imposto seletivo superar o previsto, a CBS, outro tributo da reforma, será reduzida na mesma proporção, e vice-versa, segundo o Times Brasil. O governo diz que a norma não gera perda de receita, segundo o ND Mais."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Governo:",
+          "t": "a Casa Civil diz que o imposto tem finalidade extrafiscal, ou seja, desestimular o consumo de produtos prejudiciais."
+         },
+         {
+          "b": "Setores atingidos:",
+          "t": "as reportagens consultadas não trazem reação de fabricantes de bebidas, cigarros ou veículos."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Os percentuais exatos de cada produto, que dependem dos fatores de conversão.",
+         "Se o Congresso vai aprovar a medida e a emenda à Constituição sobre o IPI."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O Congresso tem prazo para votar a medida provisória.",
+         "Até 31 de maio de 2027, o governo envia projeto de lei com as alíquotas permanentes, a partir de 1º de janeiro de 2028."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Times Brasil: regras do imposto seletivo",
+        "u": "https://timesbrasil.com.br/brasil/governo-fixa-regras-do-imposto-seletivo-para-2027/"
+       },
+       {
+        "t": "SBT News: governo assina a medida",
+        "u": "https://sbtnews.sbt.com.br/noticia/economia/governo-assina-mp-com-regras-do-imposto-seletivo"
+       },
+       {
+        "t": "ND Mais: alíquotas do imposto do pecado",
+        "u": "https://ndmais.com.br/politica/governo-lula-define-aliquota-do-imposto-do-pecado-para-7-categorias-de-produtos-confira/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Com ressalva",
+     "titulo": "Schumer promete investigar Trump; Alasca e Mississippi ainda contam votos",
+     "contexto": "eleicoes-eua-2026",
+     "texto": "Um dia depois de os democratas conquistarem a maioria no Congresso dos EUA, o líder do partido no Senado, Chuck Schumer, prometeu investigações e ações na Justiça contra o presidente Donald Trump. A disputa no Mississippi tinha diferença de poucas dezenas de votos; a do Alasca também seguia em aberto.",
+     "pq": "a partir de janeiro, os democratas comandam as comissões do Congresso e podem abrir investigações e travar projetos do governo. Ressalva: os números finais de cadeiras ainda não estavam fechados no fechamento desta edição; a CBS News fala em pelo menos 54 cadeiras democratas no Senado.",
+     "fontes": [
+      {
+       "t": "CBS News",
+       "u": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+      },
+      {
+       "t": "RTP",
+       "u": "https://www.rtp.pt/noticias/mundo/eua-mudam-de-vermelho-para-azul-democratas-vencem-intercalares-com-dominio-do-congresso_e1776677"
+      }
+     ],
+     "completa": {
+      "fina": "O líder republicano no Senado, John Thune, disse que o partido \"não vai ficar parado\" em 2027.",
+      "atualizada": "5 nov 2026, 5h",
+      "selo": "Com ressalva",
+      "fato": "Os democratas conquistaram votos suficientes para controlar pelo menos 54 cadeiras do Senado dos Estados Unidos, segundo a CBS News, que também projetou a maioria democrata na Câmara. Na quarta-feira (4), o líder democrata no Senado, Chuck Schumer, disse que os americanos pedem \"responsabilização, não acomodação\". Duas disputas para o Senado continuavam sem resultado.",
+      "blocos": [
+       {
+        "h": "As disputas em aberto",
+        "li": [
+         {
+          "b": "Mississippi:",
+          "t": "a senadora republicana Cindy Hyde-Smith e o democrata Scott Colom estavam separados por poucas dezenas de votos com 96% das urnas apuradas. A campanha de Colom estima que restam cerca de 15 mil votos em separado para contar, segundo a CBS News."
+         },
+         {
+          "b": "Alasca:",
+          "t": "o senador republicano Dan Sullivan e a democrata Mary Peltola disputam voto a voto, e a contagem pode demorar."
+         },
+         {
+          "b": "Contagens diferentes:",
+          "t": "a RTP, com a agência Lusa, também listava Alasca, Mississippi e Maine como não concluídos na manhã de quarta. As contagens parciais da imprensa ainda não batem entre si."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Chuck Schumer, líder democrata no Senado:",
+          "t": "\"Sempre que Trump desafiar a vontade do povo americano ou a lei, vamos abrir investigações, levá-lo à Justiça\" e \"enredá-lo em arame farpado legislativo\", segundo a CBS News. Tradução do Contexto."
+         },
+         {
+          "b": "John Thune, líder republicano no Senado:",
+          "t": "\"Ao entrarmos em 2027, os republicanos do Senado não vão ficar parados.\" Perguntado se conta com o apoio de Trump para seguir como líder, disse que não \"aposta nisso\"."
+         },
+         {
+          "b": "John Barrasso, senador republicano:",
+          "t": "escreveu que os republicanos \"tiveram uma noite difícil\" e que \"perdemos grandes senadores em disputas duras\"."
+         },
+         {
+          "b": "Donald Trump:",
+          "t": "disse na quarta que vai \"trabalhar com os democratas\", segundo a RTP, e atribuiu parte do resultado à guerra com o Irã."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O número final de cadeiras de cada partido nas duas casas.",
+         "Se algum resultado apertado vai parar na Justiça."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A contagem continua no Mississippi e no Alasca.",
+         "O novo Congresso toma posse em janeiro de 2027."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "CBS News: resultados do Senado",
+        "u": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+       },
+       {
+        "t": "RTP: democratas vencem com domínio do Congresso",
+        "u": "https://www.rtp.pt/noticias/mundo/eua-mudam-de-vermelho-para-azul-democratas-vencem-intercalares-com-dominio-do-congresso_e1776677"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Herzog começa consultas para escolher quem forma governo em Israel",
+     "contexto": "eleicao-israel-2026",
+     "texto": "O presidente de Israel, Isaac Herzog, começou na quarta (4) a ouvir os partidos sobre quem deve tentar formar o governo. O Ra'am e o Yisrael Beytenu indicaram Gadi Eisenkot; o Sionismo Religioso, o Shas e o Zehut indicaram Benjamin Netanyahu. Likud e Yashar falam nesta quinta (5).",
+     "pq": "nenhum dos dois tem as 61 indicações da maioria, e Herzog não precisa escolher o líder do maior partido. Quem for indicado terá 28 dias, prorrogáveis por mais 14, para montar a coalizão. Herzog pediu aos partidos que aceitem que \"nem todo compromisso e promessa podem ser cumpridos\".",
+     "fontes": [
+      {
+       "t": "Ynet",
+       "u": "https://www.ynetnews.com/article/sjzk4rutmg"
+      },
+      {
+       "t": "RTÉ",
+       "u": "https://www.rte.ie/news/world/2026/1104/1597892-israel-election/"
+      }
+     ],
+     "completa": {
+      "fina": "Os partidos ultraortodoxos Degel HaTorah e Agudat Yisrael disseram que não vão indicar ninguém.",
+      "atualizada": "5 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente Isaac Herzog abriu na quarta-feira (4) dois dias de consultas com os partidos eleitos para o Parlamento, de 120 cadeiras, antes de decidir quem terá a primeira chance de formar o governo, segundo a Ynet e a emissora irlandesa RTÉ. No mesmo dia, ele recebeu o resultado oficial da eleição de 27 de outubro, aprovado pela comissão eleitoral, que não encontrou irregularidades, segundo a Ynet.",
+      "blocos": [
+       {
+        "h": "As indicações do primeiro dia",
+        "li": [
+         {
+          "b": "Para Netanyahu:",
+          "t": "Sionismo Religioso, Shas e Zehut. O Zehut também pediu nova eleição, segundo a Ynet."
+         },
+         {
+          "b": "Para Eisenkot:",
+          "t": "Yisrael Beytenu e o partido árabe Ra'am, que disse em nota: \"A bancada da Lista Árabe Unida decidiu recomendar Eisenkot para formar o próximo governo\", segundo a RTÉ."
+         },
+         {
+          "b": "Sem indicação:",
+          "t": "Degel HaTorah e Agudat Yisrael, ultraortodoxos."
+         },
+         {
+          "b": "A conta:",
+          "t": "antes do anúncio do Ra'am, Eisenkot tinha 48 indicações previstas e Netanyahu, 46, segundo a Ynet. Nenhum dos dois chega a 61."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Isaac Herzog:",
+          "t": "\"Não peço a ninguém que abra mão de seus valores centrais\" e \"peço originalidade e criatividade, coragem e boa vontade, para que o Estado de Israel saia vencedor\", segundo a RTÉ. Também disse: \"A eleição acabou. Agora é hora de encarar a realidade\", segundo a Ynet."
+         },
+         {
+          "b": "Contra generalizações:",
+          "t": "numa das reuniões, Herzog disse que \"uma comunidade inteira não deve ser difamada\", segundo a Ynet."
+         },
+         {
+          "b": "Comissão eleitoral:",
+          "t": "o presidente da comissão, Noam Sohlberg, disse que as acusações de interferência estrangeira não foram comprovadas e que o eventual efeito seria limitado."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como vão indicar a Lista Conjunta, árabe, e parte do bloco ultraortodoxo.",
+         "Quando Herzog anuncia a escolha. A Ynet diz que não há data."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Nesta quinta (5), falam Judaísmo Unido da Torá, Otzma Yehudit, Democratas, Ra'am, Lista Conjunta, Beyachad e, por último, Yashar e Likud.",
+         "Se o indicado não conseguir formar governo no prazo, Herzog pode passar a tarefa a outro; se ninguém conseguir, o país pode ir a nova eleição, segundo a RTÉ."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Ynet: Herzog começa as consultas",
+        "u": "https://www.ynetnews.com/article/sjzk4rutmg"
+       },
+       {
+        "t": "RTÉ: Herzog pede que aceitem que não houve vencedor claro",
+        "u": "https://www.rte.ie/news/world/2026/1104/1597892-israel-election/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Irã rejeita resposta dos EUA e mantém sete condições para reabrir Ormuz",
+     "contexto": "guerra-ira-eua-2026",
+     "texto": "O Irã recusou a resposta dos Estados Unidos às condições que impôs para reabrir o Estreito de Ormuz. Mohsen Rezaei, secretário do Conselho Supremo de Segurança Nacional, chamou a resposta de \"não convincente\". O Catar continua mediando uma proposta de acordo para encerrar a guerra.",
+     "pq": "o impasse é sobre a ordem dos passos: o Irã quer o fim do bloqueio naval e das sanções ao petróleo antes de liberar o estreito, por onde passa parte importante do petróleo do mundo. Trump disse estar otimista com um acordo, sem descartar novos ataques.",
+     "fontes": [
+      {
+       "t": "The Media Line",
+       "u": "https://themedialine.org/mideast-daily-news/iran-rejects-us-response-to-hormuz-demands-as-qatar-pushes-for-deal/"
+      },
+      {
+       "t": "GMA News, com Reuters",
+       "u": "https://www.gmanetwork.com/news/topstories/content/1008015/iranians-have-left-doha-talks-draft-proposal-for-us-deal-being-circulated-official-says/story/"
+      }
+     ],
+     "completa": {
+      "fina": "O chanceler iraniano diz que o estreito poderia reabrir em dois dias, e não em sete, se houver acordo.",
+      "atualizada": "5 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O governo do Irã rejeitou a resposta de Washington às condições iranianas para reabrir o Estreito de Ormuz e diz que os EUA precisam cumprir sete exigências antes de o tráfego de navios voltar ao normal, segundo a The Media Line. \"Só nesse caso o Estreito de Ormuz será reaberto\", escreveu no X Mohsen Rezaei, secretário do Conselho Supremo de Segurança Nacional.",
+      "blocos": [
+       {
+        "h": "O que o Irã pede",
+        "li": [
+         "Fim das sanções ao petróleo iraniano.",
+         "Fim do bloqueio naval americano aos portos do Irã.",
+         "Liberação de bens iranianos congelados.",
+         "Um cessar-fogo mais amplo.",
+         "Indenização por danos da guerra.",
+         "Garantias contra novas ações militares dos EUA."
+        ]
+       },
+       {
+        "h": "A negociação",
+        "p": [
+         "As conversas se baseiam num plano iraniano de sete passos, apresentado em setembro, segundo o porta-voz da chancelaria, Esmaeil Baghaei, citado pela Reuters. O chanceler Abbas Araqchi disse à Al Jazeera que, com um acordo, o estreito poderia reabrir em dois dias. Os negociadores iranianos deixaram Doha no domingo (1º), mas não por dificuldades, segundo um funcionário ouvido pela Reuters, e um rascunho de proposta circula entre as partes. Mediadores do Catar foram a Teerã na segunda (2)."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Governo do Irã:",
+          "t": "\"Nossas exigências foram apresentadas de forma muito clara e transparente\", disse Baghaei, segundo a Reuters. Autoridades iranianas avisaram que novos ataques terão resposta, segundo a The Media Line."
+         },
+         {
+          "b": "Governo dos EUA:",
+          "t": "descreveu os ataques à ilha de Qeshm, na noite de segunda (2), como ação defensiva contra ameaças a aeronaves americanas. Trump disse estar otimista com um acordo e mantém novas ações militares em análise; ele já tinha recusado a proposta inicial do Irã, segundo a Reuters."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se os EUA aceitam suspender o bloqueio e as sanções antes da reabertura do estreito.",
+         "Quando haverá nova rodada de conversas em Doha."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Os dois governos seguem analisando as propostas, com mediação do Catar.",
+         "A guerra, iniciada em 28 de fevereiro, completa oito meses."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "The Media Line: Irã rejeita resposta dos EUA",
+        "u": "https://themedialine.org/mideast-daily-news/iran-rejects-us-response-to-hormuz-demands-as-qatar-pushes-for-deal/"
+       },
+       {
+        "t": "GMA News, com Reuters: negociadores deixam Doha",
+        "u": "https://www.gmanetwork.com/news/topstories/content/1008015/iranians-have-left-doha-talks-draft-proposal-for-us-deal-being-circulated-official-says/story/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "OpenAI cria programa para data centers cortarem consumo em picos de energia",
+     "contexto": "data-centers-e-energia",
+     "texto": "A OpenAI lançou o Grid Protectors, programa em que seus futuros data centers reduzem o consumo de eletricidade quando a rede estiver sobrecarregada. O piloto é um campus de 3,2 GW na Geórgia, nos EUA, onde a Georgia Power pode cortar até 1.000 MW nos picos.",
+     "pq": "o consumo de energia dos data centers de inteligência artificial virou tema eleitoral nos EUA, com a alta das contas de luz. A OpenAI diz que vai pagar todo o custo de infraestrutura do campus. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, concorrente da OpenAI.",
+     "fontes": [
+      {
+       "t": "TED Magazine",
+       "u": "https://tedmag.com/openai-launches-program-to-ease-data-center-grid-demand/"
+      },
+      {
+       "t": "The Next Web",
+       "u": "https://thenextweb.com/news/openai-grid-protectors-program-demand-response-georgia"
+      }
+     ],
+     "completa": {
+      "fina": "A Georgia Power estima economia de US$ 950 milhões por ano aos clientes a partir de 2029 com contratos como esse.",
+      "atualizada": "5 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A OpenAI anunciou na segunda-feira (2) o Grid Protectors Program, um programa em que os data centers que a empresa vai construir reduzem o uso de eletricidade quando a rede local estiver sob pressão, segundo a TED Magazine e o The Next Web. A empresa vai combinar com cada distribuidora quanto de energia cada campus pode deixar de usar, com que rapidez e por quanto tempo. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, concorrente da OpenAI.",
+      "blocos": [
+       {
+        "h": "O piloto na Geórgia",
+        "li": [
+         {
+          "b": "O campus:",
+          "t": "fica no condado de Effingham, a cerca de 45 minutos de Savannah, e vai precisar de cerca de 3.200 MW, segundo a Georgia Power."
+         },
+         {
+          "b": "O corte:",
+          "t": "a Georgia Power pode reduzir em até 1.000 MW a energia entregue ao campus nos picos de demanda, o equivalente ao consumo médio de cerca de 700 mil casas, segundo a OpenAI."
+         },
+         {
+          "b": "O contrato:",
+          "t": "tem 25 anos e foi aprovado pela comissão de serviços públicos da Geórgia em agosto. A primeira fase deve funcionar em 2028, segundo o Atlanta News First."
+         },
+         {
+          "b": "Os custos:",
+          "t": "a OpenAI diz que vai pagar toda a infraestrutura e o serviço elétrico do projeto."
+         }
+        ]
+       },
+       {
+        "h": "A economia prometida",
+        "p": [
+         "A Georgia Power projeta economia de cerca de US$ 950 milhões por ano para os clientes a partir de 2029 com os contratos de grandes consumidores, o que daria pelo menos US$ 15 por mês para uma casa que consome 1.000 kWh, segundo a TED Magazine. Em outros locais, alguns campi poderão usar geradores ou baterias próprios, segundo o The Next Web."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "OpenAI:",
+          "t": "\"Famílias e pequenas empresas não deveriam ter de subsidiar as necessidades de eletricidade de um campus de computação\", segundo o The Next Web. A empresa reconhece que a flexibilidade não substitui novas usinas e linhas de transmissão."
+         },
+         {
+          "b": "Críticos:",
+          "t": "o advogado Bob Sherrier, do Southern Environmental Law Center, disse em agosto que o contrato traz mais proteção ao consumidor, mas perguntou: \"Quando vocês dizem que o data center paga os seus custos, que custos são esses?\", segundo o Atlanta News First."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quais serão os outros campi do programa. Nenhum foi anunciado.",
+         "Com que frequência os cortes vão de fato acontecer."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A construção do campus de Effingham segue, com a primeira fase prevista para 2028."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "TED Magazine: o programa",
+        "u": "https://tedmag.com/openai-launches-program-to-ease-data-center-grid-demand/"
+       },
+       {
+        "t": "The Next Web: o piloto na Geórgia",
+        "u": "https://thenextweb.com/news/openai-grid-protectors-program-demand-response-georgia"
+       },
+       {
+        "t": "Georgia Power: o contrato",
+        "u": "https://www.georgiapower.com/news-hub/press-releases/georgia-power-to-serve-openai-project-in-effingham-county.html"
+       },
+       {
+        "t": "Atlanta News First: a aprovação",
+        "u": "https://atlantanewsfirst.com/2026/08/27/georgia-powers-openai-contract-effingham-county-approved-expected-lower-residential-bills"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "700 mil",
+  "texto": "é o número de casas cujo consumo médio equivale aos 1.000 MW que a Georgia Power poderá cortar do campus da OpenAI nos picos.",
+  "fontes": [
+   {
+    "t": "TED Magazine",
+    "u": "https://tedmag.com/openai-launches-program-to-ease-data-center-grid-demand/"
+   },
+   {
+    "t": "The Next Web",
+    "u": "https://thenextweb.com/news/openai-grid-protectors-program-demand-response-georgia"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "A Fórmula 1 chega a Interlagos de sexta a domingo para o GP de São Paulo. O italiano Kimi Antonelli, de 20 anos, corre já com o título de 2026 garantido.",
+  "fontes": [
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/italia-celebra-o-jovem-campeao-de-formula1-kimi-antonelli"
+   },
+   {
+    "t": "F1Mania",
+    "u": "https://www.f1mania.net/f1/f1-verstappen-vence-gp-do-mexico-e-antonelli-conquista-titulo-mundial-aos-20-anos/"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Conflito de interesse: esta edição traz uma nota sobre a OpenAI, concorrente da Anthropic (Inovação 1), checada pelas mesmas regras das outras.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Nos EUA, democratas e republicanos falam na própria voz e com espaço parecido; em Israel, aparecem as indicações dos dois lados; no Irã, as versões de Teerã e de Washington.",
+  "pontos": [
+   "Brasil 1: o comunicado do Copom vem em citações literais, sem adjetivo; 'surpreende', usado por outro veículo, ficou fora porque as fontes divergem sobre a expectativa do mercado.",
+   "Brasil 2: as falas esperadas de Lula vêm atribuídas aos jornais; a cobrança do mercado aparece; a nota registra que não houve reação da oposição nas fontes.",
+   "Brasil 3: o objetivo do imposto vem na voz da Casa Civil; a nota registra que não houve reação dos setores nas fontes.",
+   "Mundo 1: a promessa de Schumer e a reação de Thune e de Barrasso têm espaço parecido; 'arame farpado legislativo' fica entre aspas, como fala dele.",
+   "Mundo 2: as indicações para Netanyahu e para Eisenkot aparecem na mesma frase, com os partidos nomeados.",
+   "Mundo 3: as seis exigências do Irã são listadas sem juízo; a descrição americana dos ataques como defensivos vem atribuída.",
+   "Inovação 1: aviso de conflito de interesse no texto e no rodapé; a promessa de economia é atribuída à Georgia Power, e há uma voz crítica."
+  ],
+  "equilibrio": "Governo Lula: 3 menções (neutras); oposição: 0, registrado nas notas. Democratas dos EUA: 2 (neutras); republicanos: 3 (neutras).",
+  "foraDaEdicao": [
+   "Inovação: só uma nota. A advertência da Apple sobre agentes de IA no relatório anual e outras pautas tinham uma só fonte aberta.",
+   "Categorias extras (Economia, Política, Esportes, Ciência, Saúde, Meio ambiente, Cultura, Entretenimento, Celebridades, Educação, Trabalho e carreira): sem fato novo checado em duas fontes até o fechamento. O imposto seletivo e o Copom ficaram em Brasil.",
+   "Gastos com anúncios políticos feitos com IA nos EUA: as fontes trazem valores diferentes (US$ 137 milhões e US$ 187 milhões)."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Essencial: Copom e imposto seletivo, pelo critério de efeito direto no dinheiro de muita gente no Brasil; as duas são de Brasil porque nenhuma nota de Mundo tem consequência direta e próxima hoje.",
+   "Mundo 1 com selo Com ressalva, porque as contagens finais de cadeiras ainda não fecharam.",
+   "Retirada a data do próximo Relatório de Política Monetária, porque as fontes trazem datas diferentes.",
+   "Toda nota tem página de contexto, como a rotina passou a exigir."
+  ]
+ },
+ "geradaEm": "2026-11-05T07:41:22Z"
+}

@@ -1,0 +1,118 @@
+{
+ "titulo": "O imposto seletivo, o imposto do pecado da reforma tributária",
+ "atualizado": "5 nov 2026",
+ "selo": "Checado",
+ "frase": "A reforma tributária criou um imposto para produtos considerados prejudiciais à saúde ou ao meio ambiente, como cigarros e bebidas. Ele começa a ser cobrado em fevereiro de 2027 e substitui, para esses produtos, o IPI.",
+ "linha": [
+  {
+   "d": "2023",
+   "t": "A Emenda Constitucional 132, da reforma tributária, cria o imposto seletivo para bens e serviços \"prejudiciais à saúde ou ao meio ambiente\", segundo a Casa Civil, citada pelo ND Mais."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "O governo publica a Medida Provisória 1.399, com as alíquotas e as regras para 2027."
+  },
+  {
+   "d": "Janeiro de 2027",
+   "t": "O governo deve enviar ao Congresso proposta de emenda à Constituição para prorrogar o IPI sobre cigarros e bebidas até o imposto seletivo produzir efeito integral, segundo o SBT News."
+  },
+  {
+   "d": "2 de fevereiro de 2027",
+   "t": "Começa a cobrança do imposto seletivo; o IPI dos mesmos produtos vai a zero."
+  },
+  {
+   "d": "31 de maio de 2027",
+   "t": "Prazo para o governo enviar projeto de lei com as alíquotas permanentes."
+  },
+  {
+   "d": "31 de dezembro de 2027",
+   "t": "Termina a regra temporária da medida provisória; minérios extraídos têm alíquota zero até essa data."
+  },
+  {
+   "d": "1º de janeiro de 2028",
+   "t": "Passam a valer as alíquotas permanentes, se o Congresso aprovar o projeto."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Imposto seletivo",
+   "d": "Tributo federal da reforma tributária sobre produtos e serviços considerados prejudiciais. Tem finalidade extrafiscal: além de arrecadar, busca desestimular o consumo."
+  },
+  {
+   "t": "Imposto do pecado",
+   "d": "Apelido do imposto seletivo, por mirar produtos como cigarros e bebidas alcoólicas."
+  },
+  {
+   "t": "IPI",
+   "d": "Imposto sobre Produtos Industrializados, cobrado hoje sobre esses produtos. Vai a zero para eles quando o imposto seletivo começar."
+  },
+  {
+   "t": "CBS",
+   "d": "Contribuição sobre Bens e Serviços, tributo federal criado pela reforma. Pela medida provisória, se o imposto seletivo arrecadar mais que o previsto, a CBS cai na mesma proporção, e vice-versa, segundo o Times Brasil."
+  },
+  {
+   "t": "Fator de conversão",
+   "d": "Ajuste que considera a diferença entre as bases de cálculo do IPI e do imposto seletivo, para manter a mesma carga."
+  },
+  {
+   "t": "Noventena",
+   "d": "Prazo mínimo de 90 dias entre a publicação de um aumento de tributo e o início da cobrança."
+  },
+  {
+   "t": "Medida provisória",
+   "d": "Norma do presidente que vale como lei assim que é publicada, mas precisa ser aprovada pelo Congresso para continuar valendo."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Presidente Lula",
+   "t": "assinou a medida provisória."
+  },
+  {
+   "b": "Casa Civil",
+   "t": "órgão da Presidência que explicou as regras."
+  },
+  {
+   "b": "Congresso Nacional",
+   "t": "precisa aprovar a medida provisória, a emenda sobre o IPI e o projeto com as alíquotas permanentes."
+  },
+  {
+   "b": "Fabricantes",
+   "t": "de cigarros, bebidas alcoólicas e açucaradas, veículos, aeronaves e embarcações, que passam a pagar o novo imposto."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "O governo",
+   "t": "diz que a troca mantém a carga atual e que a norma não gera perda de receita, segundo o ND Mais."
+  },
+  {
+   "b": "Quem tem tratamento diferente",
+   "t": "pessoas com deficiência ou com transtorno do espectro autista, taxistas e compradores de versões sustentáveis de carros têm alíquota zero; caminhões, exceto picapes, ficam fora; loterias pagam 0,5%."
+  },
+  {
+   "b": "Os setores",
+   "t": "as reportagens consultadas não trazem reação dos fabricantes atingidos."
+  }
+ ],
+ "observar": [
+  "Se o Congresso aprova a medida provisória.",
+  "A emenda à Constituição para prorrogar o IPI, prevista para janeiro.",
+  "Os percentuais exatos de cada produto.",
+  "O projeto com as alíquotas permanentes, até 31 de maio de 2027."
+ ],
+ "fontes": [
+  {
+   "t": "Times Brasil: regras do imposto seletivo",
+   "u": "https://timesbrasil.com.br/brasil/governo-fixa-regras-do-imposto-seletivo-para-2027/"
+  },
+  {
+   "t": "SBT News: governo assina a medida",
+   "u": "https://sbtnews.sbt.com.br/noticia/economia/governo-assina-mp-com-regras-do-imposto-seletivo"
+  },
+  {
+   "t": "ND Mais: alíquotas do imposto do pecado",
+   "u": "https://ndmais.com.br/politica/governo-lula-define-aliquota-do-imposto-do-pecado-para-7-categorias-de-produtos-confira/"
+  }
+ ]
+}

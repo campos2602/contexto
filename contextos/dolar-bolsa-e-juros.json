@@ -1,21 +1,9 @@
 {
  "titulo": "Dólar, Bolsa e juros: como o mercado reage a um susto",
- "atualizado": "31 out 2026",
+ "atualizado": "5 nov 2026",
  "selo": "Checado",
  "frase": "Quando investidores mudam de ideia sobre o futuro da economia de um país, eles vendem ações e reais e cobram juros mais altos para emprestar dinheiro ao governo. O dólar, o Ibovespa e os juros futuros medem esses três movimentos.",
  "linha": [
-  {
-   "d": "18 de maio de 2017",
-   "t": "No chamado Joesley Day, dia de crise política no governo Michel Temer, o dólar sobe mais de 8%."
-  },
-  {
-   "d": "9 a 18 de março de 2020",
-   "t": "No início da pandemia, o circuit breaker é acionado seis vezes."
-  },
-  {
-   "d": "25 de outubro de 2026",
-   "t": "Lula é reeleito. Segundo a CNN Brasil, parte dos investidores apostava na vitória de Flávio Bolsonaro."
-  },
   {
    "d": "26 de outubro de 2026",
    "t": "O dólar sobe mais de 8%, o Ibovespa cai 13,88%, e a B3 aciona o circuit breaker pela primeira vez desde 2020."
@@ -35,6 +23,18 @@
   {
    "d": "30 de outubro de 2026",
    "t": "O Ibovespa fecha a semana com queda de 18,12%, a pior desde março de 2020. O dólar sobe 9,15% na semana, a maior alta desde outubro de 2008."
+  },
+  {
+   "d": "3 de novembro de 2026",
+   "t": "Lula grava pronunciamento depois de reunião com os ministros da Fazenda e do Planejamento sobre ajustes de pelo menos R$ 39,8 bilhões no Orçamento de 2027, segundo o Estadão."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "O Copom mantém a Selic em 13,75%."
+  },
+  {
+   "d": "8 de novembro de 2026",
+   "t": "Data do pronunciamento de Lula em cadeia nacional, em que ele deve defender a responsabilidade fiscal."
   }
  ],
  "termos": [
@@ -87,6 +87,10 @@
   {
    "b": "B3",
    "t": "a Bolsa brasileira, onde são negociados ações, dólar futuro e contratos de DI."
+  },
+  {
+   "b": "Bruno Moretti",
+   "t": "ministro do Planejamento, discute os ajustes no Orçamento de 2027 com a Fazenda."
   }
  ],
  "disputa": [
@@ -108,10 +112,10 @@
   }
  ],
  "observar": [
-  "Se o Banco Central intervém no câmbio.",
-  "A reunião do Copom em 3 e 4 de novembro.",
-  "O Boletim Focus de 2 de novembro, o primeiro feito depois da eleição.",
-  "A escolha do novo ministro da Fazenda e as medidas fiscais anunciadas."
+  "O pronunciamento de Lula no domingo (8).",
+  "As medidas de corte de gastos e de aumento de arrecadação esperadas nas semanas seguintes.",
+  "A reação do dólar e do Ibovespa ao pronunciamento e às medidas.",
+  "A ata do Copom, em 10 de novembro."
  ],
  "fontes": [
   {
@@ -161,6 +165,18 @@
   {
    "t": "Agência Brasil: fechamento de 30 out",
    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-r-544-e-registra-maior-alta-semanal-desde-2008"
+  },
+  {
+   "t": "Seu Dinheiro, com Estadão Conteúdo: pronunciamento e ajustes",
+   "u": "https://www.seudinheiro.com/2026/economia/lula-fara-pronunciamento-neste-domingo-para-anunciar-medidas-de-ajuste-e-tentar-acalmar-mercado-jcav/"
+  },
+  {
+   "t": "Agenda do Poder, com O Globo: responsabilidade fiscal",
+   "u": "https://agendadopoder.com.br/lula-defendera-responsabilidade-fiscal-em-pronunciamento-na-televisao/"
+  },
+  {
+   "t": "Metrópoles: Copom mantém a Selic",
+   "u": "https://www.metropoles.com/brasil/copom-mantem-taxa-selic-e-juros-ficam-em-1375-ao-ano"
   }
  ]
 }
