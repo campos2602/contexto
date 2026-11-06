@@ -1,0 +1,114 @@
+{
+ "titulo": "Prospera MEI e o Pix MEI de até R$ 5 mil",
+ "atualizado": "6 nov 2026",
+ "selo": "Checado",
+ "frase": "O Prospera MEI é um pacote do governo federal para microempreendedores individuais. A parte mais conhecida, o Pix MEI, prevê repasse de até R$ 5 mil sem devolução para projetos de parte dos MEIs, a partir de 2027.",
+ "linha": [
+  {
+   "d": "17 de outubro de 2026",
+   "t": "O Congresso aprova o pacote Prospera MEI, segundo o Aos Fatos. Ele vira a Lei Complementar 238."
+  },
+  {
+   "d": "21 de outubro de 2026",
+   "t": "O Ministério das Mulheres diz que o repasse não é automático e que será preciso seguir critérios, prazos e procedimentos de seleção."
+  },
+  {
+   "d": "Novembro de 2026",
+   "t": "Publicações nas redes dizem que o governo vai pagar só R$ 363 por CNPJ. O Aos Fatos classifica a afirmação como falsa."
+  },
+  {
+   "d": "5 de novembro de 2026",
+   "t": "O ministro do Empreendedorismo, Paulo Pereira, diz no programa Bom Dia, Ministro que \"não vai ter Pix MEI este ano\", segundo o site Claudio Dantas."
+  },
+  {
+   "d": "Fim de 2026",
+   "t": "Prazo previsto para o detalhamento dos critérios de seleção."
+  },
+  {
+   "d": "Janeiro de 2027",
+   "t": "O pacote começa a valer, segundo o Aos Fatos."
+  },
+  {
+   "d": "2027 a 2030",
+   "t": "Período do programa, com orçamento de cerca de R$ 5 bilhões e até 1 milhão de beneficiários."
+  }
+ ],
+ "termos": [
+  {
+   "t": "MEI",
+   "d": "Microempreendedor individual: quem trabalha por conta própria, com faturamento até um limite anual, e tem CNPJ com impostos simplificados."
+  },
+  {
+   "t": "Fundo perdido",
+   "d": "Dinheiro repassado sem obrigação de devolução, diferente de um empréstimo."
+  },
+  {
+   "t": "Pix MEI",
+   "d": "Nome popular do repasse de até R$ 5 mil do Prospera MEI. O dinheiro é para projetos dos microempreendedores selecionados."
+  },
+  {
+   "t": "Lei complementar",
+   "d": "Tipo de lei que exige maioria absoluta no Congresso e trata de temas que a Constituição reserva a ela."
+  },
+  {
+   "t": "Faturamento anual",
+   "d": "Total que o MEI recebe em vendas e serviços em um ano. A prioridade do programa vai para quem fatura até R$ 40,5 mil."
+  },
+  {
+   "t": "Critérios de seleção",
+   "d": "Regras que dizem quem pode receber. Segundo o ministro, ainda estão sendo definidas."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Paulo Pereira",
+   "t": "ministro do Empreendedorismo, responsável pelo programa."
+  },
+  {
+   "b": "Ministério das Mulheres",
+   "t": "participa do programa, que dá prioridade a mulheres empreendedoras."
+  },
+  {
+   "b": "Congresso Nacional",
+   "t": "aprovou o pacote em outubro."
+  },
+  {
+   "b": "MEIs",
+   "t": "o país tem 13,78 milhões de MEIs ativos, segundo o Aos Fatos. Terão prioridade mulheres e quem fatura até R$ 40,5 mil por ano."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "O valor de R$ 363",
+   "t": "a conta divide os R$ 5 bilhões por todos os 13,78 milhões de MEIs, mas só parte deles será selecionada. Por isso o Aos Fatos classifica a afirmação como falsa."
+  },
+  {
+   "b": "Calendário",
+   "t": "o ministro disse que o programa não será pago em 2026 e que ele \"só precisa estar encartado no orçamento de 2027\". Os critérios, segundo ele, \"ainda estão sendo definidos\"."
+  },
+  {
+   "b": "Pagamento mensal",
+   "t": "Pereira negou que o programa pague R$ 400 por mês: \"Não é esse o desenho da política pública.\""
+  },
+  {
+   "b": "Golpes",
+   "t": "segundo o ministro, mensagens que prometem liberação imediata com cadastro por link são golpes. A orientação é não clicar em links que não sejam oficiais e não passar dados pessoais ou bancários fora da página oficial do programa."
+  }
+ ],
+ "observar": [
+  "A publicação dos critérios de seleção, prevista para o fim de 2026.",
+  "A inclusão do programa no Orçamento de 2027.",
+  "A data do primeiro pagamento em 2027.",
+  "Novas mensagens falsas sobre o programa."
+ ],
+ "fontes": [
+  {
+   "t": "Claudio Dantas: Pix MEI vai priorizar mulheres",
+   "u": "https://claudiodantas.com.br/pix-de-ate-r-5-mil-priorizara-mulheres-meis/"
+  },
+  {
+   "t": "Aos Fatos: é falso que o governo vai pagar só R$ 363",
+   "u": "https://www.aosfatos.org/noticias/governo-5000-mas-so-vai-pagar-363-pix-mei/"
+  }
+ ]
+}

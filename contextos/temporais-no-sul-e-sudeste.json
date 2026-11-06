@@ -1,0 +1,114 @@
+{
+ "titulo": "Temporais e tornados no Sul e no Sudeste em novembro de 2026",
+ "atualizado": "6 nov 2026",
+ "selo": "Checado",
+ "frase": "Desde 1º de novembro, chuvas fortes atingem o Rio Grande do Sul, tornados atingiram o oeste de Santa Catarina e São Paulo está sob alerta de temporais. As Defesas Civis mantêm avisos até sábado (7).",
+ "linha": [
+  {
+   "d": "1º de novembro de 2026",
+   "t": "Começam as chuvas no Rio Grande do Sul. Até quinta (5), 102 cidades foram atingidas, com 6.373 casas danificadas e cerca de 47 mil pessoas afetadas, segundo a TV Sim Brasil."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "A Defesa Civil de Santa Catarina confirma tornados em Chapecó e Xanxerê. Uma estação do Inmet na região registra rajada de 126 km/h."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "O aeroporto de Chapecó tem estruturas arrancadas, e a concessionária Voe Xap suspende as operações por tempo indeterminado, segundo a Panrotas."
+  },
+  {
+   "d": "5 de novembro de 2026",
+   "t": "Santa Catarina tem 13 municípios em estado de emergência, com 34 pessoas desabrigadas e 24 desalojadas. A Defesa Civil de São Paulo ativa um gabinete de crise remoto, segundo a CNN Brasil."
+  },
+  {
+   "d": "7 de novembro de 2026",
+   "t": "Fim do período de alerta da Defesa Civil paulista, com previsão de chuva forte, rajadas de até 80 km/h e granizo em pontos isolados."
+  },
+  {
+   "d": "8 de novembro de 2026",
+   "t": "A temperatura deve começar a cair em São Paulo, segundo a TV Sim Brasil."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Tornado",
+   "d": "Coluna de ar que gira em alta velocidade e liga a nuvem de tempestade ao solo. Atinge uma faixa estreita, mas pode arrancar telhados e derrubar estruturas."
+  },
+  {
+   "t": "Rajada",
+   "d": "Aumento rápido e curto da velocidade do vento, medido em quilômetros por hora. É o que mais causa quedas de árvores e destelhamentos."
+  },
+  {
+   "t": "Estado de emergência",
+   "d": "Situação decretada por um município quando um desastre supera a capacidade normal de resposta. Permite pedir ajuda estadual e federal e acelerar compras e contratações."
+  },
+  {
+   "t": "Desabrigado e desalojado",
+   "d": "Desabrigado é quem perdeu a casa e precisa de abrigo público. Desalojado é quem saiu de casa e ficou com parentes ou amigos."
+  },
+  {
+   "t": "Alerta laranja",
+   "d": "Nível de aviso do Inmet que indica perigo: chance de chuva forte, ventos intensos e granizo, com risco de estragos."
+  },
+  {
+   "t": "Gabinete de crise",
+   "d": "Grupo da Defesa Civil e de outros órgãos que acompanha o evento em tempo real e coordena a resposta."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Defesa Civil de Santa Catarina",
+   "t": "confirmou os tornados e acompanha os municípios em emergência."
+  },
+  {
+   "b": "Defesa Civil do Rio Grande do Sul",
+   "t": "contabiliza os afetados pelas chuvas desde domingo (1º)."
+  },
+  {
+   "b": "Defesa Civil de São Paulo",
+   "t": "ativou o gabinete de crise para os temporais até sábado (7). Atende pelo telefone 199."
+  },
+  {
+   "b": "Inmet",
+   "t": "Instituto Nacional de Meteorologia, que mede ventos e chuva e emite os alertas."
+  },
+  {
+   "b": "Voe Xap",
+   "t": "concessionária do aeroporto de Chapecó, que suspendeu as operações."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Números dos estragos",
+   "t": "a TV Sim Brasil traz dois números de feridos no Rio Grande do Sul, 20 e 24, sem explicar a diferença. As fontes consultadas não registram mortes."
+  },
+  {
+   "b": "Aeroporto",
+   "t": "não há data para a reabertura de Chapecó. A orientação é procurar a companhia aérea antes de ir ao terminal, segundo a Panrotas."
+  },
+  {
+   "b": "O que fazer",
+   "t": "recolher objetos soltos, ficar longe de árvores e postes, buscar abrigo em prédios fechados durante raios, não atravessar ruas alagadas e, em encostas, sair de casa se aparecerem rachaduras e chamar a Defesa Civil."
+  }
+ ],
+ "observar": [
+  "Os alertas de temporal até sábado (7).",
+  "A reabertura do aeroporto de Chapecó.",
+  "O balanço final de prejuízos em Santa Catarina e no Rio Grande do Sul.",
+  "A queda de temperatura prevista para São Paulo a partir de domingo (8)."
+ ],
+ "fontes": [
+  {
+   "t": "Panrotas: aeroporto de Chapecó suspende operações",
+   "u": "https://www.panrotas.com.br/aviacao/aeroportos/2026/11/aeroporto-de-chapeco-sc-suspende-operacoes-apos-tornado-destruir-estruturas_233379.html"
+  },
+  {
+   "t": "TV Sim Brasil: tornado em SC e alerta em SP",
+   "u": "https://tvsimbrasil.com.br/sp/sao-paulo/infra/noticia/2026/11/05/apos-tornado-sc-47-mil-atingidos-rs-sp-alerta-temporal"
+  },
+  {
+   "t": "CNN Brasil: gabinete de crise em São Paulo",
+   "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-ativa-gabinete-de-crise-apos-alerta-de-temporais-em-sao-paulo/"
+  }
+ ]
+}

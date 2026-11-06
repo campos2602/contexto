@@ -1,17 +1,9 @@
 {
  "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
- "atualizado": "1º nov 2026",
+ "atualizado": "6 nov 2026",
  "selo": "Checado",
  "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
  "linha": [
-  {
-   "d": "4 de outubro de 2026",
-   "t": "Primeiro turno. 20 estados definem os governadores; cinco estados e o DF vão ao segundo turno."
-  },
-  {
-   "d": "25 de outubro de 2026",
-   "t": "Segundo turno. Lula (PT) é reeleito com 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro (PL), segundo o TSE."
-  },
   {
    "d": "25 de outubro de 2026",
    "t": "O ministro Cristiano Zanin prorroga a votação até as 19h após relatos de falta de ônibus. Flávio diz que vai pedir a anulação do segundo turno."
@@ -35,6 +27,14 @@
   {
    "d": "1º de fevereiro de 2027",
    "t": "Tomam posse deputados federais e senadores."
+  },
+  {
+   "d": "4 e 5 de novembro de 2026",
+   "t": "O presidente do PT, Edinho Silva, encarregado por Lula, pede a MDB, PSD, PSB e União Brasil propostas para os ministérios e uma estimativa dos votos que cada partido pode dar no Congresso, segundo a Folha."
+  },
+  {
+   "d": "11 e 12 de novembro de 2026",
+   "t": "Lula vai à COP31, na Turquia. Os nomes do novo ministério devem ser definidos a partir do fim de novembro."
   }
  ],
  "termos": [
@@ -120,10 +120,10 @@
   }
  ],
  "observar": [
-  "Se a Justiça Federal suspende o salário de Flávio e se ele pede licença do Senado.",
-  "Se o pedido de cassação anunciado por Flávio chega ao TSE até a diplomação, em dezembro.",
-  "O andamento das investigações de violência política, como o caso de Tacuru (MS).",
-  "As posses em 5 e 6 de janeiro de 2027."
+  "Quantos ministérios cada partido vai receber na reforma ministerial.",
+  "Quem fica na Fazenda e na Casa Civil.",
+  "A criação de um Ministério da Segurança Pública.",
+  "O tamanho da base do governo no Congresso a partir de 2027."
  ],
  "fontes": [
   {
@@ -185,6 +185,14 @@
   {
    "t": "Agência Brasil: aldeias Guarani Kaiowá",
    "u": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/aldeias-guarani-kaiowa-vao-receber-protecao-da-forca-nacional"
+  },
+  {
+   "t": "Folhapress, via A Notícia do Vale: PT pede planos e votos",
+   "u": "https://anoticiadovale.com/2026/11/05/pt-pede-a-partidos-planos-para-ministerios-e-estimativa-de-votos-para-desenhar-governo-lula-4/"
+  },
+  {
+   "t": "TV Sim Brasil: Lula articula a reforma ministerial",
+   "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/04/lula-articula-reforma-ministerial-camilo-santana-haddad"
   }
  ]
 }

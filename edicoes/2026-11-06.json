@@ -1,0 +1,647 @@
+{
+ "data": "2026-11-06",
+ "dia": "Sexta, 6 de novembro de 2026",
+ "leitura": "5 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, fecha a semana com tornados no Sul, a crise que derrubou o presidente do Paraguai e a escolha do próximo governo de Israel, marcada para domingo.",
+ "trinta": [
+  "Tornados atingiram o oeste de Santa Catarina; há alerta de temporais até sábado.",
+  "O presidente do Paraguai renunciou e sofreu impeachment depois da quebra de um banco.",
+  "Eisenkot teve 67 indicações para governar Israel; Herzog decide no domingo."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "Há alerta de chuva forte, vento e granizo no Sul e em São Paulo até sábado."
+  },
+  {
+   "id": "b3",
+   "porque": "Explica quem poderá receber o Pix MEI e como evitar golpes com o nome do programa."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Tornados atingem oeste de Santa Catarina; temporais seguem até sábado",
+     "contexto": "temporais-no-sul-e-sudeste",
+     "texto": "A Defesa Civil de Santa Catarina confirmou tornados em Chapecó e Xanxerê na quarta (4). O aeroporto de Chapecó teve estruturas arrancadas e suspendeu as operações. No Rio Grande do Sul, as chuvas desde domingo (1º) afetaram cerca de 47 mil pessoas em 102 cidades.",
+     "pq": "o alerta continua: a Defesa Civil de São Paulo ativou gabinete de crise e prevê chuva forte, rajadas de até 80 km/h e risco de granizo até sábado (7). Quem tem voo para Chapecó deve falar com a companhia aérea antes de ir ao aeroporto.",
+     "fontes": [
+      {
+       "t": "Panrotas",
+       "u": "https://www.panrotas.com.br/aviacao/aeroportos/2026/11/aeroporto-de-chapeco-sc-suspende-operacoes-apos-tornado-destruir-estruturas_233379.html"
+      },
+      {
+       "t": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/sp/sao-paulo/infra/noticia/2026/11/05/apos-tornado-sc-47-mil-atingidos-rs-sp-alerta-temporal"
+      },
+      {
+       "t": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-ativa-gabinete-de-crise-apos-alerta-de-temporais-em-sao-paulo/"
+      }
+     ],
+     "completa": {
+      "fina": "Treze municípios catarinenses decretaram emergência; em Chapecó, uma estação do Inmet registrou rajada de 126 km/h.",
+      "atualizada": "6 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Um temporal que virou tornado atingiu Chapecó, no oeste de Santa Catarina, na manhã de quarta-feira (4), segundo a Panrotas, que cita o portal NSC Total. A Defesa Civil do estado confirmou tornados em Chapecó e em Xanxerê, segundo a TV Sim Brasil. O aeroporto da cidade teve estruturas arrancadas, e a concessionária Voe Xap suspendeu as operações do terminal \"por tempo indeterminado\".",
+      "blocos": [
+       {
+        "h": "Santa Catarina",
+        "li": [
+         {
+          "b": "Ventos:",
+          "t": "uma estação em Chapecó registrou rajadas de 93 km/h, e uma do Inmet na mesma região chegou a 126 km/h, segundo a TV Sim Brasil."
+         },
+         {
+          "b": "Emergência:",
+          "t": "13 municípios decretaram estado de emergência, com 34 pessoas desabrigadas e 24 desalojadas."
+         },
+         {
+          "b": "Aeroporto:",
+          "t": "equipes técnicas inspecionam a estrutura. A orientação é não ir ao aeroporto e procurar a companhia aérea, segundo a Panrotas. Não há data para a reabertura."
+         }
+        ]
+       },
+       {
+        "h": "Rio Grande do Sul",
+        "p": [
+         "As chuvas atingiram 102 cidades desde domingo (1º), com 6.373 casas danificadas e cerca de 47 mil pessoas afetadas, segundo a TV Sim Brasil. A reportagem traz números diferentes de feridos, 20 e 24, sem explicar a diferença. Não há registro de mortes nas fontes consultadas."
+        ]
+       },
+       {
+        "h": "São Paulo",
+        "li": [
+         {
+          "b": "Gabinete de crise:",
+          "t": "a Defesa Civil estadual ativou na quinta (5) um gabinete remoto para acompanhar os temporais até sábado (7), segundo a CNN Brasil."
+         },
+         {
+          "b": "Previsão:",
+          "t": "chuva forte, rajadas de até 80 km/h, raios e possibilidade de granizo em pontos isolados. O Inmet mantém alerta laranja para a capital e a divisa com o Paraná, segundo a TV Sim Brasil."
+         },
+         {
+          "b": "Riscos:",
+          "t": "alagamentos, enxurradas, quedas de árvores, destelhamentos, falta de energia e deslizamentos em encostas."
+         }
+        ]
+       },
+       {
+        "h": "O que fazer",
+        "li": [
+         "Recolher objetos soltos de quintais, varandas e sacadas e manter distância de árvores e postes.",
+         "Com raios, buscar abrigo em prédios fechados e evitar áreas abertas, árvores isoladas e estruturas metálicas.",
+         "Não atravessar ruas alagadas a pé ou de carro.",
+         "Em áreas de encosta, observar rachaduras e movimento de terra; se aparecerem, sair do local e chamar a Defesa Civil pelo 199."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando o aeroporto de Chapecó volta a funcionar.",
+         "O tamanho total dos prejuízos em Santa Catarina e no Rio Grande do Sul."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Os alertas valem até sábado (7).",
+         "A temperatura deve cair a partir de domingo (8) em São Paulo, segundo a TV Sim Brasil."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Panrotas: aeroporto de Chapecó suspende operações",
+        "u": "https://www.panrotas.com.br/aviacao/aeroportos/2026/11/aeroporto-de-chapeco-sc-suspende-operacoes-apos-tornado-destruir-estruturas_233379.html"
+       },
+       {
+        "t": "TV Sim Brasil: tornado em SC e alerta em SP",
+        "u": "https://tvsimbrasil.com.br/sp/sao-paulo/infra/noticia/2026/11/05/apos-tornado-sc-47-mil-atingidos-rs-sp-alerta-temporal"
+       },
+       {
+        "t": "CNN Brasil: gabinete de crise em SP",
+        "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-ativa-gabinete-de-crise-apos-alerta-de-temporais-em-sao-paulo/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "PT pede a partidos planos e votos para montar o novo ministério",
+     "contexto": "eleicoes-brasil-2026",
+     "texto": "O presidente do PT, Edinho Silva, encarregado por Lula das primeiras conversas, pediu a MDB, PSD, PSB e União Brasil propostas para os ministérios e uma estimativa de quantos votos cada partido pode dar ao governo no Congresso, segundo a Folha. Os nomes devem ser definidos a partir do fim de novembro.",
+     "pq": "o governo terá base menor no Congresso a partir de 2027 e depende de acordos com partidos que apoiaram Flávio Bolsonaro no segundo turno. Lula viaja à COP31, na Turquia, em 11 e 12 de novembro e só depois deve avançar nos nomes.",
+     "fontes": [
+      {
+       "t": "Folhapress, via A Notícia do Vale",
+       "u": "https://anoticiadovale.com/2026/11/05/pt-pede-a-partidos-planos-para-ministerios-e-estimativa-de-votos-para-desenhar-governo-lula-4/"
+      },
+      {
+       "t": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/04/lula-articula-reforma-ministerial-camilo-santana-haddad"
+      }
+     ],
+     "completa": {
+      "fina": "Lula quer que cada indicado apresente um plano para a área antes de ser confirmado, segundo a Folha.",
+      "atualizada": "6 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente nacional do PT, Edinho Silva, se reuniu com dirigentes de pelo menos quatro partidos, MDB, PSD, PSB e União Brasil, e pediu propostas para as áreas de governo e uma estimativa dos votos que cada um pode garantir no Congresso, segundo reportagem da Folha distribuída pela Folhapress. O PT também pediu uma \"agenda institucional\" de cada partido, com as reformas que ele defende. Lula delegou a Edinho essa primeira rodada.",
+      "blocos": [
+       {
+        "h": "Os detalhes",
+        "li": [
+         {
+          "b": "Critério:",
+          "t": "Lula quer que os indicados apresentem um plano para o setor antes de serem confirmados e não vai aceitar indicação só por motivo político, segundo a Folha."
+         },
+         {
+          "b": "Prazo:",
+          "t": "dirigentes partidários esperam a definição dos ministros a partir do fim de novembro. Depois de Edinho relatar as conversas, Lula assume a reforma."
+         },
+         {
+          "b": "Tamanho:",
+          "t": "o governo tem 38 ministérios, que podem passar a pelo menos 39 com a criação de um Ministério da Segurança Pública."
+         },
+         {
+          "b": "Partidos do primeiro turno:",
+          "t": "com PSB, PDT, Rede e PCdoB, que apoiaram Lula desde o primeiro turno, as conversas foram informais."
+         }
+        ]
+       },
+       {
+        "h": "Os nomes que circulam",
+        "p": [
+         "Segundo a TV Sim Brasil, que cita outros veículos, Camilo Santana é o nome mais citado para a Casa Civil; Fernando Haddad aparece para a Casa Civil ou para seguir na Fazenda; Guilherme Boulos é cotado para o Desenvolvimento Social. Segundo a Folha, o PSD quer manter André de Paula na Agricultura, e a permanência de Alexandre Silveira em Minas e Energia é incerta. São especulações de aliados; nada foi anunciado."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "MDB:",
+          "t": "o presidente nacional do partido, Baleia Rossi, chamou a reunião de um primeiro contato que incluiu a política econômica e disse que o MDB quer que o Brasil dê certo, segundo a Folha."
+         },
+         {
+          "b": "Oposição:",
+          "t": "as reportagens consultadas não trazem reação de partidos de oposição."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantos ministérios cada partido vai receber.",
+         "Quem fica na Fazenda e na Casa Civil."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Lula vai à COP31, na Turquia, em 11 e 12 de novembro, segundo a TV Sim Brasil.",
+         "As primeiras definições são esperadas para a segunda quinzena de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Folhapress, via A Notícia do Vale: PT pede planos e votos",
+        "u": "https://anoticiadovale.com/2026/11/05/pt-pede-a-partidos-planos-para-ministerios-e-estimativa-de-votos-para-desenhar-governo-lula-4/"
+       },
+       {
+        "t": "TV Sim Brasil: Lula articula reforma ministerial",
+        "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/04/lula-articula-reforma-ministerial-camilo-santana-haddad"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Pix MEI de até R$ 5 mil só começa em 2027, diz ministro",
+     "contexto": "prospera-mei",
+     "texto": "O ministro do Empreendedorismo, Paulo Pereira, disse que o Pix MEI, repasse de até R$ 5 mil para projetos de microempreendedores, não será pago em 2026: \"Não vai ter Pix MEI este ano.\" Terão prioridade mulheres e MEIs com faturamento de até R$ 40,5 mil por ano.",
+     "pq": "o programa prevê até 1 milhão de beneficiários entre 2027 e 2030, mas não é automático, e os critérios ainda estão em definição. Mensagens que prometem liberação imediata com cadastro por link são golpe, segundo o ministro.",
+     "fontes": [
+      {
+       "t": "Claudio Dantas",
+       "u": "https://claudiodantas.com.br/pix-de-ate-r-5-mil-priorizara-mulheres-meis/"
+      },
+      {
+       "t": "Aos Fatos",
+       "u": "https://www.aosfatos.org/noticias/governo-5000-mas-so-vai-pagar-363-pix-mei/"
+      }
+     ],
+     "completa": {
+      "fina": "Não é verdade que o governo vá pagar R$ 363 ou R$ 400 por mês a cada MEI; a conta que circula nas redes ignora os critérios do programa.",
+      "atualizada": "6 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O ministro do Empreendedorismo, Paulo Pereira, disse no programa Bom Dia, Ministro que o Pix MEI só será pago a partir de 2027, segundo o site Claudio Dantas. O repasse, de até R$ 5 mil a fundo perdido, ou seja, sem necessidade de devolução, faz parte do pacote Prospera MEI, aprovado pelo Congresso em 17 de outubro, segundo o Aos Fatos.",
+      "blocos": [
+       {
+        "h": "Quem pode receber",
+        "li": [
+         {
+          "b": "Prioridade:",
+          "t": "mulheres empreendedoras e MEIs com faturamento anual de até R$ 40,5 mil."
+         },
+         {
+          "b": "Limite:",
+          "t": "até 1 milhão de beneficiários entre 2027 e 2030, pela Lei Complementar 238, que criou o Prospera MEI."
+         },
+         {
+          "b": "Orçamento:",
+          "t": "cerca de R$ 5 bilhões, a serem gastos entre 2027 e 2030, segundo o Aos Fatos. Pereira disse que o programa \"só precisa estar encartado no orçamento de 2027\"."
+         },
+         {
+          "b": "Não é automático:",
+          "t": "\"Será necessário observar os critérios, os prazos e os procedimentos de seleção que forem publicados\", disse o Ministério das Mulheres em 21 de outubro."
+         }
+        ]
+       },
+       {
+        "h": "O que é falso",
+        "p": [
+         "Publicações nas redes dizem que o governo prometeu R$ 5 mil, mas vai pagar só R$ 363 por CNPJ. O número vem da divisão dos R$ 5 bilhões pelos 13,78 milhões de MEIs ativos, conta que ignora que só parte deles será selecionada, segundo o Aos Fatos, que classificou a afirmação como falsa. Pereira também negou pagamentos mensais de R$ 400: \"Não é esse o desenho da política pública.\""
+        ]
+       },
+       {
+        "h": "Cuidado com golpes",
+        "p": [
+         "Segundo o ministro, mensagens com promessa de liberação imediata, como \"cadastre-se aqui\", são golpes. A orientação é não clicar em links que não sejam oficiais e não passar dados pessoais ou bancários fora da página do Prospera MEI."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Os critérios de seleção. \"Os critérios ainda estão sendo definidos\", disse Pereira; o detalhamento está previsto para o fim de 2026.",
+         "Quando, em 2027, sai o primeiro pagamento."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O pacote Prospera MEI começa a valer em janeiro de 2027, segundo o Aos Fatos.",
+         "O governo deve publicar as regras de seleção até o fim do ano."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Claudio Dantas: Pix MEI priorizará mulheres",
+        "u": "https://claudiodantas.com.br/pix-de-ate-r-5-mil-priorizara-mulheres-meis/"
+       },
+       {
+        "t": "Aos Fatos: é falso que o governo só vai pagar R$ 363",
+        "u": "https://www.aosfatos.org/noticias/governo-5000-mas-so-vai-pagar-363-pix-mei/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Presidente do Paraguai renuncia e sofre impeachment após quebra de banco",
+     "contexto": "crise-bancaria-paraguai",
+     "texto": "O presidente do Paraguai, Santiago Peña, anunciou a renúncia na quinta (5), depois da quebra do banco digital Ueno, que tinha cerca de 3 milhões de clientes. A Câmara aprovou o impeachment por 78 a 0, e o caso foi ao Senado. O Congresso ainda não tinha aceitado a renúncia.",
+     "pq": "a quebra congelou contas e aposentadorias pagas pelo banco, que guardava cerca de US$ 800 milhões em dinheiro público. A Procuradoria abriu três investigações. Se Peña sair, deve assumir o vice, Pedro Alliana. O Paraguai faz fronteira com o Brasil e é sócio no Mercosul.",
+     "fontes": [
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"
+      },
+      {
+       "t": "PBS NewsHour, com AP",
+       "u": "https://www.pbs.org/newshour/world/paraguay-prosecutor-will-seek-charges-against-embattled-president-after-bank-collapse"
+      }
+     ],
+     "completa": {
+      "fina": "A oposição quer o impeachment para impedir que Peña ganhe vaga vitalícia no Senado, com imunidade; ele diz que vai colaborar com as investigações.",
+      "atualizada": "6 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente do Paraguai, Santiago Peña, do Partido Colorado, anunciou a renúncia na quinta-feira (5), citando \"a estabilidade do nosso país, a paz social e a necessidade de preservar as nossas instituições democráticas\", segundo a Al Jazeera e a AP, publicada pela PBS. No mesmo dia, a Câmara aprovou por 78 a 0 a abertura do impeachment e enviou as acusações ao Senado.",
+      "blocos": [
+       {
+        "h": "A quebra do Ueno",
+        "li": [
+         {
+          "b": "O banco:",
+          "t": "o Ueno é um banco digital que obteve licença em 2023 e dizia ter mais de 60% dos adultos do país como clientes, segundo a AP. A Al Jazeera fala em cerca de 3 milhões de clientes num país de 6,5 milhões de habitantes."
+         },
+         {
+          "b": "As contas:",
+          "t": "em junho, fiscais do banco central encontraram empréstimos arriscados a pessoas ligadas ao banco. Na segunda (2), acharam empréstimos mal documentados; com os números corrigidos, o capital ficou abaixo da metade do mínimo legal. A intervenção foi anunciada na terça (3)."
+         },
+         {
+          "b": "Dinheiro público:",
+          "t": "o banco guardava cerca de US$ 800 milhões em depósitos públicos, um quarto do total, segundo a AP."
+         },
+         {
+          "b": "Garantia:",
+          "t": "um fundo estatal deve devolver o dinheiro dos clientes em até cinco dias úteis, com cobertura de até cerca de US$ 36 mil por cliente, o que cobre todo o saldo de cerca de 97% deles, segundo o banco central."
+         }
+        ]
+       },
+       {
+        "h": "As investigações",
+        "p": [
+         "O procurador-geral, Emiliano Rolón Fernández, abriu três investigações criminais, sobre a fiscalização do banco, a reação à quebra e a aplicação de dinheiro público no Ueno, segundo a AP. Elas envolvem Peña e outros funcionários. Promotores acusaram 27 dirigentes e associados do banco de abuso de confiança e tentativa de fraude, e um juiz mandou prender seis executivos, entre eles o fundador, Miguel Vázquez. Peña teve participação na empresa controladora do Ueno e diz que a vendeu em 2025, segundo a Al Jazeera. O presidente do banco central, Carlos Carvallo, renunciou."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Santiago Peña:",
+          "t": "\"Peço desculpas ao povo se em algum momento falhei\" e \"seja qual for o resultado, vou agir com responsabilidade e respeito à Constituição\", segundo a AP. Disse que vai colaborar com os investigadores."
+         },
+         {
+          "b": "Horacio Cartes, ex-presidente e líder colorado:",
+          "t": "\"Não vamos ficar do lado do roubo de fundos públicos, privados e de aposentadorias\", segundo a Al Jazeera."
+         },
+         {
+          "b": "Oposição:",
+          "t": "senadores querem a destituição, porque a renúncia manteria o direito de Peña a uma vaga vitalícia no Senado, com proteções que podem barrar processos, segundo a AP."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o Congresso aceita a renúncia ou segue com o julgamento no Senado.",
+         "Se Peña será formalmente acusado. A AP diz que ele está sob investigação, sem acusação."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Os líderes do Congresso deviam votar nesta sexta (6) se aceitam a renúncia, segundo a AP.",
+         "Se Peña sair, o vice-presidente Pedro Alliana assume."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: Congresso rejeita renúncia de Peña",
+        "u": "https://www.aljazeera.com/economy/2026/11/5/paraguay-president-pena-resigns-in-wake-of-bank-collapse"
+       },
+       {
+        "t": "PBS NewsHour, com AP: investigações e impeachment",
+        "u": "https://www.pbs.org/newshour/world/paraguay-prosecutor-will-seek-charges-against-embattled-president-after-bank-collapse"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Eisenkot recebe 67 indicações; Herzog decide no domingo quem forma governo",
+     "contexto": "eleicao-israel-2026",
+     "texto": "Gadi Eisenkot, do partido Yashar, foi indicado para primeiro-ministro por 67 dos 120 deputados de Israel nas consultas do presidente Isaac Herzog, que terminaram na quinta (5). Benjamin Netanyahu teve 46 indicações. Herzog disse que anuncia no domingo (8) quem terá a tarefa de formar o governo.",
+     "pq": "67 indicações passam da maioria de 61, mas incluem partidos árabes que não devem entrar no governo. Eisenkot e Netanyahu descartam governar com eles. Herzog citou \"vetos mútuos entre os blocos e dentro dos próprios blocos\" e fará conversas com líderes no fim de semana.",
+     "fontes": [
+      {
+       "t": "The Times of Israel",
+       "u": "https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/"
+      },
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
+      }
+     ],
+     "completa": {
+      "fina": "A Lista Conjunta, árabe, indicou Eisenkot e disse que apoiaria um governo de minoria de fora da coalizão.",
+      "atualizada": "6 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Gadi Eisenkot recebeu a indicação de 67 deputados para formar o próximo governo de Israel, contra 46 de Benjamin Netanyahu, ao fim das consultas do presidente Isaac Herzog na quinta-feira (5), segundo o The Times of Israel e a Al Jazeera. O partido Judaísmo Unido da Torá, de 7 cadeiras e antigo aliado de Netanyahu, não indicou ninguém.",
+      "blocos": [
+       {
+        "h": "A conta",
+        "p": [
+         "Na eleição de 27 de outubro, o Likud fez 27 cadeiras e o bloco de Netanyahu, 53. A aliança de quatro partidos de Eisenkot fez 48, e dois partidos de liderança árabe, 19, segundo a Al Jazeera. As 67 indicações de Eisenkot somam a aliança dele, o Yisrael Beytenu e os partidos árabes. Segundo o partido Yashar, é o maior número de indicações para um candidato desde 2015."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Isaac Herzog:",
+          "t": "disse que os \"resultados das consultas podem parecer claros\", mas que há \"vetos mútuos entre os blocos e dentro dos próprios blocos\", e que fará \"conversas pessoais com alguns dos líderes partidários\" no fim de semana, segundo a Al Jazeera."
+         },
+         {
+          "b": "Yashar, partido de Eisenkot:",
+          "t": "pediu que Herzog entregue a tarefa \"o mais rápido possível\" para formar um \"governo de emergência nacional\"."
+         },
+         {
+          "b": "Likud, de Netanyahu:",
+          "t": "o ministro Yoav Kisch defendeu um \"governo nacional amplo\" de partidos sionistas de liderança judaica. A ministra Miri Regev disse que o Likud \"estende a mão\" à oposição e chamou o bloco de Eisenkot de \"bloco do desastre\", segundo o The Times of Israel. Herzog respondeu: \"Se você quer estender a mão, não pode chamar de bloco do desastre.\""
+         },
+         {
+          "b": "Lista Conjunta:",
+          "t": "o presidente do partido, Yousef Jabareen, disse: \"Não estamos escolhendo entre o bom e o melhor, mas entre o que vemos como ruim e ainda pior.\" O deputado Ahmad Tibi disse que o partido apoiaria um governo de minoria sem fazer parte dele."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem Herzog vai escolher.",
+         "Como Eisenkot formaria maioria sem os partidos árabes no governo."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Herzog anuncia a escolha no domingo (8).",
+         "O escolhido terá 28 dias, prorrogáveis por mais 14, para formar o governo.",
+         "O novo Parlamento toma posse em 10 de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "The Times of Israel: 67 indicações para Eisenkot",
+        "u": "https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/"
+       },
+       {
+        "t": "Al Jazeera: Herzog anuncia no domingo",
+        "u": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Com ressalva",
+     "titulo": "Mike Johnson deixa a liderança republicana; Senado ainda tem duas disputas abertas",
+     "contexto": "eleicoes-eua-2026",
+     "texto": "O presidente da Câmara dos EUA, Mike Johnson, disse que não vai disputar a liderança republicana no próximo Congresso, em que o partido será minoria. No Mississippi e no Alasca, as disputas para o Senado seguiam sem vencedor, com diferenças de cerca de 1.100 e 640 votos.",
+     "pq": "Johnson era o republicano de cargo mais alto no Congresso. Steve Scalise e Jim Jordan disputam a sucessão na semana que vem. Ressalva: as contagens do Mississippi e do Alasca ainda mudavam no fechamento desta edição, e as fontes trazem números diferentes.",
+     "fontes": [
+      {
+       "t": "Newsweek",
+       "u": "https://www.newsweek.com/mike-johnson-house-republicans-gop-leadership-12664213"
+      },
+      {
+       "t": "ABC News",
+       "u": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445"
+      },
+      {
+       "t": "Yahoo News, com Fox News",
+       "u": "https://www.yahoo.com/news/politics/articles/alaska-mississippi-senate-races-separated-151920787.html"
+      }
+     ],
+     "completa": {
+      "fina": "O Mississippi não tem recontagem formal; o prazo de certificação é 13 de novembro.",
+      "atualizada": "6 nov 2026, 5h",
+      "selo": "Com ressalva",
+      "fato": "Mike Johnson, republicano da Louisiana e presidente da Câmara dos Estados Unidos, comunicou na quarta-feira (4) que não vai buscar cargo de liderança no próximo Congresso, segundo a Newsweek, que cita carta aos deputados obtida pelo Axios. Ele citou o peso dos três anos no cargo sobre a família e chamou a função de \"a maior honra profissional da minha vida\". Os democratas viraram pelo menos 31 cadeiras republicanas na Câmara.",
+      "blocos": [
+       {
+        "h": "A sucessão",
+        "p": [
+         "O líder da maioria, Steve Scalise, e o presidente da Comissão de Justiça, Jim Jordan, disputam a liderança da futura minoria republicana, com votação marcada para a semana que vem, segundo a Newsweek. Scalise chamou a derrota de \"muito pior do que qualquer um de nós esperava\"; Jordan, de \"impressionante\". Trump disse que vai ficar fora da disputa."
+        ]
+       },
+       {
+        "h": "Mississippi",
+        "li": [
+         {
+          "b": "A diferença:",
+          "t": "o democrata Scott Colom tinha 464.926 votos e a senadora republicana Cindy Hyde-Smith, 463.788, com 95,6% contados, segundo a AP, citada pelo Yahoo News. A tabela da ABC News traz outros números."
+         },
+         {
+          "b": "Votos pendentes:",
+          "t": "cerca de 3.600 votos pelo correio, segundo o secretário de Estado, Michael Watson, e um número desconhecido de votos em separado. O correio aceita votos até 10 de novembro, se postados até o dia da eleição."
+         },
+         {
+          "b": "Sem recontagem:",
+          "t": "o estado não tem processo formal de recontagem. Depois da certificação, em 13 de novembro, um candidato pode examinar as urnas e recorrer à Justiça, segundo a ABC News."
+         }
+        ]
+       },
+       {
+        "h": "Alasca",
+        "p": [
+         "A democrata Mary Peltola tinha menos de 700 votos de vantagem sobre o senador republicano Dan Sullivan, com cerca de três quartos dos votos contados, segundo a AP. Se ninguém passar de 50%, o Alasca usa voto ranqueado: o último colocado sai, e seus votos vão para a segunda opção de cada eleitor."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Scott Colom, democrata:",
+          "t": "\"Vamos proteger o processo desta eleição, vamos proteger a integridade desta eleição.\""
+         },
+         {
+          "b": "Campanha de Cindy Hyde-Smith, republicana:",
+          "t": "\"Continuamos confiantes de que, quando cada voto legal for contado com precisão, os eleitores do Mississippi terão reeleito Cindy Hyde-Smith\", disse o coordenador Scott Monssen, segundo o Yahoo News."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem vence no Mississippi e no Alasca.",
+         "Quem será o líder republicano na Câmara."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A certificação no Mississippi vence em 13 de novembro.",
+         "Os republicanos da Câmara escolhem a nova liderança na semana que vem."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Newsweek: Johnson deixa a liderança",
+        "u": "https://www.newsweek.com/mike-johnson-house-republicans-gop-leadership-12664213"
+       },
+       {
+        "t": "ABC News: as regras no Mississippi",
+        "u": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445"
+       },
+       {
+        "t": "Yahoo News, com Fox News: Alasca e Mississippi",
+        "u": "https://www.yahoo.com/news/politics/articles/alaska-mississippi-senate-races-separated-151920787.html"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "67",
+  "texto": "dos 120 deputados de Israel indicaram Gadi Eisenkot para formar o governo. Benjamin Netanyahu teve 46 indicações.",
+  "fontes": [
+   {
+    "t": "The Times of Israel",
+    "u": "https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/"
+   },
+   {
+    "t": "Al Jazeera",
+    "u": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "No Alasca, um professor aposentado chamado Daniel J. Sullivan, xará do senador Dan Sullivan, teve cerca de 3.600 votos. A diferença entre os dois primeiros colocados é de menos de 700.",
+  "fontes": [
+   {
+    "t": "Yahoo News, com Fox News",
+    "u": "https://www.yahoo.com/news/politics/articles/alaska-mississippi-senate-races-separated-151920787.html"
+   },
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/departamento-de-justica-rompe-com-tradicao-ao-intervir-nas-eleicoes"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. No Paraguai, Peña, o próprio partido e a oposição falam na própria voz; em Israel, o Likud e o bloco de Eisenkot têm espaço parecido; nos EUA, as duas campanhas do Mississippi aparecem.",
+  "pontos": [
+   "Brasil 1: nota de serviço, sem adjetivos de alarme; números atribuídos e divergência de feridos explicitada.",
+   "Brasil 2: nomes de ministros tratados como especulação de aliados; a nota registra que não houve reação da oposição nas fontes.",
+   "Brasil 3: o desmentido vem da checagem do Aos Fatos e da fala do ministro; sem juízo sobre o programa.",
+   "Mundo 1: 'rombo' fora de aspas foi trocado por descrição do problema nas contas; acusações descritas como investigação, sem condenar Peña; Peña, Cartes e a oposição falam na própria voz.",
+   "Mundo 2: 'bloco do desastre' só entre aspas, como fala de Miri Regev, com a resposta de Herzog.",
+   "Mundo 3: as duas campanhas do Mississippi citadas; números divergentes informados."
+  ],
+  "equilibrio": "Governo Lula: 3 menções (neutras); oposição: 1 (neutra). Governo do Paraguai: 2 (neutras); oposição paraguaia: 1 (neutra). Democratas dos EUA: 2; republicanos: 4 (neutras).",
+  "foraDaEdicao": [
+   "Inovação: sem nota hoje. A compra da Conductor pela Meta, a compra da Pierre pela OpenAI e outras pautas tinham uma só fonte aberta.",
+   "Categorias extras: sem fato novo checado em duas fontes até o fechamento.",
+   "PEC da Segurança: as fontes abertas eram de outubro, sem novidade checada."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Essencial: temporais e Pix MEI, pelo critério de segurança e dinheiro de muita gente no Brasil; o Paraguai ficou fora do destaque porque o efeito no Brasil não é direto.",
+   "Mundo 3 com selo Com ressalva, porque as contagens mudam e as fontes divergem.",
+   "Retirada a palavra 'rombo' da notícia completa do Paraguai.",
+   "Toda nota tem página de contexto."
+  ]
+ },
+ "geradaEm": "2026-11-06T07:42:13Z"
+}

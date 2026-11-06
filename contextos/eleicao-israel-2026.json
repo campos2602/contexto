@@ -1,17 +1,9 @@
 {
  "titulo": "Eleição em Israel: como se forma um governo",
- "atualizado": "5 nov 2026",
+ "atualizado": "6 nov 2026",
  "selo": "Checado",
  "frase": "Israel escolhe 120 deputados por lista nacional, e nenhum partido costuma ter maioria sozinho. Governa quem consegue reunir 61 cadeiras numa coalizão.",
  "linha": [
-  {
-   "d": "27 de outubro de 2026",
-   "t": "Dia da eleição. Boca de urna às 22h de Israel."
-  },
-  {
-   "d": "27 de outubro de 2026",
-   "t": "Bocas de urna não dão 61 cadeiras a nenhum bloco. Comparecimento de 74,3% até as 20h, o maior para o horário desde 1988."
-  },
   {
    "d": "28 de outubro de 2026",
    "t": "Com cerca de 90% dos votos contados: bloco de Netanyahu 53, de Eisenkot 48, partidos árabes 19, recorde."
@@ -35,6 +27,14 @@
   {
    "d": "5 de novembro de 2026",
    "t": "Último dia de consultas, com Likud e Yashar."
+  },
+  {
+   "d": "5 de novembro de 2026",
+   "t": "Terminam as consultas. Gadi Eisenkot recebe 67 indicações e Benjamin Netanyahu, 46. O Judaísmo Unido da Torá não indica ninguém."
+  },
+  {
+   "d": "8 de novembro de 2026",
+   "t": "Data marcada por Herzog para anunciar quem terá a tarefa de formar o governo."
   }
  ],
  "termos": [
@@ -57,6 +57,14 @@
   {
    "t": "Consultas do presidente",
    "d": "Depois da eleição, o presidente de Israel ouve todos os partidos eleitos e escolhe quem tem mais chance de formar governo. Não precisa ser o líder do maior partido. O escolhido tem 28 dias, prorrogáveis por 14, segundo a RTÉ."
+  },
+  {
+   "t": "Indicação",
+   "d": "Nas consultas, cada partido diz ao presidente quem prefere como primeiro-ministro. Um partido pode não indicar ninguém, como fez o Judaísmo Unido da Torá. As 67 indicações de Eisenkot somam a aliança dele, o Yisrael Beytenu e os partidos de liderança árabe."
+  },
+  {
+   "t": "Vetos mútuos",
+   "d": "Expressão de Herzog para os partidos que se recusam a governar uns com os outros, tanto entre os blocos quanto dentro de cada bloco."
   }
  ],
  "quem": [
@@ -93,13 +101,17 @@
   {
    "b": "A oposição",
    "t": "cobra responsabilização pelas falhas de segurança de 2023 e critica a isenção militar dos ultraortodoxos e mudanças no Judiciário."
+  },
+  {
+   "b": "Lista Conjunta",
+   "t": "o presidente do partido, Yousef Jabareen, disse que a escolha é \"entre o que vemos como ruim e ainda pior\". O deputado Ahmad Tibi disse que o partido apoiaria um governo de minoria sem fazer parte dele, segundo o The Times of Israel."
   }
  ],
  "observar": [
-  "Quem Herzog convida para formar governo.",
-  "A posse do novo Parlamento em 10 de novembro.",
-  "Se a oposição aceita o apoio dos partidos árabes, sem os quais não chega a 61 cadeiras.",
-  "Se há governo de união, governo com apoio árabe ou nova eleição."
+  "Quem Herzog escolhe no domingo (8).",
+  "A posse do novo Parlamento, em 10 de novembro.",
+  "Como Eisenkot formaria maioria sem os partidos árabes no governo; a Lista Conjunta diz que apoiaria um governo de minoria sem fazer parte dele.",
+  "Se há governo de união, governo de minoria ou nova eleição."
  ],
  "fontes": [
   {
@@ -157,6 +169,14 @@
   {
    "t": "RTÉ: Herzog pede que aceitem que não houve vencedor claro",
    "u": "https://www.rte.ie/news/world/2026/1104/1597892-israel-election/"
+  },
+  {
+   "t": "The Times of Israel: Eisenkot recebe 67 indicações",
+   "u": "https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/"
+  },
+  {
+   "t": "Al Jazeera: Herzog anuncia no domingo",
+   "u": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
   }
  ]
 }

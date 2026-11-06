@@ -1,17 +1,9 @@
 {
  "titulo": "As eleições de meio de mandato nos Estados Unidos",
- "atualizado": "5 nov 2026",
+ "atualizado": "6 nov 2026",
  "selo": "Checado",
  "frase": "A cada quatro anos, no meio do mandato presidencial, os americanos renovam a Câmara inteira, um terço do Senado e muitos governos estaduais. O resultado define se o presidente governa com ou sem maioria no Congresso.",
  "linha": [
-  {
-   "d": "28 de fevereiro de 2026",
-   "t": "Começa a guerra de EUA e Israel contra o Irã. Segundo a Al Jazeera, a aprovação de Trump cai desde então, com a alta da gasolina e do diesel."
-  },
-  {
-   "d": "Antes da eleição",
-   "t": "Republicanos têm 53 das 100 cadeiras do Senado e 218 das 435 da Câmara, mais um independente; democratas têm 214, com duas vagas abertas, segundo a CBS News."
-  },
   {
    "d": "2 de novembro de 2026",
    "t": "Pesquisa Reuters/Ipsos mostra 32% de aprovação a Trump e 46% de preferência por democratas para o Congresso, contra 38% por republicanos."
@@ -35,6 +27,14 @@
   {
    "d": "4 de novembro de 2026",
    "t": "Democratas controlam pelo menos 54 cadeiras do Senado, segundo a CBS News. Schumer promete investigações contra Trump; Mississippi e Alasca seguem sem resultado."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "Mike Johnson anuncia que não vai buscar a liderança republicana no próximo Congresso. Os democratas viraram pelo menos 31 cadeiras na Câmara, segundo a Newsweek."
+  },
+  {
+   "d": "13 de novembro de 2026",
+   "t": "Prazo de certificação do resultado no Mississippi, onde a diferença no Senado era de cerca de 1.100 votos. O estado não tem recontagem formal."
   }
  ],
  "termos": [
@@ -79,6 +79,14 @@
   {
    "b": "Departamento de Justiça",
    "t": "tentou anular votos na Califórnia e travar resultados no Alasca antes da eleição; tribunais rejeitaram os pedidos, segundo a Agência Brasil, com a Reuters."
+  },
+  {
+   "b": "Mike Johnson",
+   "t": "presidente da Câmara, republicano da Louisiana, disse que não vai disputar a liderança do partido no próximo Congresso."
+  },
+  {
+   "b": "Steve Scalise e Jim Jordan",
+   "t": "disputam a liderança da futura minoria republicana na Câmara."
   }
  ],
  "disputa": [
@@ -96,9 +104,9 @@
   }
  ],
  "observar": [
-  "O resultado final no Mississippi e no Alasca.",
-  "Se algum resultado apertado vai parar na Justiça.",
-  "Como Trump vai negociar orçamento e nomeações com o novo Congresso.",
+  "O resultado final no Mississippi e no Alasca, onde a diferença era de menos de 700 votos.",
+  "Se o Alasca precisa usar o voto ranqueado.",
+  "A eleição da nova liderança republicana na Câmara, na semana que vem.",
   "A posse do novo Congresso, em janeiro."
  ],
  "fontes": [
@@ -129,6 +137,18 @@
   {
    "t": "CBS News: resultados do Senado",
    "u": "https://www.cbsnews.com/live-updates/senate-election-results-2026/"
+  },
+  {
+   "t": "Newsweek: Johnson deixa a liderança",
+   "u": "https://www.newsweek.com/mike-johnson-house-republicans-gop-leadership-12664213"
+  },
+  {
+   "t": "ABC News: a disputa no Mississippi",
+   "u": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445"
+  },
+  {
+   "t": "Yahoo News, com AP: Alasca e Mississippi",
+   "u": "https://www.yahoo.com/news/politics/articles/alaska-mississippi-senate-races-separated-151920787.html"
   }
  ]
 }
