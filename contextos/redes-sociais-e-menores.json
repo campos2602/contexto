@@ -1,0 +1,110 @@
+{
+ "titulo": "Leis que limitam redes sociais para crianças e adolescentes",
+ "atualizado": "7 nov 2026",
+ "selo": "Checado",
+ "frase": "Governos tentam restringir recursos das redes sociais considerados viciantes para menores, como feeds personalizados e reprodução automática. Na Califórnia, Google, Meta e TikTok foram à Justiça contra a lei AB 1709, que vale a partir de janeiro de 2027. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, empresa de inteligência artificial que concorre com Google, Meta e outras citadas nesta nota.",
+ "linha": [
+  {
+   "d": "2024",
+   "t": "A Califórnia aprova a SB 976, que restringe feeds personalizados para menores de 18 anos sem consentimento dos pais. Meta, TikTok e Google contestam a lei na Justiça."
+  },
+  {
+   "d": "Agosto de 2026",
+   "t": "Um juiz federal nega suspender a parte da SB 976 sobre feeds personalizados enquanto os recursos andam, segundo o Colombia One."
+  },
+  {
+   "d": "Agosto de 2026",
+   "t": "A Meta fecha acordo de até US$ 17 bilhões com 47 estados que a acusavam de tornar seus produtos viciantes para crianças, segundo a CalMatters."
+  },
+  {
+   "d": "10 de setembro de 2026",
+   "t": "O governador Gavin Newsom sanciona a AB 1709, do deputado estadual Josh Lowenthal, num pacote de leis de segurança on-line para crianças."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "Google, Meta e TikTok entram com três ações na Justiça federal, em San Jose, San Francisco e Los Angeles, contra a AB 1709."
+  },
+  {
+   "d": "1º de janeiro de 2027",
+   "t": "Data em que a AB 1709 entra em vigor, se não for suspensa."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Feed personalizado",
+   "d": "Lista de publicações escolhida por algoritmo com base no que cada usuário vê e curte, em vez de ordem cronológica."
+  },
+  {
+   "t": "Reprodução automática",
+   "d": "Recurso que começa o próximo vídeo sem o usuário pedir."
+  },
+  {
+   "t": "Rolagem infinita",
+   "d": "Recurso que carrega conteúdo sem fim enquanto o usuário desce a tela. A CalMatters cita como exemplo de recurso considerado viciante."
+  },
+  {
+   "t": "Verificação de idade",
+   "d": "Exigência para que a plataforma confirme a idade do usuário. Críticos apontam risco à privacidade."
+  },
+  {
+   "t": "Primeira Emenda",
+   "d": "Parte da Constituição dos EUA que protege a liberdade de expressão. As empresas dizem que escolher e recomendar conteúdo é atividade editorial protegida por ela."
+  },
+  {
+   "t": "Seção 230",
+   "d": "Lei federal dos EUA sobre a responsabilidade das plataformas pelo conteúdo de usuários. As empresas dizem que a lei da Califórnia entra em conflito com ela."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Google, dona do YouTube; Meta, dona de Facebook, Instagram e Threads; e TikTok",
+   "t": "autoras das ações."
+  },
+  {
+   "b": "Rob Bonta",
+   "t": "procurador-geral da Califórnia, réu nas ações e responsável por aplicar a lei."
+  },
+  {
+   "b": "Josh Lowenthal",
+   "t": "deputado estadual, autor da AB 1709."
+  },
+  {
+   "b": "Gavin Newsom",
+   "t": "governador da Califórnia, que sancionou a lei."
+  },
+  {
+   "b": "NetChoice",
+   "t": "grupo ligado à indústria de tecnologia que critica a lei."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "As empresas",
+   "t": "dizem que a lei fere a liberdade de expressão, contraria a vontade dos pais e ignora controles que já oferecem. A Meta diz que a lei torna o estado \"o editor, curador e controlador do discurso on-line\", segundo a CalMatters."
+  },
+  {
+   "b": "O estado",
+   "t": "o gabinete de Bonta diz estar comprometido em defender as leis que protegem crianças on-line. Lowenthal diz que recursos como a reprodução automática prejudicam o cérebro em desenvolvimento, segundo o Colombia One."
+  },
+  {
+   "b": "Outras entidades",
+   "t": "a Electronic Frontier Foundation critica a verificação de idade. O Electronic Privacy Information Center apoia a lei e diz que os tribunais vêm rejeitando os argumentos das empresas, segundo a CalMatters."
+  }
+ ],
+ "observar": [
+  "Se a Justiça suspende a AB 1709 antes de 1º de janeiro de 2027.",
+  "O julgamento dos recursos contra a SB 976.",
+  "Como as plataformas mudam as contas de adolescentes.",
+  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, empresa de inteligência artificial que concorre com Google, Meta e outras citadas nesta nota."
+ ],
+ "fontes": [
+  {
+   "t": "CalMatters: big techs processam a Califórnia",
+   "u": "https://calmatters.org/economy/technology/2026/11/big-tech-sues-california-social-media-addiction-law"
+  },
+  {
+   "t": "Colombia One: as ações contra a AB 1709",
+   "u": "https://colombiaone.com/2026/11/06/google-meta-tiktok-sue-california-social-media-law-minors/"
+  }
+ ]
+}

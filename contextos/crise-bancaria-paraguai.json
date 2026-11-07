@@ -1,8 +1,8 @@
 {
  "titulo": "A quebra do banco Ueno e a crise política no Paraguai",
- "atualizado": "6 nov 2026",
+ "atualizado": "7 nov 2026",
  "selo": "Checado",
- "frase": "A quebra do Ueno, banco digital com cerca de 3 milhões de clientes e US$ 800 milhões em depósitos públicos, levou o presidente Santiago Peña a anunciar a renúncia e a Câmara a aprovar o impeachment, em novembro de 2026.",
+ "frase": "A quebra do Ueno, banco digital com cerca de 3 milhões de clientes e mais de US$ 800 milhões em depósitos públicos, levou à destituição do presidente Santiago Peña pelo Senado em 6 de novembro de 2026. O vice, Pedro Alliana, assumiu.",
  "linha": [
   {
    "d": "2023",
@@ -30,7 +30,7 @@
   },
   {
    "d": "6 de novembro de 2026",
-   "t": "Os líderes do Congresso deviam votar se aceitam a renúncia, segundo a AP."
+   "t": "Os 44 senadores presentes votam pela destituição de Peña. Pedro Alliana toma posse. Promotores ordenam a prisão de Peña e de Carlos Carvallo por suspeita de abuso de confiança."
   }
  ],
  "termos": [
@@ -62,11 +62,11 @@
  "quem": [
   {
    "b": "Santiago Peña",
-   "t": "presidente do Paraguai, do Partido Colorado. Está sob investigação, sem acusação formal."
+   "t": "presidente do Paraguai de agosto de 2023 até a destituição, do Partido Colorado. Promotores ordenaram a prisão dele; ele nega irregularidades."
   },
   {
    "b": "Pedro Alliana",
-   "t": "vice-presidente, que assume se Peña sair."
+   "t": "vice de Peña, tomou posse como presidente em 6 de novembro e governa até agosto de 2028."
   },
   {
    "b": "Horacio Cartes",
@@ -95,19 +95,19 @@
    "t": "Cartes disse que o partido não vai \"ficar do lado do roubo de fundos públicos, privados e de aposentadorias\", segundo a Al Jazeera."
   },
   {
-   "b": "Oposição",
-   "t": "senadores querem a destituição, e não só a renúncia, por causa da vaga vitalícia no Senado."
-  },
-  {
    "b": "Investigações",
    "t": "tratam da fiscalização do banco, da reação à quebra e da aplicação de dinheiro público no Ueno."
+  },
+  {
+   "b": "Oposição",
+   "t": "queria a destituição, e não só a renúncia, para que Peña não tivesse a vaga vitalícia no Senado. \"Ele tem que ir, mas não para casa\", disse a senadora Yolanda Paredes, segundo a AP."
   }
  ],
  "observar": [
-  "Se o Congresso aceita a renúncia ou segue com o julgamento no Senado.",
-  "A posse de Pedro Alliana.",
-  "A devolução do dinheiro dos clientes pelo fundo de garantia, prevista em até cinco dias úteis.",
-  "Se Peña será formalmente acusado."
+  "A audiência de Peña com um juiz, marcada para sábado (7), segundo a Rio Times.",
+  "As acusações formais contra Peña.",
+  "Se Alliana troca o ministério.",
+  "A greve de professores prevista a partir de segunda (9), pela proteção dos fundos de aposentadoria."
  ],
  "fontes": [
   {
@@ -117,6 +117,14 @@
   {
    "t": "PBS, com AP: procurador vai buscar acusações",
    "u": "https://www.pbs.org/newshour/world/paraguay-prosecutor-will-seek-charges-against-embattled-president-after-bank-collapse"
+  },
+  {
+   "t": "AP, via WHEC: Alliana assume",
+   "u": "https://www.whec.com/ap-top-news/paraguays-pedro-alliana-sworn-in-as-president-after-senate-removes-santiago-pena-from-office/"
+  },
+  {
+   "t": "The Rio Times: Paraguai destitui e detém Peña",
+   "u": "https://www.riotimesonline.com/paraguay-senate-removes-pena-alliana-sworn-in-2026/"
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
  "titulo": "Temporais e tornados no Sul e no Sudeste em novembro de 2026",
- "atualizado": "6 nov 2026",
+ "atualizado": "7 nov 2026",
  "selo": "Checado",
- "frase": "Desde 1º de novembro, chuvas fortes atingem o Rio Grande do Sul, tornados atingiram o oeste de Santa Catarina e São Paulo está sob alerta de temporais. As Defesas Civis mantêm avisos até sábado (7).",
+ "frase": "Desde 1º de novembro, temporais atingem o Rio Grande do Sul e Santa Catarina, onde houve tornados e duas mortes, e São Paulo ficou sob alerta. Em Santa Catarina, 109 cidades foram atingidas.",
  "linha": [
   {
    "d": "1º de novembro de 2026",
@@ -19,6 +19,10 @@
   {
    "d": "5 de novembro de 2026",
    "t": "Santa Catarina tem 13 municípios em estado de emergência, com 34 pessoas desabrigadas e 24 desalojadas. A Defesa Civil de São Paulo ativa um gabinete de crise remoto, segundo a CNN Brasil."
+  },
+  {
+   "d": "5 de novembro de 2026",
+   "t": "Santa Catarina chega a 109 municípios atingidos, 32 em situação de emergência e duas mortes, em Rio Negrinho e Xanxerê. O estado distribui mais de 56 mil itens, segundo a Defesa Civil."
   },
   {
    "d": "7 de novembro de 2026",
@@ -79,23 +83,23 @@
  ],
  "disputa": [
   {
-   "b": "Números dos estragos",
-   "t": "a TV Sim Brasil traz dois números de feridos no Rio Grande do Sul, 20 e 24, sem explicar a diferença. As fontes consultadas não registram mortes."
-  },
-  {
    "b": "Aeroporto",
    "t": "não há data para a reabertura de Chapecó. A orientação é procurar a companhia aérea antes de ir ao terminal, segundo a Panrotas."
   },
   {
    "b": "O que fazer",
    "t": "recolher objetos soltos, ficar longe de árvores e postes, buscar abrigo em prédios fechados durante raios, não atravessar ruas alagadas e, em encostas, sair de casa se aparecerem rachaduras e chamar a Defesa Civil."
+  },
+  {
+   "b": "Números dos estragos",
+   "t": "em Santa Catarina, o ND Mais registra 5.531 casas afetadas e o Correio SC, com atualização do governo, mais de 5.700. A Defesa Civil diz que o levantamento continua e os números podem subir."
   }
  ],
  "observar": [
-  "Os alertas de temporal até sábado (7).",
+  "Novos temporais em Santa Catarina até a manhã de sábado (7).",
+  "Se houve tornados em Rio Negrinho e Timbó Grande.",
   "A reabertura do aeroporto de Chapecó.",
-  "O balanço final de prejuízos em Santa Catarina e no Rio Grande do Sul.",
-  "A queda de temperatura prevista para São Paulo a partir de domingo (8)."
+  "A reunião do governador com os prefeitos das cidades atingidas, na semana que vem."
  ],
  "fontes": [
   {
@@ -109,6 +113,14 @@
   {
    "t": "CNN Brasil: gabinete de crise em São Paulo",
    "u": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/defesa-civil-ativa-gabinete-de-crise-apos-alerta-de-temporais-em-sao-paulo/"
+  },
+  {
+   "t": "ND Mais: 109 cidades e duas mortes",
+   "u": "https://ndmais.com.br/tempo/defesa-civil-distribui-mais-de-56-mil-itens-apos-temporais-atingirem-109-cidades-e-deixarem-duas-mortes-em-sc/"
+  },
+  {
+   "t": "Correio SC: temporais em 109 municípios",
+   "u": "https://www.correiosc.com.br/temporais-109-municipios-santa-catarina-dois-mortos"
   }
  ]
 }

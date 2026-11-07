@@ -1,13 +1,9 @@
 {
  "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
- "atualizado": "6 nov 2026",
+ "atualizado": "7 nov 2026",
  "selo": "Checado",
  "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
  "linha": [
-  {
-   "d": "25 de outubro de 2026",
-   "t": "O ministro Cristiano Zanin prorroga a votação até as 19h após relatos de falta de ônibus. Flávio diz que vai pedir a anulação do segundo turno."
-  },
   {
    "d": "26 a 30 de outubro de 2026",
    "t": "Moraes manda Flávio entregar os passaportes; ele deixa o país e, de Miami, diz que \"perdi para o sistema\". Trump chama a eleição de \"uma vergonha\". O governo registra 45 casos de violência política."
@@ -35,6 +31,10 @@
   {
    "d": "11 e 12 de novembro de 2026",
    "t": "Lula vai à COP31, na Turquia. Os nomes do novo ministério devem ser definidos a partir do fim de novembro."
+  },
+  {
+   "d": "5 de novembro de 2026",
+   "t": "O corregedor-geral da Justiça Eleitoral, Ricardo Villas Bôas Cueva, aceita ação do Novo que acusa Lula e Alckmin de abuso de poder político. O Novo pede cassação e inelegibilidade; o corregedor diz que aceitar a ação não é reconhecer irregularidade."
   }
  ],
  "termos": [
@@ -65,6 +65,10 @@
   {
    "t": "Diplomação",
    "d": "Cerimônia em que a Justiça Eleitoral entrega aos eleitos o diploma que os habilita a tomar posse. Em 2026, ocorre em dezembro."
+  },
+  {
+   "t": "Ação de investigação judicial eleitoral (AIJE)",
+   "d": "Processo na Justiça Eleitoral para apurar abuso de poder político ou econômico numa eleição. Pode levar à cassação do registro ou do diploma e a oito anos de inelegibilidade. Precisa ser apresentada antes da diplomação."
   }
  ],
  "quem": [
@@ -120,10 +124,10 @@
   }
  ],
  "observar": [
+  "A defesa de Lula e Alckmin no TSE, em cinco dias a partir da notificação.",
+  "A diplomação dos eleitos.",
   "Quantos ministérios cada partido vai receber na reforma ministerial.",
-  "Quem fica na Fazenda e na Casa Civil.",
-  "A criação de um Ministério da Segurança Pública.",
-  "O tamanho da base do governo no Congresso a partir de 2027."
+  "Quem fica na Fazenda e na Casa Civil."
  ],
  "fontes": [
   {
@@ -193,6 +197,14 @@
   {
    "t": "TV Sim Brasil: Lula articula a reforma ministerial",
    "u": "https://tvsimbrasil.com.br/brasil/eleicoes-2026/noticia/2026/11/04/lula-articula-reforma-ministerial-camilo-santana-haddad"
+  },
+  {
+   "t": "TSE: corregedor aceita ação do Novo",
+   "u": "https://www.tse.jus.br/comunicacao/noticias/2026/Novembro/corregedor-geral-admite-acao-do-novo-contra-lula-e-alckmin-por-suposto-abuso-do-poder-politico-nas-eleicoes"
+  },
+  {
+   "t": "Consultor Jurídico: TSE abre investigação",
+   "u": "https://conjur.com.br/2026-nov-05/tse-abre-investigacao-contra-chapa-lula-alckmin-por-suposto-abuso-de-poder-politico/"
   }
  ]
 }

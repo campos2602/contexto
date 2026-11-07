@@ -1,0 +1,110 @@
+{
+ "titulo": "Bolsa Família: quem recebe, quanto e quando",
+ "atualizado": "7 nov 2026",
+ "selo": "Checado",
+ "frase": "O Bolsa Família é o programa federal de transferência de renda para famílias de baixa renda inscritas no CadÚnico. Em novembro e dezembro de 2026, o pagamento foi concentrado em três dias por mês por causa do risco de eventos extremos ligados ao El Niño.",
+ "linha": [
+  {
+   "d": "Agosto e setembro de 2026",
+   "t": "O governo federal reconhece 518 situações de emergência ou calamidade, mais que o dobro das 253 do mesmo período de 2025, segundo o MDS."
+  },
+  {
+   "d": "Outubro de 2026",
+   "t": "O benefício mínimo sobe de R$ 600 para R$ 691 por família, com reajuste pelo INPC, e o pagamento de outubro é antecipado, segundo o Diário do Pará."
+  },
+  {
+   "d": "16 de outubro de 2026",
+   "t": "A Portaria MDS nº 1.221 define o calendário especial de novembro e dezembro, segundo o SBT News."
+  },
+  {
+   "d": "5 de novembro de 2026",
+   "t": "O Novo cita o reajuste do Bolsa Família, com alcance estimado de 19,29 milhões de famílias, em ação no TSE contra a chapa de Lula e Alckmin, segundo o TSE."
+  },
+  {
+   "d": "16, 17 e 18 de novembro de 2026",
+   "t": "Pagamento de novembro: NIS final 1, final 2 e finais de 3 a 0."
+  },
+  {
+   "d": "10, 11 e 14 de dezembro de 2026",
+   "t": "Pagamento de dezembro, na mesma ordem."
+  }
+ ],
+ "termos": [
+  {
+   "t": "CadÚnico",
+   "d": "Cadastro Único do governo federal, usado para identificar famílias de baixa renda e dar acesso a programas sociais. Estar nele é condição para o Bolsa Família."
+  },
+  {
+   "t": "NIS",
+   "d": "Número de Identificação Social. O último dígito define o dia do pagamento."
+  },
+  {
+   "t": "Linha de renda",
+   "d": "Tem direito a família com renda de até R$ 218 por pessoa por mês, segundo o Diário do Pará."
+  },
+  {
+   "t": "Benefício mínimo",
+   "d": "R$ 691 por família. Há adicional de R$ 173 por criança de até 6 anos e de R$ 58 para gestantes, nutrizes e jovens de 7 a 17 anos. Os adicionais se somam."
+  },
+  {
+   "t": "INPC",
+   "d": "Índice Nacional de Preços ao Consumidor, do IBGE, que mede a inflação das famílias de renda mais baixa. Foi usado no reajuste de outubro."
+  },
+  {
+   "t": "El Niño",
+   "d": "Aquecimento das águas do Pacífico que muda o clima no mundo. No Brasil, pode causar secas, enchentes e temporais."
+  },
+  {
+   "t": "Portaria",
+   "d": "Ato de um ministério que regulamenta um programa. Não precisa passar pelo Congresso."
+  }
+ ],
+ "quem": [
+  {
+   "b": "MDS",
+   "t": "Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, que administra o programa."
+  },
+  {
+   "b": "Caixa Econômica Federal",
+   "t": "banco que faz os pagamentos. O dinheiro pode ser movimentado pelo app Caixa Tem."
+  },
+  {
+   "b": "Famílias inscritas",
+   "t": "a inclusão não é automática: o MDS faz verificações periódicas e depende de disponibilidade no orçamento, segundo o Diário do Pará."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "O governo",
+   "t": "diz que antecipar o pagamento prepara a rede de proteção social para eventos extremos ligados ao El Niño."
+  },
+  {
+   "b": "O calendário especial",
+   "t": "vale de acordo com critérios territoriais da portaria. Segundo o SBT News, famílias com NIS final 1 que moram fora das áreas cobertas mantêm o calendário normal. Segundo o Diário do Pará, em cidades com emergência reconhecida, o pagamento é unificado no primeiro dia. As duas reportagens orientam a conferir a data no app."
+  },
+  {
+   "b": "Na Justiça Eleitoral",
+   "t": "o Novo cita o reajuste do programa entre as medidas que, para o partido, configuram abuso de poder político na eleição. O TSE aceitou analisar a ação, sem julgar o mérito."
+  }
+ ],
+ "observar": [
+  "Os pagamentos de 16, 17 e 18 de novembro.",
+  "A lista de áreas cobertas pelo calendário especial.",
+  "O calendário de 2027.",
+  "Dúvidas: Disque Social 121, do MDS, ou 111, da Caixa."
+ ],
+ "fontes": [
+  {
+   "t": "SBT News: Bolsa Família em três dias",
+   "u": "https://sbtnews.sbt.com.br/noticia/economia/bolsa-familia-sera-pago-em-3-dias-em-novembro-e-dezembro"
+  },
+  {
+   "t": "Diário do Pará: novas datas e valores",
+   "u": "https://diariodopara.com.br/seu-bolso/bolsa-familia-tera-pagamentos-antecipados-em-novembro-e-dezembro-veja-novas-datas-e-valores/"
+  },
+  {
+   "t": "TSE: ação do Novo",
+   "u": "https://www.tse.jus.br/comunicacao/noticias/2026/Novembro/corregedor-geral-admite-acao-do-novo-contra-lula-e-alckmin-por-suposto-abuso-do-poder-politico-nas-eleicoes"
+  }
+ ]
+}

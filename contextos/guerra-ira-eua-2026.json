@@ -1,13 +1,9 @@
 {
  "titulo": "A guerra entre Estados Unidos e Irã em 2026",
- "atualizado": "5 nov 2026",
+ "atualizado": "7 nov 2026",
  "selo": "Checado",
  "frase": "Estados Unidos e Israel entraram em guerra com o Irã no fim de fevereiro de 2026. Desde então houve cessar-fogo, um acordo provisório que venceu sem renovação, bloqueio naval e ataques no Estreito de Ormuz, enquanto mediadores tentam um acordo.",
  "linha": [
-  {
-   "d": "7 de abril de 2026",
-   "t": "É anunciado um cessar-fogo de duas semanas, horas depois de uma publicação de Trump; o petróleo cai 16% em um dia, segundo a ND Mais."
-  },
   {
    "d": "Julho de 2026",
    "t": "O barril do Brent chega a US$ 100. Antes da guerra, em 2025, estava em US$ 69."
@@ -35,6 +31,10 @@
   {
    "d": "3 e 4 de novembro de 2026",
    "t": "O Irã rejeita a resposta dos EUA e mantém sete exigências, entre elas o fim do bloqueio naval e das sanções, para reabrir o estreito."
+  },
+  {
+   "d": "6 de novembro de 2026",
+   "t": "Trump diz que decide em breve entre acordo e novos ataques. O Irã envia, via Catar, uma proposta nuclear que só discute depois de os EUA atenderem às sete exigências, segundo a Reuters, citada pelo Just Security."
   }
  ],
  "termos": [
@@ -100,9 +100,9 @@
   }
  ],
  "observar": [
-  "Se os EUA aceitam suspender o bloqueio e as sanções antes da reabertura do estreito.",
-  "Uma nova rodada de conversas em Doha.",
-  "Se haverá novos ataques no Estreito de Ormuz.",
+  "A decisão de Trump entre acordo e novos ataques.",
+  "A resposta dos EUA à proposta nuclear enviada pelo Catar.",
+  "A reunião de chanceleres do G7 em Paris, em 9 e 10 de novembro.",
   "O preço do petróleo e dos combustíveis."
  ],
  "fontes": [
@@ -129,6 +129,14 @@
   {
    "t": "GMA News, com Reuters: negociadores deixam Doha",
    "u": "https://www.gmanetwork.com/news/topstories/content/1008015/iranians-have-left-doha-talks-draft-proposal-for-us-deal-being-circulated-official-says/story/"
+  },
+  {
+   "t": "CBS News: atualizações da guerra",
+   "u": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+  },
+  {
+   "t": "Just Security: resumo de 6 de novembro",
+   "u": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
   }
  ]
 }

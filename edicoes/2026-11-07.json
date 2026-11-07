@@ -1,0 +1,943 @@
+{
+ "data": "2026-11-07",
+ "dia": "Sábado, 7 de novembro de 2026",
+ "leitura": "6 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz neste sábado a troca de presidente no Paraguai, a ação no TSE contra a chapa de Lula e o novo calendário do Bolsa Família.",
+ "trinta": [
+  "O Senado do Paraguai destituiu Santiago Peña; Pedro Alliana tomou posse.",
+  "O TSE aceitou ação do Novo contra Lula e Alckmin; a defesa tem cinco dias.",
+  "O Bolsa Família de novembro será pago em 16, 17 e 18."
+ ],
+ "essencial": [
+  {
+   "id": "b3",
+   "porque": "Muda a data do Bolsa Família de novembro e dezembro para milhões de famílias."
+  },
+  {
+   "id": "b2",
+   "porque": "Há previsão de novos temporais em Santa Catarina; a Defesa Civil atende pelo 199."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "TSE abre ação do Novo contra a chapa de Lula e Alckmin",
+     "contexto": "eleicoes-brasil-2026",
+     "texto": "O corregedor-geral da Justiça Eleitoral, Ricardo Villas Bôas Cueva, aceitou na quinta (5) ação do Novo que acusa Lula e Alckmin de abuso de poder político na eleição. O partido cita 35 medidas provisórias e decretos de benefícios editados entre janeiro e outubro.",
+     "pq": "o Novo pede a cassação dos diplomas e oito anos de inelegibilidade. O TSE diz que aceitar a ação não significa reconhecer irregularidade. Lula e Alckmin têm cinco dias para apresentar defesa.",
+     "fontes": [
+      {
+       "t": "TSE",
+       "u": "https://www.tse.jus.br/comunicacao/noticias/2026/Novembro/corregedor-geral-admite-acao-do-novo-contra-lula-e-alckmin-por-suposto-abuso-do-poder-politico-nas-eleicoes"
+      },
+      {
+       "t": "Consultor Jurídico",
+       "u": "https://conjur.com.br/2026-nov-05/tse-abre-investigacao-contra-chapa-lula-alckmin-por-suposto-abuso-de-poder-politico/"
+      }
+     ],
+     "completa": {
+      "fina": "A ação aponta medidas de benefícios concentradas no ano eleitoral; o corregedor diz que o mérito só será julgado depois das defesas e das provas.",
+      "atualizada": "7 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O ministro Ricardo Villas Bôas Cueva, corregedor-geral da Justiça Eleitoral, aceitou na quinta-feira (5) uma ação de investigação judicial eleitoral do partido Novo contra o presidente reeleito, Luiz Inácio Lula da Silva (PT), e o vice, Geraldo Alckmin (PSB), por suposto abuso de poder político nas eleições de 2026, segundo o TSE.",
+      "blocos": [
+       {
+        "h": "O que diz a ação",
+        "li": [
+         {
+          "b": "As medidas:",
+          "t": "entre 1º de janeiro e 16 de outubro, Lula editou 35 medidas provisórias e decretos que criaram ou ampliaram benefícios sociais e econômicos, segundo o Novo, citado pelo Consultor Jurídico."
+         },
+         {
+          "b": "A comparação:",
+          "t": "o partido contou 17 atos desse tipo em 2023, 4 em 2024 e 14 em 2025, e diz que 2026 igualou a soma dos três anos."
+         },
+         {
+          "b": "Exemplos:",
+          "t": "o reajuste do Bolsa Família, com alcance estimado de 19,29 milhões de famílias, e iniciativas sobre combustíveis, com custo projetado de cerca de R$ 40 bilhões em 2026, segundo o TSE."
+         },
+         {
+          "b": "O argumento:",
+          "t": "para o Novo, o momento do anúncio dos benefícios, e não só o número, pode configurar abuso. O partido fala em \"desvio de finalidade\" no uso da máquina federal."
+         }
+        ]
+       },
+       {
+        "h": "O que o Novo pede",
+        "p": [
+         "A cassação do registro ou dos diplomas de Lula e Alckmin e a declaração de inelegibilidade dos dois por oito anos, segundo o Consultor Jurídico."
+        ]
+       },
+       {
+        "h": "O que decidiu o corregedor",
+        "p": [
+         "Cueva considerou que a ação cumpre os requisitos para seguir: foi apresentada durante o processo eleitoral, antes da diplomação, e descreve fatos e atos específicos, com os custos estimados de cada um. \"A ação é tempestiva, pois foi ajuizada no curso do processo eleitoral, antes da diplomação\", escreveu, segundo o TSE. Ele afirmou que a admissão \"não representa um reconhecimento\" de irregularidade, segundo o Consultor Jurídico. O ministro ainda não decidiu sobre pedidos de informações a órgãos públicos."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Partido Novo:",
+          "t": "diz que a concentração das medidas no período eleitoral mostra uso da estrutura do governo federal com fins eleitorais."
+         },
+         {
+          "b": "Lula e Alckmin:",
+          "t": "o Consultor Jurídico não registrou resposta do presidente, do vice ou dos advogados até a publicação. A defesa será apresentada no processo."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando o TSE julga o mérito; não há data.",
+         "Quais órgãos públicos terão de enviar informações."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Lula e Alckmin têm cinco dias, a partir da notificação, para apresentar defesa.",
+         "Depois vem a fase de provas, antes do julgamento."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "TSE: corregedor admite ação do Novo",
+        "u": "https://www.tse.jus.br/comunicacao/noticias/2026/Novembro/corregedor-geral-admite-acao-do-novo-contra-lula-e-alckmin-por-suposto-abuso-do-poder-politico-nas-eleicoes"
+       },
+       {
+        "t": "Consultor Jurídico: TSE abre investigação contra a chapa",
+        "u": "https://conjur.com.br/2026-nov-05/tse-abre-investigacao-contra-chapa-lula-alckmin-por-suposto-abuso-de-poder-politico/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Temporais atingem 109 cidades em Santa Catarina e deixam dois mortos",
+     "contexto": "temporais-no-sul-e-sudeste",
+     "texto": "A Defesa Civil de Santa Catarina contou 109 municípios atingidos por temporais desde domingo (1º), 32 em situação de emergência e duas mortes, em Rio Negrinho e Xanxerê. Mais de 5.500 casas foram afetadas.",
+     "pq": "a previsão era de novos temporais da tarde de sexta (6) até a manhã de sábado (7), com atenção ao oeste e à divisa com o Paraná. Em emergência, ligue 199 para a Defesa Civil ou 193 para os Bombeiros.",
+     "fontes": [
+      {
+       "t": "ND Mais",
+       "u": "https://ndmais.com.br/tempo/defesa-civil-distribui-mais-de-56-mil-itens-apos-temporais-atingirem-109-cidades-e-deixarem-duas-mortes-em-sc/"
+      },
+      {
+       "t": "Correio SC",
+       "u": "https://www.correiosc.com.br/temporais-109-municipios-santa-catarina-dois-mortos"
+      }
+     ],
+     "completa": {
+      "fina": "O estado distribui mais de 56 mil itens, como telhas, colchões e cestas básicas; 12 cidades pediram ajuda humanitária.",
+      "atualizada": "7 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Os temporais que atingem Santa Catarina desde domingo (1º) chegaram a 109 municípios e deixaram duas pessoas mortas, segundo a Defesa Civil do estado, citada pelo ND Mais e pelo Correio SC. Até a manhã de quinta-feira (5), 32 municípios tinham decretado situação de emergência.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Casas:",
+          "t": "5.531 casas afetadas no balanço do ND Mais; o Correio SC cita atualização do governo com mais de 5.700."
+         },
+         {
+          "b": "Pessoas fora de casa:",
+          "t": "56 desabrigadas e 252 desalojadas no balanço da Defesa Civil. O levantamento ainda estava em andamento e os números podiam subir."
+         },
+         {
+          "b": "Ajuda:",
+          "t": "mais de 56 mil itens distribuídos, entre telhas, cestas básicas, colchões e kits de limpeza. Só as telhas passaram de R$ 3 milhões, segundo o Correio SC. Doze cidades pediram ajuda humanitária ao estado."
+         }
+        ]
+       },
+       {
+        "h": "As mortes",
+        "p": [
+         "Em Rio Negrinho, no Planalto Norte, uma pessoa morreu quando a estrutura de um posto de combustíveis desabou. Em Xanxerê, no oeste, uma mulher de 46 anos morreu eletrocutada depois do rompimento de um cabo de alta tensão, segundo as duas fontes."
+        ]
+       },
+       {
+        "h": "Onde houve mais estragos",
+        "li": [
+         {
+          "b": "Chapecó:",
+          "t": "mais de 2.400 imóveis afetados depois do tornado de quarta-feira (4)."
+         },
+         {
+          "b": "Fraiburgo:",
+          "t": "891 casas atingidas por vento e granizo nos dias 1º e 4."
+         },
+         {
+          "b": "Palmitos:",
+          "t": "209 casas danificadas e 64 estradas bloqueadas ou obstruídas."
+         },
+         {
+          "b": "Rio do Sul:",
+          "t": "bombeiros resgataram 30 pessoas ilhadas pela água; quatro abrigos foram abertos."
+         },
+         {
+          "b": "Tornados:",
+          "t": "a Defesa Civil confirmou dois, em Chapecó e Xanxerê, e avalia se houve outros em Rio Negrinho e Timbó Grande."
+         }
+        ]
+       },
+       {
+        "h": "Serra e Vale do Itajaí",
+        "li": [
+         {
+          "b": "Lages:",
+          "t": "96 casas atingidas por granizo no dia 3; no dia 4, o rio Carah transbordou. São 24 desalojados, 12 desabrigados e 14 estradas bloqueadas, segundo o ND Mais."
+         },
+         {
+          "b": "Rio Rufino:",
+          "t": "34 desabrigados e 11 desalojados depois de enchente."
+         },
+         {
+          "b": "Anita Garibaldi:",
+          "t": "o granizo danificou hospital, centro de assistência social e escolas; duas escolas suspenderam as aulas."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Governador Jorginho Mello:",
+          "t": "visitou Xanxerê e Chapecó na quinta (5), prometeu apoio do estado para recuperar o aeroporto de Chapecó e disse: \"Eu sou parceiro para ajudar\", segundo o Correio SC."
+         },
+         {
+          "b": "Defesa Civil:",
+          "t": "afirmou que \"o levantamento ainda está em andamento e os números podem aumentar\", segundo o ND Mais."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se houve tornados em Rio Negrinho e Timbó Grande.",
+         "O balanço final de prejuízos."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Novos temporais eram esperados da tarde de sexta (6) até a manhã de sábado (7), em todas as regiões, com atenção ao oeste e à divisa com o Paraná.",
+         "O governador deve se reunir com prefeitos das cidades atingidas na semana que vem."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "ND Mais: 109 cidades e duas mortes",
+        "u": "https://ndmais.com.br/tempo/defesa-civil-distribui-mais-de-56-mil-itens-apos-temporais-atingirem-109-cidades-e-deixarem-duas-mortes-em-sc/"
+       },
+       {
+        "t": "Correio SC: temporais em 109 municípios",
+        "u": "https://www.correiosc.com.br/temporais-109-municipios-santa-catarina-dois-mortos"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Com ressalva",
+     "titulo": "Bolsa Família de novembro e dezembro será pago em três dias",
+     "contexto": "bolsa-familia",
+     "texto": "O Ministério do Desenvolvimento Social antecipou o Bolsa Família de novembro para os dias 16, 17 e 18, conforme o final do NIS, e o de dezembro para 10, 11 e 14. O motivo, segundo o ministério, é o risco de eventos extremos ligados ao El Niño.",
+     "pq": "o pagamento costuma se espalhar por dez dias úteis. Ressalva: a portaria tem critérios por território, e quem mora fora dessas áreas pode seguir no calendário normal. Confirme a data no app Bolsa Família ou pelo telefone 121.",
+     "fontes": [
+      {
+       "t": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/economia/bolsa-familia-sera-pago-em-3-dias-em-novembro-e-dezembro"
+      },
+      {
+       "t": "Diário do Pará",
+       "u": "https://diariodopara.com.br/seu-bolso/bolsa-familia-tera-pagamentos-antecipados-em-novembro-e-dezembro-veja-novas-datas-e-valores/"
+      }
+     ],
+     "completa": {
+      "fina": "O ministério cita 518 reconhecimentos federais de emergência ou calamidade em agosto e setembro, mais que o dobro do mesmo período de 2025.",
+      "atualizada": "7 nov 2026, 5h",
+      "selo": "Com ressalva",
+      "fato": "O Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) concentrou o pagamento do Bolsa Família de novembro e dezembro em três dias por mês, pela Portaria MDS nº 1.221, de 16 de outubro, segundo o SBT News. A medida busca \"reduzir os impactos dos efeitos previstos do fenômeno climático El Niño\" sobre famílias vulneráveis.",
+      "blocos": [
+       {
+        "h": "O calendário",
+        "li": [
+         {
+          "b": "Novembro:",
+          "t": "segunda (16), NIS com final 1; terça (17), final 2; quarta (18), finais de 3 a 0, juntos."
+         },
+         {
+          "b": "Dezembro:",
+          "t": "quinta (10), final 1; sexta (11), final 2; segunda (14), finais de 3 a 0."
+         },
+         {
+          "b": "Antes:",
+          "t": "o pagamento costuma ser distribuído em dez dias úteis. Outubro também teve antecipação, segundo o Diário do Pará."
+         }
+        ]
+       },
+       {
+        "h": "Por que antecipar",
+        "p": [
+         "O El Niño pode causar secas, enchentes e outros eventos extremos nos últimos meses do ano. Segundo o Diário do Pará, a medida busca \"garantir acesso mais rápido aos recursos para famílias em situação de vulnerabilidade social\"."
+        ]
+       },
+       {
+        "h": "A ressalva",
+        "p": [
+         "As fontes dizem que o calendário especial depende dos critérios territoriais da portaria. Segundo o SBT News, famílias com NIS final 1 que moram fora das áreas cobertas mantêm o calendário tradicional. Segundo o Diário do Pará, em municípios com reconhecimento federal de emergência ou calamidade, o pagamento é unificado no primeiro dia. A orientação das duas reportagens é confirmar a data individual nos canais oficiais."
+        ]
+       },
+       {
+        "h": "Os valores",
+        "p": [
+         "O benefício mínimo é de R$ 691 por família, reajustado em outubro pelo INPC, com R$ 173 por criança de até 6 anos e R$ 58 para gestantes, nutrizes e jovens de 7 a 17 anos, segundo o Diário do Pará. Tem direito quem tem renda de até R$ 218 por pessoa e está no CadÚnico. A inclusão não é automática: o MDS faz verificações periódicas e depende de disponibilidade no orçamento, segundo o Diário do Pará."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "MDS:",
+          "t": "afirma que a medida prepara a rede de proteção social para eventos extremos e cita 518 reconhecimentos federais de emergência ou calamidade em agosto e setembro de 2026, contra 253 no mesmo período de 2025."
+         },
+         {
+          "b": "Críticas:",
+          "t": "as reportagens consultadas não trazem críticas à medida."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "A lista de municípios cobertos pelos critérios territoriais; as reportagens não a publicam.",
+         "Quantas famílias recebem antes."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Os pagamentos de novembro começam na segunda (16).",
+         "Dúvidas: Disque Social 121, do MDS, ou 111, da Caixa. O dinheiro pode ser movimentado pelo Caixa Tem."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "SBT News: Bolsa Família em três dias",
+        "u": "https://sbtnews.sbt.com.br/noticia/economia/bolsa-familia-sera-pago-em-3-dias-em-novembro-e-dezembro"
+       },
+       {
+        "t": "Diário do Pará: novas datas e valores",
+        "u": "https://diariodopara.com.br/seu-bolso/bolsa-familia-tera-pagamentos-antecipados-em-novembro-e-dezembro-veja-novas-datas-e-valores/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Senado do Paraguai destitui Peña; Pedro Alliana assume a Presidência",
+     "contexto": "crise-bancaria-paraguai",
+     "texto": "Os 44 senadores presentes votaram na sexta (6) pela destituição do presidente Santiago Peña, por mau desempenho das funções, depois da quebra do banco Ueno. O vice, Pedro Alliana, tomou posse. Promotores mandaram prender Peña e o ex-presidente do banco central Carlos Carvallo.",
+     "pq": "Alliana governa até agosto de 2028. Peña nega irregularidades, e o Congresso não aceitou a renúncia que ele apresentou na quinta (5). Segundo a Rio Times, ele tem audiência com um juiz neste sábado (7).",
+     "fontes": [
+      {
+       "t": "AP, via WHEC",
+       "u": "https://www.whec.com/ap-top-news/paraguays-pedro-alliana-sworn-in-as-president-after-senate-removes-santiago-pena-from-office/"
+      },
+      {
+       "t": "The Rio Times",
+       "u": "https://www.riotimesonline.com/paraguay-senate-removes-pena-alliana-sworn-in-2026/"
+      }
+     ],
+     "completa": {
+      "fina": "O Senado seguiu com o impeachment mesmo depois da renúncia; Peña perdeu a imunidade que teria como senador vitalício.",
+      "atualizada": "7 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Senado do Paraguai destituiu o presidente Santiago Peña na sexta-feira (6). Os 44 senadores presentes votaram a favor, segundo a AP. Pedro Alliana, de 52 anos, vice-presidente e político do Partido Colorado, tomou posse cerca de 50 minutos depois da votação, segundo a The Rio Times.",
+      "blocos": [
+       {
+        "h": "Os detalhes",
+        "li": [
+         {
+          "b": "A acusação:",
+          "t": "deputados acusam Peña de direcionar centenas de milhões de dólares em dinheiro público para o Ueno. A acusação cita um depósito de US$ 355 milhões de um fundo estatal de aposentadorias, acima dos limites legais, segundo a AP. Peña nega."
+         },
+         {
+          "b": "A renúncia:",
+          "t": "Peña apresentou a renúncia na quinta (5), mas o Congresso não a aceitou. Os advogados dele dizem que os parlamentares deveriam ter aprovado a saída."
+         },
+         {
+          "b": "A prisão:",
+          "t": "promotores, e não um juiz, ordenaram a prisão de Peña por suspeita de abuso de confiança e pediram que ele ficasse em casa até ser levado à unidade de crimes econômicos, segundo a AP. A ordem inclui Carlos Carvallo, ex-presidente do banco central. A AP disse que não estava claro se os dois tinham sido detidos; a Rio Times afirma que Peña está em casa sob custódia."
+         },
+         {
+          "b": "O novo vice:",
+          "t": "o senador Antonio Barrios foi escolhido vice-presidente na mesma noite, segundo a Rio Times."
+         }
+        ]
+       },
+       {
+        "h": "O banco",
+        "p": [
+         "O Ueno, com cerca de 3 milhões de clientes, sofreu intervenção na madrugada de terça-feira (3). Guardava mais de US$ 800 milhões em dinheiro público, segundo a AP. Os depósitos têm garantia de até cerca de US$ 37 mil, e clientes com até 10 milhões de guaranis, cerca de US$ 1.600, começaram a recuperar o dinheiro na quinta. Promotores acusaram 27 pessoas, entre elas o acionista controlador, Miguel Vázquez."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Santiago Peña:",
+          "t": "em mensagem de despedida, escreveu: \"Não quero que a minha presença seja motivo de maior divisão ou instabilidade\", segundo a AP."
+         },
+         {
+          "b": "Senadora Yolanda Paredes, da oposição:",
+          "t": "\"Ele tem que ir, mas não para casa. Tem que ir para uma prisão de segurança máxima\", segundo a AP."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quais são as acusações formais contra Peña.",
+         "Se o juiz mantém a prisão depois da audiência.",
+         "Se Alliana troca o ministério."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A audiência de Peña com um juiz estava marcada para sábado (7), às 11h de Assunção, segundo a Rio Times.",
+         "O maior sindicato de professores do país, com mais de 40 mil filiados, prevê greve por tempo indeterminado a partir de segunda (9), pela proteção dos fundos de aposentadoria, segundo a AP."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "AP, via WHEC: Alliana assume",
+        "u": "https://www.whec.com/ap-top-news/paraguays-pedro-alliana-sworn-in-as-president-after-senate-removes-santiago-pena-from-office/"
+       },
+       {
+        "t": "The Rio Times: Paraguai destitui e detém Peña",
+        "u": "https://www.riotimesonline.com/paraguay-senate-removes-pena-alliana-sworn-in-2026/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Com ressalva",
+     "titulo": "Alasca só conclui apuração do Senado depois de 18 de novembro",
+     "contexto": "eleicoes-eua-2026",
+     "texto": "Com cerca de 74% dos votos contados, a democrata Mary Peltola tinha 48,17% e o senador republicano Dan Sullivan, 47,88%, segundo a Newsweek. A diferença era de menos de 700 votos. O estado aceita votos do exterior até 18 de novembro.",
+     "pq": "se ninguém passar de 50%, entra o voto ranqueado, que não será feito antes de 18 de novembro. Ressalva: a contagem ainda muda. No Mississippi, o presidente do Partido Republicano estadual disse que aceita a vitória do democrata Scott Colom se a lei for seguida.",
+     "fontes": [
+      {
+       "t": "Newsweek",
+       "u": "https://newsweek.com/alaska-ranked-choice-voting-could-sink-challenge-to-senate-result-analysts-12677271"
+      },
+      {
+       "t": "Gray DC, via LocalNewsLIVE",
+       "u": "https://www.localnewslive.com/2026/11/07/alaska-senate-race-remains-undecided-days-after-election-day/"
+      },
+      {
+       "t": "Just Security",
+       "u": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+      }
+     ],
+     "completa": {
+      "fina": "Um candidato com o mesmo nome do senador está na cédula; o Departamento de Justiça e o FBI investigam.",
+      "atualizada": "7 nov 2026, 5h",
+      "selo": "Com ressalva",
+      "fato": "A disputa pelo Senado no Alasca seguia sem vencedor na sexta-feira (6). Com 74% dos votos contados, a democrata Mary Peltola tinha 48,17%, contra 47,88% do senador republicano Dan Sullivan, segundo a Newsweek. A diferença, de menos de 700 votos, não mudava havia mais de 24 horas, segundo a Gray DC.",
+      "blocos": [
+       {
+        "h": "Os detalhes",
+        "li": [
+         {
+          "b": "Outros candidatos:",
+          "t": "o republicano Gerald L. Heikes tinha 2,27%, e Daniel J. Sullivan Jr., sem partido, 1,68%, segundo a Newsweek."
+         },
+         {
+          "b": "Voto ranqueado:",
+          "t": "se ninguém chegar a 50%, o último colocado sai e os votos dele vão para a segunda opção de cada eleitor, até alguém ter maioria. Essa apuração não será feita antes de 18 de novembro, segundo a Gray DC."
+         },
+         {
+          "b": "Prazo:",
+          "t": "o Alasca aceita votos do exterior até 18 de novembro."
+         },
+         {
+          "b": "O xará:",
+          "t": "Daniel J. Sullivan Jr. é acusado de ter sido recrutado por democratas para tirar votos do senador. O Departamento de Justiça e o FBI investigam, segundo a Gray DC. Um processo do governo Trump para barrar a certificação foi rejeitado por um juiz estadual antes da eleição, segundo a Newsweek."
+         }
+        ]
+       },
+       {
+        "h": "O voto ranqueado em jogo",
+        "p": [
+         "O Alasca aprovou o voto ranqueado em referendo em 2020, por cerca de 4 mil votos. Neste ano, uma proposta para revogar o sistema perdia por 52% a 48%, segundo Will Mantell, da FairVote, citado pela Newsweek. Se o resultado se mantiver, será a terceira vez em seis anos que os eleitores mantêm o sistema."
+        ]
+       },
+       {
+        "h": "Mississippi",
+        "p": [
+         "O presidente do Partido Republicano do Mississippi, Mike Hurst, disse que o partido aceitará a vitória do democrata Scott Colom sobre a senadora Cindy Hyde-Smith se as leis forem seguidas, segundo o The Hill, citado pelo Just Security. A certificação no estado vence em 13 de novembro."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Mary Peltola, democrata:",
+          "t": "\"Vai levar semanas. Nós sabemos disso\", segundo a Gray DC."
+         },
+         {
+          "b": "Dan Sullivan, republicano:",
+          "t": "acusou os democratas de um plano para \"enganar os alasquianos para que joguem fora o voto e fraudar a eleição\", segundo a Gray DC."
+         },
+         {
+          "b": "Donald Trump:",
+          "t": "pediu que os votos do xará fossem transferidos ao senador, segundo a Newsweek."
+         },
+         {
+          "b": "Mark Brown, professor de direito:",
+          "t": "disse à Newsweek que o voto ranqueado reduz o risco de o xará mudar o resultado, porque os votos dele são transferidos quando ele é eliminado."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem vence no Alasca e no Mississippi.",
+         "Se algum resultado vai parar na Justiça."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Certificação no Mississippi até 13 de novembro.",
+         "Fim do prazo dos votos do exterior e possível apuração ranqueada no Alasca a partir de 18 de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Newsweek: o voto ranqueado no Alasca",
+        "u": "https://newsweek.com/alaska-ranked-choice-voting-could-sink-challenge-to-senate-result-analysts-12677271"
+       },
+       {
+        "t": "Gray DC: Alasca segue sem resultado",
+        "u": "https://www.localnewslive.com/2026/11/07/alaska-senate-race-remains-undecided-days-after-election-day/"
+       },
+       {
+        "t": "Just Security: resumo de 6 de novembro",
+        "u": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Trump diz que decide em breve entre acordo e ataques ao Irã",
+     "contexto": "guerra-ira-eua-2026",
+     "texto": "O presidente Donald Trump disse na sexta (6) que o mundo saberá em breve se ele fará um acordo com o Irã ou ordenará novos ataques, segundo a CBS News. Ele telefonou ao emir do Catar, que mediou a entrega de uma proposta nuclear iraniana aos EUA.",
+     "pq": "a guerra afeta o petróleo e o Estreito de Ormuz. Na quinta (5), um tripulante morreu num petroleiro atingido perto do Bahrein, segundo a CBS. O Irã diz que só discute a proposta depois de os EUA atenderem sete exigências.",
+     "fontes": [
+      {
+       "t": "CBS News",
+       "u": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+      },
+      {
+       "t": "Just Security",
+       "u": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+      }
+     ],
+     "completa": {
+      "fina": "Os EUA oferecem até US$ 20 milhões por informações sobre o programa nuclear iraniano; a gasolina americana está em US$ 4,06 o galão.",
+      "atualizada": "7 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Donald Trump disse na sexta-feira (6) que o mundo saberá em breve se ele fará um acordo com o Irã ou ordenará novos ataques, segundo a CBS News. Segundo o Axios, citado pelo Just Security, ele se reuniu com assessores de segurança nacional e disse que, com o fim das eleições de meio de mandato, vai decidir se retoma as ações militares.",
+      "blocos": [
+       {
+        "h": "A diplomacia",
+        "li": [
+         {
+          "b": "Catar:",
+          "t": "Trump telefonou ao emir, xeque Tamim bin Hamad Al Thani. O gabinete do emir disse ter \"enfatizado a importância de continuar o diálogo\", segundo a CBS."
+         },
+         {
+          "b": "Proposta iraniana:",
+          "t": "o Irã enviou aos EUA, via Catar, uma proposta sobre o programa nuclear. Um alto funcionário iraniano disse que ela só será discutida depois de os EUA atenderem às sete exigências do Irã para reabrir o Estreito de Ormuz, segundo a Reuters, citada pelo Just Security. Os EUA analisam o texto."
+         },
+         {
+          "b": "G7:",
+          "t": "o secretário de Estado, Marco Rubio, vai a reunião de chanceleres do G7 em Paris na segunda e na terça."
+         }
+        ]
+       },
+       {
+        "h": "No mar",
+        "p": [
+         "A agência marítima britânica relatou uma explosão na linha d'água de um petroleiro que saía do Estreito de Ormuz, sem feridos entre os tripulantes. Um petroleiro de gestão grega atingido na quinta (5) perto do Bahrein deixou um tripulante morto. A Guarda Revolucionária do Irã disse que outros dois petroleiros bateram em minas, o que autoridades marítimas não confirmaram, segundo a CBS."
+        ]
+       },
+       {
+        "h": "Pressão",
+        "li": [
+         {
+          "b": "Recompensa:",
+          "t": "o Comando Central dos EUA oferece até US$ 20 milhões por informações sobre o programa nuclear iraniano."
+         },
+         {
+          "b": "Sanções:",
+          "t": "o Tesouro americano mirou empresas de câmbio da moeda iraniana, algumas sediadas em Vancouver e Toronto, com ajuda do Canadá."
+         },
+         {
+          "b": "Combustível:",
+          "t": "a média da gasolina nos EUA estava em US$ 4,06 o galão, e Patrick De Haan, da GasBuddy, espera queda para menos de US$ 4 na semana que vem."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Donald Trump:",
+          "t": "estimou que o Irã levaria 25 anos para se reconstruir, segundo a CBS."
+         },
+         {
+          "b": "Irã:",
+          "t": "condiciona a discussão da proposta nuclear ao atendimento das sete exigências, entre elas o fim do bloqueio naval e das sanções, citadas em edições anteriores."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O que Trump vai decidir e quando.",
+         "O conteúdo da proposta nuclear iraniana."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Reunião do G7 em Paris na segunda (9) e na terça (10).",
+         "A resposta dos EUA à proposta enviada pelo Catar."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "CBS News: atualizações da guerra",
+        "u": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+       },
+       {
+        "t": "Just Security: resumo de 6 de novembro",
+        "u": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Ações ligadas a inteligência artificial puxam queda de 5,5% da Nasdaq",
+     "contexto": "data-centers-e-energia",
+     "texto": "A Nasdaq caiu 5,52% na quinta (5), a maior queda desde abril de 2025, e o Dow Jones recuou 1.833 pontos. O índice de semicondutores caiu 12,25%, e a Nvidia, cerca de 9%, segundo a Fox Business e o Yahoo Finance.",
+     "pq": "analistas ligam a queda ao Congresso democrata eleito: investidores temem regras mais duras e custo maior para data centers de inteligência artificial, cuja conta de luz virou tema político. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, empresa de inteligência artificial que concorre com empresas citadas nesta nota, como a Meta.",
+     "fontes": [
+      {
+       "t": "Fox Business",
+       "u": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+      },
+      {
+       "t": "Yahoo Finance",
+       "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+      }
+     ],
+     "completa": {
+      "fina": "A Nasdaq entrou em correção, mais de 10% abaixo do recorde de 6 de outubro; bolsas da Ásia também caíram.",
+      "atualizada": "7 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "As bolsas americanas tiveram forte queda na quinta-feira (5), puxadas por ações ligadas a inteligência artificial. A Nasdaq recuou 5,52%, a maior queda desde abril de 2025, o S&P 500 caiu 4,36% e o Dow Jones perdeu 1.833,06 pontos, ou 3,44%, fechando em 51.523,06, segundo a Fox Business e o Yahoo Finance.",
+      "blocos": [
+       {
+        "h": "Os detalhes",
+        "li": [
+         {
+          "b": "Correção:",
+          "t": "a Nasdaq fechou mais de 10% abaixo do recorde de 6 de outubro, o que o mercado chama de correção."
+         },
+         {
+          "b": "Chips:",
+          "t": "o índice de semicondutores da Filadélfia caiu 12,25%, segundo o Yahoo Finance."
+         },
+         {
+          "b": "Empresas:",
+          "t": "Nvidia, cerca de 9,3%; Tesla, cerca de 10,8%; SpaceX, 9,05%; Meta, 3,96%, segundo a Fox Business. IREN, Applied Digital e Nebius, empresas de data centers, caíram mais de 14% cada."
+         },
+         {
+          "b": "Ásia:",
+          "t": "o Nikkei, do Japão, e o Kospi, da Coreia do Sul, caíram depois da queda em Wall Street, segundo a Fox Business."
+         }
+        ]
+       },
+       {
+        "h": "Os motivos apontados",
+        "p": [
+         "Analistas citam o resultado das eleições de 3 de novembro, em que os democratas ganharam o Congresso. Com a alta da conta de luz, a construção de data centers virou tema político, e alguns democratas defendem restrições ou pausas em novos projetos, segundo a Fox Business. O Yahoo Finance também cita fundos vendendo as ações que mais subiram no ano para garantir ganhos."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Jakub Rochlitz, analista da eToro:",
+          "t": "\"O mercado interpreta que a construção da infraestrutura de IA vai ficar mais lenta e mais cara\", segundo a Fox Business."
+         },
+         {
+          "b": "Jed Ellerbroek, da Argent Capital:",
+          "t": "disse à Reuters que a queda parece a fase de capitulação das ações de data centers, mas que \"a magnitude dos movimentos é exagerada\"."
+         },
+         {
+          "b": "Lisa Su, presidente da AMD:",
+          "t": "\"Acho que o mercado às vezes pode ter visão um pouco curta\", disse, segundo o Yahoo Finance, afirmando que ainda acredita na demanda por chips de IA."
+         },
+         {
+          "b": "Kevin Mahn, da Hennion & Walsh:",
+          "t": "\"Esse tipo de volatilidade não deveria surpreender ninguém\", disse, lembrando que a preocupação com uma bolha de IA vinha crescendo, segundo o Yahoo Finance."
+         }
+        ]
+       },
+       {
+        "h": "Ressalva sobre os números",
+        "p": [
+         "A página da Fox Business traz, em tabelas e legendas, números diferentes do texto, provavelmente de outros horários. O Contexto usou os números de fechamento que aparecem no texto das duas fontes."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a queda continua nos próximos pregões.",
+         "Que regras o novo Congresso vai propor para data centers."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O novo Congresso toma posse em janeiro.",
+         "Investidores acompanham as próximas decisões sobre energia e data centers."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Fox Business: Nasdaq cai 5%",
+        "u": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+       },
+       {
+        "t": "Yahoo Finance: o pregão de 5 de novembro",
+        "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Google, Meta e TikTok processam a Califórnia para barrar lei sobre menores",
+     "contexto": "redes-sociais-e-menores",
+     "texto": "Google, Meta e TikTok entraram com três ações na Justiça federal contra a lei AB 1709, da Califórnia, que proíbe feeds personalizados e reprodução automática para menores de 16 anos a partir de 1º de janeiro de 2027, segundo a CalMatters e o Colombia One.",
+     "pq": "as empresas dizem que a lei fere a liberdade de expressão; o procurador-geral Rob Bonta diz que vai defendê-la. Em agosto, a Justiça negou suspender parte de uma lei parecida, de 2024. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, empresa de inteligência artificial que concorre com Google, Meta e outras citadas nesta nota.",
+     "fontes": [
+      {
+       "t": "CalMatters",
+       "u": "https://calmatters.org/economy/technology/2026/11/big-tech-sues-california-social-media-addiction-law"
+      },
+      {
+       "t": "Colombia One",
+       "u": "https://colombiaone.com/2026/11/06/google-meta-tiktok-sue-california-social-media-law-minors/"
+      }
+     ],
+     "completa": {
+      "fina": "A lei prevê multa de até US$ 50 mil por menor afetado e exige verificação de idade.",
+      "atualizada": "7 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Google, Meta e TikTok entraram, cada uma, com uma ação na Justiça federal da Califórnia para impedir que a lei AB 1709 entre em vigor, segundo a CalMatters. As ações foram apresentadas em 4 de novembro em tribunais de San Jose, San Francisco e Los Angeles, segundo o Colombia One. O réu é o procurador-geral do estado, Rob Bonta.",
+      "blocos": [
+       {
+        "h": "O que diz a lei",
+        "li": [
+         {
+          "b": "Recursos:",
+          "t": "proíbe oferecer a menores de 16 anos feeds personalizados e reprodução automática, recursos que o estado considera viciantes."
+         },
+         {
+          "b": "Idade:",
+          "t": "as plataformas precisam verificar a idade dos usuários."
+         },
+         {
+          "b": "Contas:",
+          "t": "contas de menores de 16 não são proibidas, mas precisam ficar sem esses recursos; senão, têm de ser apagadas."
+         },
+         {
+          "b": "Multas:",
+          "t": "até US$ 50 mil por menor afetado em violação intencional e US$ 25 mil em violação por negligência, segundo o Colombia One."
+         },
+         {
+          "b": "Origem:",
+          "t": "proposta pelo deputado estadual Josh Lowenthal e sancionada pelo governador Gavin Newsom em 10 de setembro."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Meta:",
+          "t": "diz na ação que a lei torna o estado \"o editor, curador e controlador do discurso on-line\", segundo a CalMatters."
+         },
+         {
+          "b": "Google:",
+          "t": "o porta-voz José Castañeda disse que \"leis amplas demais como esta acabam quebrando os sistemas\" criados para ajudar crianças a achar vídeos adequados."
+         },
+         {
+          "b": "TikTok:",
+          "t": "diz que recomendações personalizadas são expressão protegida e que já tem controles para adolescentes, segundo o Colombia One."
+         },
+         {
+          "b": "Procurador-geral Rob Bonta:",
+          "t": "o gabinete analisa as ações e disse estar comprometido em defender as leis que protegem crianças on-line."
+         },
+         {
+          "b": "Josh Lowenthal, autor da lei:",
+          "t": "disse que recursos como a reprodução automática prejudicam o cérebro em desenvolvimento, segundo o Colombia One."
+         },
+         {
+          "b": "Outras entidades:",
+          "t": "a Electronic Frontier Foundation critica a verificação de idade por risco à privacidade; o Electronic Privacy Information Center, que apoia a lei, diz que os tribunais têm rejeitado os argumentos das empresas, segundo a CalMatters."
+         }
+        ]
+       },
+       {
+        "h": "Antes desta lei",
+        "p": [
+         "Uma lei de 2024, a SB 976, já restringe feeds personalizados para menores sem consentimento dos pais. As três empresas também a contestam. Em agosto de 2026, um juiz federal negou o pedido para suspender essa parte enquanto os recursos andam, segundo o Colombia One. No mesmo mês, a Meta fez acordo de até US$ 17 bilhões com 47 estados que a acusavam de tornar seus produtos viciantes para crianças, segundo a CalMatters."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a Justiça suspende a lei antes de janeiro.",
+         "Como a verificação de idade funcionaria na prática."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A lei entra em vigor em 1º de janeiro de 2027, se não for suspensa.",
+         "Os juízes vão analisar os pedidos das empresas."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "CalMatters: big techs processam a Califórnia",
+        "u": "https://calmatters.org/economy/technology/2026/11/big-tech-sues-california-social-media-addiction-law"
+       },
+       {
+        "t": "Colombia One: as ações contra a AB 1709",
+        "u": "https://colombiaone.com/2026/11/06/google-meta-tiktok-sue-california-social-media-law-minors/"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "5,52%",
+  "texto": "foi a queda da Nasdaq na quinta (5), a maior desde abril de 2025, puxada por ações de inteligência artificial e de chips.",
+  "fontes": [
+   {
+    "t": "Fox Business",
+    "u": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+   },
+   {
+    "t": "Yahoo Finance",
+    "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "O Alasca aceita votos de eleitores no exterior até 18 de novembro. Até lá, a disputa ao Senado fica aberta. \"Vai levar semanas. Nós sabemos disso\", disse a candidata Mary Peltola.",
+  "fontes": [
+   {
+    "t": "Newsweek",
+    "u": "https://newsweek.com/alaska-ranked-choice-voting-could-sink-challenge-to-senate-result-analysts-12677271"
+   },
+   {
+    "t": "Gray DC",
+    "u": "https://www.localnewslive.com/2026/11/07/alaska-senate-race-remains-undecided-days-after-election-day/"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição cita Google, Meta e outras empresas que concorrem com a Anthropic.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. No TSE, a acusação do Novo e a decisão do corregedor aparecem com a ressalva de que admitir a ação não é reconhecer irregularidade; no Paraguai, Peña e a oposição falam na própria voz; no Alasca, as duas campanhas aparecem.",
+  "pontos": [
+   "Brasil 1: 'abuso de poder' sempre como acusação do Novo; registrado que a defesa não se manifestou nas fontes e que a admissão não julga o mérito.",
+   "Brasil 3: selo Com ressalva, porque as fontes divergem sobre quem entra no calendário especial; a ressalva está no texto.",
+   "Mundo 1: acusações contra Peña descritas como acusação de deputados e de promotores; Peña nega; a fala dura da senadora fica entre aspas e com nome.",
+   "Mundo 2: 'fraudar a eleição' só entre aspas, como fala de Sullivan; Peltola, Trump e um professor de direito também ouvidos.",
+   "Mundo 3: nota de guerra sem menção a IA; números atribuídos à CBS e à Reuters.",
+   "Inovação 1 e 2: aviso de conflito de interesse; argumentos das empresas, do procurador-geral e do autor da lei em espaço parecido."
+  ],
+  "equilibrio": "Governo Lula: 2 menções (neutras); oposição: 1 (neutra, o Novo como autor da ação). Democratas dos EUA: 3; republicanos: 4 (neutras). Governo e oposição do Paraguai: 1 cada (neutras).",
+  "foraDaEdicao": [
+   "Esportes: a despedida de Cristiano Ronaldo da seleção de Portugal tinha duas fontes, mas com números divergentes sobre o último jogo e a multa; ficou de fora para não publicar dado incerto.",
+   "Outras categorias extras: sem fato novo checado em duas fontes até o fechamento.",
+   "Israel: Herzog só anuncia no domingo (8) quem forma o governo; sem novidade checada hoje."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Essencial: Bolsa Família e temporais, pelo critério de dinheiro e segurança de muita gente no Brasil. A ação no TSE ficou fora do destaque porque não muda nada para o leitor agora e para não dar peso só a um lado.",
+   "Brasil 3 e Mundo 2 com selo Com ressalva.",
+   "Mundo 1: a prisão aparece como ordem de promotores, com a divergência entre AP e Rio Times sobre a detenção.",
+   "Toda nota tem página de contexto."
+  ]
+ },
+ "geradaEm": "2026-11-07T07:41:57Z"
+}

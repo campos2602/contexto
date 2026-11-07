@@ -1,13 +1,9 @@
 {
  "titulo": "As eleições de meio de mandato nos Estados Unidos",
- "atualizado": "6 nov 2026",
+ "atualizado": "7 nov 2026",
  "selo": "Checado",
  "frase": "A cada quatro anos, no meio do mandato presidencial, os americanos renovam a Câmara inteira, um terço do Senado e muitos governos estaduais. O resultado define se o presidente governa com ou sem maioria no Congresso.",
  "linha": [
-  {
-   "d": "2 de novembro de 2026",
-   "t": "Pesquisa Reuters/Ipsos mostra 32% de aprovação a Trump e 46% de preferência por democratas para o Congresso, contra 38% por republicanos."
-  },
   {
    "d": "Antes da votação",
    "t": "Mais de 57 milhões de americanos votam antecipadamente, segundo a CBS News, que cita o Voting Lab da Universidade da Flórida."
@@ -35,6 +31,10 @@
   {
    "d": "13 de novembro de 2026",
    "t": "Prazo de certificação do resultado no Mississippi, onde a diferença no Senado era de cerca de 1.100 votos. O estado não tem recontagem formal."
+  },
+  {
+   "d": "18 de novembro de 2026",
+   "t": "Fim do prazo para votos do exterior no Alasca. Se ninguém tiver 50%, a apuração com voto ranqueado não começa antes dessa data. Com 74% contados, Peltola tinha 48,17% e Sullivan, 47,88%, segundo a Newsweek."
   }
  ],
  "termos": [
@@ -104,9 +104,9 @@
   }
  ],
  "observar": [
-  "O resultado final no Mississippi e no Alasca, onde a diferença era de menos de 700 votos.",
-  "Se o Alasca precisa usar o voto ranqueado.",
-  "A eleição da nova liderança republicana na Câmara, na semana que vem.",
+  "O resultado no Alasca, depois de 18 de novembro.",
+  "A certificação no Mississippi, até 13 de novembro.",
+  "A investigação sobre o candidato xará de Dan Sullivan.",
   "A posse do novo Congresso, em janeiro."
  ],
  "fontes": [
@@ -149,6 +149,14 @@
   {
    "t": "Yahoo News, com AP: Alasca e Mississippi",
    "u": "https://www.yahoo.com/news/politics/articles/alaska-mississippi-senate-races-separated-151920787.html"
+  },
+  {
+   "t": "Newsweek: o voto ranqueado no Alasca",
+   "u": "https://newsweek.com/alaska-ranked-choice-voting-could-sink-challenge-to-senate-result-analysts-12677271"
+  },
+  {
+   "t": "Gray DC: Alasca segue sem resultado",
+   "u": "https://www.localnewslive.com/2026/11/07/alaska-senate-race-remains-undecided-days-after-election-day/"
   }
  ]
 }

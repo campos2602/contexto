@@ -1,6 +1,6 @@
 {
  "titulo": "Data centers de inteligência artificial e a conta de luz",
- "atualizado": "5 nov 2026",
+ "atualizado": "7 nov 2026",
  "selo": "Checado",
  "frase": "Os data centers que treinam e rodam inteligência artificial consomem tanta energia quanto cidades inteiras. Nos EUA, a alta das contas de luz levou distribuidoras, governos e empresas a discutir quem paga a nova infraestrutura. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, concorrente da OpenAI.",
  "linha": [
@@ -23,6 +23,10 @@
   {
    "d": "2 de novembro de 2026",
    "t": "A OpenAI lança o Grid Protectors, programa para seus data centers reduzirem consumo quando a rede estiver sob pressão."
+  },
+  {
+   "d": "5 de novembro de 2026",
+   "t": "A Nasdaq cai 5,52% e o índice de semicondutores, 12,25%. Analistas ligam a queda ao temor de regras mais duras para data centers no novo Congresso."
   },
   {
    "d": "2028",
@@ -85,13 +89,17 @@
   {
    "b": "Governo e Congresso dos EUA",
    "t": "o Congresso discutiu obrigar grandes consumidores a pagar melhorias na rede, e a Casa Branca pediu às construtoras um compromisso voluntário de cobrir os próprios custos de energia, segundo o The Next Web."
+  },
+  {
+   "b": "Mercado",
+   "t": "depois da vitória democrata no Congresso, investidores passaram a temer regras mais duras para data centers. Alguns democratas defendem restrições ou pausas em novos projetos, segundo a Fox Business."
   }
  ],
  "observar": [
-  "Quais outros campi entram no programa da OpenAI.",
-  "Se outras empresas de inteligência artificial fazem acordos parecidos.",
+  "Que regras o novo Congresso vai propor para data centers.",
+  "Se a queda das ações de inteligência artificial continua.",
   "O efeito real nas contas de luz da Geórgia a partir de 2029.",
-  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, concorrente da OpenAI."
+  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, empresa de inteligência artificial que concorre com empresas citadas nesta nota, como a Meta."
  ],
  "fontes": [
   {
@@ -109,6 +117,14 @@
   {
    "t": "Atlanta News First: a aprovação",
    "u": "https://atlantanewsfirst.com/2026/08/27/georgia-powers-openai-contract-effingham-county-approved-expected-lower-residential-bills"
+  },
+  {
+   "t": "Fox Business: Nasdaq cai 5%",
+   "u": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+  },
+  {
+   "t": "Yahoo Finance: o pregão de 5 de novembro",
+   "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
   }
  ]
 }
