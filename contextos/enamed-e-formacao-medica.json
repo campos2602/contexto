@@ -1,0 +1,114 @@
+{
+ "titulo": "Enamed: a prova que passa a valer para o registro de médicos",
+ "atualizado": "8 nov 2026",
+ "selo": "Checado",
+ "frase": "O Enamed é a avaliação nacional dos estudantes de Medicina. Com a lei sancionada em 6 de novembro de 2026, quem entrou no curso a partir de 19 de junho de 2026 só terá registro de médico se atingir nível mínimo de proficiência nas provas.",
+ "linha": [
+  {
+   "d": "Primeira edição do Enamed",
+   "t": "107 de 351 cursos de Medicina têm nota 1 ou 2. O MEC abre processos de supervisão, e 93 instituições ficam sob medidas cautelares, segundo O Tempo."
+  },
+  {
+   "d": "19 de junho de 2026",
+   "t": "O governo publica a Medida Provisória 1.370, que torna o Enamed requisito para o registro de médico."
+  },
+  {
+   "d": "Outubro de 2026",
+   "t": "O Congresso aprova a medida, pouco antes de ela perder a validade."
+  },
+  {
+   "d": "6 de novembro de 2026",
+   "t": "Lula sanciona a lei, no último dia do prazo, no Palácio do Planalto."
+  },
+  {
+   "d": "Próximos anos",
+   "t": "Os estudantes que entraram desde 19 de junho fazem as provas no fim do 2º, do 4º e do 6º ano do curso."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Enamed",
+   "d": "Exame Nacional de Avaliação da Formação Médica. Passa a ser aplicado no 2º, 4º e 6º ano, com nota final que junta as três provas e dá peso maior à última."
+  },
+  {
+   "t": "Proficiência mínima",
+   "d": "Nota mínima para ser aprovado. Será definida pela Comissão Nacional de Avaliação do Ensino Médico."
+  },
+  {
+   "t": "Registro no CRM",
+   "d": "Inscrição no Conselho Regional de Medicina, necessária para exercer a profissão. Sem ela, não se pode atender pacientes, receitar ou emitir atestados."
+  },
+  {
+   "t": "Inscrição de Egresso de Medicina",
+   "d": "Registro para quem se formou sem a nota mínima. Permite só atividades técnico-científicas, como pesquisa, sob supervisão e sem atendimento a pacientes."
+  },
+  {
+   "t": "Revalida",
+   "d": "Exame para validar diplomas de Medicina obtidos no exterior. Continua valendo; a prova teórica passa a equivaler à terceira etapa do Enamed."
+  },
+  {
+   "t": "Inep",
+   "d": "Instituto Nacional de Estudos e Pesquisas Educacionais, órgão do MEC que aplica a prova."
+  },
+  {
+   "t": "Medida provisória",
+   "d": "Norma do presidente que vale como lei assim que é publicada, mas precisa ser aprovada pelo Congresso para continuar valendo."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Presidente Lula",
+   "t": "editou a medida provisória e sancionou a lei."
+  },
+  {
+   "b": "Geraldo Alckmin",
+   "t": "vice-presidente, defende a regra como resposta a cursos que cresceram sem estrutura de formação prática."
+  },
+  {
+   "b": "Alexandre Padilha",
+   "t": "ministro da Saúde, compara o modelo ao exame da OAB, com a diferença de avaliar o aluno em três momentos."
+  },
+  {
+   "b": "Doutor Luizinho (PP-RJ)",
+   "t": "deputado, relator da medida no Congresso."
+  },
+  {
+   "b": "Conselho Federal de Medicina (CFM)",
+   "t": "participou da construção do texto e apoia a lei."
+  },
+  {
+   "b": "Estudantes de Medicina",
+   "t": "os que entraram no curso a partir de 19 de junho de 2026."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Governo e CFM",
+   "t": "dizem que a regra melhora a formação. \"O aluno terá de estudar mais, a faculdade terá de melhorar e a sociedade contará com profissionais mais bem qualificados\", disse Alckmin, segundo o Sou Brasília. O presidente do CFM, José Hiran da Silva Gallo, chamou a sanção de \"marco histórico\"."
+  },
+  {
+   "b": "O relator",
+   "t": "Doutor Luizinho diz que parte da expansão de cursos veio de autorizações judiciais e que a prova seriada permite corrigir problemas antes da formatura, \"sem excluir a formação de novos médicos\"."
+  },
+  {
+   "b": "Estudantes e faculdades",
+   "t": "as reportagens consultadas não trazem a posição de associações de estudantes nem de faculdades privadas."
+  }
+ ],
+ "observar": [
+  "A definição do nível mínimo de proficiência.",
+  "O número da lei e se houve vetos, com a publicação no Diário Oficial.",
+  "As medidas do MEC contra cursos com nota baixa.",
+  "A primeira prova do 2º ano com efeito para o registro."
+ ],
+ "fontes": [
+  {
+   "t": "O Tempo: Lula sanciona lei do Enamed",
+   "u": "https://www.otempo.com.br/politica/2026/11/6/lula-sanciona-lei-que-condiciona-registro-de-medicos-a-aprovacao-no-enamed"
+  },
+  {
+   "t": "Sou Brasília: registro passa a depender do exame",
+   "u": "https://soubrasilia.com/lula-sanciona-lei-enamed-registro-medico-exame-segundo-quarto-sexto-ano-6-novembro-2026/"
+  }
+ ]
+}

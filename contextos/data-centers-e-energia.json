@@ -1,13 +1,9 @@
 {
  "titulo": "Data centers de inteligência artificial e a conta de luz",
- "atualizado": "7 nov 2026",
+ "atualizado": "8 nov 2026",
  "selo": "Checado",
  "frase": "Os data centers que treinam e rodam inteligência artificial consomem tanta energia quanto cidades inteiras. Nos EUA, a alta das contas de luz levou distribuidoras, governos e empresas a discutir quem paga a nova infraestrutura. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, concorrente da OpenAI.",
  "linha": [
-  {
-   "d": "Janeiro de 2025",
-   "t": "A comissão de serviços públicos da Geórgia aprova regras novas para grandes consumidores de energia, segundo a Georgia Power."
-  },
   {
    "d": "Julho de 2025",
    "t": "A comissão aprova o congelamento da tarifa básica da Georgia Power, segundo o Atlanta News First."
@@ -27,6 +23,10 @@
   {
    "d": "5 de novembro de 2026",
    "t": "A Nasdaq cai 5,52% e o índice de semicondutores, 12,25%. Analistas ligam a queda ao temor de regras mais duras para data centers no novo Congresso."
+  },
+  {
+   "d": "6 de novembro de 2026",
+   "t": "Ativistas ocupam a obra de um data center da Microsoft em Amsterdã; a polícia detém de 150 a 200 pessoas. Atos se espalham por 15 países europeus."
   },
   {
    "d": "2028",
@@ -93,13 +93,17 @@
   {
    "b": "Mercado",
    "t": "depois da vitória democrata no Congresso, investidores passaram a temer regras mais duras para data centers. Alguns democratas defendem restrições ou pausas em novos projetos, segundo a Fox Business."
+  },
+  {
+   "b": "Protestos na Europa",
+   "t": "grupos fizeram atos contra data centers em 15 países europeus em 6 e 7 de novembro. Ativistas dizem que a construção avança mais rápido que a consulta pública; a Microsoft disse respeitar protestos pacíficos, mas não aprovar ações ilegais, segundo a AP."
   }
  ],
  "observar": [
-  "Que regras o novo Congresso vai propor para data centers.",
-  "Se a queda das ações de inteligência artificial continua.",
+  "Novos protestos contra data centers na Europa.",
+  "Que regras o novo Congresso dos EUA vai propor para data centers.",
   "O efeito real nas contas de luz da Geórgia a partir de 2029.",
-  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, empresa de inteligência artificial que concorre com empresas citadas nesta nota, como a Meta."
+  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, que concorre com a OpenAI e a Microsoft."
  ],
  "fontes": [
   {
@@ -125,6 +129,14 @@
   {
    "t": "Yahoo Finance: o pregão de 5 de novembro",
    "u": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+  },
+  {
+   "t": "Al Jazeera: ativistas invadem obra da Microsoft",
+   "u": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam"
+  },
+  {
+   "t": "AP, via ABC News: protestos se espalham pela Europa",
+   "u": "https://abcnews.com/International/wireStory/protesters-break-microsoft-data-center-site-amsterdam-europes-137915154"
   }
  ]
 }

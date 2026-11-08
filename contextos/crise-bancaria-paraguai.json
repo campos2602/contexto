@@ -1,6 +1,6 @@
 {
  "titulo": "A quebra do banco Ueno e a crise política no Paraguai",
- "atualizado": "7 nov 2026",
+ "atualizado": "8 nov 2026",
  "selo": "Checado",
  "frase": "A quebra do Ueno, banco digital com cerca de 3 milhões de clientes e mais de US$ 800 milhões em depósitos públicos, levou à destituição do presidente Santiago Peña pelo Senado em 6 de novembro de 2026. O vice, Pedro Alliana, assumiu.",
  "linha": [
@@ -31,6 +31,10 @@
   {
    "d": "6 de novembro de 2026",
    "t": "Os 44 senadores presentes votam pela destituição de Peña. Pedro Alliana toma posse. Promotores ordenam a prisão de Peña e de Carlos Carvallo por suspeita de abuso de confiança."
+  },
+  {
+   "d": "7 de novembro de 2026",
+   "t": "O juiz Humberto Otazú manda prender Peña preventivamente em um quartel em Assunção. Ele responde por abuso de confiança e administração em proveito próprio; Carvallo também é acusado."
   }
  ],
  "termos": [
@@ -62,7 +66,7 @@
  "quem": [
   {
    "b": "Santiago Peña",
-   "t": "presidente do Paraguai de agosto de 2023 até a destituição, do Partido Colorado. Promotores ordenaram a prisão dele; ele nega irregularidades."
+   "t": "presidente do Paraguai de agosto de 2023 até a destituição, em 6 de novembro, do Partido Colorado. Está em prisão preventiva desde 7 de novembro e nega irregularidades."
   },
   {
    "b": "Pedro Alliana",
@@ -83,6 +87,14 @@
   {
    "b": "Miguel Vázquez",
    "t": "fundador do Ueno, um dos seis executivos com prisão decretada."
+  },
+  {
+   "b": "Humberto Otazú",
+   "t": "juiz que mandou prender Peña preventivamente."
+  },
+  {
+   "b": "Nancy Salomón",
+   "t": "promotora do caso; diz que cada acusação pode render até 10 anos de prisão."
   }
  ],
  "disputa": [
@@ -104,10 +116,10 @@
   }
  ],
  "observar": [
-  "A audiência de Peña com um juiz, marcada para sábado (7), segundo a Rio Times.",
-  "As acusações formais contra Peña.",
-  "Se Alliana troca o ministério.",
-  "A greve de professores prevista a partir de segunda (9), pela proteção dos fundos de aposentadoria."
+  "Quanto tempo dura a prisão preventiva de Peña.",
+  "Se a Justiça aceita o pedido de prisão de Carlos Carvallo.",
+  "A devolução do dinheiro aos clientes; até 7 de novembro, US$ 160 milhões tinham sido pagos a quase 1,2 milhão de poupadores, segundo a Reuters.",
+  "A greve de professores prevista a partir de segunda (9)."
  ],
  "fontes": [
   {
@@ -125,6 +137,14 @@
   {
    "t": "The Rio Times: Paraguai destitui e detém Peña",
    "u": "https://www.riotimesonline.com/paraguay-senate-removes-pena-alliana-sworn-in-2026/"
+  },
+  {
+   "t": "Reuters, via The Spokesman-Review: Peña fica preso",
+   "u": "https://www.spokesman.com/stories/2026/nov/07/judge-orders-paraguays-ex-president-pena-held-befo/"
+  },
+  {
+   "t": "DPA, via Yahoo News: Peña em prisão preventiva",
+   "u": "https://www.yahoo.com/news/world/articles/paraguays-ousted-president-pe-remanded-033337630.html"
   }
  ]
 }

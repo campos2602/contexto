@@ -1,13 +1,9 @@
 {
  "titulo": "Guerra na Ucrânia: onde estão as negociações",
- "atualizado": "1º nov 2026",
+ "atualizado": "8 nov 2026",
  "selo": "Checado",
  "frase": "A Rússia invadiu a Ucrânia em fevereiro de 2022. Desde então, houve rodadas de conversa sem acordo de paz; uma nova rodada, com os EUA, está prevista para novembro de 2026.",
  "linha": [
-  {
-   "d": "Fevereiro de 2022",
-   "t": "A Rússia invade a Ucrânia."
-  },
   {
    "d": "2025",
    "t": "Ucrânia e Rússia fazem várias rodadas de conversas diretas, sem acordo, segundo a Euronews."
@@ -35,6 +31,10 @@
   {
    "d": "30 e 31 de outubro de 2026",
    "t": "Moradores de Oleshky saem da cidade ocupada durante uma trégua local; quatro aviões pousam em Gomel, em Belarus, a caminho da Ucrânia."
+  },
+  {
+   "d": "6 de novembro de 2026",
+   "t": "Putin confirma nova rodada entre Rússia, EUA e Ucrânia em Abu Dhabi a partir de terça (10). Vladimir Medinsky chefia a delegação russa; Witkoff cita garantias de segurança, redução das hostilidades e questões humanitárias."
   }
  ],
  "termos": [
@@ -49,6 +49,18 @@
   {
    "t": "Crimeia anexada",
    "d": "Península ucraniana que a Rússia anexou em 2014. A maioria dos países não reconhece a anexação."
+  },
+  {
+   "t": "Negociação trilateral",
+   "d": "Conversa com três partes à mesa: Rússia, Ucrânia e Estados Unidos, que atuam como mediadores e também têm interesses próprios."
+  },
+  {
+   "t": "Garantias de segurança",
+   "d": "Compromissos de outros países para defender a Ucrânia ou impedir novos ataques depois de um acordo. É um dos temas da pauta de Abu Dhabi, segundo Steve Witkoff."
+  },
+  {
+   "t": "Troca de prisioneiros",
+   "d": "Libertação mútua de soldados e civis capturados. Os Emirados Árabes Unidos já mediaram trocas, segundo o Gulf Today."
   }
  ],
  "quem": [
@@ -77,13 +89,21 @@
   {
    "b": "Rússia",
    "t": "aceitou a nova rodada; autoridades russas chamam ataques ucranianos em seu território de \"terroristas\"."
+  },
+  {
+   "b": "A representação da Europa",
+   "t": "o porta-voz do Kremlin, Dmitry Peskov, disse que a Europa tem dificuldade para decidir quem a representaria nas negociações, segundo a Reuters, citada pelo Just Security."
+  },
+  {
+   "b": "A Ucrânia e os EUA",
+   "t": "Zelensky disse que a Ucrânia precisa se adaptar à nova realidade política americana para garantir ajuda e defesa antiaérea. Trump disse ter se reunido com o enviado russo Kirill Dmitriev e prometeu um acordo que \"pode envolver toda a Europa\", segundo o The New York Times, citado pelo Just Security."
   }
  ],
  "observar": [
-  "A data do encontro entre Ucrânia, Rússia e EUA em Abu Dhabi, que Zelensky espera para 6 a 10 de novembro.",
-  "Se a trégua de Oleshky, prevista até 1º de novembro, é prorrogada.",
-  "Se a pausa nos ataques a refinarias é confirmada.",
-  "Ataques a infraestrutura de energia e transporte com a chegada do inverno."
+  "As conversas em Abu Dhabi, a partir de 10 de novembro.",
+  "Quem negocia pela Ucrânia e se a Europa terá representante.",
+  "Se haverá trégua ou nova troca de prisioneiros.",
+  "Ataques à infraestrutura de energia com a chegada do inverno."
  ],
  "fontes": [
   {
@@ -105,6 +125,18 @@
   {
    "t": "Al Jazeera: Oleshky",
    "u": "https://aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine"
+  },
+  {
+   "t": "Daily Sabah, com Anadolu: negociações em Abu Dhabi",
+   "u": "https://www.dailysabah.com/world/europe/russia-us-ukraine-to-resume-peace-talks-in-abu-dhabi"
+  },
+  {
+   "t": "Gulf Today: Putin agradece aos Emirados",
+   "u": "https://www.gulftoday.ae/news/2026/11/07/putin-thanks-uae-leadership-as-us-russia-ukraine-talks-begin-on-tuesday-in-abu-dhabi"
+  },
+  {
+   "t": "Just Security: resumo de 6 de novembro",
+   "u": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
   }
  ]
 }

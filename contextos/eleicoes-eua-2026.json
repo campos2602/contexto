@@ -1,13 +1,9 @@
 {
  "titulo": "As eleições de meio de mandato nos Estados Unidos",
- "atualizado": "7 nov 2026",
+ "atualizado": "8 nov 2026",
  "selo": "Checado",
  "frase": "A cada quatro anos, no meio do mandato presidencial, os americanos renovam a Câmara inteira, um terço do Senado e muitos governos estaduais. O resultado define se o presidente governa com ou sem maioria no Congresso.",
  "linha": [
-  {
-   "d": "Antes da votação",
-   "t": "Mais de 57 milhões de americanos votam antecipadamente, segundo a CBS News, que cita o Voting Lab da Universidade da Flórida."
-  },
   {
    "d": "3 de novembro de 2026",
    "t": "Dia da eleição: 435 cadeiras da Câmara, 35 do Senado e 36 governos estaduais em disputa."
@@ -27,6 +23,10 @@
   {
    "d": "4 de novembro de 2026",
    "t": "Mike Johnson anuncia que não vai buscar a liderança republicana no próximo Congresso. Os democratas viraram pelo menos 31 cadeiras na Câmara, segundo a Newsweek."
+  },
+  {
+   "d": "6 de novembro de 2026",
+   "t": "Trump anuncia que Stephen Miller substitui Susie Wiles na chefia de gabinete da Casa Branca. Fontes da ABC News dizem que Trump culpou Wiles pela derrota; um funcionário disse à Fox que a saída foi amigável."
   },
   {
    "d": "13 de novembro de 2026",
@@ -87,6 +87,10 @@
   {
    "b": "Steve Scalise e Jim Jordan",
    "t": "disputam a liderança da futura minoria republicana na Câmara."
+  },
+  {
+   "b": "Stephen Miller",
+   "t": "novo chefe de gabinete da Casa Branca a partir de 9 de novembro, no lugar de Susie Wiles."
   }
  ],
  "disputa": [
@@ -106,7 +110,7 @@
  "observar": [
   "O resultado no Alasca, depois de 18 de novembro.",
   "A certificação no Mississippi, até 13 de novembro.",
-  "A investigação sobre o candidato xará de Dan Sullivan.",
+  "Como Stephen Miller vai conduzir a relação com o novo Congresso.",
   "A posse do novo Congresso, em janeiro."
  ],
  "fontes": [
@@ -157,6 +161,14 @@
   {
    "t": "Gray DC: Alasca segue sem resultado",
    "u": "https://www.localnewslive.com/2026/11/07/alaska-senate-race-remains-undecided-days-after-election-day/"
+  },
+  {
+   "t": "ABC News: Wiles sai, Miller assume",
+   "u": "https://abcnews.com/Politics/trump-chief-staff-susie-wiles-miller-replace/story?id=137921244"
+  },
+  {
+   "t": "Fox News: Trump nomeia Stephen Miller",
+   "u": "https://www.foxnews.com/politics/trump-names-stephen-miller-new-white-house-chief-staff-replacing-susie-wiles"
   }
  ]
 }

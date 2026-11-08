@@ -1,6 +1,6 @@
 {
  "titulo": "Dólar, Bolsa e juros: como o mercado reage a um susto",
- "atualizado": "5 nov 2026",
+ "atualizado": "8 nov 2026",
  "selo": "Checado",
  "frase": "Quando investidores mudam de ideia sobre o futuro da economia de um país, eles vendem ações e reais e cobram juros mais altos para emprestar dinheiro ao governo. O dólar, o Ibovespa e os juros futuros medem esses três movimentos.",
  "linha": [
@@ -112,9 +112,9 @@
   }
  ],
  "observar": [
-  "O pronunciamento de Lula no domingo (8).",
+  "O pronunciamento de Lula neste domingo (8) e as medidas que ele anunciar.",
   "As medidas de corte de gastos e de aumento de arrecadação esperadas nas semanas seguintes.",
-  "A reação do dólar e do Ibovespa ao pronunciamento e às medidas.",
+  "A reação do dólar e do Ibovespa na segunda (9).",
   "A ata do Copom, em 10 de novembro."
  ],
  "fontes": [
@@ -177,6 +177,14 @@
   {
    "t": "Metrópoles: Copom mantém a Selic",
    "u": "https://www.metropoles.com/brasil/copom-mantem-taxa-selic-e-juros-ficam-em-1375-ao-ano"
+  },
+  {
+   "t": "A Crítica, com Broadcast: pronunciamento e ajuste",
+   "u": "https://acritica.net/economia/lula-pronunciamento-rede-nacional-domingo-8-ajuste-mercado/"
+  },
+  {
+   "t": "Prensa Mercosur: o que se sabe sobre o pronunciamento",
+   "u": "https://prensamercosur.org/2026/11/05/o-que-se-sabe-sobre-o-pronunciamento-de-lula-no-domingo/"
   }
  ]
 }

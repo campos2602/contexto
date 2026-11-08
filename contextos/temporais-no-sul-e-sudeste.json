@@ -1,8 +1,8 @@
 {
  "titulo": "Temporais e tornados no Sul e no Sudeste em novembro de 2026",
- "atualizado": "7 nov 2026",
+ "atualizado": "8 nov 2026",
  "selo": "Checado",
- "frase": "Desde 1º de novembro, temporais atingem o Rio Grande do Sul e Santa Catarina, onde houve tornados e duas mortes, e São Paulo ficou sob alerta. Em Santa Catarina, 109 cidades foram atingidas.",
+ "frase": "Desde 1º de novembro, temporais atingem o Sul e o Sudeste. Em Santa Catarina, a primeira onda atingiu 109 cidades, com tornados e duas mortes; uma nova chuva forte no sábado (7) deixou 218 desabrigados.",
  "linha": [
   {
    "d": "1º de novembro de 2026",
@@ -25,12 +25,12 @@
    "t": "Santa Catarina chega a 109 municípios atingidos, 32 em situação de emergência e duas mortes, em Rio Negrinho e Xanxerê. O estado distribui mais de 56 mil itens, segundo a Defesa Civil."
   },
   {
-   "d": "7 de novembro de 2026",
-   "t": "Fim do período de alerta da Defesa Civil paulista, com previsão de chuva forte, rajadas de até 80 km/h e granizo em pontos isolados."
-  },
-  {
    "d": "8 de novembro de 2026",
    "t": "A temperatura deve começar a cair em São Paulo, segundo a TV Sim Brasil."
+  },
+  {
+   "d": "7 de novembro de 2026",
+   "t": "Nova chuva forte em Santa Catarina deixa 218 desabrigados e 44 desalojados, com 768 casas danificadas em 40 municípios. Rio do Sul tem 147 desabrigados; Agronômica e Bocaina do Sul decretam emergência, segundo o ND Mais."
   }
  ],
  "termos": [
@@ -96,10 +96,10 @@
   }
  ],
  "observar": [
-  "Novos temporais em Santa Catarina até a manhã de sábado (7).",
-  "Se houve tornados em Rio Negrinho e Timbó Grande.",
-  "A reabertura do aeroporto de Chapecó.",
-  "A reunião do governador com os prefeitos das cidades atingidas, na semana que vem."
+  "O balanço da chuva de sábado (7) em Santa Catarina.",
+  "O nível do rio Itajaí-Açu em Rio do Sul e Blumenau.",
+  "Novos decretos de emergência.",
+  "A reabertura do aeroporto de Chapecó."
  ],
  "fontes": [
   {
@@ -121,6 +121,14 @@
   {
    "t": "Correio SC: temporais em 109 municípios",
    "u": "https://www.correiosc.com.br/temporais-109-municipios-santa-catarina-dois-mortos"
+  },
+  {
+   "t": "ND Mais: mais de 200 desabrigados",
+   "u": "https://ndmais.com.br/tempo/temporais-deixam-mais-de-200-pessoas-desabrigadas-e-municipios-decretam-situacao-de-emergencia-em-sc/"
+  },
+  {
+   "t": "NSC Total: bairros alagados e alertas de enchente",
+   "u": "https://www.nsctotal.com.br/tempo/fotos-cidades-de-sc-tem-bairros-alagados-carros-destruidos-e-alertas-de-enchente-apos-chuvas-severas"
   }
  ]
 }

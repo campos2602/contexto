@@ -1,0 +1,118 @@
+{
+ "titulo": "A corrida por chips de inteligência artificial e a falta de capacidade",
+ "atualizado": "8 nov 2026",
+ "selo": "Checado",
+ "frase": "A construção de data centers de inteligência artificial fez empresas disputarem a capacidade das fábricas de chips. Em novembro de 2026, a Microchip disse que compradores de IA lotaram os fornecedores, e ações do setor tiveram forte queda.",
+ "linha": [
+  {
+   "d": "Setembro de 2026",
+   "t": "A Microchip fecha o trimestre com vendas de US$ 1,622 bilhão, alta de 42,2% em um ano, e receita de data centers acima de US$ 250 milhões."
+  },
+  {
+   "d": "6 de outubro de 2026",
+   "t": "A Nasdaq bate recorde de fechamento, segundo a Fox Business."
+  },
+  {
+   "d": "3 de novembro de 2026",
+   "t": "Os democratas ganham a Câmara e o Senado dos EUA. Analistas passam a prever regras mais duras para data centers."
+  },
+  {
+   "d": "5 de novembro de 2026",
+   "t": "A Nasdaq cai 5,52% e o índice de semicondutores da Filadélfia, 12,25%. A Microchip cai 13,9% e, à noite, diz que a demanda de IA lotou seus fornecedores."
+  },
+  {
+   "d": "6 de novembro de 2026",
+   "t": "A ação da Microchip cai mais 10%, para US$ 58,35, segundo a Trefis."
+  },
+  {
+   "d": "Janeiro de 2027",
+   "t": "Fundições e montadoras terceirizadas devem subir preços, segundo o presidente da Microchip, Steve Sanghi."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Fundição",
+   "d": "Fábrica que produz chips projetados por outras empresas."
+  },
+  {
+   "t": "OSAT",
+   "d": "Empresa terceirizada de montagem e teste de chips, etapa depois da fabricação."
+  },
+  {
+   "t": "Prazo de entrega",
+   "d": "Tempo entre o pedido e a entrega. Na Microchip, produtos padrão passaram de 4 a 8 semanas para 6 a 32 semanas."
+  },
+  {
+   "t": "Índice de semicondutores da Filadélfia",
+   "d": "Índice da bolsa que reúne ações de fabricantes de chips."
+  },
+  {
+   "t": "Correção",
+   "d": "Queda de pelo menos 10% em relação ao último recorde. A Nasdaq entrou em correção em 5 de novembro."
+  },
+  {
+   "t": "Data center",
+   "d": "Prédio com milhares de servidores. Os de IA usam chips que consomem muita energia."
+  },
+  {
+   "t": "Preço-alvo",
+   "d": "Valor que um analista projeta para uma ação num prazo, em geral 12 meses. A Truist cortou o da Microchip de US$ 90 para US$ 62, e a Raymond James, de US$ 125 para US$ 80."
+  },
+  {
+   "t": "Acúmulo de pedidos",
+   "d": "Encomendas já feitas que a empresa ainda não conseguiu entregar. A Microchip diz ter um acúmulo de pedidos de produtos de margem alta que a cadeia de fornecimento não consegue atender."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Microchip Technology",
+   "t": "fabricante americana de chips usados em carros, indústria e eletrônicos, que também vende para data centers."
+  },
+  {
+   "b": "Steve Sanghi",
+   "t": "presidente e diretor-executivo da Microchip."
+  },
+  {
+   "b": "Nvidia",
+   "t": "fabricante de chips para inteligência artificial; a ação caiu cerca de 9% em 5 de novembro, segundo a Fox Business."
+  },
+  {
+   "b": "Analistas",
+   "t": "Truist, Raymond James, Citi e JPMorgan reduziram os preços-alvo da Microchip."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "A Microchip",
+   "t": "diz que poderia ter vendido mais e que \"alguma desaceleração da demanda de IA seria bem positiva\", nas palavras de Sanghi, segundo o 24/7 Wall St."
+  },
+  {
+   "b": "O mercado",
+   "t": "a Trefis avalia que a queda de 6 de novembro foi específica da empresa, porque Micron e outras ações do setor subiram no dia."
+  },
+  {
+   "b": "A política",
+   "t": "analistas ligam a queda do dia 5 ao temor de regras mais duras para data centers no novo Congresso dos EUA, segundo a Fox Business."
+  }
+ ],
+ "observar": [
+  "Os aumentos de preço de fundições previstos para janeiro.",
+  "Se outras fabricantes relatam falta de capacidade.",
+  "O próximo resultado da Microchip, em fevereiro de 2027.",
+  "Se as ações de IA e de chips se recuperam."
+ ],
+ "fontes": [
+  {
+   "t": "24/7 Wall St.: a falta de chips voltou",
+   "u": "https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/"
+  },
+  {
+   "t": "Trefis: o que derrubou a ação da Microchip",
+   "u": "https://www.trefis.com/stock/mchp/articles/623729/what-sent-microchip-stock-lower/2026-11-07"
+  },
+  {
+   "t": "Fox Business: Nasdaq cai 5%",
+   "u": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+  }
+ ]
+}
