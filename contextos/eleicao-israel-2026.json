@@ -1,17 +1,9 @@
 {
  "titulo": "Eleição em Israel: como se forma um governo",
- "atualizado": "6 nov 2026",
+ "atualizado": "9 nov 2026",
  "selo": "Checado",
- "frase": "Israel escolhe 120 deputados por lista nacional, e nenhum partido costuma ter maioria sozinho. Governa quem consegue reunir 61 cadeiras numa coalizão.",
+ "frase": "Na eleição de 27 de outubro de 2026, o bloco de Benjamin Netanyahu ficou com 53 das 120 cadeiras, e a aliança de Gadi Eisenkot, com 48. Em 8 de novembro, o presidente Isaac Herzog deu a Eisenkot a primeira chance de formar governo.",
  "linha": [
-  {
-   "d": "28 de outubro de 2026",
-   "t": "Com cerca de 90% dos votos contados: bloco de Netanyahu 53, de Eisenkot 48, partidos árabes 19, recorde."
-  },
-  {
-   "d": "29 de outubro de 2026",
-   "t": "Fim da contagem: Netanyahu 53, Eisenkot 48, partidos árabes 19. Comparecimento de 77,9%."
-  },
   {
    "d": "3 de novembro de 2026",
    "t": "Cinco líderes da oposição decidem recomendar Gadi Eisenkot para primeiro-ministro. Netanyahu defende um governo nacional amplo sob seu comando."
@@ -33,8 +25,16 @@
    "t": "Terminam as consultas. Gadi Eisenkot recebe 67 indicações e Benjamin Netanyahu, 46. O Judaísmo Unido da Torá não indica ninguém."
   },
   {
+   "d": "7 de novembro de 2026",
+   "t": "Herzog anuncia que Eisenkot terá a primeira chance de formar governo, segundo a Al Jazeera."
+  },
+  {
    "d": "8 de novembro de 2026",
-   "t": "Data marcada por Herzog para anunciar quem terá a tarefa de formar o governo."
+   "t": "Em cerimônia em Jerusalém, Herzog entrega a tarefa a Eisenkot, que tem 28 dias, prorrogáveis por 14. Netanyahu pede governo de \"unidade nacional\", segundo a AP."
+  },
+  {
+   "d": "10 de novembro de 2026",
+   "t": "Posse dos novos deputados do Parlamento."
   }
  ],
  "termos": [
@@ -108,10 +108,11 @@
   }
  ],
  "observar": [
-  "Quem Herzog escolhe no domingo (8).",
-  "A posse do novo Parlamento, em 10 de novembro.",
-  "Como Eisenkot formaria maioria sem os partidos árabes no governo; a Lista Conjunta diz que apoiaria um governo de minoria sem fazer parte dele.",
-  "Se há governo de união, governo de minoria ou nova eleição."
+  "Se Eisenkot fecha acordo com os partidos ultraortodoxos, Judaísmo Unido da Torá e Shas.",
+  "Se ele aceita um governo de unidade com Netanyahu.",
+  "Como fica o apoio de fora do governo oferecido pela Lista Conjunta e pelo Ra'am.",
+  "A investigação do Shin Bet sobre possível interferência estrangeira na eleição.",
+  "O fim do prazo, no início de dezembro, sem contar a prorrogação."
  ],
  "fontes": [
   {
@@ -177,6 +178,14 @@
   {
    "t": "Al Jazeera: Herzog anuncia no domingo",
    "u": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday"
+  },
+  {
+   "t": "Al Jazeera: Herzog escolhe Eisenkot",
+   "u": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+  },
+  {
+   "t": "AP, via PBS: Eisenkot recebe a tarefa",
+   "u": "https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government"
   }
  ]
 }

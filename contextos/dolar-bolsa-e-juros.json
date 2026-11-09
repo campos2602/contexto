@@ -1,6 +1,6 @@
 {
  "titulo": "Dólar, Bolsa e juros: como o mercado reage a um susto",
- "atualizado": "8 nov 2026",
+ "atualizado": "9 nov 2026",
  "selo": "Checado",
  "frase": "Quando investidores mudam de ideia sobre o futuro da economia de um país, eles vendem ações e reais e cobram juros mais altos para emprestar dinheiro ao governo. O dólar, o Ibovespa e os juros futuros medem esses três movimentos.",
  "linha": [
@@ -34,7 +34,7 @@
   },
   {
    "d": "8 de novembro de 2026",
-   "t": "Data do pronunciamento de Lula em cadeia nacional, em que ele deve defender a responsabilidade fiscal."
+   "t": "Em rede nacional, Lula diz que a dívida pública e os juros altos o preocupam e promete preservar as regras fiscais. Anuncia isenção da cesta básica a partir de 2027 e compra de dívidas de famílias, sem detalhar o ajuste das contas, segundo o TMC."
   }
  ],
  "termos": [
@@ -112,10 +112,10 @@
   }
  ],
  "observar": [
-  "O pronunciamento de Lula neste domingo (8) e as medidas que ele anunciar.",
-  "As medidas de corte de gastos e de aumento de arrecadação esperadas nas semanas seguintes.",
-  "A reação do dólar e do Ibovespa na segunda (9).",
-  "A ata do Copom, em 10 de novembro."
+  "A reação do dólar e do Ibovespa nesta segunda (9).",
+  "A ata do Copom, na terça (10).",
+  "Como o governo vai pagar a isenção da cesta básica e a compra de dívidas de famílias.",
+  "As medidas de corte de gastos e de aumento de arrecadação."
  ],
  "fontes": [
   {
@@ -185,6 +185,18 @@
   {
    "t": "Prensa Mercosur: o que se sabe sobre o pronunciamento",
    "u": "https://prensamercosur.org/2026/11/05/o-que-se-sabe-sobre-o-pronunciamento-de-lula-no-domingo/"
+  },
+  {
+   "t": "TMC: Lula não detalha plano",
+   "u": "https://tmc.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-detalha-plano-para-equilibrar-as-contas/"
+  },
+  {
+   "t": "Money Times: íntegra do pronunciamento",
+   "u": "https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/"
+  },
+  {
+   "t": "Metrópoles: big techs e dívida",
+   "u": "https://www.metropoles.com/brasil/lula-diz-que-big-techs-tentaram-interferir-nas-eleicoes-a-verdade-venceu"
   }
  ]
 }

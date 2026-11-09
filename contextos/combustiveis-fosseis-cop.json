@@ -1,6 +1,6 @@
 {
  "titulo": "O fim dos combustíveis fósseis nas conferências do clima",
- "atualizado": "4 nov 2026",
+ "atualizado": "9 nov 2026",
  "selo": "Checado",
  "frase": "Petróleo, gás e carvão são a maior fonte das emissões que aquecem o planeta. Desde 2023, as conferências do clima da ONU discutem como os países vão deixá-los, mas grandes produtores resistem a prazos e metas obrigatórias.",
  "linha": [
@@ -22,7 +22,7 @@
   },
   {
    "d": "9 de novembro de 2026",
-   "t": "Começa a COP31, em Antália, na Turquia, com duas semanas de duração."
+   "t": "Começa a COP31, em Antália, até 20 de novembro. A lista provisória da ONU tem 77 chefes de Estado ou de governo inscritos para a cúpula de líderes, contra 116 na COP28, segundo a Climate & Capital Media."
   },
   {
    "d": "10 de novembro de 2026",
@@ -83,6 +83,14 @@
   {
    "b": "Organizações ambientais",
    "t": "como Oil Change International, E3G e 350.org, que acompanham as negociações."
+  },
+  {
+   "b": "Murat Kurum",
+   "t": "ministro do Meio Ambiente da Turquia e presidente da COP31."
+  },
+  {
+   "b": "Chris Bowen",
+   "t": "ministro do Clima da Austrália, conduz as negociações da COP31 por acordo feito na COP30."
   }
  ],
  "disputa": [
@@ -106,8 +114,8 @@
  "observar": [
   "Se a Turquia e a Austrália levam o roteiro para a agenda da COP31.",
   "A discussão marcada para 10 de novembro, em Antália.",
-  "Se o Brasil publica o próprio plano nacional de transição.",
-  "Se algum país se compromete a apresentar um plano até 2028."
+  "A cúpula de líderes, em 11 e 12 de novembro.",
+  "Se algum país se compromete a apresentar um plano de transição até 2028."
  ],
  "fontes": [
   {
@@ -117,6 +125,14 @@
   {
    "t": "AFP: Brasil oferece plano global",
    "u": "https://www.yahoo.com/news/science/articles/ahead-cop31-brazil-offers-global-154448917.html"
+  },
+  {
+   "t": "Climate & Capital Media: o que observar na COP31",
+   "u": "https://www.climateandcapitalmedia.com/cop31-antalya-preview/"
+  },
+  {
+   "t": "Caspian Post: COP31 começa em Antália",
+   "u": "https://caspianpost.com/regions/cop31-climate-summit-opens-in-turkiye-s-antalya-bringing-global-leaders-together"
   }
  ]
 }

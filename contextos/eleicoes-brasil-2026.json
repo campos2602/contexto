@@ -1,13 +1,9 @@
 {
  "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
- "atualizado": "7 nov 2026",
+ "atualizado": "9 nov 2026",
  "selo": "Checado",
  "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
  "linha": [
-  {
-   "d": "26 a 30 de outubro de 2026",
-   "t": "Moraes manda Flávio entregar os passaportes; ele deixa o país e, de Miami, diz que \"perdi para o sistema\". Trump chama a eleição de \"uma vergonha\". O governo registra 45 casos de violência política."
-  },
   {
    "d": "31 de outubro de 2026",
    "t": "Advogados pedem à Justiça Federal a suspensão do salário de Flávio. Ministros visitam aldeias Guarani Kaiowá em Mato Grosso do Sul e anunciam reforço da Força Nacional após ameaças."
@@ -35,6 +31,10 @@
   {
    "d": "5 de novembro de 2026",
    "t": "O corregedor-geral da Justiça Eleitoral, Ricardo Villas Bôas Cueva, aceita ação do Novo que acusa Lula e Alckmin de abuso de poder político. O Novo pede cassação e inelegibilidade; o corregedor diz que aceitar a ação não é reconhecer irregularidade."
+  },
+  {
+   "d": "8 de novembro de 2026",
+   "t": "No primeiro pronunciamento depois da reeleição, Lula promete medida provisória para criar o Ministério da Segurança Pública depois da aprovação da PEC da Segurança e pede \"com urgência uma reforma política e do Judiciário\"."
   }
  ],
  "termos": [
@@ -124,10 +124,10 @@
   }
  ],
  "observar": [
-  "A defesa de Lula e Alckmin no TSE, em cinco dias a partir da notificação.",
+  "A defesa de Lula e Alckmin no TSE na ação do Novo.",
   "A diplomação dos eleitos.",
-  "Quantos ministérios cada partido vai receber na reforma ministerial.",
-  "Quem fica na Fazenda e na Casa Civil."
+  "A votação da PEC da Segurança Pública e a medida provisória do novo ministério.",
+  "Quantos ministérios cada partido vai receber na reforma ministerial."
  ],
  "fontes": [
   {
@@ -205,6 +205,14 @@
   {
    "t": "Consultor Jurídico: TSE abre investigação",
    "u": "https://conjur.com.br/2026-nov-05/tse-abre-investigacao-contra-chapa-lula-alckmin-por-suposto-abuso-de-poder-politico/"
+  },
+  {
+   "t": "Esmael Morais: ministério da Segurança e reforma do Judiciário",
+   "u": "https://www.esmaelmorais.com.br/lula-pronunciamento-ministerio-seguranca-reforma-judiciario-novembro-2026/"
+  },
+  {
+   "t": "Money Times: íntegra do pronunciamento",
+   "u": "https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/"
   }
  ]
 }

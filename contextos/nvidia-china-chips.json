@@ -1,6 +1,6 @@
 {
  "titulo": "Nvidia, China e a disputa pelos chips de inteligência artificial",
- "atualizado": "4 nov 2026",
+ "atualizado": "9 nov 2026",
  "selo": "Com ressalva",
  "frase": "Os chips da Nvidia são a base do treinamento de inteligência artificial. Desde 2022, os EUA limitam a venda dos modelos mais avançados à China, e a China, por sua vez, passou a restringir a compra de alguns deles.",
  "linha": [
@@ -31,6 +31,10 @@
   {
    "d": "3 de novembro de 2026",
    "t": "O Financial Times informa que a Nvidia exige que parceiros de nuvem vendam pelo menos 51% dos serviços a clientes de fora da China."
+  },
+  {
+   "d": "7 de novembro de 2026",
+   "t": "Investigação do New York Times encontra escritórios vazios em duas empresas chinesas, New Matrix e Maginfra, autorizadas a montar servidores com chips H200. Ambas têm ligações com empresas sob sanção dos EUA, segundo o Wccftech e o RuntimeWire."
   }
  ],
  "termos": [
@@ -92,10 +96,10 @@
   }
  ],
  "observar": [
-  "Se a Nvidia confirma a regra de 51%.",
-  "Como as empresas de nuvem fora da China vão reagir.",
-  "Novas regras do governo americano ou chinês sobre chips.",
-  "Ressalva: a regra de 51% vem de uma reportagem com fontes anônimas; o histórico vem de duas compilações de cronologia, que citam documentos da Nvidia e do governo americano."
+  "A reunião fechada de 18 de novembro citada pelo Wccftech.",
+  "Se o Departamento de Comércio revê licenças de empresas intermediárias.",
+  "Novas regras de exportação de chips no novo Congresso dos EUA.",
+  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, empresa de inteligência artificial que concorre com empresas citadas nesta nota, como Alibaba, ByteDance e Baidu."
  ],
  "fontes": [
   {
@@ -113,6 +117,14 @@
   {
    "t": "Tech Insider: vendas do H200 à China",
    "u": "https://tech-insider.org/nvidia-h200-chip-sales-china-2026/"
+  },
+  {
+   "t": "Wccftech: empresas com escritórios vazios",
+   "u": "https://wccftech.com/us-approved-nvidia-h200-sales-chinese-firms-empty-offices-military-ties/"
+  },
+  {
+   "t": "RuntimeWire: licenças para o H200",
+   "u": "https://runtimewire.com/article/us-cleared-nvidia-h200-chips-for-chinese-firms-with-empty-offices"
   }
  ]
 }

@@ -1,0 +1,878 @@
+{
+ "data": "2026-11-09",
+ "dia": "Segunda, 9 de novembro de 2026",
+ "leitura": "5 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, começa a semana com o pronunciamento de Lula, a maior abstenção do Enem desde 2022 e a escolha de Gadi Eisenkot para tentar formar o governo de Israel.",
+ "trinta": [
+  "Lula disse que dívida e juros o preocupam e prometeu manter as regras fiscais, sem detalhar o ajuste.",
+  "O Enem teve 32% de abstenção no primeiro dia; a segunda prova é no domingo (15).",
+  "Herzog deu a Eisenkot 28 dias para formar governo em Israel."
+ ],
+ "essencial": [
+  {
+   "id": "b2",
+   "porque": "A segunda prova do Enem é no domingo (15); prejudicados pelo clima poderão refazer em dezembro."
+  },
+  {
+   "id": "b1",
+   "porque": "Lula prometeu zerar o imposto da cesta básica e comprar dívidas de famílias, sem detalhar como."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Lula diz que dívida e juros preocupam e promete manter regras fiscais",
+     "contexto": "dolar-bolsa-e-juros",
+     "texto": "Em rede nacional no domingo (8), Lula afirmou que \"a trajetória da dívida pública e os juros altos\" o preocupam e que o esforço será feito \"preservando as regras fiscais\". Prometeu zerar o imposto da cesta básica no ano que vem e comprar dívidas de famílias junto aos bancos.",
+     "pq": "o mercado esperava sinais de ajuste nas contas. Segundo o TMC, Lula não detalhou como vai equilibrar o Orçamento nem como reduzir os juros. A ata do Copom sai na terça (10).",
+     "fontes": [
+      {
+       "t": "TMC",
+       "u": "https://tmc.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-detalha-plano-para-equilibrar-as-contas/"
+      },
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/lula-diz-que-big-techs-tentaram-interferir-nas-eleicoes-a-verdade-venceu"
+      },
+      {
+       "t": "Money Times",
+       "u": "https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/"
+      }
+     ],
+     "completa": {
+      "fina": "Foi o primeiro pronunciamento em rádio e TV desde a reeleição; Lula também disse que big techs tentaram interferir na eleição.",
+      "atualizada": "9 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente Luiz Inácio Lula da Silva fez no domingo (8), às 20h30, o primeiro pronunciamento em rede nacional de rádio e TV desde a reeleição, segundo O Tempo. Disse que \"a trajetória da dívida pública e os juros altos\" o preocupam e que \"todo esse esforço será feito preservando as regras fiscais\", segundo a íntegra publicada pelo Money Times.",
+      "blocos": [
+       {
+        "h": "O que ele prometeu",
+        "li": [
+         {
+          "b": "Cesta básica:",
+          "t": "\"vamos zerar o imposto da cesta básica, a partir do ano que vem\"."
+         },
+         {
+          "b": "Dívidas:",
+          "t": "\"vamos comprar a dívida das famílias junto aos bancos\" e \"perdoar a dívida dos microempreendedores individuais junto ao Governo Federal\"."
+         },
+         {
+          "b": "MEI:",
+          "t": "pôr em prática o Prospera MEI."
+         },
+         {
+          "b": "Investimento:",
+          "t": "\"elevar o investimento do país para mais de 20% do PIB, em parceria com o setor privado\"."
+         },
+         {
+          "b": "Juros:",
+          "t": "\"vamos criar as condições para reduzir a taxa de juros\", segundo o TMC."
+         },
+         {
+          "b": "Emprego:",
+          "t": "\"Estamos prontos para o desafio de gerar emprego de mais qualidade, principalmente para os jovens.\""
+         }
+        ]
+       },
+       {
+        "h": "O que ficou de fora",
+        "p": [
+         "Segundo o TMC, Lula não apresentou medidas concretas para equilibrar as contas públicas, conter a dívida ou reduzir os juros, nem o tamanho do ajuste. Antes do pronunciamento, o Broadcast tinha informado que ele anunciaria medidas de ajuste, citadas na edição de 8 de novembro."
+        ]
+       },
+       {
+        "h": "Outros temas",
+        "li": [
+         {
+          "b": "Big techs:",
+          "t": "\"as chamadas big techs tentaram interferir no processo eleitoral brasileiro\" e \"a verdade venceu a mentira\", disse, segundo o Metrópoles."
+         },
+         {
+          "b": "Responsabilidade:",
+          "t": "\"O Brasil não é lugar para quem foge das suas responsabilidades\", segundo O Tempo e o Money Times."
+         },
+         {
+          "b": "Gravação:",
+          "t": "o pronunciamento foi gravado na quinta (5), pouco antes de uma reunião com economistas próximos do PT sobre a dívida pública, segundo o Metrópoles."
+         }
+        ]
+       },
+       {
+        "h": "O mercado",
+        "p": [
+         "Segundo o Metrópoles, a Bolsa caiu mais de 30 mil pontos desde a reeleição, e o dólar passou de menos de R$ 5 para cerca de R$ 5,50."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Governo:",
+          "t": "Lula diz que reafirma \"o compromisso com a responsabilidade fiscal para viabilizar políticas sociais sustentáveis\"."
+         },
+         {
+          "b": "Oposição e mercado:",
+          "t": "as reportagens consultadas, publicadas logo depois do pronunciamento, não trazem reação da oposição nem de economistas."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como e quando o governo vai comprar dívidas de famílias.",
+         "Quanto custa zerar o imposto da cesta básica e de onde sai o dinheiro."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A reação do dólar e da Bolsa nesta segunda (9).",
+         "A ata do Copom, na terça (10)."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "TMC: Lula não detalha plano",
+        "u": "https://tmc.com.br/politica/lula-reafirma-compromisso-fiscal-mas-nao-detalha-plano-para-equilibrar-as-contas/"
+       },
+       {
+        "t": "Metrópoles: big techs e dívida",
+        "u": "https://www.metropoles.com/brasil/lula-diz-que-big-techs-tentaram-interferir-nas-eleicoes-a-verdade-venceu"
+       },
+       {
+        "t": "Money Times: íntegra do pronunciamento",
+        "u": "https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/"
+       },
+       {
+        "t": "O Tempo: o pronunciamento",
+        "u": "https://www.otempo.com.br/politica/governo/2026/11/8/lula-cita-compromisso-fiscal-e-diz-que-brasil-nao-e-lugar-para-quem-foge-de-responsabilidades"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Enem tem 32% de abstenção no primeiro dia de provas",
+     "contexto": "enem-2026",
+     "texto": "Cerca de 32% dos inscritos faltaram ao primeiro dia do Enem, no domingo (8), segundo o Inep, contra 27% em 2025. O tema da redação foi \"A valorização do Sistema Único de Saúde (SUS) como direito universal\".",
+     "pq": "o Enem é a principal porta de entrada no ensino superior. A segunda prova, de ciências da natureza e matemática, é no domingo (15), com portões fechando às 13h. Quem foi prejudicado por eventos climáticos poderá refazer a prova em dezembro, segundo o MEC.",
+     "fontes": [
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/enem-2026-abstencao-chega-a-32-no-1o-dia-e-e-a-maior-desde-a-pandemia"
+      },
+      {
+       "t": "Diário do Pará",
+       "u": "https://diariodopara.com.br/concursos-e-empregos/mais-candidatos-faltaram-ao-enem-2026-abstencao-chega-a-32/"
+      }
+     ],
+     "completa": {
+      "fina": "O exame teve mais de 5,6 milhões de inscrições confirmadas, o maior número desde 2021.",
+      "atualizada": "9 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A abstenção no primeiro dia do Exame Nacional do Ensino Médio (Enem) 2026, no domingo (8), foi de 32%, segundo o Inep, citado pelo Metrópoles e pelo Diário do Pará. Em 2025, foi de 27%. O Metrópoles diz que é a maior taxa desde 2022.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Inscritos:",
+          "t": "5.655.423 inscrições confirmadas, segundo o Diário do Pará; o Metrópoles diz que são cerca de 5% a mais que em 2025 e o maior número desde 2021."
+         },
+         {
+          "b": "Presentes:",
+          "t": "cerca de 68% compareceram."
+         },
+         {
+          "b": "Comparação:",
+          "t": "em 2025, a abstenção do primeiro dia foi de 27%, 5 pontos a menos, segundo o Diário do Pará."
+         }
+        ]
+       },
+       {
+        "h": "A redação",
+        "p": [
+         "O tema foi \"A valorização do Sistema Único de Saúde (SUS) como direito universal\". O texto é dissertativo-argumentativo, com até 30 linhas. Cada redação é corrigida por dois avaliadores, com notas de 0 a 200 em cinco competências, até 1.000 pontos, segundo o Diário do Pará."
+        ]
+       },
+       {
+        "h": "O clima",
+        "p": [
+         "O Metrópoles associa a abstenção às condições climáticas do fim de semana, com alertas de chuva do Inmet em várias regiões. Segundo o MEC, citado pelo Metrópoles, estudantes prejudicados por eventos climáticos extremos poderão refazer a prova em dezembro."
+        ]
+       },
+       {
+        "h": "O segundo dia",
+        "li": [
+         {
+          "b": "Data:",
+          "t": "domingo, 15 de novembro."
+         },
+         {
+          "b": "Provas:",
+          "t": "ciências da natureza e matemática, com cinco horas de duração."
+         },
+         {
+          "b": "Horários de Brasília:",
+          "t": "portões abrem às 12h e fecham às 13h; a prova vai das 13h30 às 18h30."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "MEC:",
+          "t": "informou que haverá reaplicação em dezembro para quem foi prejudicado por eventos climáticos extremos."
+         },
+         {
+          "b": "Segup do Pará:",
+          "t": "disse que não houve prisões no estado e que duas falhas de energia foram resolvidas sem prejuízo às provas, segundo o Diário do Pará."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "A nota do Enem é usada para disputar vagas em universidades públicas pelo Sisu, bolsas do Prouni e financiamento do Fies. Quem falta ao primeiro dia não pode fazer o segundo valer para esses programas, porque a nota depende das quatro provas e da redação. Uma abstenção de 32% sobre 5.655.423 inscrições corresponde a cerca de 1,8 milhão de candidatos ausentes, pela conta feita a partir dos números do Inep citados pelo Diário do Pará."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "A abstenção por estado; o Inep ainda não divulgou.",
+         "As regras para pedir a reaplicação de dezembro."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Segundo dia de provas no domingo (15).",
+         "Divulgação dos gabaritos pelo Inep depois das provas."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Metrópoles: abstenção de 32%",
+        "u": "https://www.metropoles.com/brasil/enem-2026-abstencao-chega-a-32-no-1o-dia-e-e-a-maior-desde-a-pandemia"
+       },
+       {
+        "t": "Diário do Pará: mais candidatos faltaram",
+        "u": "https://diariodopara.com.br/concursos-e-empregos/mais-candidatos-faltaram-ao-enem-2026-abstencao-chega-a-32/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Lula promete Ministério da Segurança Pública e pede reforma do Judiciário",
+     "contexto": "eleicoes-brasil-2026",
+     "texto": "No pronunciamento de domingo (8), Lula disse que vai enviar medida provisória para criar o Ministério da Segurança Pública depois da aprovação da PEC da Segurança. Também disse que o país \"precisa debater com urgência uma reforma política e do Judiciário\".",
+     "pq": "as duas propostas dependem do Congresso, onde o governo negocia a nova base. Segundo o site de Esmael Morais, Lula não detalhou estrutura, orçamento ou prazo do ministério, nem quais regras mudariam no Judiciário.",
+     "fontes": [
+      {
+       "t": "Esmael Morais",
+       "u": "https://www.esmaelmorais.com.br/lula-pronunciamento-ministerio-seguranca-reforma-judiciario-novembro-2026/"
+      },
+      {
+       "t": "Money Times",
+       "u": "https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/"
+      }
+     ],
+     "completa": {
+      "fina": "Lula também cobrou juízes \"isentos, éticos e livres de conflito de interesses\" e citou o fim das bets e o combate ao feminicídio.",
+      "atualizada": "9 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente Lula disse no pronunciamento de domingo (8) que, depois da aprovação da PEC da Segurança Pública, \"encaminharei Medida Provisória para garantir a criação do Ministério da Segurança Pública\", segundo a íntegra publicada pelo Money Times e o site de Esmael Morais. No mesmo discurso, afirmou: \"O Brasil precisa debater com urgência uma reforma política e do Judiciário.\"",
+      "blocos": [
+       {
+        "h": "Segurança pública",
+        "li": [
+         {
+          "b": "O ministério:",
+          "t": "coordenaria forças federais, estaduais e municipais contra facções, milícias e grupos criminosos, segundo o site de Esmael Morais."
+         },
+         {
+          "b": "A frase:",
+          "t": "o combate a esses grupos \"depende da integração entre o Governo Federal, os estados e municípios\", disse Lula."
+         },
+         {
+          "b": "O que falta:",
+          "t": "estrutura, orçamento, comando e calendário não foram detalhados."
+         }
+        ]
+       },
+       {
+        "h": "Como funciona",
+        "p": [
+         "Uma PEC precisa de três quintos dos votos em dois turnos na Câmara e no Senado. Uma medida provisória tem efeito imediato, mas perde a validade se o Congresso não a aprovar em até 120 dias. Por isso Lula condicionou a criação do ministério à aprovação da PEC: a proposta de emenda define o papel da União na segurança, e a MP cria a estrutura do novo ministério."
+        ]
+       },
+       {
+        "h": "Judiciário e reforma política",
+        "p": [
+         "Lula disse que os juízes devem ser \"isentos, éticos e livres de conflito de interesses\", segundo o site de Esmael Morais. Não apresentou proposta fechada nem disse quais regras mudariam, e também não detalhou a reforma política."
+        ]
+       },
+       {
+        "h": "Outros temas do discurso",
+        "li": [
+         {
+          "b": "Bets:",
+          "t": "\"O fim das bets já está gerando impacto positivo na economia.\""
+         },
+         {
+          "b": "Feminicídio:",
+          "t": "prometeu \"fortalecer o Pacto Nacional Brasil contra o Feminicídio\"."
+         },
+         {
+          "b": "Big techs:",
+          "t": "disse que elas \"tentaram interferir no processo eleitoral brasileiro\"."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Lula:",
+          "t": "apresenta as propostas como prioridades do quarto mandato."
+         },
+         {
+          "b": "Oposição, Judiciário e Congresso:",
+          "t": "as reportagens consultadas, publicadas na noite do pronunciamento, não trazem reação de partidos de oposição, de tribunais nem dos presidentes da Câmara e do Senado."
+         }
+        ]
+       },
+       {
+        "h": "O contexto político",
+        "p": [
+         "O pronunciamento foi o primeiro desde a reeleição e serviu para apresentar prioridades do quarto mandato. Segurança pública foi um dos temas mais citados na campanha, e a reforma do Judiciário é um debate antigo no Congresso, sem texto de consenso. O governo ainda monta a base parlamentar para o novo mandato."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando a PEC da Segurança Pública será votada.",
+         "O que o governo propõe mudar no Judiciário."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A tramitação da PEC da Segurança no Congresso.",
+         "As negociações da reforma ministerial, com definições esperadas a partir do fim de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Esmael Morais: ministério da Segurança e reforma do Judiciário",
+        "u": "https://www.esmaelmorais.com.br/lula-pronunciamento-ministerio-seguranca-reforma-judiciario-novembro-2026/"
+       },
+       {
+        "t": "Money Times: íntegra do pronunciamento",
+        "u": "https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Herzog dá a Eisenkot a primeira chance de formar governo em Israel",
+     "contexto": "eleicao-israel-2026",
+     "texto": "O presidente de Israel, Isaac Herzog, entregou no domingo (8) a Gadi Eisenkot a tarefa de formar o próximo governo. Eisenkot teve 67 indicações e Benjamin Netanyahu, 46. Ele tem 28 dias, prorrogáveis por 14, para montar uma coalizão.",
+     "pq": "Eisenkot descarta governar com partidos árabes e precisa de 61 das 120 cadeiras. Netanyahu, que segue como premiê interino, pediu um governo de unidade nacional. Se ninguém conseguir, Israel volta às urnas.",
+     "fontes": [
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+      },
+      {
+       "t": "AP, via PBS",
+       "u": "https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government"
+      }
+     ],
+     "completa": {
+      "fina": "Os novos deputados tomam posse na terça (10); a Lista Conjunta diz que apoiaria Eisenkot de fora do governo.",
+      "atualizada": "9 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente de Israel, Isaac Herzog, deu a Gadi Eisenkot, líder da oposição, a primeira chance de formar o próximo governo, em cerimônia em Jerusalém na noite de domingo (8), segundo a AP. Herzog tinha comunicado a decisão no sábado (7), segundo a Al Jazeera.",
+      "blocos": [
+       {
+        "h": "A conta",
+        "li": [
+         {
+          "b": "Cadeiras:",
+          "t": "o bloco de Netanyahu tem 53; a aliança de Eisenkot, 48; partidos de liderança árabe, 19, recorde."
+         },
+         {
+          "b": "Maioria:",
+          "t": "são necessárias 61 das 120 cadeiras. Com os dois partidos ultraortodoxos, Judaísmo Unido da Torá e Shas, Eisenkot chegaria a exatamente 61, segundo a Al Jazeera."
+         },
+         {
+          "b": "Governo de minoria:",
+          "t": "Eisenkot também pode governar com menos de 61 se vencer um voto de confiança."
+         },
+         {
+          "b": "Partidos árabes:",
+          "t": "o Ra'am diz que apoia Eisenkot, e a Lista Conjunta apoiaria de fora da coalizão. O Yisrael Beytenu, aliado de Eisenkot, descarta governar com partidos árabes, segundo a AP."
+         }
+        ]
+       },
+       {
+        "h": "Os prazos",
+        "p": [
+         "Eisenkot tem 28 dias, com possível prorrogação de 14. Se falhar, Herzog indica outro nome; se este também falhar, uma maioria do Parlamento pode apoiar um terceiro, com 14 dias. Sem governo, haverá nova eleição em até 90 dias, com Netanyahu como premiê interino, segundo a Al Jazeera."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Gadi Eisenkot:",
+          "t": "prometeu formar um governo \"o mais rápido possível\" e listou condições para aliados, como apoio a Israel como Estado judeu e democrático, serviço militar ou nacional e a posição de Israel sobre o Hamas, segundo a AP."
+         },
+         {
+          "b": "Benjamin Netanyahu:",
+          "t": "pediu um governo de \"unidade nacional\" com Eisenkot. Em vídeo, disse que um governo \"dependente de islamistas\" desmontaria Israel por dentro, segundo a Al Jazeera."
+         },
+         {
+          "b": "Ahmad Tibi, da Lista Conjunta:",
+          "t": "chamou a decisão de \"esperada\" e disse que o apoio árabe deu a Eisenkot uma \"margem considerável\". Afirmou que a prioridade é tirar Netanyahu do poder."
+         }
+        ]
+       },
+       {
+        "h": "A votação",
+        "p": [
+         "O serviço de segurança interna, Shin Bet, investiga possível interferência estrangeira na eleição de 27 de outubro. A Comissão Central de Eleições e Herzog dizem que a votação foi válida, segundo a AP."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se Eisenkot fecha acordo com os ultraortodoxos, com Netanyahu ou com apoio árabe de fora do governo.",
+         "Se a investigação do Shin Bet encontra algo.",
+         "Que papel Netanyahu, que segue como premiê interino, terá nas conversas."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Os novos deputados tomam posse na terça (10).",
+         "O prazo de Eisenkot vence no início de dezembro, sem contar a prorrogação."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: Herzog escolhe Eisenkot",
+        "u": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+       },
+       {
+        "t": "AP, via PBS: Eisenkot recebe a tarefa",
+        "u": "https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Trump diz que novos ataques ao Irã são \"altamente improváveis\"",
+     "contexto": "guerra-ira-eua-2026",
+     "texto": "Donald Trump disse à CNN que novos ataques ao Irã são \"altamente improváveis\" enquanto as negociações sobre o programa nuclear e o Estreito de Ormuz avançarem, segundo o Israel Hayom. O chanceler iraniano, Abbas Araghchi, disse que a Casa Branca deve aceitar as condições do Irã ou \"escolher a guerra\".",
+     "pq": "o conflito afeta o petróleo e o transporte marítimo. Os EUA ampliaram o bloqueio a rotas terrestres do Irã, e um navio que tentou furar o bloqueio no Golfo de Omã foi inutilizado no sábado (7).",
+     "fontes": [
+      {
+       "t": "Israel Hayom",
+       "u": "https://www.israelhayom.com/2026/11/08/trump-renewed-strikes-on-iran-highly-unlikely-to-be-necessary/"
+      },
+      {
+       "t": "Fox News",
+       "u": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
+      }
+     ],
+     "completa": {
+      "fina": "Trump ameaçou derrubar \"38 pontes\" se for preciso; o Irã diz que mediadores pararam de viajar depois das eleições americanas.",
+      "atualizada": "9 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente americano, Donald Trump, disse à CNN que novos ataques ao Irã são \"altamente improváveis\" enquanto as negociações sobre o programa nuclear e a reabertura do Estreito de Ormuz avançarem, segundo o Israel Hayom.",
+      "blocos": [
+       {
+        "h": "O que disse Trump",
+        "li": [
+         {
+          "b": "Pontes:",
+          "t": "\"Temos 38 pontes na mira que podemos derrubar em literalmente uma hora\", mas \"não gosto de derrubar pontes\"."
+         },
+         {
+          "b": "Prontidão:",
+          "t": "\"Estamos prontos. Tenho três porta-aviões aqui.\""
+         },
+         {
+          "b": "Eleições:",
+          "t": "disse que o vice JD Vance está \"em grande parte\" certo ao apontar a guerra como um dos motivos da derrota republicana, segundo o Israel Hayom."
+         }
+        ]
+       },
+       {
+        "h": "O bloqueio",
+        "li": [
+         {
+          "b": "Força-tarefa:",
+          "t": "o governo anunciou no sábado (7) a Força-Tarefa Iron Gate, com base em Tampa, para rastrear armas, tecnologia, receitas e mercadorias sob sanção nas fronteiras do Irã e no mar Cáspio, segundo a Fox News."
+         },
+         {
+          "b": "Navio:",
+          "t": "um avião militar americano disparou contra a popa do navio M/V Huda, de bandeira de São Cristóvão e Névis, no Golfo de Omã. O comando militar diz que ele ignorou avisos."
+         },
+         {
+          "b": "Desde julho:",
+          "t": "147 navios mudaram de rota e cinco foram inutilizados, segundo o comando militar dos EUA."
+         }
+        ]
+       },
+       {
+        "h": "No Estreito",
+        "p": [
+         "Quatro explosões foram ouvidas no porto de Bahman, na ilha de Qeshm; não está claro se navios foram atingidos ou se houve ataque americano, segundo o Israel Hayom. A Guarda Revolucionária diz que três petroleiros foram atingidos ao tentar uma rota \"não autorizada\"; a Marinha do Irã diz que um petroleiro bateu em uma mina."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Abbas Araghchi, chanceler do Irã:",
+          "t": "\"Os eleitores americanos fizeram sua escolha. Hora de a Casa Branca fazer a dela.\" Disse que os mediadores pararam de viajar por causa do \"choque\" do resultado eleitoral nos EUA."
+         },
+         {
+          "b": "Ali Rashid Al Nuaimi, dos Emirados:",
+          "t": "\"Vemos algum progresso\", disse à Fox News sobre as conversas mediadas pelo Catar."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "Pelo Estreito de Ormuz passa uma parte relevante do petróleo vendido no mundo. Explosões, minas e navios inutilizados aumentam o custo do seguro e do frete e pressionam o preço do combustível, inclusive no Brasil. A fala de Trump, combinada com o relato de \"algum progresso\" dos Emirados, indica que Washington prefere, por ora, o bloqueio e a negociação a novos bombardeios, segundo o Israel Hayom e a Fox News."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se haverá nova rodada de conversas e onde.",
+         "A resposta americana à proposta nuclear iraniana."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A reunião de chanceleres do G7 em Paris, nesta segunda (9) e terça (10).",
+         "A continuidade do bloqueio aos portos e às rotas terrestres do Irã."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Israel Hayom: ataques altamente improváveis",
+        "u": "https://www.israelhayom.com/2026/11/08/trump-renewed-strikes-on-iran-highly-unlikely-to-be-necessary/"
+       },
+       {
+        "t": "Fox News: atualizações de 8 de novembro",
+        "u": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "COP31 começa nesta segunda na Turquia com menos líderes confirmados",
+     "contexto": "combustiveis-fosseis-cop",
+     "texto": "A conferência do clima da ONU, COP31, vai de 9 a 20 de novembro em Antália, na Turquia. A cúpula de líderes é em 11 e 12 de novembro. Uma lista provisória da ONU tem 77 chefes de Estado ou de governo inscritos para falar, contra 116 na COP28.",
+     "pq": "os planos nacionais apresentados até agora cortariam as emissões só 6% até 2035 em relação a 2019, segundo a ONU. É a primeira COP depois da de Belém, e o Brasil passa a presidência à Turquia.",
+     "fontes": [
+      {
+       "t": "Climate & Capital Media",
+       "u": "https://www.climateandcapitalmedia.com/cop31-antalya-preview/"
+      },
+      {
+       "t": "Caspian Post",
+       "u": "https://caspianpost.com/regions/cop31-climate-summit-opens-in-turkiye-s-antalya-bringing-global-leaders-together"
+      }
+     ],
+     "completa": {
+      "fina": "A Turquia preside a conferência, mas as negociações são conduzidas pelo ministro do Clima da Austrália, Chris Bowen, por acordo fechado na COP30.",
+      "atualizada": "9 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A 31ª Conferência do Clima da ONU, a COP31, começa nesta segunda-feira (9) em Antália, na Turquia, e vai até 20 de novembro, segundo o Caspian Post e a Climate & Capital Media. O tema é \"COP do Futuro, COP da Implementação\".",
+      "blocos": [
+       {
+        "h": "Quem comanda",
+        "li": [
+         {
+          "b": "Presidência:",
+          "t": "o ministro do Meio Ambiente da Turquia, Murat Kurum, preside a COP."
+         },
+         {
+          "b": "Negociações:",
+          "t": "conduzidas pelo ministro do Clima da Austrália, Chris Bowen, por acordo feito na COP30, em Belém."
+         },
+         {
+          "b": "Líderes:",
+          "t": "a cúpula de líderes é em 11 e 12 de novembro. A lista provisória da ONU tem 77 chefes de Estado ou de governo, contra 116 na COP28, em Dubai; a Turquia espera 91."
+         }
+        ]
+       },
+       {
+        "h": "Os números do clima",
+        "li": [
+         {
+          "b": "Aquecimento:",
+          "t": "o mundo caminha para 2,8°C, ou 2,6°C se todos cumprirem as promessas, segundo o relatório do Programa da ONU para o Meio Ambiente."
+         },
+         {
+          "b": "Planos:",
+          "t": "os planos de 154 países cortariam as emissões em 6% até 2035 em relação a 2019, ou 9% com promessas condicionais. A Climate & Capital atribui parte da queda à saída dos EUA do Acordo de Paris."
+         },
+         {
+          "b": "Perdas e danos:",
+          "t": "a primeira liberação do fundo é de US$ 20 milhões para o Nepal, que estima perdas de US$ 2,69 bilhões com enchentes de agosto."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "A COP é onde os países negociam como cumprir o Acordo de Paris, que busca limitar o aquecimento a bem menos de 2°C e, se possível, a 1,5°C. A distância entre os 2,8°C projetados e essa meta mostra o tamanho do ajuste pendente. A COP30, em Belém, terminou sem um roteiro formal para abandonar os combustíveis fósseis, e esse é um dos temas que observadores esperam ver de volta em Antália, segundo a Climate & Capital."
+        ]
+       },
+       {
+        "h": "Estrutura",
+        "p": [
+         "A Zona Azul recebe as negociações oficiais; a Zona Verde, exposições e debates abertos. A segurança mobiliza 27.957 policiais, gendarmes e guardas costeiros, e 630 ônibus de baixa emissão fazem o transporte, segundo o Caspian Post."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Yvo de Boer, ex-chefe do clima da ONU:",
+          "t": "disse que o baixo comparecimento de líderes manda \"o sinal errado em um momento difícil\"."
+         },
+         {
+          "b": "Li Gao, vice-ministro da China:",
+          "t": "criticou o \"unilateralismo e protecionismo\"."
+         },
+         {
+          "b": "Li Shuo, do Asia Society Policy Institute:",
+          "t": "espera que o comércio seja \"um dos temas de destaque em Antália\"."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o roteiro para deixar os combustíveis fósseis entra na agenda.",
+         "Quem os EUA vão mandar, se mandarem."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Cúpula de líderes em 11 e 12 de novembro.",
+         "Encerramento em 20 de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Climate & Capital Media: o que observar na COP31",
+        "u": "https://www.climateandcapitalmedia.com/cop31-antalya-preview/"
+       },
+       {
+        "t": "Caspian Post: COP31 começa em Antália",
+        "u": "https://caspianpost.com/regions/cop31-climate-summit-opens-in-turkiye-s-antalya-bringing-global-leaders-together"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Empresas chinesas autorizadas a montar chips da Nvidia têm escritórios vazios",
+     "contexto": "nvidia-china-chips",
+     "texto": "Uma investigação do New York Times, publicada no sábado (7), encontrou escritórios vazios em duas empresas chinesas, New Matrix e Maginfra, autorizadas pelo governo americano a montar servidores com chips H200 da Nvidia. As duas têm ligações com empresas da lista de sanções dos EUA.",
+     "pq": "os EUA liberaram a venda do H200 à China com licenças caso a caso. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, empresa de inteligência artificial que concorre com empresas citadas nesta nota, como Alibaba, ByteDance e Baidu.",
+     "fontes": [
+      {
+       "t": "Wccftech, com The New York Times",
+       "u": "https://wccftech.com/us-approved-nvidia-h200-sales-chinese-firms-empty-offices-military-ties/"
+      },
+      {
+       "t": "RuntimeWire, com The New York Times",
+       "u": "https://runtimewire.com/article/us-cleared-nvidia-h200-chips-for-chinese-firms-with-empty-offices"
+      }
+     ],
+     "completa": {
+      "fina": "Cerca de duas dezenas de empresas chinesas foram aprovadas pelo Departamento de Comércio para comprar ou manusear o H200.",
+      "atualizada": "9 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Departamento de Comércio dos EUA aprovou cerca de duas dezenas de empresas chinesas para comprar ou manusear os chips H200 da Nvidia, e ao menos duas delas, New Matrix e Maginfra, tinham escritórios vazios, segundo investigação do New York Times de 7 de novembro, relatada pelo Wccftech e pelo RuntimeWire.",
+      "blocos": [
+       {
+        "h": "O que a investigação encontrou",
+        "li": [
+         {
+          "b": "New Matrix:",
+          "t": "o endereço registrado em Pequim era uma sala vazia, e a administração do prédio não tinha registro da empresa. Ela divide o principal dono com a Wise Road, fundo colocado na lista negra americana em 2024, segundo o Wccftech."
+         },
+         {
+          "b": "Maginfra:",
+          "t": "o endereço era uma sala deserta. Analistas acreditam que ela atue em nome da Inspur, que Washington pôs na lista negra em 2023."
+         },
+         {
+          "b": "O papel:",
+          "t": "nenhuma das duas foi aprovada como usuária final; ambas foram autorizadas a montar chips H200 em servidores para clientes não especificados."
+         },
+         {
+          "b": "Outras:",
+          "t": "a lista inclui nomes conhecidos, como Baidu, BYD, Tesla Xangai, Alibaba, Tencent, ByteDance e ZTE Kangxun."
+         }
+        ]
+       },
+       {
+        "h": "O contexto",
+        "p": [
+         "Trump afrouxou as proibições de exportação no fim do ano passado, depois de pressão do presidente da Nvidia, Jensen Huang, segundo o Wccftech. Os chips montados em Taiwan passam pelos EUA, onde pagam tarifa de 25%. Para o RuntimeWire, o caso testa se o licenciamento caso a caso consegue checar intermediários, além dos compradores finais."
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "O H200 é um chip usado para treinar e rodar modelos de inteligência artificial. Os EUA restringem a venda desses chips à China desde 2022, citando riscos militares, e as licenças caso a caso foram a forma encontrada para liberar parte das vendas. Se empresas intermediárias sem atividade real conseguem licença, os chips podem chegar a usuários que o governo americano queria barrar, segundo a análise do RuntimeWire."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Liza Tobin, ex-diretora para a China no Conselho de Segurança Nacional:",
+          "t": "disse que nem o Departamento de Comércio nem a Nvidia parecem fazer a checagem necessária, segundo o Wccftech."
+         },
+         {
+          "b": "Departamento de Comércio e Nvidia:",
+          "t": "as reportagens consultadas não trazem resposta deles."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantas licenças foram concedidas exatamente.",
+         "Se o governo vai rever as aprovações."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O Wccftech cita uma reunião fechada em 18 de novembro em que Huang terá de tratar do tema.",
+         "A pressão no Congresso por uma auditoria das licenças."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Wccftech: empresas com escritórios vazios",
+        "u": "https://wccftech.com/us-approved-nvidia-h200-sales-chinese-firms-empty-offices-military-ties/"
+       },
+       {
+        "t": "RuntimeWire: licenças para o H200",
+        "u": "https://runtimewire.com/article/us-cleared-nvidia-h200-chips-for-chinese-firms-with-empty-offices"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "32%",
+  "texto": "dos inscritos faltaram ao primeiro dia do Enem 2026, contra 27% em 2025, segundo o Inep.",
+  "fontes": [
+   {
+    "t": "Diário do Pará",
+    "u": "https://diariodopara.com.br/concursos-e-empregos/mais-candidatos-faltaram-ao-enem-2026-abstencao-chega-a-32/"
+   },
+   {
+    "t": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/enem-2026-abstencao-chega-a-32-no-1o-dia-e-e-a-maior-desde-a-pandemia"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "Em Belém, um candidato de 22 anos foi à escola errada no dia do Enem. Guardas municipais o levaram ao local certo, e ele entrou um minuto antes de os portões fecharem.",
+  "fontes": [
+   {
+    "t": "Diário do Pará",
+    "u": "https://diariodopara.com.br/concursos-e-empregos/mais-candidatos-faltaram-ao-enem-2026-abstencao-chega-a-32/"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição cita Alibaba, ByteDance, Baidu e Tencent, que concorrem com a Anthropic.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho com ressalva: duas notas de Brasil vêm do mesmo pronunciamento do presidente. Para equilibrar, as notas trazem o que ele não detalhou e registram que não houve reação da oposição nas fontes publicadas na noite de domingo.",
+  "pontos": [
+   "Brasil 1 e 3: promessas de Lula sempre entre aspas e atribuídas; as notas dizem o que não foi detalhado, segundo o TMC e o site de Esmael Morais.",
+   "Brasil 1: queda da Bolsa e alta do dólar atribuídas ao Metrópoles.",
+   "Mundo 1: a fala de Netanyahu sobre 'islamistas' fica entre aspas e com nome; a Lista Conjunta e Eisenkot falam na própria voz.",
+   "Mundo 2: nota de guerra sem menção a IA; falas de Trump e do chanceler iraniano em espaço parecido.",
+   "Inovação 1: Departamento de Comércio e Nvidia não responderam nas fontes; isso está escrito; aviso de conflito de interesse.",
+   "Ressalva: só uma nota de Inovação."
+  ],
+  "equilibrio": "Governo Lula: 3 menções (neutras, em aspas); oposição: 0 nas fontes (registrado). Governo Trump: 2 (neutras); governo do Irã: 1 (neutra). Netanyahu e Eisenkot: 1 cada.",
+  "foraDaEdicao": [
+   "Inovação 2: sem segunda pauta com duas fontes abertas e fato novo; a prova da OpenAI sobre a hipótese do tempo exponencial é de outubro.",
+   "Esportes e demais categorias extras: sem fato novo checado em duas fontes até o fechamento.",
+   "Temporais no Sul: sem balanço novo com data confirmada."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Essencial: Enem, pela data da segunda prova e pela reaplicação, e as promessas de Lula sobre cesta básica e dívidas, pelo efeito no bolso, com a ressalva de que faltam detalhes.",
+   "Duas notas do pronunciamento separadas por tema (economia e segurança/Judiciário), sem repetir fatos.",
+   "Toda nota tem página de contexto."
+  ]
+ },
+ "geradaEm": "2026-11-09T07:41:50Z"
+}

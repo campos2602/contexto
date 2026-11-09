@@ -1,17 +1,9 @@
 {
  "titulo": "A guerra entre Estados Unidos e Irã em 2026",
- "atualizado": "7 nov 2026",
+ "atualizado": "9 nov 2026",
  "selo": "Checado",
  "frase": "Estados Unidos e Israel entraram em guerra com o Irã no fim de fevereiro de 2026. Desde então houve cessar-fogo, um acordo provisório que venceu sem renovação, bloqueio naval e ataques no Estreito de Ormuz, enquanto mediadores tentam um acordo.",
  "linha": [
-  {
-   "d": "Julho de 2026",
-   "t": "O barril do Brent chega a US$ 100. Antes da guerra, em 2025, estava em US$ 69."
-  },
-  {
-   "d": "17 de agosto de 2026",
-   "t": "Termina sem acordo um prazo de 60 dias para negociação. Perguntado se buscaria prorrogação, Trump respondeu \"não\", segundo a ND Mais."
-  },
   {
    "d": "Agosto de 2026",
    "t": "Os EUA retomam o bloqueio naval no Estreito de Ormuz, e o Irã volta a atacar navios."
@@ -35,6 +27,14 @@
   {
    "d": "6 de novembro de 2026",
    "t": "Trump diz que decide em breve entre acordo e novos ataques. O Irã envia, via Catar, uma proposta nuclear que só discute depois de os EUA atenderem às sete exigências, segundo a Reuters, citada pelo Just Security."
+  },
+  {
+   "d": "7 de novembro de 2026",
+   "t": "Os EUA criam a Força-Tarefa Iron Gate para vigiar as fronteiras terrestres do Irã e o mar Cáspio. Um avião americano inutiliza o navio M/V Huda no Golfo de Omã, segundo a Fox News."
+  },
+  {
+   "d": "8 de novembro de 2026",
+   "t": "Trump diz à CNN que novos ataques são \"altamente improváveis\" se as negociações avançarem. O chanceler Abbas Araghchi diz que a Casa Branca deve escolher entre as condições do Irã e a guerra, segundo o Israel Hayom."
   }
  ],
  "termos": [
@@ -100,10 +100,10 @@
   }
  ],
  "observar": [
-  "A decisão de Trump entre acordo e novos ataques.",
-  "A resposta dos EUA à proposta nuclear enviada pelo Catar.",
   "A reunião de chanceleres do G7 em Paris, em 9 e 10 de novembro.",
-  "O preço do petróleo e dos combustíveis."
+  "Se haverá nova rodada de negociações mediadas pelo Catar.",
+  "A situação no Estreito de Ormuz e o preço do petróleo.",
+  "O alcance do bloqueio às rotas terrestres do Irã."
  ],
  "fontes": [
   {
@@ -137,6 +137,14 @@
   {
    "t": "Just Security: resumo de 6 de novembro",
    "u": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+  },
+  {
+   "t": "Israel Hayom: ataques altamente improváveis",
+   "u": "https://www.israelhayom.com/2026/11/08/trump-renewed-strikes-on-iran-highly-unlikely-to-be-necessary/"
+  },
+  {
+   "t": "Fox News: atualizações de 8 de novembro",
+   "u": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
   }
  ]
 }

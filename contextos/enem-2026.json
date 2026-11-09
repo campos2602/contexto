@@ -1,0 +1,106 @@
+{
+ "titulo": "Enem 2026: a prova que abre a porta do ensino superior",
+ "atualizado": "9 nov 2026",
+ "selo": "Checado",
+ "frase": "O Exame Nacional do Ensino Médio é aplicado pelo Inep, ligado ao MEC, e a nota é usada para entrar em universidades públicas e conseguir bolsas e financiamento. Em 2026, foram 5.655.423 inscrições confirmadas, e 32% faltaram ao primeiro dia.",
+ "linha": [
+  {
+   "d": "1998",
+   "t": "O MEC cria o Enem como avaliação do fim do ensino médio."
+  },
+  {
+   "d": "2009",
+   "t": "O exame é reformulado e passa a servir de vestibular para universidades federais, pelo Sistema de Seleção Unificada, o Sisu."
+  },
+  {
+   "d": "2025",
+   "t": "A abstenção do primeiro dia é de 27%, segundo o Inep, citado pelo Diário do Pará."
+  },
+  {
+   "d": "2026",
+   "t": "O Enem tem 5.655.423 inscrições confirmadas, cerca de 5% a mais que em 2025 e o maior número desde 2021, segundo o Metrópoles e o Diário do Pará."
+  },
+  {
+   "d": "8 de novembro de 2026",
+   "t": "Primeiro dia: linguagens, ciências humanas e redação, com o tema \"A valorização do Sistema Único de Saúde (SUS) como direito universal\". A abstenção é de 32%, a maior desde 2022, segundo o Metrópoles."
+  },
+  {
+   "d": "15 de novembro de 2026",
+   "t": "Segundo dia: ciências da natureza e matemática. Portões abrem às 12h e fecham às 13h, no horário de Brasília; a prova vai das 13h30 às 18h30."
+  },
+  {
+   "d": "Dezembro de 2026",
+   "t": "Reaplicação para estudantes prejudicados por eventos climáticos extremos, segundo o MEC, citado pelo Metrópoles."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Abstenção",
+   "d": "Parcela dos inscritos que não compareceu à prova. Em 2026, foi de 32% no primeiro dia, contra 27% em 2025."
+  },
+  {
+   "t": "Sisu",
+   "d": "Sistema de Seleção Unificada, do MEC, em que o estudante usa a nota do Enem para disputar vagas em universidades públicas."
+  },
+  {
+   "t": "Prouni",
+   "d": "Programa Universidade para Todos, que dá bolsas integrais ou parciais em faculdades particulares a partir da nota do Enem e da renda familiar."
+  },
+  {
+   "t": "Fies",
+   "d": "Fundo de Financiamento Estudantil, que financia mensalidades em faculdades particulares e também usa a nota do Enem."
+  },
+  {
+   "t": "Redação dissertativo-argumentativa",
+   "d": "Texto de até 30 linhas que defende um ponto de vista sobre o tema dado. É corrigido por dois avaliadores, com notas de 0 a 200 em cinco competências, até 1.000 pontos, segundo o Diário do Pará."
+  },
+  {
+   "t": "Reaplicação",
+   "d": "Nova aplicação da prova para quem não pôde fazê-la por motivo previsto nas regras. Em 2026, o MEC a anunciou para estudantes atingidos por eventos climáticos extremos."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Inep",
+   "t": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, autarquia do MEC que organiza o Enem e divulga os números."
+  },
+  {
+   "b": "MEC",
+   "t": "Ministério da Educação, responsável pela política de acesso ao ensino superior e pela decisão de reaplicar a prova em dezembro."
+  },
+  {
+   "b": "Candidatos",
+   "t": "estudantes que terminam ou já terminaram o ensino médio, além de quem faz a prova como treino. Em 2026, foram 5.655.423 inscrições confirmadas."
+  },
+  {
+   "b": "Secretarias estaduais de segurança",
+   "t": "acompanham a aplicação nos estados. No Pará, a Segup disse que não houve prisões no primeiro dia."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "A causa da abstenção",
+   "t": "o Metrópoles associa a alta às condições climáticas do fim de semana, com alertas de chuva do Inmet em várias regiões. O Inep ainda não divulgou a abstenção por estado, o que permitiria checar essa relação."
+  },
+  {
+   "b": "Quem tem direito a refazer",
+   "t": "o MEC prometeu reaplicação para prejudicados por eventos climáticos extremos, mas as regras para pedir a nova prova ainda não foram divulgadas."
+  }
+ ],
+ "observar": [
+  "A abstenção por estado, quando o Inep divulgar.",
+  "As regras para pedir a reaplicação de dezembro.",
+  "O segundo dia de provas, em 15 de novembro.",
+  "Os gabaritos oficiais e, depois, o resultado, usado no Sisu, no Prouni e no Fies."
+ ],
+ "fontes": [
+  {
+   "t": "Metrópoles: abstenção de 32%",
+   "u": "https://www.metropoles.com/brasil/enem-2026-abstencao-chega-a-32-no-1o-dia-e-e-a-maior-desde-a-pandemia"
+  },
+  {
+   "t": "Diário do Pará: mais candidatos faltaram",
+   "u": "https://diariodopara.com.br/concursos-e-empregos/mais-candidatos-faltaram-ao-enem-2026-abstencao-chega-a-32/"
+  }
+ ]
+}
