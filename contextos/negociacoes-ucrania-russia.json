@@ -1,13 +1,9 @@
 {
  "titulo": "Guerra na Ucrânia: onde estão as negociações",
- "atualizado": "8 nov 2026",
+ "atualizado": "10 nov 2026",
  "selo": "Checado",
  "frase": "A Rússia invadiu a Ucrânia em fevereiro de 2022. Desde então, houve rodadas de conversa sem acordo de paz; uma nova rodada, com os EUA, está prevista para novembro de 2026.",
  "linha": [
-  {
-   "d": "2025",
-   "t": "Ucrânia e Rússia fazem várias rodadas de conversas diretas, sem acordo, segundo a Euronews."
-  },
   {
    "d": "Início de 2026",
    "t": "As conversas diretas ficam congeladas."
@@ -35,6 +31,10 @@
   {
    "d": "6 de novembro de 2026",
    "t": "Putin confirma nova rodada entre Rússia, EUA e Ucrânia em Abu Dhabi a partir de terça (10). Vladimir Medinsky chefia a delegação russa; Witkoff cita garantias de segurança, redução das hostilidades e questões humanitárias."
+  },
+  {
+   "d": "10 de novembro de 2026",
+   "t": "Começam em Abu Dhabi dois dias de conversas entre Rússia, Ucrânia e EUA, as primeiras a três desde fevereiro. Medinsky chefia a delegação russa, Umerov a ucraniana, e Kushner e Witkoff mediam, segundo a AP."
   }
  ],
  "termos": [
@@ -100,8 +100,8 @@
   }
  ],
  "observar": [
-  "As conversas em Abu Dhabi, a partir de 10 de novembro.",
-  "Quem negocia pela Ucrânia e se a Europa terá representante.",
+  "O resultado das conversas de 10 e 11 de novembro em Abu Dhabi.",
+  "Se a Europa entra na negociação, como defende Kushner.",
   "Se haverá trégua ou nova troca de prisioneiros.",
   "Ataques à infraestrutura de energia com a chegada do inverno."
  ],
@@ -137,6 +137,14 @@
   {
    "t": "Just Security: resumo de 6 de novembro",
    "u": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+  },
+  {
+   "t": "AP, via KSAT: conversas em Abu Dhabi",
+   "u": "https://www.ksat.com/news/world/2026/11/10/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/"
+  },
+  {
+   "t": "Kuwait Times: negociações começam",
+   "u": "https://kuwaittimes.com/article/53348/world/us-mediated-russia-ukraine-talks-open-in-abu-dhabi/"
   }
  ]
 }

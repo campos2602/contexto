@@ -1,13 +1,9 @@
 {
  "titulo": "Dólar, Bolsa e juros: como o mercado reage a um susto",
- "atualizado": "9 nov 2026",
+ "atualizado": "10 nov 2026",
  "selo": "Checado",
  "frase": "Quando investidores mudam de ideia sobre o futuro da economia de um país, eles vendem ações e reais e cobram juros mais altos para emprestar dinheiro ao governo. O dólar, o Ibovespa e os juros futuros medem esses três movimentos.",
  "linha": [
-  {
-   "d": "26 de outubro de 2026",
-   "t": "O dólar sobe mais de 8%, o Ibovespa cai 13,88%, e a B3 aciona o circuit breaker pela primeira vez desde 2020."
-  },
   {
    "d": "27 de outubro de 2026",
    "t": "O dólar recua 1,07%, a R$ 5,349, e o Ibovespa cai 0,51%. Galípolo diz que o BC pode atuar no câmbio; o Tesouro cancela leilão e anuncia recompra de títulos."
@@ -35,6 +31,10 @@
   {
    "d": "8 de novembro de 2026",
    "t": "Em rede nacional, Lula diz que a dívida pública e os juros altos o preocupam e promete preservar as regras fiscais. Anuncia isenção da cesta básica a partir de 2027 e compra de dívidas de famílias, sem detalhar o ajuste das contas, segundo o TMC."
+  },
+  {
+   "d": "9 de novembro de 2026",
+   "t": "No primeiro pregão depois do pronunciamento, o Ibovespa sobe 2,22%, a 172.236 pontos, maior alta diária desde 5 de outubro; o dólar cai 0,06%, a R$ 5,50. O Focus eleva a previsão da Selic no fim de 2026 para 13,75%, segundo o SBT News."
   }
  ],
  "termos": [
@@ -112,8 +112,8 @@
   }
  ],
  "observar": [
-  "A reação do dólar e do Ibovespa nesta segunda (9).",
-  "A ata do Copom, na terça (10).",
+  "A ata do Copom, nesta terça (10).",
+  "Se a recuperação da Bolsa se mantém.",
   "Como o governo vai pagar a isenção da cesta básica e a compra de dívidas de famílias.",
   "As medidas de corte de gastos e de aumento de arrecadação."
  ],
@@ -197,6 +197,18 @@
   {
    "t": "Metrópoles: big techs e dívida",
    "u": "https://www.metropoles.com/brasil/lula-diz-que-big-techs-tentaram-interferir-nas-eleicoes-a-verdade-venceu"
+  },
+  {
+   "t": "SBT News: maior ganho desde a eleição",
+   "u": "https://sbtnews.sbt.com.br/noticia/economia/ibovespa-sobe-2-2-maior-ganho-diario-desde-eleicao-de-lula"
+  },
+  {
+   "t": "Itabira Online: Bolsa sobe mais de 2%",
+   "u": "https://itabiraonline.com.br/2026/11/09/bolsa-brasileira-sobe-mais-de-2-e-dolar-fecha-praticamente-estavel-nesta-segunda-feira/"
+  },
+  {
+   "t": "Diário do Grande ABC: fechamento do mercado",
+   "u": "https://www.dgabc.com.br/Noticia/4367794/fechamento-do-mercado-financeiro"
   }
  ]
 }

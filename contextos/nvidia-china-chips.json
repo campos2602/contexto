@@ -1,13 +1,9 @@
 {
  "titulo": "Nvidia, China e a disputa pelos chips de inteligência artificial",
- "atualizado": "9 nov 2026",
+ "atualizado": "10 nov 2026",
  "selo": "Com ressalva",
  "frase": "Os chips da Nvidia são a base do treinamento de inteligência artificial. Desde 2022, os EUA limitam a venda dos modelos mais avançados à China, e a China, por sua vez, passou a restringir a compra de alguns deles.",
  "linha": [
-  {
-   "d": "Outubro de 2022",
-   "t": "O governo americano restringe a venda dos chips A100 e H100 à China. A Nvidia lança versões mais lentas, A800 e H800, segundo o What Led To e o Tech Insider."
-  },
   {
    "d": "Outubro de 2023",
    "t": "Novas regras fecham a brecha dos modelos adaptados; a Nvidia desenvolve o H20 para o mercado chinês."
@@ -35,6 +31,10 @@
   {
    "d": "7 de novembro de 2026",
    "t": "Investigação do New York Times encontra escritórios vazios em duas empresas chinesas, New Matrix e Maginfra, autorizadas a montar servidores com chips H200. Ambas têm ligações com empresas sob sanção dos EUA, segundo o Wccftech e o RuntimeWire."
+  },
+  {
+   "d": "8 e 9 de novembro de 2026",
+   "t": "O conselho da Nvidia abre investigação para saber se Jensen Huang foi alvo de operação de inteligência chinesa. As ações caem 5,14% na segunda (9). A China chama a acusação de \"infundada\", segundo a Al Jazeera e a Fox Business."
   }
  ],
  "termos": [
@@ -79,6 +79,10 @@
   {
    "b": "Empresas de nuvem",
    "t": "compram chips da Nvidia e alugam capacidade a clientes de vários países."
+  },
+  {
+   "b": "Jensen Huang",
+   "t": "cofundador e presidente-executivo da Nvidia, com 3,6% das ações. Desde 8 de novembro de 2026, é alvo de investigação interna do conselho sobre possível operação de inteligência chinesa; diz que vai cooperar."
   }
  ],
  "disputa": [
@@ -96,10 +100,10 @@
   }
  ],
  "observar": [
+  "A investigação do conselho da Nvidia sobre Jensen Huang.",
   "A reunião fechada de 18 de novembro citada pelo Wccftech.",
   "Se o Departamento de Comércio revê licenças de empresas intermediárias.",
-  "Novas regras de exportação de chips no novo Congresso dos EUA.",
-  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, empresa de inteligência artificial que concorre com empresas citadas nesta nota, como Alibaba, ByteDance e Baidu."
+  "Novas regras de exportação de chips no novo Congresso dos EUA."
  ],
  "fontes": [
   {
@@ -125,6 +129,14 @@
   {
    "t": "RuntimeWire: licenças para o H200",
    "u": "https://runtimewire.com/article/us-cleared-nvidia-h200-chips-for-chinese-firms-with-empty-offices"
+  },
+  {
+   "t": "Al Jazeera, com Reuters: ações da Nvidia caem",
+   "u": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang"
+  },
+  {
+   "t": "Fox Business: investigação sobre Huang",
+   "u": "https://www.foxbusiness.com/markets/nvidia-shares-fall-after-investigation-ceos-relationship-alleged-chinese-spy"
   }
  ]
 }

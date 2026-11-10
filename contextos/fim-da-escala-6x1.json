@@ -1,0 +1,106 @@
+{
+ "titulo": "O fim da escala 6x1: o que muda na jornada de trabalho",
+ "atualizado": "10 nov 2026",
+ "selo": "Checado",
+ "frase": "Uma emenda à Constituição reduz a jornada máxima de 44 para 42 horas semanais e torna obrigatórias duas folgas por semana a partir de 16 de dezembro de 2026. O governo prepara um decreto que define como as empresas podem organizar as escalas.",
+ "linha": [
+  {
+   "d": "Antes da emenda",
+   "t": "A Constituição permite jornada de até 44 horas semanais. A escala 6x1, com seis dias de trabalho e um de folga, é comum no comércio e nos serviços."
+  },
+  {
+   "d": "2026",
+   "t": "O Congresso aprova a emenda que acaba com a escala 6x1: jornada máxima de 42 horas e duas folgas semanais obrigatórias."
+  },
+  {
+   "d": "5 de novembro de 2026",
+   "t": "O ministro do Trabalho, Luiz Marinho, anuncia que o decreto de regulamentação sairia na segunda (9), segundo O Antagonista."
+  },
+  {
+   "d": "9 de novembro de 2026",
+   "t": "O decreto é adiado. Segundo a Folhapress, Lula não teve tempo de revisar o texto antes de viajar para a COP31, na Turquia, e para a cúpula da Asean, nas Filipinas."
+  },
+  {
+   "d": "Semana de 16 de novembro de 2026",
+   "t": "Nova previsão do governo para publicar o decreto."
+  },
+  {
+   "d": "16 de dezembro de 2026",
+   "t": "A emenda constitucional entra em vigor."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Escala 6x1",
+   "d": "Seis dias de trabalho seguidos de um dia de folga. Com a emenda, deixa de ser permitida como regra semanal."
+  },
+  {
+   "t": "Jornada semanal",
+   "d": "Número máximo de horas de trabalho por semana. Cai de 44 para 42 horas com a emenda."
+  },
+  {
+   "t": "Acordo coletivo",
+   "d": "Acordo entre sindicato de trabalhadores e empresas. Segundo Marinho, o decreto reforça que ele vale sobre a lei na organização das escalas."
+  },
+  {
+   "t": "Média de folgas",
+   "d": "Regra prevista no decreto: o trabalhador pode ter só uma folga em alguma semana, desde que some oito folgas em 30 dias."
+  },
+  {
+   "t": "Norma regulamentadora (NR)",
+   "d": "Regra do Ministério do Trabalho sobre condições de trabalho em setores específicos. Algumas, como a do telemarketing, limitam a jornada diária e dificultam as duas folgas, segundo Marinho."
+  },
+  {
+   "t": "Lei complementar",
+   "d": "Lei que detalha a Constituição e exige maioria absoluta no Congresso. A líder do governo no Senado diz que a emenda permite usar uma para casos específicos."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Luiz Marinho",
+   "t": "ministro do Trabalho, responsável pelo decreto de regulamentação."
+  },
+  {
+   "b": "Hugo Motta (Republicanos-PB)",
+   "t": "presidente da Câmara; acertou com Marinho a revisão de normas regulamentadoras."
+  },
+  {
+   "b": "Eduardo Braga (MDB-AM)",
+   "t": "líder do MDB no Senado; prepara outra proposta de emenda para cobrir lacunas da mudança, segundo a Folhapress."
+  },
+  {
+   "b": "Teresa Leitão (PT-PE)",
+   "t": "líder do governo no Senado; diz que a emenda já prevê lei complementar para casos específicos."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Lei ou acordo",
+   "t": "o governo quer que acordos coletivos definam as escalas, dentro dos limites da emenda. Parte do Senado prefere fixar regras em nova emenda ou lei."
+  },
+  {
+   "b": "Setores com jornada especial",
+   "t": "o decreto não deve listar profissões. Segundo Marinho, normas como a do telemarketing, com jornada diária de seis horas, precisam mudar para permitir as duas folgas."
+  },
+  {
+   "b": "Exceções",
+   "t": "Marinho diz que não haverá exceções à redução da jornada. As reportagens consultadas não trazem a posição de entidades patronais nem de centrais sindicais."
+  }
+ ],
+ "observar": [
+  "A publicação do decreto, prevista para a semana de 16 de novembro.",
+  "Quais normas regulamentadoras serão alteradas.",
+  "A proposta de emenda do senador Eduardo Braga.",
+  "A entrada em vigor da emenda, em 16 de dezembro."
+ ],
+ "fontes": [
+  {
+   "t": "A Gazeta, com Folhapress: decreto adiado",
+   "u": "https://www.agazeta.com.br/economia/decreto-que-regulamenta-fim-da-6x1-e-adiado-e-so-deve-sair-apos-retorno-de-lula-1126"
+  },
+  {
+   "t": "O Antagonista: decreto fica na gaveta",
+   "u": "https://oantagonista.com.br/brasil/decreto-sobre-escala-6x1-fica-na-gaveta-ate-volta-de-lula/"
+  }
+ ]
+}

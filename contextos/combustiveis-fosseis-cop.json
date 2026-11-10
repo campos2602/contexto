@@ -1,6 +1,6 @@
 {
  "titulo": "O fim dos combustíveis fósseis nas conferências do clima",
- "atualizado": "9 nov 2026",
+ "atualizado": "10 nov 2026",
  "selo": "Checado",
  "frase": "Petróleo, gás e carvão são a maior fonte das emissões que aquecem o planeta. Desde 2023, as conferências do clima da ONU discutem como os países vão deixá-los, mas grandes produtores resistem a prazos e metas obrigatórias.",
  "linha": [
@@ -22,7 +22,7 @@
   },
   {
    "d": "9 de novembro de 2026",
-   "t": "Começa a COP31, em Antália, até 20 de novembro. A lista provisória da ONU tem 77 chefes de Estado ou de governo inscritos para a cúpula de líderes, contra 116 na COP28, segundo a Climate & Capital Media."
+   "t": "Abertura da COP31 em Antália: Corrêa do Lago passa a presidência a Murat Kurum e cita o roteiro dos combustíveis fósseis entre os resultados do Brasil. A conferência vai até 20 de novembro, segundo o ClimaInfo."
   },
   {
    "d": "10 de novembro de 2026",
@@ -65,10 +65,6 @@
  ],
  "quem": [
   {
-   "b": "André Corrêa do Lago",
-   "t": "presidente da COP30, diplomata brasileiro."
-  },
-  {
    "b": "Ana Toni",
    "t": "diretora-executiva da COP30."
   },
@@ -91,6 +87,10 @@
   {
    "b": "Chris Bowen",
    "t": "ministro do Clima da Austrália, conduz as negociações da COP31 por acordo feito na COP30."
+  },
+  {
+   "b": "André Corrêa do Lago",
+   "t": "embaixador que presidiu a COP30, em Belém, e passou o comando à Turquia em 9 de novembro de 2026."
   }
  ],
  "disputa": [
@@ -112,9 +112,9 @@
   }
  ],
  "observar": [
-  "Se a Turquia e a Austrália levam o roteiro para a agenda da COP31.",
-  "A discussão marcada para 10 de novembro, em Antália.",
+  "Se o roteiro entra na negociação formal da COP31, no debate desta terça (10).",
   "A cúpula de líderes, em 11 e 12 de novembro.",
+  "O mecanismo de transição justa em negociação.",
   "Se algum país se compromete a apresentar um plano de transição até 2028."
  ],
  "fontes": [
@@ -133,6 +133,14 @@
   {
    "t": "Caspian Post: COP31 começa em Antália",
    "u": "https://caspianpost.com/regions/cop31-climate-summit-opens-in-turkiye-s-antalya-bringing-global-leaders-together"
+  },
+  {
+   "t": "ClimaInfo: Brasil passa o comando à Turquia",
+   "u": "https://climainfo.org.br/2026/11/09/brasil-encerra-presidencia-da-cop30-e-passa-comando-da-conferencia-do-clima-para-a-turquia/"
+  },
+  {
+   "t": "Exame: abertura da COP31",
+   "u": "https://exame.com/esg/na-abertura-da-cop31-murat-kurum-alerta-que-crises-globais-se-agravam-e-cobra-acao-conjunta/"
   }
  ]
 }

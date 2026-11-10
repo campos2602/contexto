@@ -1,0 +1,954 @@
+{
+ "data": "2026-11-10",
+ "dia": "Terça, 10 de novembro de 2026",
+ "leitura": "6 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje o adiamento das regras do fim da escala 6x1, a alta da Bolsa e a volta das negociações entre Rússia, Ucrânia e EUA.",
+ "trinta": [
+  "O decreto que regulamenta o fim da escala 6x1 foi adiado para depois da volta de Lula.",
+  "O Ibovespa subiu 2,22%, a maior alta diária desde 5 de outubro.",
+  "Rússia, Ucrânia e EUA voltam a negociar nesta terça, em Abu Dhabi."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "A jornada menor vale em 16 de dezembro; o decreto define como as folgas podem ser distribuídas."
+  },
+  {
+   "id": "m1",
+   "porque": "Primeira negociação a três em nove meses, com garantias de segurança e território em jogo."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Governo adia decreto que regulamenta o fim da escala 6x1",
+     "contexto": "fim-da-escala-6x1",
+     "texto": "O decreto do Ministério do Trabalho que regulamenta o fim da escala 6x1, previsto para segunda (9), foi adiado. Segundo a Folhapress, Lula não teve tempo de revisar o texto, e a publicação deve ficar para a semana de 16 de novembro, depois das viagens do presidente.",
+     "pq": "a mudança na Constituição vale a partir de 16 de dezembro: a jornada máxima cai de 44 para 42 horas semanais, com duas folgas por semana. O decreto define como as empresas podem distribuir essas folgas.",
+     "fontes": [
+      {
+       "t": "A Gazeta, com Folhapress",
+       "u": "https://www.agazeta.com.br/economia/decreto-que-regulamenta-fim-da-6x1-e-adiado-e-so-deve-sair-apos-retorno-de-lula-1126"
+      },
+      {
+       "t": "O Antagonista",
+       "u": "https://oantagonista.com.br/brasil/decreto-sobre-escala-6x1-fica-na-gaveta-ate-volta-de-lula/"
+      }
+     ],
+     "completa": {
+      "fina": "Pelo texto anunciado, um trabalhador poderia ter só uma folga em alguma semana, desde que some oito folgas em 30 dias.",
+      "atualizada": "10 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O decreto que regulamenta o fim da escala 6x1, que o ministro do Trabalho, Luiz Marinho, tinha prometido para segunda-feira (9), foi adiado. Segundo fontes ligadas ao ministro ouvidas pela Folhapress, o presidente Lula não conseguiu revisar o documento na semana passada. A expectativa no governo é que o texto saia na semana de 16 de novembro, depois que Lula voltar de viagem.",
+      "blocos": [
+       {
+        "h": "O que muda em dezembro",
+        "li": [
+         {
+          "b": "Jornada:",
+          "t": "o limite semanal cai de 44 para 42 horas a partir de 16 de dezembro, quando a emenda constitucional entra em vigor."
+         },
+         {
+          "b": "Folgas:",
+          "t": "passam a ser obrigatórias duas folgas por semana."
+         },
+         {
+          "b": "Exceções:",
+          "t": "Marinho disse que nem o decreto nem as normas regulamentadoras vão criar exceções à redução da jornada, segundo a Folhapress."
+         }
+        ]
+       },
+       {
+        "h": "O que o decreto deve dizer",
+        "li": [
+         {
+          "b": "Acordos coletivos:",
+          "t": "segundo Marinho, o texto reforça que o acordo coletivo vale sobre a lei na organização das escalas."
+         },
+         {
+          "b": "Média de folgas:",
+          "t": "o trabalhador poderia ter só uma folga em alguma semana do mês, desde que acumule oito folgas ao fim de 30 dias."
+         },
+         {
+          "b": "Exemplo:",
+          "t": "uma semana de seis dias de trabalho seguida de outra com quatro dias de trabalho e três de folga, se houver acordo coletivo."
+         },
+         {
+          "b": "Setores:",
+          "t": "o decreto não deve listar profissões; cada empresa decide como aplicar as regras, dentro dos limites da emenda."
+         }
+        ]
+       },
+       {
+        "h": "As normas regulamentadoras",
+        "p": [
+         "Marinho acertou com o presidente da Câmara, Hugo Motta (Republicanos-PB), mudar normas regulamentadoras, as NRs, que atrapalham as novas escalas. O exemplo citado é o telemarketing, em que uma NR limita a jornada diária a seis horas. \"Com essa limitação, eu não consigo implantar as duas folgas na semana\", disse o ministro, segundo a Folhapress."
+        ]
+       },
+       {
+        "h": "No Congresso",
+        "li": [
+         {
+          "b": "Câmara:",
+          "t": "um projeto de lei do governo sobre o tema está parado."
+         },
+         {
+          "b": "Senado:",
+          "t": "o líder do MDB, Eduardo Braga, prepara outra proposta de emenda para cobrir lacunas da mudança."
+         },
+         {
+          "b": "Governo:",
+          "t": "a líder do governo no Senado, Teresa Leitão (PT-PE), diz que a emenda já permite uma lei complementar para casos específicos. Aliados sugerem esperar o decreto antes de propor novas regras."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Luiz Marinho, ministro do Trabalho:",
+          "t": "diz que o decreto vai fortalecer a negociação coletiva e que não haverá exceções à jornada menor."
+         },
+         {
+          "b": "Empresas e sindicatos:",
+          "t": "as reportagens consultadas não trazem a posição de entidades patronais nem de centrais sindicais sobre o adiamento."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "A data exata de publicação do decreto.",
+         "Quais normas regulamentadoras serão alteradas, além da do telemarketing."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Lula está na Turquia, para a COP31, e depois vai às Filipinas, para a cúpula da Asean, segundo a Folhapress.",
+         "A emenda entra em vigor em 16 de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "A Gazeta, com Folhapress: decreto adiado",
+        "u": "https://www.agazeta.com.br/economia/decreto-que-regulamenta-fim-da-6x1-e-adiado-e-so-deve-sair-apos-retorno-de-lula-1126"
+       },
+       {
+        "t": "O Antagonista: decreto fica na gaveta",
+        "u": "https://oantagonista.com.br/brasil/decreto-sobre-escala-6x1-fica-na-gaveta-ate-volta-de-lula/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Bolsa sobe 2,2%, maior alta diária desde o primeiro turno",
+     "contexto": "dolar-bolsa-e-juros",
+     "texto": "O Ibovespa subiu 2,22% na segunda (9), a 172.236 pontos, segundo o SBT News, a maior alta diária desde 5 de outubro. O dólar caiu 0,06%, a R$ 5,50. Bancos e mineradoras puxaram a alta, junto com a recuperação das bolsas dos EUA.",
+     "pq": "foi o primeiro pregão depois do pronunciamento de Lula, que prometeu preservar as regras fiscais sem detalhar medidas. Economistas do boletim Focus elevaram a previsão da Selic no fim de 2026 para 13,75%. A ata do Copom sai nesta terça (10).",
+     "fontes": [
+      {
+       "t": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/economia/ibovespa-sobe-2-2-maior-ganho-diario-desde-eleicao-de-lula"
+      },
+      {
+       "t": "Itabira Online",
+       "u": "https://itabiraonline.com.br/2026/11/09/bolsa-brasileira-sobe-mais-de-2-e-dolar-fecha-praticamente-estavel-nesta-segunda-feira/"
+      },
+      {
+       "t": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4367794/fechamento-do-mercado-financeiro"
+      }
+     ],
+     "completa": {
+      "fina": "O petróleo caiu quase 6% depois que Trump disse ver como improváveis novos ataques ao Irã.",
+      "atualizada": "10 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Ibovespa, principal índice da Bolsa brasileira, subiu 2,22% na segunda-feira (9) e chegou a 172.236 pontos, segundo o SBT News e o Itabira Online. Foi a maior alta diária desde 5 de outubro, quando o índice subiu 7,70% depois do primeiro turno da eleição presidencial. O dólar à vista fechou em queda de 0,06%, a R$ 5,50.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Ibovespa:",
+          "t": "oscilou entre 168.498 e 172.236 pontos; o volume foi de R$ 20,1 bilhões, segundo o SBT News. O Diário do Grande ABC, em boletim das 18h38, registrou 171.906 pontos, alta de 2,02%."
+         },
+         {
+          "b": "No ano:",
+          "t": "o índice acumula alta de 6,69% em 2026, segundo o Diário do Grande ABC."
+         },
+         {
+          "b": "Dólar:",
+          "t": "variou entre R$ 5,489 e R$ 5,528 no dia."
+         },
+         {
+          "b": "Comparação:",
+          "t": "no primeiro pregão depois da reeleição, em 26 de outubro, o Ibovespa caiu 13,88% e o dólar subiu mais de 8%, como registrou o Contexto."
+         }
+        ]
+       },
+       {
+        "h": "O que puxou a alta",
+        "p": [
+         "Segundo o SBT News, subiram ações de bancos, como Itaú, Bradesco, Santander e BTG, e de mineradoras, como a Vale, que avançou 3,23%. A Petrobras caiu, acompanhando o petróleo. O barril do tipo Brent recuou 5,85%, a US$ 92,57, o menor nível em cerca de dez semanas, depois que Trump disse que novos ataques ao Irã são improváveis se as negociações avançarem. Em Nova York, o índice Nasdaq subiu 2,74%."
+        ]
+       },
+       {
+        "h": "Por que o dólar não caiu mais",
+        "p": [
+         "O SBT News diz que fatores internos limitaram a queda do dólar, mesmo com a moeda americana mais fraca no exterior: a preocupação com as contas públicas e o quadro pós-eleição. No pronunciamento de domingo (8), Lula reafirmou a responsabilidade fiscal e disse que a dívida o preocupa, mas não apresentou medidas concretas."
+        ]
+       },
+       {
+        "h": "O boletim Focus",
+        "li": [
+         {
+          "b": "Selic:",
+          "t": "economistas elevaram a previsão para o fim de 2026 de 13,50% para 13,75%, pela segunda semana seguida. A taxa já está em 13,75% desde a reunião de 4 de novembro."
+         },
+         {
+          "b": "Inflação:",
+          "t": "a previsão do IPCA de 2027 subiu de 4,76% para 4,90%."
+         },
+         {
+          "b": "PIB:",
+          "t": "a previsão de crescimento caiu de 1,20% para 1,15%."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Bruno Perri, economista-chefe da Forum Investimentos:",
+          "t": "disse que os ativos brasileiros se recuperaram por uma mistura de fatores externos e internos e viu possível mudança de tom na política fiscal. Para ele, o movimento \"nos dá um alento\", mas não elimina a preocupação com as contas, segundo o SBT News."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a recuperação se mantém nos próximos pregões.",
+         "Quais medidas de ajuste o governo vai anunciar."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A ata do Copom, nesta terça (10).",
+         "Novos anúncios da equipe econômica sobre as contas públicas."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "SBT News: maior ganho desde a eleição",
+        "u": "https://sbtnews.sbt.com.br/noticia/economia/ibovespa-sobe-2-2-maior-ganho-diario-desde-eleicao-de-lula"
+       },
+       {
+        "t": "Itabira Online: Bolsa sobe mais de 2%",
+        "u": "https://itabiraonline.com.br/2026/11/09/bolsa-brasileira-sobe-mais-de-2-e-dolar-fecha-praticamente-estavel-nesta-segunda-feira/"
+       },
+       {
+        "t": "Diário do Grande ABC: fechamento do mercado",
+        "u": "https://www.dgabc.com.br/Noticia/4367794/fechamento-do-mercado-financeiro"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Câmara começa audiências sobre reduzir a maioridade penal para 16 anos",
+     "contexto": "maioridade-penal",
+     "texto": "A comissão especial da Câmara que analisa a PEC 32/2015, que reduz a maioridade penal de 18 para 16 anos, faz nesta terça (10) a primeira de duas audiências públicas da semana. O relator, Mendonça Filho (PL-PE), quer apresentar o parecer até o fim de novembro.",
+     "pq": "a proposta muda a Constituição e precisa de 308 votos na Câmara e 49 no Senado, em dois turnos. Ainda não há data de votação, e o presidente do Senado espera a Câmara antes de pautar o tema.",
+     "fontes": [
+      {
+       "t": "Agência Câmara",
+       "u": "https://www.camara.leg.br/noticias/1316864-comissao-debate-reducao-da-maioridade-penal-em-duas-audiencias-publicas"
+      },
+      {
+       "t": "Exame",
+       "u": "https://exame.com/brasil/pec-da-reducao-da-maioridade-penal-avanca-na-camara-relator-preve-parecer-em-novembro/"
+      },
+      {
+       "t": "ND Mais",
+       "u": "https://ndmais.com.br/politica/maioridade-penal-congresso-debate-reducao-nesta-semana/"
+      }
+     ],
+     "completa": {
+      "fina": "Deputado Guilherme Derrite propôs reduzir para 14 anos em crimes hediondos; o relator defende 16 anos.",
+      "atualizada": "10 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A comissão especial da Câmara dos Deputados que analisa a Proposta de Emenda à Constituição 32/2015 faz nesta terça-feira (10), às 14h30, audiência pública sobre a redução da maioridade penal de 18 para 16 anos, segundo a Agência Câmara. Uma segunda audiência está marcada para quarta (11). A proposta também fixa a maioridade civil em 16 anos, segundo a Exame.",
+      "blocos": [
+       {
+        "h": "O que diz a proposta",
+        "li": [
+         {
+          "b": "Origem:",
+          "t": "a PEC foi apresentada pelo ex-deputado Gonzaga Patriota e tramita junto com outras propostas parecidas."
+         },
+         {
+          "b": "Hoje:",
+          "t": "o artigo 228 da Constituição diz que menores de 18 anos são penalmente inimputáveis e respondem pelo Estatuto da Criança e do Adolescente, o ECA."
+         },
+         {
+          "b": "No ECA:",
+          "t": "adolescentes de 12 a 17 anos recebem medidas socioeducativas, de advertência a internação; a internação dura no máximo três anos, segundo a Exame."
+         },
+         {
+          "b": "Alternativa:",
+          "t": "o deputado Guilherme Derrite (PP-SP) propôs reduzir para 14 anos em crimes hediondos, como homicídio qualificado e estupro."
+         }
+        ]
+       },
+       {
+        "h": "As audiências",
+        "li": [
+         {
+          "b": "Terça (10):",
+          "t": "pedida por Capitão Alden (PL-BA), discute a avaliação do governo federal sobre efeitos na segurança pública. Foram convidados Paulo Garrido Modesto, do Ministério da Justiça, e Katy Braun do Prado, da associação de juízes da infância, segundo o ND Mais."
+         },
+         {
+          "b": "Quarta (11):",
+          "t": "pedida por Marcel van Hattem (Novo-RS), trata dos efeitos sobre Judiciário, Ministério Público, garantias fundamentais e sistema socioeducativo."
+         },
+         {
+          "b": "Também na quarta:",
+          "t": "a Comissão de Segurança Pública debate o tema com foco em criminalidade violenta."
+         }
+        ]
+       },
+       {
+        "h": "Os prazos",
+        "p": [
+         "O relator, Mendonça Filho (PL-PE), pretende apresentar o parecer até o fim de novembro e pode mudar o texto original. O presidente da Câmara, Hugo Motta (Republicanos-PB), não definiu data de votação. O presidente do Senado, Davi Alcolumbre (União-AP), decidiu esperar a Câmara antes de pautar o tema, segundo o ND Mais. Em 4 de novembro, o presidente da comissão, Aluísio Mendes (Republicanos-MA), rejeitou pedido de plebiscito sobre o assunto."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Mendonça Filho, relator:",
+          "t": "defende a redução e diz que jovens de 16 e 17 anos que cometem crimes violentos \"ficam absolutamente impunes\", segundo a Exame."
+         },
+         {
+          "b": "Capitão Alden:",
+          "t": "\"Precisamos avaliar não apenas a responsabilização\", mas também a capacidade do Estado de lidar com as consequências da mudança."
+         },
+         {
+          "b": "Marcel van Hattem:",
+          "t": "pede que o debate seja feito \"sem ignorar as vítimas e os efeitos da atuação de organizações criminosas que recrutam adolescentes\"."
+         },
+         {
+          "b": "Governo federal:",
+          "t": "as reportagens consultadas não informam a posição oficial; o Ministério da Justiça participa da audiência desta terça."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o parecer mantém 16 anos para todos os crimes.",
+         "Quando a proposta vai a voto."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Audiências na terça (10) e na quarta (11).",
+         "Parecer do relator até o fim de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Câmara: duas audiências públicas",
+        "u": "https://www.camara.leg.br/noticias/1316864-comissao-debate-reducao-da-maioridade-penal-em-duas-audiencias-publicas"
+       },
+       {
+        "t": "Exame: relator prevê parecer em novembro",
+        "u": "https://exame.com/brasil/pec-da-reducao-da-maioridade-penal-avanca-na-camara-relator-preve-parecer-em-novembro/"
+       },
+       {
+        "t": "ND Mais: o que movimenta o Congresso",
+        "u": "https://ndmais.com.br/politica/maioridade-penal-congresso-debate-reducao-nesta-semana/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Rússia, Ucrânia e EUA retomam negociação em Abu Dhabi",
+     "contexto": "negociacoes-ucrania-russia",
+     "texto": "Delegações de Rússia, Ucrânia e Estados Unidos começam nesta terça (10), em Abu Dhabi, dois dias de conversas sobre o fim da guerra, segundo a AP. É o primeiro encontro dos três desde fevereiro. O foco são garantias de segurança.",
+     "pq": "a Rússia exige que a Ucrânia deixe as partes de Donetsk que ainda controla; Kiev recusa ceder território e pede cessar-fogo imediato. Trump fala em um acordo maior, que envolva \"toda a Europa\".",
+     "fontes": [
+      {
+       "t": "AP, via KSAT",
+       "u": "https://www.ksat.com/news/world/2026/11/10/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/"
+      },
+      {
+       "t": "Kuwait Times",
+       "u": "https://kuwaittimes.com/article/53348/world/us-mediated-russia-ukraine-talks-open-in-abu-dhabi/"
+      }
+     ],
+     "completa": {
+      "fina": "Os negociadores americanos, Jared Kushner e Steve Witkoff, se reúnem antes com enviados da Ucrânia, da União Europeia, da Otan e de quatro países europeus.",
+      "atualizada": "10 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Negociadores da Rússia, da Ucrânia e dos Estados Unidos começam nesta terça-feira (10), nos Emirados Árabes Unidos, dois dias de conversas para tentar encerrar a guerra, segundo a AP. É a primeira reunião dos três lados desde fevereiro, quando houve negociações em Genebra. Segundo o Kuwait Times, o processo ficou de lado por causa da guerra de EUA e Israel contra o Irã.",
+      "blocos": [
+       {
+        "h": "Quem está na mesa",
+        "li": [
+         {
+          "b": "Rússia:",
+          "t": "Vladimir Medinsky, assessor de Vladimir Putin, chefia a delegação, com os vice-chanceleres Sergei Ryabkov e Mikhail Galuzin e o chefe da inteligência militar, Igor Kostyukov."
+         },
+         {
+          "b": "Ucrânia:",
+          "t": "Rustem Umerov chefia a equipe. Segundo a AP, também devem estar Kyrylo Budanov, Sergiy Kyslytsya e Davyd Arakhamia."
+         },
+         {
+          "b": "Estados Unidos:",
+          "t": "Jared Kushner e o enviado especial Steve Witkoff. Antes, eles se reúnem com enviados da Ucrânia, da União Europeia, da Otan, da Alemanha, da França, do Reino Unido e da Itália."
+         }
+        ]
+       },
+       {
+        "h": "O que cada lado quer",
+        "li": [
+         {
+          "b": "Rússia:",
+          "t": "que a Ucrânia saia de Donetsk, Luhansk, Zaporizhzhia e Kherson, regiões que Moscou anexou em 2022 sem controlar por completo; que desista da Otan e aceite limites militares. Putin rejeita cessar-fogo geral."
+         },
+         {
+          "b": "Ucrânia:",
+          "t": "recusa ceder território e aceitar limites às Forças Armadas. Pede cessar-fogo imediato e diz que território só se discute em encontro direto entre Putin e Zelensky."
+         },
+         {
+          "b": "EUA:",
+          "t": "Trump fala em \"um grande acordo\" que \"vai envolver mais do que a Ucrânia\"."
+         }
+        ]
+       },
+       {
+        "h": "A Europa",
+        "p": [
+         "Kushner disse que um acordo \"abrangente e duradouro\" vai exigir conversa direta entre a Rússia e os parceiros europeus. O Kremlin diz que as negociações seguirão a três e que a União Europeia pode entrar depois. O chanceler alemão, Johann Wadephul, disse que a Europa não precisa de \"uma nova arquitetura de segurança\" e pediu que Moscou abandone \"exigências maximalistas\", segundo o Kuwait Times."
+        ]
+       },
+       {
+        "h": "A guerra",
+        "p": [
+         "A linha de frente tem cerca de 1.200 km. A Rússia intensificou ataques à rede elétrica ucraniana, e a Ucrânia ampliou ataques com drones a refinarias russas, segundo a AP. O Kuwait Times relata que 55 pessoas morreram em uma vila na linha de frente enquanto esperavam ajuda humanitária, um dos ataques russos mais letais."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Volodymyr Zelensky:",
+          "t": "alertou contra uma \"Yalta 2.0\" e disse que os ataques recentes servem para pressionar a posição ucraniana."
+         },
+         {
+          "b": "Sergei Lavrov, chanceler russo:",
+          "t": "\"Só podemos receber bem os negociadores (americanos), a pedido do presidente Donald Trump.\""
+         },
+         {
+          "b": "Autoridade ucraniana, sem nome:",
+          "t": "\"Não temos nenhuma expectativa em particular\", segundo o Kuwait Times."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se haverá cessar-fogo ou troca de prisioneiros.",
+         "Quando os europeus entram na negociação."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Segundo dia de conversas na quarta (11).",
+         "Os resultados devem ser levados a Putin, Zelensky e Trump."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "AP, via KSAT: conversas em Abu Dhabi",
+        "u": "https://www.ksat.com/news/world/2026/11/10/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/"
+       },
+       {
+        "t": "Kuwait Times: negociações começam",
+        "u": "https://kuwaittimes.com/article/53348/world/us-mediated-russia-ukraine-talks-open-in-abu-dhabi/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Novo Parlamento de Israel toma posse; Netanyahu propõe governo de união",
+     "contexto": "eleicao-israel-2026",
+     "texto": "Os 120 deputados do novo Parlamento de Israel tomam posse nesta terça (10). Na véspera, Benjamin Netanyahu convidou os partidos da oposição a entrar em um governo de união liderado por ele. Gadi Eisenkot, encarregado de formar o governo, negocia com os partidos ultraortodoxos.",
+     "pq": "Eisenkot precisa de 61 cadeiras e tem 28 dias, prorrogáveis por 14. O ponto de impasse com os ultraortodoxos é o serviço militar dos estudantes religiosos.",
+     "fontes": [
+      {
+       "t": "The Jerusalem Post",
+       "u": "https://www.jpost.com/israel-election-2026/2026-11-10/live-updates-914399"
+      },
+      {
+       "t": "Open",
+       "u": "https://openthemagazine.com/world/netanyahu-pitches-unity-government-as-eisenkot-and-liberman-close-ranks"
+      }
+     ],
+     "completa": {
+      "fina": "Eisenkot e Avigdor Liberman, do Yisrael Beytenu, fecharam um nome para presidir o Parlamento, sem anunciá-lo.",
+      "atualizada": "10 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O 26º Parlamento de Israel toma posse nesta terça-feira (10). Na segunda (9), um dia depois de o presidente Isaac Herzog dar a Gadi Eisenkot a tarefa de formar o governo, o premiê interino, Benjamin Netanyahu, chamou os partidos da oposição a entrar em um governo de união liderado por ele, segundo a revista Open e o Jerusalem Post.",
+      "blocos": [
+       {
+        "h": "A proposta de Netanyahu",
+        "li": [
+         {
+          "b": "Quem pode entrar:",
+          "t": "qualquer partido \"sionista\", inclusive os ultraortodoxos do bloco atual; ele disse que não exclui ninguém."
+         },
+         {
+          "b": "Quem lidera:",
+          "t": "Netanyahu diz que deve chefiar o governo porque o Likud é o maior partido, com 27 cadeiras."
+         },
+         {
+          "b": "Os árabes:",
+          "t": "Netanyahu acusou os dois partidos de liderança árabe que indicaram Eisenkot de apoiar o Hamas, segundo a Open."
+         }
+        ]
+       },
+       {
+        "h": "As conversas de Eisenkot",
+        "li": [
+         {
+          "b": "Com Liberman:",
+          "t": "Eisenkot e Avigdor Liberman acertaram um candidato à presidência do Parlamento, sem divulgar o nome. O partido de Eisenkot, Yashar, chamou o encontro de \"construtivo e produtivo\"."
+         },
+         {
+          "b": "Com os ultraortodoxos:",
+          "t": "o deputado Porush, do Judaísmo Unido da Torá, disse que o partido não entra sem solução para os estudantes das escolas religiosas, as yeshivas."
+         },
+         {
+          "b": "Presidente do Parlamento:",
+          "t": "o Yashar pediu apoio dos ultraortodoxos para tirar Amir Ohana, do Likud, do cargo; o líder do Judaísmo Unido da Torá, Yakov Asher, recusou antes da formação do governo, segundo o Jerusalem Post."
+         }
+        ]
+       },
+       {
+        "h": "A conta",
+        "p": [
+         "O bloco de Netanyahu tem 53 das 120 cadeiras, e a aliança de Eisenkot, 48. Os partidos de liderança árabe, Ra'am e Lista Conjunta, têm 19 e indicaram Eisenkot. O Judaísmo Unido da Torá, com 7 cadeiras, não indicou ninguém. Liberman descarta governo de minoria ou dependente dos partidos árabes, mas aceita negociar com os ultraortodoxos, segundo a Open. O comparecimento na eleição foi de 77,7%, segundo o Jerusalem Post."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Benjamin Netanyahu:",
+          "t": "disse estar pronto para começar a conversar \"imediatamente\" com qualquer partido disposto a discutir a proposta."
+         },
+         {
+          "b": "Yashar, partido de Eisenkot:",
+          "t": "disse que ele e Liberman têm \"plena confiança\" em formar um governo estável para um mandato de quatro anos."
+         },
+         {
+          "b": "Likud, sob anonimato:",
+          "t": "se o Judaísmo Unido da Torá conseguir um acordo aceitável sobre o alistamento, \"só resta confiar em Deus\", segundo o Jerusalem Post."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem será o presidente do Parlamento.",
+         "Se os ultraortodoxos aceitam negociar com Eisenkot."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Posse dos deputados nesta terça (10).",
+         "O prazo de Eisenkot vence no início de dezembro, sem contar a prorrogação."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "The Jerusalem Post: atualizações de 10 de novembro",
+        "u": "https://www.jpost.com/israel-election-2026/2026-11-10/live-updates-914399"
+       },
+       {
+        "t": "Open: Netanyahu propõe governo de união",
+        "u": "https://openthemagazine.com/world/netanyahu-pitches-unity-government-as-eisenkot-and-liberman-close-ranks"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Brasil passa à Turquia a presidência da conferência do clima",
+     "contexto": "combustiveis-fosseis-cop",
+     "texto": "Na abertura da COP31, em Antália, na segunda (9), o embaixador André Corrêa do Lago entregou a presidência da conferência ao ministro turco Murat Kurum. Kurum disse que guerras, insegurança energética e alimentar e o El Niño se somam: \"Cada crise agrava as demais\".",
+     "pq": "a COP31 vai até 20 de novembro. O roteiro para deixar os combustíveis fósseis, lançado pela presidência brasileira, deve entrar em debate nesta terça (10). Lula viajou à Turquia para a cúpula de líderes.",
+     "fontes": [
+      {
+       "t": "ClimaInfo",
+       "u": "https://climainfo.org.br/2026/11/09/brasil-encerra-presidencia-da-cop30-e-passa-comando-da-conferencia-do-clima-para-a-turquia/"
+      },
+      {
+       "t": "Exame",
+       "u": "https://exame.com/esg/na-abertura-da-cop31-murat-kurum-alerta-que-crises-globais-se-agravam-e-cobra-acao-conjunta/"
+      },
+      {
+       "t": "A Gazeta, com Folhapress",
+       "u": "https://www.agazeta.com.br/economia/decreto-que-regulamenta-fim-da-6x1-e-adiado-e-so-deve-sair-apos-retorno-de-lula-1126"
+      }
+     ],
+     "completa": {
+      "fina": "A Turquia preside formalmente a COP31, e a Austrália conduz as negociações entre quase 200 países.",
+      "atualizada": "10 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A 31ª Conferência do Clima da ONU, a COP31, foi aberta na segunda-feira (9) em Antália, na Turquia. O embaixador André Corrêa do Lago, que presidiu a COP30, em Belém, passou o comando ao ministro do Meio Ambiente turco, Murat Kurum, segundo o ClimaInfo. A conferência vai até 20 de novembro.",
+      "blocos": [
+       {
+        "h": "O discurso de Kurum",
+        "li": [
+         {
+          "b": "As crises:",
+          "t": "citou guerras, tensões geopolíticas, insegurança energética e alimentar, um El Niño recorde e um dos quatro anos mais quentes já registrados. \"Cada crise agrava as demais\", disse, segundo a Exame."
+         },
+         {
+          "b": "O apelo:",
+          "t": "\"Se queremos compartilhar um futuro, precisamos compartilhar a responsabilidade por ele.\""
+         },
+         {
+          "b": "O papel da Turquia:",
+          "t": "disse que o país atua há tempos como ponte entre outros e está pronto para isso de novo."
+         }
+        ]
+       },
+       {
+        "h": "A despedida do Brasil",
+        "p": [
+         "Corrêa do Lago disse que política climática também é desenvolvimento e que a transição energética não pode criar nem aprofundar desigualdades. \"Não podemos falhar com as pessoas\", afirmou, segundo o ClimaInfo. Ele listou como resultados da presidência brasileira o fundo Florestas Tropicais para Sempre, a coalizão de mercados de carbono, os roteiros globais para deixar os combustíveis fósseis e para acabar com o desmatamento, apresentados no início de novembro, e um relatório sobre a meta de US$ 1,3 trilhão por ano em financiamento climático."
+        ]
+       },
+       {
+        "h": "A pauta",
+        "li": [
+         {
+          "b": "Transição justa:",
+          "t": "criar um mecanismo para apoiar países, trabalhadores e comunidades afetados pela descarbonização."
+         },
+         {
+          "b": "Financiamento:",
+          "t": "a COP29 fixou a meta de ao menos US$ 300 bilhões por ano até 2035 para países em desenvolvimento, segundo a Exame."
+         },
+         {
+          "b": "Adaptação:",
+          "t": "avançar na meta global de adaptação, com indicadores definidos a partir da COP30."
+         },
+         {
+          "b": "Eletrificação:",
+          "t": "a iniciativa \"35 até 35\" quer que a eletricidade chegue a 35% do consumo final de energia no mundo até 2035."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Ana Toni, diretora-executiva da COP30:",
+          "t": "disse que o desafio é transformar compromissos negociados em políticas que cheguem às pessoas; sem isso, o trabalho fica \"muito abstrato\"."
+         },
+         {
+          "b": "Eloy Terena, ministro:",
+          "t": "propôs um roteiro dos povos indígenas para reverter o desmatamento até 2030, a ser entregue na COP32, na Etiópia, em 2028, segundo o ClimaInfo."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o roteiro dos combustíveis fósseis entra na negociação formal.",
+         "Quantos líderes vão de fato à cúpula."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Debate do roteiro dos combustíveis fósseis nesta terça (10).",
+         "Cúpula de líderes em 11 e 12 de novembro.",
+         "Depois da COP31, Lula vai às Filipinas, para a cúpula da Asean."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "ClimaInfo: Brasil passa o comando à Turquia",
+        "u": "https://climainfo.org.br/2026/11/09/brasil-encerra-presidencia-da-cop30-e-passa-comando-da-conferencia-do-clima-para-a-turquia/"
+       },
+       {
+        "t": "Exame: abertura da COP31",
+        "u": "https://exame.com/esg/na-abertura-da-cop31-murat-kurum-alerta-que-crises-globais-se-agravam-e-cobra-acao-conjunta/"
+       },
+       {
+        "t": "A Gazeta, com Folhapress: viagem de Lula",
+        "u": "https://www.agazeta.com.br/economia/decreto-que-regulamenta-fim-da-6x1-e-adiado-e-so-deve-sair-apos-retorno-de-lula-1126"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Ações da Nvidia caem após investigação sobre o presidente da empresa",
+     "contexto": "nvidia-china-chips",
+     "texto": "As ações da Nvidia caíram 5,14% na segunda (9), segundo o SBT News, depois que o conselho anunciou investigação para saber se o presidente, Jensen Huang, foi alvo de operação de inteligência chinesa. Huang disse ter sido infiel à mulher e que vai cooperar.",
+     "pq": "a Nvidia, de US$ 4,5 trilhões, fabrica os chips mais usados em IA. A China chama a acusação de \"infundada\". Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, empresa de inteligência artificial que concorre com empresas citadas nesta nota, como o Google.",
+     "fontes": [
+      {
+       "t": "Al Jazeera, com Reuters",
+       "u": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang"
+      },
+      {
+       "t": "Fox Business",
+       "u": "https://www.foxbusiness.com/markets/nvidia-shares-fall-after-investigation-ceos-relationship-alleged-chinese-spy"
+      },
+      {
+       "t": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/economia/ibovespa-sobe-2-2-maior-ganho-diario-desde-eleicao-de-lula"
+      }
+     ],
+     "completa": {
+      "fina": "Segundo reportagens, Huang teve relação com uma executiva de uma parceira da Nvidia que as autoridades americanas consideram um ativo da inteligência chinesa.",
+      "atualizada": "10 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O conselho de administração da Nvidia anunciou no domingo (8) uma investigação para saber se o presidente-executivo da empresa, Jensen Huang, foi alvo de uma operação de inteligência chinesa, segundo a Al Jazeera e a Fox Business. As ações caíram mais de 4% na abertura de segunda (9) e fecharam em queda de 5,14%, segundo o SBT News.",
+      "blocos": [
+       {
+        "h": "O que se sabe",
+        "li": [
+         {
+          "b": "A reportagem:",
+          "t": "em outubro, o New York Times informou que Huang teve um relacionamento com uma ex-executiva da Megaspeed, empresa de data centers de Singapura que se apresenta como parceira da Nvidia na Ásia, segundo a Al Jazeera."
+         },
+         {
+          "b": "A conclusão americana:",
+          "t": "autoridades dos EUA investigaram e concluíram que a executiva era um ativo da inteligência chinesa. A Al Jazeera apresenta isso como conclusão do governo, não como fato comprovado."
+         },
+         {
+          "b": "O nome:",
+          "t": "a Al Jazeera chama a executiva de Alice Huang, sem parentesco com o presidente da Nvidia; a Fox Business a chama de Alice Wong."
+         }
+        ]
+       },
+       {
+        "h": "A investigação",
+        "p": [
+         "Segundo a Fox Business, a apuração será supervisionada por advogados independentes e por um comitê de conselheiros independentes. O conselho disse não ter \"motivo para crer\" que a segurança nacional ou segredos da Nvidia foram comprometidos, mas que vai \"examinar todas as informações disponíveis\" e que \"prioriza a segurança nacional e econômica dos EUA\"."
+        ]
+       },
+       {
+        "h": "O mercado",
+        "li": [
+         {
+          "b": "Nvidia:",
+          "t": "caiu 5,14% no dia, segundo o SBT News; a empresa vale cerca de US$ 4,5 trilhões, segundo a Al Jazeera."
+         },
+         {
+          "b": "Outras empresas:",
+          "t": "no mesmo dia, o Nasdaq subiu 2,74%. A AMD subiu mais de 10% depois de um acordo com o Google e de uma recomendação de compra de analistas, segundo a Al Jazeera."
+         },
+         {
+          "b": "Huang:",
+          "t": "tem 3,6% das ações e é o quinto maior acionista, mas não tem controle majoritário de votos, segundo dados da LSEG citados pela Al Jazeera."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Jensen Huang:",
+          "t": "em carta aos funcionários, disse que não foi fiel à mulher: \"Minhas ações a magoaram e a nossos filhos\". Disse que apoia a investigação e vai cooperar."
+         },
+         {
+          "b": "Guo Jiakun, porta-voz da chancelaria chinesa:",
+          "t": "chamou a acusação de espionagem de \"infundada\"."
+         },
+         {
+          "b": "Donald Trump:",
+          "t": "chamou Huang de \"um cara honrado\" e disse não ter ouvido que ele tenha feito algo errado, segundo a Fox Business."
+         },
+         {
+          "b": "Michael Monaghan, gestor do fundo Founders 100:",
+          "t": "considera \"altamente improvável\" que o caso leve à saída de Huang."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quanto tempo a investigação vai durar.",
+         "O que a executiva diz; as reportagens consultadas não trazem resposta dela."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A reunião fechada de 18 de novembro, citada pelo Wccftech, em que Huang deve tratar das licenças de chips para a China.",
+         "A reação de investidores nos próximos pregões."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera, com Reuters: ações da Nvidia caem",
+        "u": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang"
+       },
+       {
+        "t": "Fox Business: investigação sobre Huang",
+        "u": "https://www.foxbusiness.com/markets/nvidia-shares-fall-after-investigation-ceos-relationship-alleged-chinese-spy"
+       },
+       {
+        "t": "SBT News: fechamento de 9 de novembro",
+        "u": "https://sbtnews.sbt.com.br/noticia/economia/ibovespa-sobe-2-2-maior-ganho-diario-desde-eleicao-de-lula"
+       },
+       {
+        "t": "Wccftech: empresas com escritórios vazios",
+        "u": "https://wccftech.com/us-approved-nvidia-h200-sales-chinese-firms-empty-offices-military-ties/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Esportes",
+   "categoria": "esportes",
+   "notas": [
+    {
+     "id": "e1",
+     "selo": "Checada",
+     "titulo": "Norris vence em Interlagos e Mercedes garante título de construtores",
+     "contexto": "formula-1-2026",
+     "texto": "Lando Norris, da McLaren, venceu o GP de São Paulo de Fórmula 1 no domingo (8), com chuva em parte da prova. Max Verstappen largou em 21º e terminou em segundo. Com o quarto e o quinto lugares, a Mercedes conquistou o título de construtores de 2026.",
+     "pq": "é o primeiro título de equipes da Mercedes desde 2021, segundo a IstoÉ. O brasileiro Gabriel Bortoleto, da Audi, chegou em 16º, e o estreante Rafael Câmara, em 20º.",
+     "fontes": [
+      {
+       "t": "IstoÉ",
+       "u": "https://istoe.com.br/norris-vence-gp-sao-paulo-mercedes-titulo-f1-2026"
+      },
+      {
+       "t": "Folha do Leste",
+       "u": "https://folhadoleste.com.br/resultado-gp-sao-paulo-2026-norris-mercedes-brasileiros/"
+      },
+      {
+       "t": "Silverstone",
+       "u": "https://www.silverstone.co.uk/news/f1-2026-sao-paulo-grand-prix-results-norris-dominates-tricky-conditions-interlagos"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "2,22%",
+  "texto": "foi a alta do Ibovespa na segunda (9), a maior em um dia desde 5 de outubro, segundo o SBT News.",
+  "fontes": [
+   {
+    "t": "SBT News",
+    "u": "https://sbtnews.sbt.com.br/noticia/economia/ibovespa-sobe-2-2-maior-ganho-diario-desde-eleicao-de-lula"
+   },
+   {
+    "t": "Itabira Online",
+    "u": "https://itabiraonline.com.br/2026/11/09/bolsa-brasileira-sobe-mais-de-2-e-dolar-fecha-praticamente-estavel-nesta-segunda-feira/"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "Em Interlagos, Max Verstappen largou em 21º, ganhou 19 posições e terminou em segundo, 14,6 segundos atrás do vencedor.",
+  "fontes": [
+   {
+    "t": "Folha do Leste",
+    "u": "https://folhadoleste.com.br/resultado-gp-sao-paulo-2026-norris-mercedes-brasileiros/"
+   },
+   {
+    "t": "Silverstone",
+    "u": "https://www.silverstone.co.uk/news/f1-2026-sao-paulo-grand-prix-results-norris-dominates-tricky-conditions-interlagos"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição cita o Google, que concorre com a Anthropic.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Nas notas de política, governo e oposição aparecem com nome e aspas; onde as fontes não trazem um dos lados, isso está escrito. A ressalva é a seção de Inovação, com uma nota só.",
+  "pontos": [
+   "Brasil 1: a posição do ministro está atribuída; a nota registra que não há reação de empresas e sindicatos nas fontes.",
+   "Brasil 2: números da Bolsa do SBT News; o Diário do Grande ABC tem fechamento um pouco diferente, e a nota diz qual é qual.",
+   "Brasil 3: relator a favor, deputados de PL e Novo com aspas; a nota diz que a posição do governo não aparece nas fontes.",
+   "Mundo 1: posições de Rússia e Ucrânia em espaço igual; nota de guerra sem menção a IA.",
+   "Mundo 2: a acusação de Netanyahu aos partidos árabes está atribuída a ele, segundo a Open.",
+   "Inovação 1: a suspeita de espionagem é apresentada como conclusão do governo dos EUA, com a negativa da China; os dois nomes da executiva nas fontes estão registrados; aviso de conflito de interesse.",
+   "Ressalva: só uma nota de Inovação."
+  ],
+  "equilibrio": "Governo Lula: 2 menções (neutras); oposição e Congresso: 4 (neutras). Governo Netanyahu e oposição de Eisenkot: 2 cada. Rússia e Ucrânia: 3 cada.",
+  "foraDaEdicao": [
+   "Inovação 2: a alta da AMD com o acordo do Google só tinha fontes secundárias abertas; entrou como dado dentro da nota da Nvidia.",
+   "Esportes: a semifinal da Copa do Brasil (Palmeiras x Vasco) ficou de fora por falta de duas fontes abertas com o resultado.",
+   "Ata do Copom: sai nesta terça, depois do fechamento.",
+   "Reunião do G7 em Paris: sem comunicado final até o fechamento."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: o adiamento do decreto da 6x1, pelo efeito direto em quem trabalha.",
+   "Essencial: o decreto da 6x1 e a negociação em Abu Dhabi.",
+   "Esportes entra com uma nota, a do GP de São Paulo.",
+   "Toda nota tem página de contexto."
+  ]
+ },
+ "geradaEm": "2026-11-10T07:40:47Z"
+}

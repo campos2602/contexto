@@ -1,13 +1,9 @@
 {
  "titulo": "Eleição em Israel: como se forma um governo",
- "atualizado": "9 nov 2026",
+ "atualizado": "10 nov 2026",
  "selo": "Checado",
  "frase": "Na eleição de 27 de outubro de 2026, o bloco de Benjamin Netanyahu ficou com 53 das 120 cadeiras, e a aliança de Gadi Eisenkot, com 48. Em 8 de novembro, o presidente Isaac Herzog deu a Eisenkot a primeira chance de formar governo.",
  "linha": [
-  {
-   "d": "3 de novembro de 2026",
-   "t": "Cinco líderes da oposição decidem recomendar Gadi Eisenkot para primeiro-ministro. Netanyahu defende um governo nacional amplo sob seu comando."
-  },
   {
    "d": "4 e 5 de novembro de 2026",
    "t": "O presidente Isaac Herzog ouve os partidos antes de escolher quem tentará formar governo."
@@ -33,8 +29,12 @@
    "t": "Em cerimônia em Jerusalém, Herzog entrega a tarefa a Eisenkot, que tem 28 dias, prorrogáveis por 14. Netanyahu pede governo de \"unidade nacional\", segundo a AP."
   },
   {
+   "d": "9 de novembro de 2026",
+   "t": "Netanyahu convida os partidos da oposição a um governo de união liderado por ele. Eisenkot e Liberman acertam um nome para presidir o Parlamento, segundo a Open."
+  },
+  {
    "d": "10 de novembro de 2026",
-   "t": "Posse dos novos deputados do Parlamento."
+   "t": "Posse dos 120 deputados do 26º Parlamento."
   }
  ],
  "termos": [
@@ -108,11 +108,10 @@
   }
  ],
  "observar": [
-  "Se Eisenkot fecha acordo com os partidos ultraortodoxos, Judaísmo Unido da Torá e Shas.",
-  "Se ele aceita um governo de unidade com Netanyahu.",
-  "Como fica o apoio de fora do governo oferecido pela Lista Conjunta e pelo Ra'am.",
-  "A investigação do Shin Bet sobre possível interferência estrangeira na eleição.",
-  "O fim do prazo, no início de dezembro, sem contar a prorrogação."
+  "Se Eisenkot fecha acordo com os ultraortodoxos sobre o serviço militar dos estudantes religiosos.",
+  "Quem será eleito presidente do Parlamento.",
+  "Se alguém da oposição aceita o governo de união proposto por Netanyahu.",
+  "O fim do prazo de Eisenkot, no início de dezembro, sem contar a prorrogação."
  ],
  "fontes": [
   {
@@ -186,6 +185,14 @@
   {
    "t": "AP, via PBS: Eisenkot recebe a tarefa",
    "u": "https://www.pbs.org/newshour/world/israels-president-formally-gives-eisenkot-the-first-chance-to-form-the-next-government"
+  },
+  {
+   "t": "The Jerusalem Post: atualizações de 10 de novembro",
+   "u": "https://www.jpost.com/israel-election-2026/2026-11-10/live-updates-914399"
+  },
+  {
+   "t": "Open: Netanyahu propõe governo de união",
+   "u": "https://openthemagazine.com/world/netanyahu-pitches-unity-government-as-eisenkot-and-liberman-close-ranks"
   }
  ]
 }

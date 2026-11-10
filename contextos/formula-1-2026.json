@@ -1,0 +1,101 @@
+{
+ "titulo": "Fórmula 1 em 2026: novos títulos e brasileiros no grid",
+ "atualizado": "10 nov 2026",
+ "selo": "Checado",
+ "frase": "A temporada 2026 da Fórmula 1 teve títulos definidos antes do fim: Kimi Antonelli foi campeão de pilotos no GP do México, e a Mercedes garantiu o de construtores no GP de São Paulo, em 8 de novembro. Dois brasileiros correram em Interlagos.",
+ "linha": [
+  {
+   "d": "2021",
+   "t": "Último título de construtores da Mercedes antes de 2026, segundo a IstoÉ."
+  },
+  {
+   "d": "Uma semana antes do GP de São Paulo",
+   "t": "Kimi Antonelli, da Mercedes, conquista o título de pilotos no GP do México, segundo a IstoÉ."
+  },
+  {
+   "d": "8 de novembro de 2026",
+   "t": "Lando Norris vence o GP de São Paulo, com chuva em parte da prova. Max Verstappen sai de 21º e chega em segundo. Russell e Antonelli terminam em quarto e quinto, e a Mercedes é campeã de construtores."
+  },
+  {
+   "d": "8 de novembro de 2026, os brasileiros",
+   "t": "Gabriel Bortoleto, da Audi, larga em 19º e termina em 16º. Rafael Câmara, em sua estreia, larga em 11º, perde seis posições na primeira volta e termina em 20º, segundo a Folha do Leste."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Campeonato de construtores",
+   "d": "Disputa entre equipes, que somam os pontos dos dois carros. A Mercedes ganhou o de 2026, seu nono título."
+  },
+  {
+   "t": "Campeonato de pilotos",
+   "d": "Disputa individual. Em 2026, o título ficou com Kimi Antonelli, segundo a IstoÉ."
+  },
+  {
+   "t": "Pontuação",
+   "d": "Os dez primeiros pontuam: 25 para o vencedor, 18 para o segundo, 15 para o terceiro, até 1 ponto para o décimo."
+  },
+  {
+   "t": "Pole position",
+   "d": "Primeira posição no grid de largada, conquistada no treino classificatório. Norris largou na pole em Interlagos."
+  },
+  {
+   "t": "Pneu intermediário",
+   "d": "Pneu para pista úmida. Norris trocou para intermediários na volta 62, quando a chuva voltou, segundo o site de Silverstone."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Lando Norris",
+   "t": "piloto da McLaren, vencedor do GP de São Paulo de 2026, sua terceira vitória no ano e a segunda seguida em Interlagos, segundo o Autoracing."
+  },
+  {
+   "b": "Kimi Antonelli",
+   "t": "piloto da Mercedes e campeão mundial de pilotos de 2026."
+  },
+  {
+   "b": "George Russell",
+   "t": "piloto da Mercedes, quarto em Interlagos."
+  },
+  {
+   "b": "Max Verstappen",
+   "t": "piloto da Red Bull; ganhou 19 posições em São Paulo e terminou em segundo."
+  },
+  {
+   "b": "Gabriel Bortoleto",
+   "t": "piloto brasileiro da Audi; largou em 19º e terminou em 16º em Interlagos, sem pontos."
+  },
+  {
+   "b": "Rafael Câmara",
+   "t": "piloto brasileiro que estreou na Fórmula 1 em Interlagos e terminou em 20º, segundo a IstoÉ e a Folha do Leste."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Equipes",
+   "t": "a Mercedes garantiu o título de construtores à frente da Ferrari, que teve Leclerc em oitavo e Hamilton em nono em São Paulo."
+  },
+  {
+   "b": "Brasileiros",
+   "t": "Bortoleto e Câmara não pontuaram em Interlagos; o melhor resultado brasileiro foi o 16º lugar de Bortoleto."
+  }
+ ],
+ "observar": [
+  "As corridas que restam na temporada 2026.",
+  "A briga pelas posições de vice-campeão entre pilotos e equipes.",
+  "O desempenho de Bortoleto e Câmara no resto do ano."
+ ],
+ "fontes": [
+  {
+   "t": "IstoÉ: Mercedes conquista o título",
+   "u": "https://istoe.com.br/norris-vence-gp-sao-paulo-mercedes-titulo-f1-2026"
+  },
+  {
+   "t": "Folha do Leste: resultado e brasileiros",
+   "u": "https://folhadoleste.com.br/resultado-gp-sao-paulo-2026-norris-mercedes-brasileiros/"
+  },
+  {
+   "t": "Silverstone: resultado do GP de São Paulo",
+   "u": "https://www.silverstone.co.uk/news/f1-2026-sao-paulo-grand-prix-results-norris-dominates-tricky-conditions-interlagos"
+  }
+ ]
+}
