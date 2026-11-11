@@ -1,6 +1,6 @@
 {
  "titulo": "Maioridade penal: a proposta de punir como adultos jovens de 16 anos",
- "atualizado": "10 nov 2026",
+ "atualizado": "11 nov 2026",
  "selo": "Checado",
  "frase": "Pela Constituição, menores de 18 anos não respondem ao Código Penal, e sim ao Estatuto da Criança e do Adolescente. A Proposta de Emenda à Constituição 32/2015, em análise numa comissão especial da Câmara, reduz essa idade para 16 anos.",
  "linha": [
@@ -21,8 +21,12 @@
    "t": "A comissão especial aprova pedidos de audiência. Guilherme Derrite (PP-SP) propõe reduzir para 14 anos em crimes hediondos, e o presidente da comissão rejeita pedido de plebiscito, segundo a Exame."
   },
   {
-   "d": "10 e 11 de novembro de 2026",
-   "t": "Audiências públicas com representantes do Ministério da Justiça, do Ministério Público e do Judiciário."
+   "d": "10 de novembro de 2026",
+   "t": "Na primeira audiência, o Ministério da Justiça aceita reduzir a maioridade penal só para crimes hediondos. O relator anuncia parecer favorável e diz que Hugo Motta prometeu votar no plenário na primeira semana de dezembro."
+  },
+  {
+   "d": "Primeira semana de dezembro de 2026",
+   "t": "Votação prevista no plenário da Câmara, segundo o relator."
   },
   {
    "d": "Fim de novembro de 2026",
@@ -71,6 +75,14 @@
   {
    "b": "Davi Alcolumbre (União-AP)",
    "t": "presidente do Senado; espera a análise da Câmara antes de pautar o tema."
+  },
+  {
+   "b": "Paulo Garrido Modesto",
+   "t": "secretário de Assuntos Legislativos do Ministério da Justiça; disse que o governo aceita a redução só para crimes hediondos."
+  },
+  {
+   "b": "Chico Lucas",
+   "t": "secretário nacional de Segurança Pública; alerta para risco de \"encarceramento em massa de menores\"."
   }
  ],
  "disputa": [
@@ -89,13 +101,17 @@
   {
    "b": "Constitucionalidade",
    "t": "a comissão começou a análise sob questionamentos sobre se a Constituição permite mudar o artigo 228, segundo a Agência Câmara."
+  },
+  {
+   "b": "Só crimes hediondos ou todos",
+   "t": "o governo Lula aceita reduzir a idade apenas para crimes hediondos, com tratamento diferente; o relator defende 16 anos com prisão separada de adultos, segundo a Agência Brasil."
   }
  ],
  "observar": [
-  "As audiências de 10 e 11 de novembro.",
-  "O parecer do relator, até o fim de novembro.",
-  "Se o texto mantém 16 anos para todos os crimes ou adota a proposta de 14 anos para crimes hediondos.",
-  "A data de votação na comissão e no plenário."
+  "A segunda audiência, em 11 de novembro.",
+  "Se o parecer limita a redução a crimes hediondos.",
+  "A votação na comissão, até o fim de novembro, e no plenário, em dezembro.",
+  "Se a mudança chega ao Supremo como possível cláusula pétrea."
  ],
  "fontes": [
   {
@@ -109,6 +125,14 @@
   {
    "t": "ND Mais: o que movimenta o Congresso",
    "u": "https://ndmais.com.br/politica/maioridade-penal-congresso-debate-reducao-nesta-semana/"
+  },
+  {
+   "t": "Agência Brasil: relator defende prisões separadas",
+   "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/relator-defende-reducao-da-maioridade-penal-com-prisoes-separadas"
+  },
+  {
+   "t": "Diário do Pará: governo defende redução para crimes hediondos",
+   "u": "https://diariodopara.com.br/noticias/brasil/governo-defende-reducao-da-maioridade-penal-para-16-anos-em-crimes-hediondos"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "titulo": "Leis que limitam redes sociais para crianças e adolescentes",
- "atualizado": "7 nov 2026",
+ "atualizado": "11 nov 2026",
  "selo": "Checado",
  "frase": "Governos tentam restringir recursos das redes sociais considerados viciantes para menores, como feeds personalizados e reprodução automática. Na Califórnia, Google, Meta e TikTok foram à Justiça contra a lei AB 1709, que vale a partir de janeiro de 2027. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, empresa de inteligência artificial que concorre com Google, Meta e outras citadas nesta nota.",
  "linha": [
@@ -23,6 +23,10 @@
   {
    "d": "4 de novembro de 2026",
    "t": "Google, Meta e TikTok entram com três ações na Justiça federal, em San Jose, San Francisco e Los Angeles, contra a AB 1709."
+  },
+  {
+   "d": "9 de novembro de 2026",
+   "t": "A Meta leva a todo o mundo, no Instagram, a IA que estima idade e põe em contas de adolescente usuários que parecem ter de 13 a 17 anos. No Brasil, a tecnologia já era usada."
   },
   {
    "d": "1º de janeiro de 2027",
@@ -105,6 +109,14 @@
   {
    "t": "Colombia One: as ações contra a AB 1709",
    "u": "https://colombiaone.com/2026/11/06/google-meta-tiktok-sue-california-social-media-law-minors/"
+  },
+  {
+   "t": "Engadget: Meta expande detecção de idade",
+   "u": "https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/"
+  },
+  {
+   "t": "Meta: proteções das contas de adolescente",
+   "u": "https://about.fb.com/br/news/2026/11/expandindo-as-protecoes-das-contas-de-adolescente-para-jovens-de-todo-o-mundo/"
   }
  ]
 }

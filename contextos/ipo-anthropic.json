@@ -1,6 +1,6 @@
 {
  "titulo": "A abertura de capital da Anthropic",
- "atualizado": "4 nov 2026",
+ "atualizado": "11 nov 2026",
  "selo": "Checado",
  "frase": "A Anthropic, empresa de inteligência artificial que desenvolve o Claude, prepara a venda de ações na Bolsa. O documento entregue ao regulador americano mostra receita em alta rápida e gastos bilionários com computação. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic. Esta página trata da própria Anthropic e segue as mesmas regras de checagem e de neutralidade.",
  "linha": [
@@ -25,8 +25,12 @@
    "t": "Versão revisada do documento mostra receita de US$ 16,96 bilhões no terceiro trimestre e prejuízo operacional de US$ 567 milhões."
   },
   {
-   "d": "Próximas semanas",
-   "t": "Oferta de ações esperada, segundo a Dealroom."
+   "d": "10 de novembro de 2026",
+   "t": "Prospecto revisado fixa faixa de US$ 70 a US$ 78 por ação, com 825 milhões de ações na Nasdaq, código ANT. Sete fornecedoras compram US$ 26 bilhões em ações sem voto."
+  },
+  {
+   "d": "18 e 19 de novembro de 2026",
+   "t": "Definição do preço e estreia na Bolsa, previstas segundo a Decrypt."
   }
  ],
  "termos": [
@@ -92,9 +96,9 @@
   }
  ],
  "observar": [
-  "A data da oferta e o preço das ações.",
-  "Se o prejuízo operacional se repete no próximo trimestre.",
-  "Como a empresa vai pagar os compromissos de computação.",
+  "O preço final, previsto para 18 de novembro.",
+  "A estreia na Nasdaq, prevista para 19 de novembro.",
+  "Se o valor da empresa cai, como alguns investidores disseram ao Wall Street Journal.",
   "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic. Esta página trata da própria Anthropic e segue as mesmas regras de checagem e de neutralidade."
  ],
  "fontes": [
@@ -105,6 +109,18 @@
   {
    "t": "Forbes: o prejuízo operacional",
    "u": "https://www.forbes.com/sites/jonmarkman/2026/11/03/anthropic-posts-a-567-million-operating-loss-from-buying-extra-compute/"
+  },
+  {
+   "t": "Prospecto revisado da Anthropic na SEC",
+   "u": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm"
+  },
+  {
+   "t": "Decrypt, via Yahoo Finance: faixa de preço",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-ipo-price-range-140602411.html"
+  },
+  {
+   "t": "ABC News: novo prospecto",
+   "u": "https://abcnews.com/Business/anthropic-seeks-70-78-share-new-ipo-filing/story?id=138007081"
   }
  ]
 }

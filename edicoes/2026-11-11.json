@@ -1,0 +1,1071 @@
+{
+ "data": "2026-11-11",
+ "dia": "Quarta, 11 de novembro de 2026",
+ "leitura": "6 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje o recado do Banco Central sobre juros altos por mais tempo, a posição do governo sobre a maioridade penal e o primeiro dia de conversas sobre a guerra na Ucrânia.",
+ "trinta": [
+  "A ata do Copom indica Selic alta por mais tempo; o dólar foi a R$ 5,58.",
+  "O governo aceita reduzir a maioridade penal só para crimes hediondos.",
+  "Rússia, Ucrânia e EUA tiveram um primeiro dia \"construtivo\" em Abu Dhabi."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "Juros altos por mais tempo encarecem crédito; o dólar está no maior valor em 15 meses."
+  },
+  {
+   "id": "b2",
+   "porque": "O governo aceita a redução para crimes hediondos, e a votação pode ocorrer em dezembro."
+  },
+  {
+   "id": "m1",
+   "porque": "Primeiro dia de conversas a três desde fevereiro; troca de prisioneiros em discussão."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Copom indica juros altos por mais tempo; dólar vai a R$ 5,58",
+     "contexto": "selic-e-copom",
+     "texto": "A ata da última reunião do Copom, divulgada na terça (10), diz que a Selic, em 13,75%, deve ficar alta por mais tempo e cita quatro choques que pressionam a inflação, entre eles o fim da escala 6x1. O dólar subiu 1,48%, a R$ 5,58, maior valor em 15 meses.",
+     "pq": "juros altos encarecem crédito e prestações. O Banco Central projeta inflação de 5,6% em 2026, acima do teto da meta, de 4,5%. A próxima reunião é em 8 e 9 de dezembro.",
+     "fontes": [
+      {
+       "t": "O Especialista, do Safra",
+       "u": "https://oespecialista.safra.com.br/ata-copom-selic-alta-impactos-investidores/"
+      },
+      {
+       "t": "Jornal do Brasil",
+       "u": "https://www.jb.com.br/economia/2026/11/1061507-copom-afirma-que-selic-deve-permanecer-restritiva-por-mais-tempo.html"
+      },
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/ibovespa-cai-052-com-inflacao-dos-eua-e-ata-do-copom-no-radar"
+      },
+      {
+       "t": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/10/dolar-fecha-maior-valor-15-meses-ibovespa-queda"
+      }
+     ],
+     "completa": {
+      "fina": "O Banco Central cita petróleo, El Niño, fim da 6x1 e desvalorização do real; o Ibovespa caiu 0,52%.",
+      "atualizada": "11 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Comitê de Política Monetária do Banco Central divulgou na terça-feira (10) a ata da reunião de 4 de novembro, em que manteve a Selic em 13,75% ao ano. Segundo o Jornal do Brasil, o texto diz que \"é necessária uma restrição monetária maior e por mais tempo do que seria apropriado em condições normais\". No mesmo dia, o dólar fechou a R$ 5,58, o maior valor desde 31 de julho de 2025, segundo a TV Sim Brasil.",
+      "blocos": [
+       {
+        "h": "Os quatro choques",
+        "li": [
+         {
+          "b": "Petróleo:",
+          "t": "a alta ligada aos conflitos no Oriente Médio."
+         },
+         {
+          "b": "El Niño:",
+          "t": "efeitos sobre agricultura e energia."
+         },
+         {
+          "b": "Fim da escala 6x1:",
+          "t": "efeito sobre o custo do trabalho, com possíveis repasses a preços e salários, segundo O Especialista, do Safra."
+         },
+         {
+          "b": "Câmbio:",
+          "t": "a ata cita \"a desvalorização do real provocada por incertezas políticas domésticas\", segundo a TV Sim Brasil."
+         }
+        ]
+       },
+       {
+        "h": "As projeções",
+        "li": [
+         {
+          "b": "Banco Central:",
+          "t": "inflação de 5,6% em 2026, 4,7% em 2027 e 3,5% no segundo trimestre de 2028, o horizonte que o Copom usa para decidir os juros."
+         },
+         {
+          "b": "Mercado:",
+          "t": "o boletim Focus projeta 5,2% em 2026 e 4,8% em 2027."
+         },
+         {
+          "b": "Meta:",
+          "t": "o centro é 3%, com teto de 4,5%."
+         }
+        ]
+       },
+       {
+        "h": "O recado sobre as contas públicas",
+        "p": [
+         "O Copom aponta três riscos fiscais: enfraquecimento da disciplina fiscal, expansão do crédito direcionado e dúvidas sobre a estabilização da dívida pública. Para o comitê, \"políticas fiscal e monetária precisam atuar de maneira harmoniosa, previsível e anticíclica\", segundo O Especialista. O Banco Central diz que não costuma reagir ao impacto inicial de choques de oferta, mas que agirá se eles contaminarem as expectativas de inflação."
+        ]
+       },
+       {
+        "h": "O mercado",
+        "li": [
+         {
+          "b": "Dólar:",
+          "t": "subiu 1,48%, a R$ 5,58; na véspera, tinha fechado a R$ 5,50, segundo o Metrópoles e a TV Sim Brasil."
+         },
+         {
+          "b": "Ibovespa:",
+          "t": "caiu 0,52%, a 171.337 pontos."
+         },
+         {
+          "b": "Exterior:",
+          "t": "a inflação ao consumidor dos EUA subiu 0,4% em outubro, acima dos 0,3% esperados, o que reforçou apostas de alta de juros nos EUA em dezembro."
+         }
+        ]
+       },
+       {
+        "h": "Atividade e emprego",
+        "p": [
+         "Segundo a ata, a economia mostra sinais mais claros de desaceleração, e a criação de empregos e a renda perdem fôlego, embora o desemprego siga historicamente baixo, segundo o Jornal do Brasil."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Copom:",
+          "t": "defende juros restritivos por mais tempo e cobra harmonia com a política fiscal."
+         },
+         {
+          "b": "Governo:",
+          "t": "as reportagens consultadas não trazem reação do Ministério da Fazenda à ata."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o Copom volta a cortar juros em 2027.",
+         "Quais medidas fiscais o governo vai anunciar."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O IPCA de outubro, divulgado pelo IBGE.",
+         "A última reunião do Copom no ano, em 8 e 9 de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "O Especialista, do Safra: ata reforça Selic alta",
+        "u": "https://oespecialista.safra.com.br/ata-copom-selic-alta-impactos-investidores/"
+       },
+       {
+        "t": "Jornal do Brasil: ata aponta piora da inflação",
+        "u": "https://www.jb.com.br/economia/2026/11/1061507-copom-afirma-que-selic-deve-permanecer-restritiva-por-mais-tempo.html"
+       },
+       {
+        "t": "Metrópoles: Ibovespa cai 0,52%",
+        "u": "https://www.metropoles.com/brasil/ibovespa-cai-052-com-inflacao-dos-eua-e-ata-do-copom-no-radar"
+       },
+       {
+        "t": "TV Sim Brasil: dólar no maior valor em 15 meses",
+        "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/10/dolar-fecha-maior-valor-15-meses-ibovespa-queda"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Governo aceita reduzir maioridade penal só para crimes hediondos",
+     "contexto": "maioridade-penal",
+     "texto": "Na primeira audiência da comissão especial, na terça (10), o Ministério da Justiça disse aceitar reduzir a maioridade penal para 16 anos só para crimes hediondos. O relator, Mendonça Filho (PL-PE), vai dar parecer favorável à redução, com adolescentes presos separados dos adultos.",
+     "pq": "segundo o relator, Hugo Motta se comprometeu a votar a proposta no plenário da Câmara na primeira semana de dezembro. Uma juíza ouvida na audiência disse que o Supremo pode barrar a mudança.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/relator-defende-reducao-da-maioridade-penal-com-prisoes-separadas"
+      },
+      {
+       "t": "Diário do Pará",
+       "u": "https://diariodopara.com.br/noticias/brasil/governo-defende-reducao-da-maioridade-penal-para-16-anos-em-crimes-hediondos"
+      }
+     ],
+     "completa": {
+      "fina": "O relator sugeriu um referendo em 2028; o secretário de Segurança Pública alertou para \"encarceramento em massa de menores\".",
+      "atualizada": "11 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Ministério da Justiça e Segurança Pública disse na terça-feira (10), na comissão especial da Câmara que analisa a PEC 32/2015, que aceita reduzir a maioridade penal \"de forma excepcional, para crimes hediondos\", segundo a Agência Brasil. O relator, Mendonça Filho (PL-PE), anunciou parecer favorável à redução para 16 anos, com cumprimento de pena em estabelecimentos separados dos adultos.",
+      "blocos": [
+       {
+        "h": "O que disse o governo",
+        "li": [
+         {
+          "b": "Paulo Garrido Modesto, secretário de Assuntos Legislativos:",
+          "t": "disse que a pasta segue a orientação de Lula e aceita a redução só para crimes hediondos, com tratamento diferente. \"O adolescente que mata existe, é grave, merece resposta firme\", afirmou, segundo o Diário do Pará."
+         },
+         {
+          "b": "Chico Lucas, secretário nacional de Segurança Pública:",
+          "t": "alertou que ampliar a redução para muitos crimes pode levar ao \"encarceramento em massa de menores\", que seriam recrutados pelo crime organizado."
+         },
+         {
+          "b": "Outras medidas:",
+          "t": "o governo defende punir adultos que recrutam menores, rever os prazos de internação do ECA e proteger jovens no ambiente digital."
+         }
+        ]
+       },
+       {
+        "h": "O que disse o relator",
+        "p": [
+         "Mendonça Filho defende punição a partir dos 16 anos, com prisão separada de adultos: \"Isso é uma coisa pacífica\". Disse que \"a sociedade está cansada desse discurso de vitimismo\" e que não se opõe a um referendo popular sobre a mudança em 2028, segundo a Agência Brasil."
+        ]
+       },
+       {
+        "h": "Outras vozes",
+        "li": [
+         {
+          "b": "Alencar Santana (PT-SP):",
+          "t": "contrário, disse que pôr nos adolescentes a culpa pela violência é \"uma covardia\"."
+         },
+         {
+          "b": "Guilherme Derrite (PP-SP):",
+          "t": "favorável, disse que o limite de internação de três anos é \"um gravíssimo problema\"."
+         },
+         {
+          "b": "Katy Braun do Prado, presidente da associação de juízes da infância:",
+          "t": "contrária, propôs ampliar a internação de três para até oito anos em casos graves e disse que o Supremo pode considerar a idade de 18 anos cláusula pétrea, que não pode ser mudada."
+         }
+        ]
+       },
+       {
+        "h": "Os números citados",
+        "li": [
+         {
+          "b": "Reincidência:",
+          "t": "45% no sistema penal de adultos e cerca de metade disso no sistema juvenil, segundo a juíza."
+         },
+         {
+          "b": "Internações:",
+          "t": "roubo e tráfico respondem por 57% das internações em unidades socioeducativas, segundo dados citados pelo ministério."
+         },
+         {
+          "b": "Votos necessários:",
+          "t": "308 dos 513 deputados e 49 dos 81 senadores, em dois turnos."
+         }
+        ]
+       },
+       {
+        "h": "Os prazos",
+        "p": [
+         "A votação na comissão especial está prevista para o fim de novembro. Segundo o relator, o presidente da Câmara, Hugo Motta, se comprometeu a levar a proposta ao plenário na primeira semana de dezembro. O presidente do Senado, Davi Alcolumbre, retirou de pauta uma proposta parecida do Senado para esperar a Câmara."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o parecer vai limitar a redução a crimes hediondos, como quer o governo.",
+         "Se o Supremo seria chamado a decidir."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Segunda audiência nesta quarta (11).",
+         "Votação na comissão até o fim de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: relator defende prisões separadas",
+        "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/relator-defende-reducao-da-maioridade-penal-com-prisoes-separadas"
+       },
+       {
+        "t": "Diário do Pará: governo defende redução para crimes hediondos",
+        "u": "https://diariodopara.com.br/noticias/brasil/governo-defende-reducao-da-maioridade-penal-para-16-anos-em-crimes-hediondos"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Fachin arquiva o inquérito das fake news, aberto em 2019",
+     "contexto": "inquerito-das-fake-news",
+     "texto": "O presidente do Supremo, Edson Fachin, arquivou o inquérito das fake news, a pedido da Procuradoria-Geral da República, segundo a Agência Brasil. A decisão não anula o que foi feito desde 2019: as ações penais derivadas e as investigações autônomas em andamento continuam.",
+     "pq": "o inquérito foi aberto pelo próprio Supremo, com base no seu regimento interno, para apurar ameaças a ministros, e durou sete anos. Fachin contou 108 procedimentos abertos por Alexandre de Moraes nesse período.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-ministro-fachin-arquiva-inquerito-das-fake-news"
+      },
+      {
+       "t": "Gazeta do Povo",
+       "u": "https://www.gazetadopovo.com.br/republica/fachin-defendeu-a-legalidade-do-inquerito-das-fake-news-antes-de-arquiva-lo/"
+      }
+     ],
+     "completa": {
+      "fina": "Para Fachin, não há \"fundamento bastante para a manutenção indefinida\" do procedimento.",
+      "atualizada": "11 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente do Supremo Tribunal Federal, Edson Fachin, determinou na segunda-feira (9) o arquivamento definitivo do inquérito das fake news, aberto em março de 2019, segundo a Agência Brasil. A Procuradoria-Geral da República tinha pedido o arquivamento por entender que o inquérito \"já cumpriu o objetivo da investigação\".",
+      "blocos": [
+       {
+        "h": "O que diz a decisão",
+        "li": [
+         {
+          "b": "O motivo:",
+          "t": "\"Não se encontra fundamento bastante para a manutenção indefinida do procedimento originário\", escreveu Fachin."
+         },
+         {
+          "b": "O que fica valendo:",
+          "t": "os atos de investigação feitos desde 2019 não são anulados, e as ações penais derivadas continuam."
+         },
+         {
+          "b": "O que continua:",
+          "t": "investigações autônomas ainda em andamento são mantidas."
+         },
+         {
+          "b": "O tamanho:",
+          "t": "Fachin contou 108 procedimentos de investigação abertos por Alexandre de Moraes em sete anos, além do inquérito principal."
+         }
+        ]
+       },
+       {
+        "h": "A história do inquérito",
+        "p": [
+         "O ministro Dias Toffoli, então presidente do Supremo, abriu o inquérito em março de 2019 e escolheu Alexandre de Moraes como relator. O caso foi usado para investigar ameaças e ataques a ministros e às suas famílias. Em setembro de 2026, Fachin tirou Moraes da relatoria, e em outubro arquivou oito investigações ligadas ao inquérito, em duas decisões, segundo a Agência Brasil."
+        ]
+       },
+       {
+        "h": "O papel de Fachin",
+        "p": [
+         "Fachin foi relator quando o plenário do Supremo julgou a legalidade do inquérito, em 2020, e votou a favor, com condições: acompanhamento do Ministério Público, acesso das defesas às provas, foco em ameaças reais a ministros e famílias e proibição de alcançar conteúdo jornalístico ou críticas legítimas, segundo a Gazeta do Povo."
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "O inquérito foi um dos instrumentos centrais do Supremo para investigar ameaças e campanhas contra ministros nos últimos anos e deu origem a 108 procedimentos de investigação, segundo Fachin. O arquivamento encerra o procedimento principal, mas, segundo a Agência Brasil, não apaga o que foi produzido nele: as provas e as ações penais que nasceram dali seguem nos seus próprios processos."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Procuradoria-Geral da República:",
+          "t": "disse que o inquérito \"já cumpriu o objetivo da investigação\"."
+         },
+         {
+          "b": "Alexandre de Moraes:",
+          "t": "as reportagens consultadas não trazem manifestação dele sobre a decisão."
+         },
+         {
+          "b": "Gazeta do Povo:",
+          "t": "destaca que o arquivamento não anula atos de Moraes nem garante reparação a investigados."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantos dos 108 procedimentos seguem abertos.",
+         "Se haverá pedidos de revisão de decisões tomadas no inquérito."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "As ações penais e investigações autônomas seguem nos seus relatores.",
+         "Possíveis pedidos de investigados para rever medidas tomadas no inquérito."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: Fachin arquiva inquérito",
+        "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-ministro-fachin-arquiva-inquerito-das-fake-news"
+       },
+       {
+        "t": "Gazeta do Povo: a trajetória de Fachin no caso",
+        "u": "https://www.gazetadopovo.com.br/republica/fachin-defendeu-a-legalidade-do-inquerito-das-fake-news-antes-de-arquiva-lo/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Zelensky chama de \"construtivo\" o primeiro dia de conversas em Abu Dhabi",
+     "contexto": "negociacoes-ucrania-russia",
+     "texto": "Rússia, Ucrânia e EUA conversaram por cerca de quatro horas na terça (10), em Abu Dhabi, segundo a AP. Zelensky disse que o encontro foi \"construtivo e bastante substantivo\", com troca de prisioneiros e garantias de segurança na pauta. O segundo dia é nesta quarta (11).",
+     "pq": "é a primeira rodada a três desde fevereiro. Segundo a Al Jazeera, um funcionário americano disse que os dois lados mostraram alguma flexibilidade sobre território em conversas reservadas; a Rússia mantém a exigência de todo o Donbas.",
+     "fontes": [
+      {
+       "t": "AP, via PBS",
+       "u": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi"
+      },
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+      }
+     ],
+     "completa": {
+      "fina": "Na véspera, a Rússia lançou 162 drones e um míssil balístico contra a Ucrânia, segundo a Força Aérea ucraniana.",
+      "atualizada": "11 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "As delegações de Rússia, Ucrânia e Estados Unidos fizeram na terça-feira (10), em Abu Dhabi, cerca de quatro horas de conversas, as primeiras a três em nove meses, segundo a AP. O presidente ucraniano, Volodymyr Zelensky, disse que a sessão foi \"construtiva e bastante substantiva\".",
+      "blocos": [
+       {
+        "h": "O que foi discutido",
+        "li": [
+         {
+          "b": "Questões humanitárias:",
+          "t": "troca de prisioneiros, volta de civis ucranianos presos e de crianças levadas da Ucrânia, segundo Zelensky."
+         },
+         {
+          "b": "Troca grande:",
+          "t": "uma autoridade ucraniana, sem se identificar, disse à AP que se discutiu uma troca de prisioneiros em grande escala, com detalhes nos próximos dias."
+         },
+         {
+          "b": "Garantias de segurança:",
+          "t": "para os dois lados. Segundo a Al Jazeera, pode haver um compromisso de defesa inspirado no artigo 5 da Otan."
+         },
+         {
+          "b": "Território:",
+          "t": "um funcionário americano disse que qualquer acordo territorial viria por último, depois das questões de segurança."
+         }
+        ]
+       },
+       {
+        "h": "Quem estava",
+        "p": [
+         "A Ucrânia foi representada por Rustem Umerov, chefe do serviço de inteligência externa; a Rússia, por Vladimir Medinsky; os EUA, por Jared Kushner e Steve Witkoff, com o comandante da Otan, general Alexus Grynkewich. Antes, a Ucrânia se reuniu com enviados americanos e de Reino Unido, França, Alemanha, Itália, Otan e Comissão Europeia, segundo a AP."
+        ]
+       },
+       {
+        "h": "As posições",
+        "li": [
+         {
+          "b": "Rússia:",
+          "t": "quer todo o Donbas e não vê lugar para os europeus na mesa, segundo a Al Jazeera. Ocupa cerca de 20% da Ucrânia, incluindo a Crimeia."
+         },
+         {
+          "b": "Ucrânia:",
+          "t": "quer a Rússia de volta à fronteira original e pede cessar-fogo imediato."
+         },
+         {
+          "b": "EUA:",
+          "t": "Trump disse que os dois lados estão \"cansados de lutar\"."
+         }
+        ]
+       },
+       {
+        "h": "Os ataques",
+        "p": [
+         "Na noite anterior, a Rússia lançou 162 drones e um míssil balístico contra a Ucrânia, segundo a Força Aérea ucraniana. O Ministério da Defesa russo disse ter derrubado 155 drones ucranianos sobre oito regiões da Rússia e a Crimeia, segundo a AP."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Rustem Umerov:",
+          "t": "\"Nosso povo está esperando o fim desta guerra.\""
+         },
+         {
+          "b": "Vladimir Medinsky:",
+          "t": "disse esperar que o encontro permita \"avançar no caminho para a paz\"."
+         },
+         {
+          "b": "Jared Kushner:",
+          "t": "disse haver \"algumas boas ideias para aproximar\" as posições."
+         },
+         {
+          "b": "Marco Rubio, secretário de Estado dos EUA:",
+          "t": "\"Parece que as conversas em Abu Dhabi foram muito produtivas\", mas \"há muito trabalho a fazer\"."
+         },
+         {
+          "b": "Ilya Timtchenko, analista:",
+          "t": "\"Não se vai ver de fato nenhum acordo\", disse à Al Jazeera."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando e de que tamanho será a troca de prisioneiros.",
+         "Se a Europa entra nas próximas rodadas."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Segundo dia de conversas nesta quarta (11).",
+         "Rubio disse que uma solução não é iminente."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "AP, via PBS: quatro horas de conversas",
+        "u": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi"
+       },
+       {
+        "t": "Al Jazeera: primeiro dia construtivo",
+        "u": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Parlamento de Israel toma posse; bloco de Eisenkot quer trocar presidente",
+     "contexto": "eleicao-israel-2026",
+     "texto": "Os 120 deputados do novo Parlamento de Israel tomaram posse na terça (10). O bloco de Gadi Eisenkot indicou Matan Kahana para presidir a Casa, no lugar de Amir Ohana, do Likud, e apresentou projetos para revogar a reforma judicial do governo Netanyahu.",
+     "pq": "Eisenkot tem 28 dias, prorrogáveis por 14, para formar governo. Herzog pediu aos deputados que façam \"todo o possível\" para evitar nova eleição.",
+     "fontes": [
+      {
+       "t": "JTA",
+       "u": "https://www.jta.org/2026/11/10/israel/israels-parliament-sworn-in-as-leaders-scramble-to-form-a-government"
+      },
+      {
+       "t": "The Jerusalem Post",
+       "u": "https://www.jpost.com/israel-election-2026/article-914426"
+      }
+     ],
+     "completa": {
+      "fina": "Na posse, Netanyahu voltou a propor um governo de união liderado por ele; Eisenkot respondeu que a mudança é mais necessária do que antes.",
+      "atualizada": "11 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O 26º Parlamento de Israel tomou posse na terça-feira (10), duas semanas depois de uma eleição sem vencedor claro, segundo a agência judaica JTA. O bloco de Gadi Eisenkot, encarregado de formar o governo, anunciou que vai indicar Matan Kahana, do partido Yashar, para presidir a Casa, segundo o Jerusalem Post.",
+      "blocos": [
+       {
+        "h": "A disputa pela presidência",
+        "li": [
+         {
+          "b": "Hoje:",
+          "t": "o presidente da Casa é Amir Ohana, do Likud."
+         },
+         {
+          "b": "A indicação:",
+          "t": "Matan Kahana, coronel da reserva, ex-piloto de F-16 e ex-ministro de Serviços Religiosos de 2021 a 2022."
+         },
+         {
+          "b": "O pedido de votação:",
+          "t": "67 deputados assinaram uma carta pedindo a troca; segundo o boletim do jornalista Marc Schulman, pelas regras do Parlamento a votação deve ocorrer em até uma semana."
+         },
+         {
+          "b": "Comissões:",
+          "t": "o bloco quer Avigdor Liberman na Comissão de Relações Exteriores e Defesa e Liran Avisar Ben-Horin na de Finanças."
+         }
+        ]
+       },
+       {
+        "h": "Os primeiros projetos",
+        "li": [
+         "Uma comissão estatal de inquérito sobre o ataque do Hamas de 7 de outubro de 2023.",
+         "A revogação de leis da reforma judicial aprovadas pelo governo que sai.",
+         "Um limite de mandatos para o primeiro-ministro, segundo Schulman."
+        ]
+       },
+       {
+        "h": "As condições de Eisenkot",
+        "p": [
+         "Qualquer partido, inclusive o Likud, pode entrar no governo se aceitar quatro condições: reconhecer Israel como Estado judeu e democrático, aceitar os valores da Declaração de Independência, apoiar serviço militar ou civil obrigatório para todos e a posição de Israel sobre o Hamas, segundo a JTA."
+        ]
+       },
+       {
+        "h": "O novo Parlamento",
+        "li": [
+         {
+          "b": "Partidos:",
+          "t": "11 legendas eleitas; o Likud é o maior, com 27 cadeiras."
+         },
+         {
+          "b": "Estreantes:",
+          "t": "46 dos 120 deputados."
+         },
+         {
+          "b": "Mulheres:",
+          "t": "33, recorde, segundo a organização 5050 citada pela JTA."
+         },
+         {
+          "b": "Mais jovem:",
+          "t": "Yonatan Shalev, de 24 anos, que quebrou um recorde de 66 anos."
+         },
+         {
+          "b": "Mais antigo:",
+          "t": "Netanyahu, deputado em 15 legislaturas desde 1988."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Isaac Herzog, presidente:",
+          "t": "pediu que os deputados façam \"todo o possível para evitar outra rodada de eleições\"."
+         },
+         {
+          "b": "Benjamin Netanyahu:",
+          "t": "chamou Eisenkot para um governo de união liderado por ele e levantou suspeitas sobre os possíveis parceiros do rival, segundo a JTA."
+         },
+         {
+          "b": "Gadi Eisenkot:",
+          "t": "respondeu que a mudança é agora mais necessária do que antes."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a troca de presidente da Casa passa no plenário.",
+         "Com quem Eisenkot fecha a maioria.",
+         "Se Netanyahu, que segue premiê interino, aceita negociar nos termos de Eisenkot."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Votação sobre a presidência do Parlamento, em até uma semana.",
+         "Negociações de coalizão até o início de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "JTA: Parlamento toma posse",
+        "u": "https://www.jta.org/2026/11/10/israel/israels-parliament-sworn-in-as-leaders-scramble-to-form-a-government"
+       },
+       {
+        "t": "The Jerusalem Post: Kahana indicado",
+        "u": "https://www.jpost.com/israel-election-2026/article-914426"
+       },
+       {
+        "t": "Marc Schulman: posse e projetos",
+        "u": "https://marcschulman.substack.com/p/november-10-2026-knesset-opens-peacefully"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Índia, Nigéria e Alemanha apoiam roteiro do Brasil para deixar combustíveis fósseis",
+     "contexto": "combustiveis-fosseis-cop",
+     "texto": "Na COP31, em Antália, o embaixador André Corrêa do Lago apresentou na terça (10) o roteiro da presidência brasileira para a transição dos combustíveis fósseis. Índia, Nigéria e Alemanha manifestaram apoio, segundo o Climate Home News. O roteiro é voluntário.",
+     "pq": "países produtores querem manter o plano opcional e devem resistir a incluí-lo na decisão final da COP31. A cúpula de líderes começa nesta quarta (11), com Lula.",
+     "fontes": [
+      {
+       "t": "Climate Home News",
+       "u": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/"
+      },
+      {
+       "t": "ONU News",
+       "u": "https://news.un.org/en/story/2026/11/1168775"
+      },
+      {
+       "t": "A Gazeta, com Folhapress",
+       "u": "https://www.agazeta.com.br/economia/decreto-que-regulamenta-fim-da-6x1-e-adiado-e-so-deve-sair-apos-retorno-de-lula-1126"
+      }
+     ],
+     "completa": {
+      "fina": "O secretário-geral da ONU, António Guterres, disse que é \"mais do que hora\" de parar de tratar a transição como tabu.",
+      "atualizada": "11 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A presidência brasileira da COP30 apresentou formalmente na terça-feira (10), na COP31, em Antália, o roteiro para a transição dos combustíveis fósseis, divulgado em 3 de novembro, segundo a ONU News. Índia, Nigéria e Alemanha apoiaram o texto, e Alemanha, Holanda, Reino Unido e Austrália o defenderam publicamente, segundo o Climate Home News.",
+      "blocos": [
+       {
+        "h": "O que diz o roteiro",
+        "li": [
+         {
+          "b": "Natureza:",
+          "t": "voluntário; não é um novo acordo obrigatório, segundo a ONU."
+         },
+         {
+          "b": "Prazos:",
+          "t": "convida os países a preparar planos nacionais de energia limpa até 2028 e prevê o principal corte de oferta e demanda de carvão, petróleo e gás depois de 2031."
+         },
+         {
+          "b": "Método:",
+          "t": "cada país identifica sua demanda, produção e dependência econômica de combustíveis fósseis."
+         }
+        ]
+       },
+       {
+        "h": "Quem apoia e quem resiste",
+        "p": [
+         "Segundo o Climate Home News, alguns países produtores insistem que o processo seja voluntário, para \"escolher o que quiserem\", e devem resistir a ancorar o roteiro na decisão final da COP31. Países africanos pedem flexibilidade nos prazos e financiamento e tecnologia para uma transição justa. A Austrália, que divide a presidência da COP31, é criticada por expandir carvão e gás, e a Turquia comemorou a produção de um novo campo de petróleo."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "André Corrêa do Lago:",
+          "t": "\"Normalmente nessas discussões há extremos dos dois lados e não avançamos muito.\""
+         },
+         {
+          "b": "Índia:",
+          "t": "disse que o roteiro \"encontra um equilíbrio delicado\" e que a transição \"precisa ser construída em conjunto\"."
+         },
+         {
+          "b": "Nigéria:",
+          "t": "disse que o país precisa \"industrializar e descarbonizar ao mesmo tempo\"."
+         },
+         {
+          "b": "António Guterres, secretário-geral da ONU:",
+          "t": "\"Mudar de fornecedor não vai eliminar essa exposição. Uma interrupção em qualquer lugar eleva os preços em todo lugar.\""
+         },
+         {
+          "b": "Ana Toni, da presidência da COP30:",
+          "t": "\"Comecem agora, de onde estiverem.\""
+         }
+        ]
+       },
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Custo da crise:",
+          "t": "a União Europeia pagou mais de 100 bilhões de euros a mais em importações de combustíveis fósseis desde a escalada no Oriente Médio, segundo Guterres."
+         },
+         {
+          "b": "Preços:",
+          "t": "gasolina e diesel subiram em 130 países, disse Guterres."
+         },
+         {
+          "b": "Aquecimento:",
+          "t": "as políticas atuais levam a 2,8°C, lembrou o ex-enviado americano John Kerry."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o roteiro entra na decisão final da COP31.",
+         "Se o Brasil apresenta o próprio plano nacional; segundo o Climate Home News, o país mantém planos de exploração de petróleo, inclusive na Amazônia."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Cúpula de líderes em 11 e 12 de novembro.",
+         "Países como Holanda e Alemanha pedem que o tema siga até o balanço global de 2028."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Climate Home News: grandes países fósseis apoiam roteiro",
+        "u": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/"
+       },
+       {
+        "t": "ONU News: dia da energia na COP31",
+        "u": "https://news.un.org/en/story/2026/11/1168775"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Anthropic fixa faixa de US$ 70 a US$ 78 por ação",
+     "contexto": "ipo-anthropic",
+     "texto": "A Anthropic, empresa de inteligência artificial que faz o Claude, registrou na terça (10) que vai vender ações a US$ 70 a US$ 78 cada, na Nasdaq, com o código ANT. Pelo cálculo da CNBC citado pela Decrypt, a empresa pode valer até US$ 1,4 trilhão.",
+     "pq": "seria uma das maiores estreias da história da Bolsa americana. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic. Esta nota trata da própria Anthropic e segue as mesmas regras de checagem e neutralidade.",
+     "fontes": [
+      {
+       "t": "Prospecto na SEC",
+       "u": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm"
+      },
+      {
+       "t": "Decrypt, via Yahoo Finance",
+       "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-ipo-price-range-140602411.html"
+      },
+      {
+       "t": "ABC News",
+       "u": "https://abcnews.com/Business/anthropic-seeks-70-78-share-new-ipo-filing/story?id=138007081"
+      }
+     ],
+     "completa": {
+      "fina": "Google e Nvidia devem comprar cerca de US$ 10 bilhões cada em ações sem direito a voto, junto com outras cinco fornecedoras.",
+      "atualizada": "11 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Anthropic apresentou à SEC, a comissão de valores mobiliários dos EUA, em 10 de novembro, uma versão revisada do prospecto da abertura de capital com faixa de preço de US$ 70 a US$ 78 por ação. A empresa vai oferecer 825 milhões de ações classe A na Nasdaq, sob o código ANT, segundo o documento.",
+      "blocos": [
+       {
+        "h": "A oferta",
+        "li": [
+         {
+          "b": "Ações:",
+          "t": "801,4 milhões novas e 23,6 milhões de acionistas atuais; os bancos podem comprar mais 123,75 milhões, segundo o prospecto."
+         },
+         {
+          "b": "Valor captado:",
+          "t": "cerca de US$ 64,4 bilhões no topo da faixa, segundo a Decrypt."
+         },
+         {
+          "b": "Datas:",
+          "t": "a definição do preço é esperada para 18 de novembro, e o início das negociações para 19 de novembro, segundo a Decrypt."
+         },
+         {
+          "b": "Valor da empresa:",
+          "t": "de US$ 916 bilhões a US$ 1,02 trilhão pelas ações em circulação; até US$ 1,405 trilhão contando todas as ações possíveis, segundo a CNBC, citada pela Decrypt. Em maio, uma rodada de investimento avaliou a empresa em US$ 965 bilhões."
+         }
+        ]
+       },
+       {
+        "h": "As compradoras privadas",
+        "p": [
+         "Sete empresas que fornecem capacidade de computação à Anthropic vão comprar US$ 26 bilhões em ações classe N, sem direito a voto, pelo preço da oferta: Google e Nvidia cerca de US$ 10 bilhões cada, AMD cerca de US$ 2,5 bilhões, Broadcom, Micron e Microsoft cerca de US$ 1 bilhão cada e TSMC cerca de US$ 500 milhões, segundo o prospecto."
+        ]
+       },
+       {
+        "h": "Os números da empresa",
+        "li": [
+         {
+          "b": "Receita:",
+          "t": "US$ 17 bilhões no terceiro trimestre de 2026, alta de 1.127% sobre o mesmo período de 2025, segundo o prospecto."
+         },
+         {
+          "b": "Prejuízo:",
+          "t": "a Decrypt informa prejuízo líquido de US$ 104 bilhões nos nove primeiros meses do ano, a maior parte por uma despesa contábil de US$ 94,3 bilhões ligada a títulos conversíveis; o prejuízo operacional foi de US$ 1,26 bilhão."
+         },
+         {
+          "b": "Compromissos:",
+          "t": "cerca de US$ 900,9 bilhões em gastos já contratados, sobretudo com computação, segundo a Decrypt."
+         }
+        ]
+       },
+       {
+        "h": "Quem manda",
+        "p": [
+         "A Anthropic é uma empresa de benefício público. Um fundo chamado Long-Term Benefit Trust elegerá a maioria do conselho, e uma única ação classe F, de uma entidade dos sete cofundadores, terá 50,1% dos votos na maioria das decisões. Por isso, quem comprar ações classe A terá influência limitada, segundo a Decrypt."
+        ]
+       },
+       {
+        "h": "Os riscos declarados",
+        "p": [
+         "O prospecto tem cerca de 90 páginas de riscos, segundo a ABC News. A empresa diz que seus modelos podem representar \"risco catastrófico ou existencial para a humanidade\" e que suas salvaguardas \"são incompletas\". Alguns grandes investidores disseram ao Wall Street Journal que o valor esperado pode ter de cair depois da queda recente das ações de IA, segundo a Decrypt."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O preço final das ações.",
+         "Como as ações se comportam na estreia."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Definição do preço, prevista para 18 de novembro.",
+         "Estreia na Nasdaq, prevista para 19 de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Prospecto revisado da Anthropic na SEC",
+        "u": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/anthropicpbc-sx1ax2.htm"
+       },
+       {
+        "t": "Decrypt, via Yahoo Finance: faixa de preço",
+        "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-ipo-price-range-140602411.html"
+       },
+       {
+        "t": "ABC News: novo prospecto",
+        "u": "https://abcnews.com/Business/anthropic-seeks-70-78-share-new-ipo-filing/story?id=138007081"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Meta leva a todo o mundo IA que estima idade no Instagram",
+     "contexto": "redes-sociais-e-menores",
+     "texto": "A Meta anunciou na segunda (9) que vai usar em todo o mundo, no Instagram, a tecnologia que estima a idade dos usuários. Quem o sistema considerar ter de 13 a 17 anos vai para uma conta de adolescente, mesmo que tenha informado data de nascimento de adulto.",
+     "pq": "contas de adolescente limitam contato com estranhos e têm perfil privado por padrão. No Brasil, a tecnologia já era usada. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, que concorre com a Meta.",
+     "fontes": [
+      {
+       "t": "Engadget",
+       "u": "https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/"
+      },
+      {
+       "t": "Meta",
+       "u": "https://about.fb.com/br/news/2026/11/expandindo-as-protecoes-das-contas-de-adolescente-para-jovens-de-todo-o-mundo/"
+      }
+     ],
+     "completa": {
+      "fina": "A Meta diz que a mudança vai pôr \"milhões de adolescentes a mais\" sob essas proteções; Facebook e Threads também terão a tecnologia.",
+      "atualizada": "11 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Meta anunciou em 9 de novembro que vai ampliar para todo o mundo, no Instagram, a tecnologia de inteligência artificial que estima a idade dos usuários e coloca em contas de adolescente quem parecer ter de 13 a 17 anos, segundo o comunicado da empresa e o Engadget. Até agora, ela era usada nos EUA, na União Europeia e no Brasil.",
+      "blocos": [
+       {
+        "h": "Como funciona",
+        "li": [
+         {
+          "b": "A estimativa:",
+          "t": "se o sistema calcular que o usuário tem de 13 a 17 anos, a conta vai para o modo adolescente, mesmo com data de nascimento adulta no cadastro."
+         },
+         {
+          "b": "As proteções:",
+          "t": "limite de contato com estranhos, perfil e publicações privados por padrão, limite diário de uso e controles para os pais, segundo o Engadget."
+         },
+         {
+          "b": "Menores de 13:",
+          "t": "outros métodos são usados para detectar e remover contas de crianças abaixo de 13 anos; a Meta corrigiu uma versão anterior da reportagem do Engadget sobre isso."
+         }
+        ]
+       },
+       {
+        "h": "Onde muda",
+        "li": [
+         {
+          "b": "Instagram:",
+          "t": "em todo o mundo."
+         },
+         {
+          "b": "Facebook e Threads:",
+          "t": "a tecnologia segue no Facebook e chega ao Threads ainda neste ano."
+         },
+         {
+          "b": "EUA:",
+          "t": "no próximo mês, os pais vão receber aviso no Instagram explicando como os filhos foram postos nessas contas."
+         },
+         {
+          "b": "Austrália:",
+          "t": "a Meta passou a usar o sinal de faixa etária da Apple como dado extra."
+         }
+        ]
+       },
+       {
+        "h": "No Brasil",
+        "p": [
+         "A tecnologia já era usada no Instagram no país. A Meta lembra que o ECA Digital prevê que a aprovação dos pais para baixar aplicativos e a verificação de idade ocorram na loja de aplicativos e no sistema operacional, segundo o comunicado."
+        ]
+       },
+       {
+        "h": "O contexto",
+        "p": [
+         "A Meta defende leis que obriguem as lojas de aplicativos a verificar a idade. Em agosto, fechou acordo com 52 procuradores-gerais de estados americanos que a acusavam de prejudicar jovens usuários, segundo o Engadget. No acordo, disse estar \"investindo em uma tecnologia ainda mais forte\" para achar contas de menores de 13 anos."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Meta:",
+          "t": "diz que a mudança vai pôr \"milhões de adolescentes a mais\" sob as proteções."
+         },
+         {
+          "b": "Críticos e reguladores:",
+          "t": "as reportagens consultadas não trazem avaliação independente da precisão do sistema."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantos usuários serão afetados por país.",
+         "A taxa de erro da estimativa de idade."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A chegada ao Threads, prevista para este ano.",
+         "Os avisos aos pais nos EUA, no próximo mês."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Engadget: Meta expande detecção de idade",
+        "u": "https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/"
+       },
+       {
+        "t": "Meta: proteções das contas de adolescente",
+        "u": "https://about.fb.com/br/news/2026/11/expandindo-as-protecoes-das-contas-de-adolescente-para-jovens-de-todo-o-mundo/"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "R$ 5,58",
+  "texto": "foi o fechamento do dólar na terça (10), o maior desde 31 de julho de 2025; na véspera, R$ 5,50.",
+  "fontes": [
+   {
+    "t": "TV Sim Brasil",
+    "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/10/dolar-fecha-maior-valor-15-meses-ibovespa-queda"
+   },
+   {
+    "t": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/ibovespa-cai-052-com-inflacao-dos-eua-e-ata-do-copom-no-radar"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "O novo Parlamento de Israel tem 33 deputadas, recorde, e o deputado mais jovem em 66 anos: Yonatan Shalev, de 24.",
+  "fontes": [
+   {
+    "t": "JTA",
+    "u": "https://www.jta.org/2026/11/10/israel/israels-parliament-sworn-in-as-leaders-scramble-to-form-a-government"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição traz uma nota sobre a própria Anthropic e cita Google, Meta e Microsoft, que concorrem com ela.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. A nota sobre a abertura de capital da Anthropic, dona da ferramenta que escreve o Contexto, traz números do prospecto, riscos declarados e dúvidas de investidores, sem adjetivos, e tem aviso de conflito de interesse. Ressalva: o Fechar vem de uma fonte só.",
+  "pontos": [
+   "Brasil 1: a ata é citada entre aspas; a nota registra que não há reação da Fazenda nas fontes.",
+   "Brasil 2: governo, relator, PT, PP e a juíza contrária aparecem com nome e aspas.",
+   "Brasil 3: a decisão e a PGR com aspas; a nota diz que Moraes não se manifestou nas fontes.",
+   "Mundo 1: Rússia e Ucrânia com espaço parecido; nota de guerra sem menção a IA.",
+   "Mundo 2: Netanyahu e Eisenkot falam na mesma proporção; o prazo da votação vem de um boletim e está atribuído.",
+   "Mundo 3: apoiadores e resistentes ao roteiro aparecem.",
+   "Inovação 1: nota sobre a própria Anthropic; inclui prejuízo, riscos e ceticismo de investidores.",
+   "Inovação 2: a fala da Meta é atribuída; a nota registra a falta de avaliação independente."
+  ],
+  "equilibrio": "Governo Lula: 2 menções (neutras); oposição e Congresso: 3 (neutras). Rússia e Ucrânia: 3 cada. Netanyahu e Eisenkot: 2 cada. Anthropic: 1 nota, com riscos e dúvidas.",
+  "foraDaEdicao": [
+   "Esportes e demais categorias extras: sem fato novo checado em duas fontes até o fechamento.",
+   "Reunião do G7 em Paris: terminou sem decisão conjunta sobre Ucrânia e Irã, segundo a Al Jazeera; sem segunda fonte aberta.",
+   "Lançamento de novos modelos da Anthropic: fica para outra edição, com fonte independente."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: a ata do Copom e o dólar, pelo efeito no bolso.",
+   "Essencial: juros, maioridade penal e Ucrânia.",
+   "Nota da Anthropic mantida em Inovação, com aviso de conflito no texto e no rodapé.",
+   "Toda nota tem página de contexto."
+  ]
+ },
+ "geradaEm": "2026-11-11T07:42:02Z"
+}

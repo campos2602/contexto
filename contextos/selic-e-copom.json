@@ -1,6 +1,6 @@
 {
  "titulo": "Selic e Copom: como o Banco Central decide os juros",
- "atualizado": "5 nov 2026",
+ "atualizado": "11 nov 2026",
  "selo": "Checado",
  "frase": "A Selic é a taxa básica de juros do país. O Copom, comitê do Banco Central, a sobe para frear a inflação e a reduz quando a inflação dá sinais de controle, e cada decisão passa para os juros de empréstimos, financiamentos e aplicações.",
  "linha": [
@@ -26,7 +26,7 @@
   },
   {
    "d": "10 de novembro de 2026",
-   "t": "Data prevista para a ata da reunião, segundo o The Rio Times."
+   "t": "A ata diz que a Selic deve ficar restritiva por mais tempo e cita quatro choques de oferta: petróleo, El Niño, fim da escala 6x1 e desvalorização do real. O BC projeta inflação de 5,6% em 2026. O dólar fecha a R$ 5,58, maior valor em 15 meses."
   },
   {
    "d": "8 e 9 de dezembro de 2026",
@@ -100,9 +100,9 @@
   }
  ],
  "observar": [
-  "A ata, prevista para 10 de novembro, e se ela indica espaço para novos cortes.",
-  "A reunião de 8 e 9 de dezembro.",
   "O IPCA de outubro, que mostra se a inflação continua acima do teto.",
+  "A reunião de 8 e 9 de dezembro.",
+  "Medidas fiscais do governo, que o Copom diz serem necessárias para a inflação cair.",
   "A indicação dos substitutos dos diretores Renato Gomes e Diego Guillen."
  ],
  "fontes": [
@@ -133,6 +133,18 @@
   {
    "t": "TMC: Copom congela a Selic",
    "u": "https://tmc.com.br/economia/copom-mantem-selic-13-75-reuniao-pos-eleicoes-2026/"
+  },
+  {
+   "t": "O Especialista, do Safra: ata reforça Selic alta",
+   "u": "https://oespecialista.safra.com.br/ata-copom-selic-alta-impactos-investidores/"
+  },
+  {
+   "t": "Jornal do Brasil: ata aponta piora da inflação",
+   "u": "https://www.jb.com.br/economia/2026/11/1061507-copom-afirma-que-selic-deve-permanecer-restritiva-por-mais-tempo.html"
+  },
+  {
+   "t": "TV Sim Brasil: dólar no maior valor em 15 meses",
+   "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/10/dolar-fecha-maior-valor-15-meses-ibovespa-queda"
   }
  ]
 }

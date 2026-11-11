@@ -1,6 +1,6 @@
 {
  "titulo": "Eleição em Israel: como se forma um governo",
- "atualizado": "10 nov 2026",
+ "atualizado": "11 nov 2026",
  "selo": "Checado",
  "frase": "Na eleição de 27 de outubro de 2026, o bloco de Benjamin Netanyahu ficou com 53 das 120 cadeiras, e a aliança de Gadi Eisenkot, com 48. Em 8 de novembro, o presidente Isaac Herzog deu a Eisenkot a primeira chance de formar governo.",
  "linha": [
@@ -34,7 +34,7 @@
   },
   {
    "d": "10 de novembro de 2026",
-   "t": "Posse dos 120 deputados do 26º Parlamento."
+   "t": "Posse dos 120 deputados. O bloco de Eisenkot indica Matan Kahana para presidir o Parlamento e apresenta projetos para revogar a reforma judicial, segundo a JTA e o Jerusalem Post."
   }
  ],
  "termos": [
@@ -108,8 +108,8 @@
   }
  ],
  "observar": [
-  "Se Eisenkot fecha acordo com os ultraortodoxos sobre o serviço militar dos estudantes religiosos.",
-  "Quem será eleito presidente do Parlamento.",
+  "A votação sobre a presidência do Parlamento, em até uma semana.",
+  "Se Eisenkot fecha acordo com os partidos ultraortodoxos.",
   "Se alguém da oposição aceita o governo de união proposto por Netanyahu.",
   "O fim do prazo de Eisenkot, no início de dezembro, sem contar a prorrogação."
  ],
@@ -193,6 +193,14 @@
   {
    "t": "Open: Netanyahu propõe governo de união",
    "u": "https://openthemagazine.com/world/netanyahu-pitches-unity-government-as-eisenkot-and-liberman-close-ranks"
+  },
+  {
+   "t": "JTA: Parlamento toma posse",
+   "u": "https://www.jta.org/2026/11/10/israel/israels-parliament-sworn-in-as-leaders-scramble-to-form-a-government"
+  },
+  {
+   "t": "The Jerusalem Post: Kahana indicado",
+   "u": "https://www.jpost.com/israel-election-2026/article-914426"
   }
  ]
 }

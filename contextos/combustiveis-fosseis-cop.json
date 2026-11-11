@@ -1,6 +1,6 @@
 {
  "titulo": "O fim dos combustíveis fósseis nas conferências do clima",
- "atualizado": "10 nov 2026",
+ "atualizado": "11 nov 2026",
  "selo": "Checado",
  "frase": "Petróleo, gás e carvão são a maior fonte das emissões que aquecem o planeta. Desde 2023, as conferências do clima da ONU discutem como os países vão deixá-los, mas grandes produtores resistem a prazos e metas obrigatórias.",
  "linha": [
@@ -26,7 +26,7 @@
   },
   {
    "d": "10 de novembro de 2026",
-   "t": "Data prevista para a discussão do roteiro em Antália, segundo Ana Toni."
+   "t": "Corrêa do Lago apresenta o roteiro na COP31. Índia, Nigéria e Alemanha apoiam; produtores querem mantê-lo voluntário, segundo o Climate Home News."
   },
   {
    "d": "Até 2028",
@@ -112,10 +112,10 @@
   }
  ],
  "observar": [
-  "Se o roteiro entra na negociação formal da COP31, no debate desta terça (10).",
+  "Se o roteiro entra na decisão final da COP31.",
   "A cúpula de líderes, em 11 e 12 de novembro.",
-  "O mecanismo de transição justa em negociação.",
-  "Se algum país se compromete a apresentar um plano de transição até 2028."
+  "Se o Brasil publica o próprio plano nacional de transição.",
+  "Se o tema segue até o balanço global de 2028."
  ],
  "fontes": [
   {
@@ -141,6 +141,14 @@
   {
    "t": "Exame: abertura da COP31",
    "u": "https://exame.com/esg/na-abertura-da-cop31-murat-kurum-alerta-que-crises-globais-se-agravam-e-cobra-acao-conjunta/"
+  },
+  {
+   "t": "Climate Home News: grandes países fósseis apoiam roteiro",
+   "u": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/"
+  },
+  {
+   "t": "ONU News: dia da energia na COP31",
+   "u": "https://news.un.org/en/story/2026/11/1168775"
   }
  ]
 }

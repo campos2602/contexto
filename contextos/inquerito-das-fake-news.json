@@ -1,0 +1,97 @@
+{
+ "titulo": "Inquérito das fake news: sete anos de investigação no Supremo",
+ "atualizado": "11 nov 2026",
+ "selo": "Checado",
+ "frase": "Aberto pelo próprio Supremo Tribunal Federal em março de 2019 para apurar ameaças e ataques a ministros, o inquérito das fake news foi arquivado pelo presidente da Corte, Edson Fachin, em 9 de novembro de 2026, a pedido da Procuradoria-Geral da República.",
+ "linha": [
+  {
+   "d": "Março de 2019",
+   "t": "O então presidente do Supremo, Dias Toffoli, abre o inquérito e escolhe Alexandre de Moraes como relator, segundo a Agência Brasil."
+  },
+  {
+   "d": "2020",
+   "t": "O plenário do Supremo julga o inquérito legal. Fachin, relator do caso, vota a favor com quatro condições, entre elas o acompanhamento do Ministério Público e a proteção ao conteúdo jornalístico, segundo a Gazeta do Povo."
+  },
+  {
+   "d": "Setembro de 2026",
+   "t": "Fachin, já presidente do Supremo, tira Moraes da relatoria."
+  },
+  {
+   "d": "Outubro de 2026",
+   "t": "Fachin arquiva três e depois mais cinco investigações ligadas ao inquérito, segundo a Agência Brasil."
+  },
+  {
+   "d": "9 de novembro de 2026",
+   "t": "Fachin arquiva o inquérito principal a pedido da PGR. Atos já feitos e ações penais derivadas continuam válidos."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Inquérito",
+   "d": "Procedimento para reunir provas sobre um possível crime. Não é condenação; pode resultar em denúncia ou arquivamento."
+  },
+  {
+   "t": "Arquivamento",
+   "d": "Encerramento da investigação. Neste caso, não anula as provas já colhidas nem as ações penais abertas a partir delas."
+  },
+  {
+   "t": "Regimento interno",
+   "d": "Conjunto de regras de funcionamento do tribunal. O inquérito foi aberto com base em um artigo que permite investigar crimes cometidos nas dependências do Supremo; a internet foi tratada como extensão dele, segundo a Gazeta do Povo."
+  },
+  {
+   "t": "Relator",
+   "d": "Ministro responsável por conduzir o caso e tomar decisões individuais nele."
+  },
+  {
+   "t": "PGR",
+   "d": "Procuradoria-Geral da República, que chefia o Ministério Público Federal e pode pedir o arquivamento de investigações."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Edson Fachin",
+   "t": "presidente do Supremo; votou pela legalidade do inquérito em 2020 e o arquivou em 2026."
+  },
+  {
+   "b": "Alexandre de Moraes",
+   "t": "ministro do Supremo e relator do inquérito de 2019 a setembro de 2026; abriu 108 procedimentos ligados a ele, segundo Fachin."
+  },
+  {
+   "b": "Dias Toffoli",
+   "t": "ministro que abriu o inquérito em 2019, quando presidia o Supremo."
+  },
+  {
+   "b": "Procuradoria-Geral da República",
+   "t": "pediu o arquivamento por entender que o inquérito \"já cumpriu o objetivo da investigação\"."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Legalidade",
+   "t": "o Supremo julgou o inquérito legal em 2020, com condições. Ao votar, Fachin reconheceu que a situação era delicada e impôs regras, como a proibição de alcançar críticas legítimas na internet, segundo a Gazeta do Povo."
+  },
+  {
+   "b": "Duração",
+   "t": "para Fachin, não havia \"fundamento bastante para a manutenção indefinida do procedimento originário\"; a PGR disse que o objetivo já tinha sido cumprido. O inquérito ficou aberto por sete anos e oito meses."
+  },
+  {
+   "b": "Efeitos do arquivamento",
+   "t": "a decisão mantém as ações penais derivadas e as investigações autônomas; a Gazeta do Povo destaca que ela não anula atos de Moraes nem garante reparação a investigados."
+  }
+ ],
+ "observar": [
+  "Quantos dos 108 procedimentos seguem abertos.",
+  "Pedidos de investigados para rever medidas tomadas no inquérito.",
+  "O andamento das ações penais que nasceram do inquérito."
+ ],
+ "fontes": [
+  {
+   "t": "Agência Brasil: Fachin arquiva inquérito",
+   "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-ministro-fachin-arquiva-inquerito-das-fake-news"
+  },
+  {
+   "t": "Gazeta do Povo: a trajetória de Fachin no caso",
+   "u": "https://www.gazetadopovo.com.br/republica/fachin-defendeu-a-legalidade-do-inquerito-das-fake-news-antes-de-arquiva-lo/"
+  }
+ ]
+}
