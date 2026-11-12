@@ -1,0 +1,110 @@
+{
+ "titulo": "Dívidas rurais: a renegociação para quem perdeu safras",
+ "atualizado": "12 nov 2026",
+ "selo": "Checado",
+ "frase": "Secas, enchentes, granizo e geadas fizeram produtores perderem safras seguidas desde 2019, e a inadimplência no crédito rural quase dobrou em dois anos. A Medida Provisória 1.376/2026, aprovada pelo Congresso em 11 de novembro de 2026, permite renegociar essas dívidas com juros subsidiados.",
+ "linha": [
+  {
+   "d": "2019 a 2025",
+   "t": "Período das safras perdidas que dão direito à renegociação."
+  },
+  {
+   "d": "Maio de 2024",
+   "t": "A inadimplência no crédito rural está em 3,99%, segundo o governo, citado pelo Metrópoles."
+  },
+  {
+   "d": "Maio de 2026",
+   "t": "A inadimplência chega a 7,17%."
+  },
+  {
+   "d": "2026",
+   "t": "O governo edita a MP 1.376/2026, com prazo de validade até 11 de novembro."
+  },
+  {
+   "d": "10 de novembro de 2026",
+   "t": "A comissão mista e a Câmara aprovam o texto, com mudanças do relator, Paulo Pimenta (PT-RS)."
+  },
+  {
+   "d": "11 de novembro de 2026",
+   "t": "O Senado aprova a MP, retira três artigos sem relação com o tema, entre eles um sobre cigarros eletrônicos, e envia o texto à sanção."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Medida provisória",
+   "d": "Norma do presidente com força de lei imediata, que perde a validade se o Congresso não a aprovar em até 120 dias."
+  },
+  {
+   "t": "Pronaf",
+   "d": "Programa Nacional de Fortalecimento da Agricultura Familiar, com crédito a juros menores para pequenos produtores."
+  },
+  {
+   "t": "Pronamp",
+   "d": "Programa Nacional de Apoio ao Médio Produtor Rural."
+  },
+  {
+   "t": "Equalização de juros",
+   "d": "Quando o Tesouro paga aos bancos a diferença entre o juro de mercado e o juro menor cobrado do produtor."
+  },
+  {
+   "t": "Jabuti",
+   "d": "Artigo sem relação com o tema principal incluído num projeto ou MP. O Senado retirou três desta MP."
+  },
+  {
+   "t": "Carência",
+   "d": "Período em que se pagam só os juros, sem amortizar a dívida. Nesta renegociação, são dois anos."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Paulo Pimenta (PT-RS)",
+   "t": "deputado, relator da MP."
+  },
+  {
+   "b": "Alessandro Vieira (MDB-SE)",
+   "t": "senador; propôs retirar os artigos sem relação com a dívida rural."
+  },
+  {
+   "b": "Davi Alcolumbre (União-AP)",
+   "t": "presidente do Senado."
+  },
+  {
+   "b": "Tereza Cristina (PP-MS) e Jaime Bagattoli (PL-RO)",
+   "t": "senadores que disseram que a MP não é solução definitiva."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Alcance",
+   "t": "senadores da oposição e do agronegócio dizem que a MP é paliativa e pedem a aprovação do PL 5.122/2023, que trata da dívida rural de forma mais ampla e está na Câmara."
+  },
+  {
+   "b": "Jabutis",
+   "t": "a Câmara incluiu na MP regras para cigarros eletrônicos, hoje proibidos, flexibilização para lojas francas e prazo maior para dívidas habitacionais. O Senado retirou os três artigos; Alessandro Vieira disse que \"matéria de saúde pública dessa gravidade\" não cabia numa MP de crédito agrícola."
+  },
+  {
+   "b": "Regiões",
+   "t": "o Congresso reduziu para 25% a perda mínima de renda exigida nas áreas da Sudam, Sudene e Sudeco, contra 30% no resto do país."
+  },
+  {
+   "b": "Custo",
+   "t": "as reportagens consultadas não trazem estimativa de quanto a equalização de juros vai custar ao Tesouro; os bancos assumem o risco de calote."
+  }
+ ],
+ "observar": [
+  "A sanção de Lula.",
+  "A regulamentação, que abre o prazo de 120 dias para contratar.",
+  "A votação do PL 5.122/2023 na Câmara.",
+  "A evolução da inadimplência no crédito rural."
+ ],
+ "fontes": [
+  {
+   "t": "Agência Senado: renegociação vai à sanção",
+   "u": "https://www12.senado.leg.br/noticias/materias/2026/11/11/renegociacao-de-dividas-rurais-e-aprovada-pelo-senado-e-vai-a-sancao-presidencial"
+  },
+  {
+   "t": "Metrópoles: Senado aprova MP",
+   "u": "https://www.metropoles.com/brasil/senado-aprova-mp-que-permite-renegociacao-de-dividas-rurais"
+  }
+ ]
+}

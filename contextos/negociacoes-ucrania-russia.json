@@ -1,13 +1,9 @@
 {
  "titulo": "Guerra na Ucrânia: onde estão as negociações",
- "atualizado": "11 nov 2026",
+ "atualizado": "12 nov 2026",
  "selo": "Checado",
  "frase": "A Rússia invadiu a Ucrânia em fevereiro de 2022. Desde então, houve rodadas de conversa sem acordo de paz; uma nova rodada, com os EUA, está prevista para novembro de 2026.",
  "linha": [
-  {
-   "d": "21 de outubro de 2026",
-   "t": "A Rússia aceita voltar a negociar com Ucrânia e EUA em novembro, em Abu Dhabi, segundo Moscou."
-  },
   {
    "d": "23 de outubro de 2026",
    "t": "Um cessar-fogo local em torno de Oleshky é acertado com mediação da primeira-dama dos EUA, Melania Trump, segundo a Euronews."
@@ -35,6 +31,10 @@
   {
    "d": "10 de novembro de 2026, primeiro dia",
    "t": "Quatro horas de conversas em Abu Dhabi. Zelensky as chama de \"construtivas\"; troca de prisioneiros e garantias de segurança entram na pauta, segundo a AP."
+  },
+  {
+   "d": "11 de novembro de 2026",
+   "t": "Segundo e último dia em Abu Dhabi: Rússia e Ucrânia acertam troca de prisioneiros em grande escala, sem número nem data. Não há avanço sobre território, segundo o Kyiv Independent e o Moscow Times."
   }
  ],
  "termos": [
@@ -100,8 +100,8 @@
   }
  ],
  "observar": [
-  "O segundo dia de conversas, em 11 de novembro.",
-  "A troca de prisioneiros em discussão.",
+  "A data e o tamanho da troca de prisioneiros.",
+  "A visita de Kushner e Witkoff a Moscou e o encontro com Zelensky na Irlanda.",
   "Se a Europa entra na negociação.",
   "Ataques à infraestrutura de energia com a chegada do inverno."
  ],
@@ -153,6 +153,14 @@
   {
    "t": "Al Jazeera: primeiro dia construtivo",
    "u": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+  },
+  {
+   "t": "Kyiv Independent: troca acertada",
+   "u": "https://kyivindependent.com/large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/"
+  },
+  {
+   "t": "The Moscow Times: sem avanço",
+   "u": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227"
   }
  ]
 }

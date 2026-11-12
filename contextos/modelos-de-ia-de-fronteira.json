@@ -1,0 +1,102 @@
+{
+ "titulo": "Modelos de IA de fronteira: a disputa pelo sistema mais capaz",
+ "atualizado": "12 nov 2026",
+ "selo": "Checado",
+ "frase": "Modelos de fronteira são os sistemas de inteligência artificial mais avançados de cada empresa. Google, Anthropic, OpenAI e outras lançam versões novas em intervalos cada vez menores, e cada lançamento traz promessas de desempenho e preocupações de segurança.",
+ "linha": [
+  {
+   "d": "Outubro de 2026",
+   "t": "O Google lança o Gemini 4 Argon, segundo a Constellation Research."
+  },
+  {
+   "d": "28 de outubro de 2026",
+   "t": "O Google apresenta o Gemini 4 Carbon, com acesso inicial restrito a especialistas em defesa cibernética."
+  },
+  {
+   "d": "10 de novembro de 2026",
+   "t": "O Carbon é liberado para desenvolvedores, empresas e assinantes do plano Google AI Ultra."
+  },
+  {
+   "d": "30 de novembro de 2026",
+   "t": "O preço do Carbon para desenvolvedores dobra, para US$ 4 por milhão de tokens de entrada e US$ 20 por milhão de saída."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Modelo de fronteira",
+   "d": "O sistema de IA mais capaz que uma empresa oferece num dado momento."
+  },
+  {
+   "t": "Token",
+   "d": "Pedaço de texto que o modelo lê ou escreve. Os preços para desenvolvedores são cobrados por milhão de tokens."
+  },
+  {
+   "t": "API",
+   "d": "Interface que permite a programas de outras empresas usar o modelo."
+  },
+  {
+   "t": "Injeção de prompt",
+   "d": "Ataque em que instruções escondidas num texto ou site tentam fazer o modelo agir contra o usuário. O Google diz que a defesa do Carbon ainda precisa melhorar."
+  },
+  {
+   "t": "Benchmark",
+   "d": "Teste padronizado usado para comparar modelos. Os resultados divulgados pelas próprias empresas nem sempre são verificados de forma independente."
+  },
+  {
+   "t": "Agente",
+   "d": "Sistema de IA que executa tarefas em várias etapas, como programar ou navegar, com pouca intervenção humana."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Google",
+   "t": "dono da família Gemini; lançou o Argon e o Carbon em outubro e novembro de 2026."
+  },
+  {
+   "b": "Anthropic",
+   "t": "dona do Claude, usado para escrever o Contexto; concorre com o Google."
+  },
+  {
+   "b": "OpenAI",
+   "t": "dona do ChatGPT; concorre com as duas."
+  },
+  {
+   "b": "Trajectory Labs",
+   "t": "empresa que fez testes externos de segurança no Carbon, segundo o Google."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Desempenho",
+   "t": "as empresas divulgam vitórias em testes escolhidos por elas; verificações independentes costumam chegar depois."
+  },
+  {
+   "b": "Segurança",
+   "t": "modelos melhores em programação também podem ajudar ataques. O Google liberou o Carbon primeiro a defensores e diz que ele bloqueou 99% das tentativas em testes simulados."
+  },
+  {
+   "b": "Preço",
+   "t": "o Carbon começou com o mesmo preço do Argon e dobra em 30 de novembro."
+  },
+  {
+   "b": "Ritmo",
+   "t": "o Carbon saiu duas semanas depois do Argon. Para Larry Dignan, da Constellation Research, o Google está acelerando o ritmo de lançamentos de modelos de fronteira, o que pressiona concorrentes a lançar mais rápido e reduz o tempo para testes externos."
+  }
+ ],
+ "observar": [
+  "Testes independentes do Gemini 4 Carbon.",
+  "Novos lançamentos de concorrentes.",
+  "Regras de segurança para modelos de fronteira nos EUA e na Europa.",
+  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, que concorre com o Google e a OpenAI."
+ ],
+ "fontes": [
+  {
+   "t": "Google: Gemini 4 Carbon disponível",
+   "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+  },
+  {
+   "t": "Constellation Research: lançamento do Carbon",
+   "u": "https://www.constellationr.com/insights/news/google-rolls-out-gemini-4-carbon"
+  }
+ ]
+}

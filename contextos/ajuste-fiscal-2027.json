@@ -1,0 +1,118 @@
+{
+ "titulo": "Ajuste fiscal de 2027: o pacote para equilibrar as contas",
+ "atualizado": "12 nov 2026",
+ "selo": "Checado",
+ "frase": "Depois da reeleição, com o dólar em alta e a dívida pública em crescimento, o governo Lula enviou ao Congresso em 11 de novembro de 2026 um projeto com cortes de gastos e de benefícios fiscais de R$ 50 bilhões a R$ 60 bilhões para cumprir a meta de 2027.",
+ "linha": [
+  {
+   "d": "2023",
+   "t": "O arcabouço fiscal substitui o teto de gastos: as despesas podem crescer acima da inflação, até 2,5% ao ano em termos reais, conforme a arrecadação."
+  },
+  {
+   "d": "26 de outubro de 2026",
+   "t": "No primeiro pregão depois da reeleição, o dólar sobe mais de 8% e o Ibovespa cai 13,88%."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "O Copom mantém a Selic em 13,75% e interrompe os cortes, citando piora fiscal."
+  },
+  {
+   "d": "8 de novembro de 2026",
+   "t": "Em rede nacional, Lula diz que a dívida e os juros o preocupam e promete preservar as regras fiscais."
+  },
+  {
+   "d": "10 de novembro de 2026",
+   "t": "A ata do Copom cita a desvalorização do real e riscos fiscais; o dólar fecha a R$ 5,58, maior valor em 15 meses."
+  },
+  {
+   "d": "11 de novembro de 2026",
+   "t": "O governo envia o projeto de lei complementar, protocolado por Jaques Wagner (PT-BA). O dólar cai a R$ 5,56."
+  },
+  {
+   "d": "12 de novembro de 2026",
+   "t": "Votação prevista no Senado, segundo o NeoFeed."
+  },
+  {
+   "d": "2030",
+   "t": "Ano em que a dívida bruta deve começar a cair, para 87,5% do PIB, pelas projeções do governo citadas pelo NeoFeed."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Arcabouço fiscal",
+   "d": "Regra de 2023 que limita o crescimento real das despesas federais a até 2,5% ao ano. O pacote reduz o limite para 2%."
+  },
+  {
+   "t": "Superávit primário",
+   "d": "Quando o governo arrecada mais do que gasta, sem contar os juros da dívida. A meta é de 0,5% do PIB em 2027."
+  },
+  {
+   "t": "Dívida bruta",
+   "d": "Tudo o que o governo deve. Deve fechar 2026 em 83,6% do PIB, segundo o NeoFeed."
+  },
+  {
+   "t": "Gasto tributário",
+   "d": "Imposto que o governo deixa de cobrar por isenções e incentivos. O projeto corta em 20% vários desses benefícios; o parecer do relator fala em 10%."
+  },
+  {
+   "t": "Supersalários",
+   "d": "Pagamentos a servidores acima do teto constitucional, de R$ 46.366,19, por meio de verbas indenizatórias."
+  },
+  {
+   "t": "Projeto de lei complementar",
+   "d": "Tipo de lei que precisa de maioria absoluta na Câmara e no Senado para ser aprovado."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Bruno Moretti",
+   "t": "ministro do Planejamento e Orçamento; apresentou o pacote na Comissão Mista de Orçamento."
+  },
+  {
+   "b": "Dario Durigan",
+   "t": "ministro da Fazenda; participa das negociações no Congresso."
+  },
+  {
+   "b": "Eduardo Braga (MDB-AM)",
+   "t": "senador, relator do projeto."
+  },
+  {
+   "b": "Jaques Wagner (PT-BA)",
+   "t": "senador, líder do governo que protocolou o texto."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Tamanho do ajuste",
+   "t": "o governo fala em R$ 50 bilhões a R$ 60 bilhões em 2027; o relator calcula R$ 43 bilhões a R$ 54 bilhões. Uma fonte do mercado disse ao NeoFeed que as medidas são positivas, mas que o setor segue cauteloso."
+  },
+  {
+   "b": "Quem paga",
+   "t": "Moretti diz que o ajuste \"não pode se concentrar nos mais pobres\" e que saúde, educação e Previdência ficam de fora. O corte de incentivos atinge empresas, sem lista de setores no texto."
+  },
+  {
+   "b": "Dívida",
+   "t": "mesmo com o pacote, a dívida só começa a cair em 2030, segundo as projeções citadas pelo NeoFeed."
+  }
+ ],
+ "observar": [
+  "A votação no Senado e depois na Câmara.",
+  "Quais setores perdem incentivos.",
+  "A reação do dólar e dos juros futuros.",
+  "A regulamentação dos supersalários em até 120 dias."
+ ],
+ "fontes": [
+  {
+   "t": "Agência Brasil: o que prevê o pacote",
+   "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pacote-fiscal-preve-120-dias-para-congresso-discutir-supersalarios"
+  },
+  {
+   "t": "NeoFeed: dívida só cai em 2030",
+   "u": "https://neofeed.com.br/poder/governo-promete-pacote-fiscal-de-ate-r-60-bi-mas-divida-so-comeca-a-cair-no-ultimo-ano-do-lula-4/"
+  },
+  {
+   "t": "Itabira Online: dólar e Bolsa",
+   "u": "https://itabiraonline.com.br/2026/11/11/dolar-fecha-em-queda-a-r-556-e-ibovespa-sobe-042-nesta-quarta-feira-11/"
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
  "titulo": "O fim dos combustíveis fósseis nas conferências do clima",
- "atualizado": "11 nov 2026",
+ "atualizado": "12 nov 2026",
  "selo": "Checado",
  "frase": "Petróleo, gás e carvão são a maior fonte das emissões que aquecem o planeta. Desde 2023, as conferências do clima da ONU discutem como os países vão deixá-los, mas grandes produtores resistem a prazos e metas obrigatórias.",
  "linha": [
@@ -25,8 +25,8 @@
    "t": "Abertura da COP31 em Antália: Corrêa do Lago passa a presidência a Murat Kurum e cita o roteiro dos combustíveis fósseis entre os resultados do Brasil. A conferência vai até 20 de novembro, segundo o ClimaInfo."
   },
   {
-   "d": "10 de novembro de 2026",
-   "t": "Corrêa do Lago apresenta o roteiro na COP31. Índia, Nigéria e Alemanha apoiam; produtores querem mantê-lo voluntário, segundo o Climate Home News."
+   "d": "10 e 11 de novembro de 2026",
+   "t": "Corrêa do Lago apresenta o roteiro; Índia, Nigéria e Alemanha apoiam. Na cúpula de líderes, Lula defende os roteiros e pede doações ao fundo de florestas, segundo o Climate Home News e o ClimaInfo."
   },
   {
    "d": "Até 2028",
@@ -113,7 +113,7 @@
  ],
  "observar": [
   "Se o roteiro entra na decisão final da COP31.",
-  "A cúpula de líderes, em 11 e 12 de novembro.",
+  "Quanto o fundo Florestas Tropicais para Sempre arrecada em Antália.",
   "Se o Brasil publica o próprio plano nacional de transição.",
   "Se o tema segue até o balanço global de 2028."
  ],
@@ -149,6 +149,14 @@
   {
    "t": "ONU News: dia da energia na COP31",
    "u": "https://news.un.org/en/story/2026/11/1168775"
+  },
+  {
+   "t": "ClimaInfo: o discurso de Lula",
+   "u": "https://climainfo.org.br/2026/11/11/lula-na-cop31-brasil-esta-de-volta-para-defender-um-mundo-mais-saudavel/"
+  },
+  {
+   "t": "O Tempo: Lula na COP31",
+   "u": "https://www.otempo.com.br/politica/governo/2026/11/11/lula-na-cop31-passamos-a-falar-mais-de-armas-e-tarifas-do-que-sobrevivencia-das-futuras-geracoes"
   }
  ]
 }

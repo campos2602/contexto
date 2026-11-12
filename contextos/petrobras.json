@@ -1,0 +1,106 @@
+{
+ "titulo": "Petrobras: lucro, produção e dividendos da maior empresa do país",
+ "atualizado": "12 nov 2026",
+ "selo": "Checado",
+ "frase": "A Petrobras é uma empresa de capital aberto controlada pela União. Seus resultados afetam a Bolsa, as contas do governo, que recebe dividendos, e o preço dos combustíveis. No terceiro trimestre de 2026, lucrou cerca de R$ 39,8 bilhões.",
+ "linha": [
+  {
+   "d": "Terceiro trimestre de 2025",
+   "t": "Base de comparação: o lucro de 2026 é 21,5% maior que o deste período."
+  },
+  {
+   "d": "Segundo trimestre de 2026",
+   "t": "O lucro é maior que o do trimestre seguinte; a queda até o terceiro trimestre é de 24,2%, segundo a Suno."
+  },
+  {
+   "d": "2026",
+   "t": "A produção de petróleo bate recorde trimestral três vezes, segundo a Banda B, com informações da Agência Brasil."
+  },
+  {
+   "d": "10 de novembro de 2026",
+   "t": "A empresa divulga lucro de R$ 39,8 bilhões no terceiro trimestre e eleva a previsão de produção para 3,3 a 3,4 milhões de barris de óleo equivalente por dia."
+  },
+  {
+   "d": "11 de novembro de 2026",
+   "t": "As ações preferenciais caem 3,11%; as ordinárias, 2,08%."
+  },
+  {
+   "d": "Fevereiro e março de 2027",
+   "t": "Pagamento de R$ 15,3 bilhões em dividendos e juros sobre capital próprio."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Lucro líquido",
+   "d": "O que sobra depois de todos os custos, despesas e impostos."
+  },
+  {
+   "t": "Ebitda",
+   "d": "Lucro antes de juros, impostos, depreciação e amortização; mede a geração de caixa da operação."
+  },
+  {
+   "t": "Dividendos",
+   "d": "Parte do lucro distribuída aos acionistas, entre eles a União."
+  },
+  {
+   "t": "Juros sobre capital próprio",
+   "d": "Outra forma de remunerar acionistas, com tratamento tributário diferente dos dividendos."
+  },
+  {
+   "t": "Barril de óleo equivalente",
+   "d": "Medida que soma petróleo e gás natural em uma mesma unidade."
+  },
+  {
+   "t": "Brent",
+   "d": "Petróleo de referência no mercado internacional. Caiu 7% no terceiro trimestre de 2026, segundo a Suno."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Magda Chambriard",
+   "t": "presidente da Petrobras."
+  },
+  {
+   "b": "União",
+   "t": "acionista controladora, que recebe parte dos dividendos."
+  },
+  {
+   "b": "Acionistas minoritários",
+   "t": "investidores privados que detêm o restante das ações, negociadas na B3 e em Nova York."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Expectativa do mercado",
+   "t": "o resultado ficou abaixo das estimativas de analistas, segundo o Itabira Online, apesar da alta de 21,5% em um ano."
+  },
+  {
+   "b": "Por que o lucro caiu no trimestre",
+   "t": "a empresa citou lucro bruto menor, despesas com venda e baixa de ativos, incluindo uma obrigação ligada à venda da TAG, contingências judiciais e ganho cambial menor com a valorização do real, segundo a Suno. Parte do petróleo exportado só será contabilizada no quarto trimestre."
+  },
+  {
+   "b": "Petróleo e clima",
+   "t": "o Brasil mantém planos de explorar petróleo, inclusive na Amazônia, enquanto defende na COP31 um roteiro para deixar os combustíveis fósseis, segundo o Climate Home News."
+  }
+ ],
+ "observar": [
+  "O resultado do quarto trimestre.",
+  "O preço do petróleo, perto de US$ 92 o barril do Brent.",
+  "A política de preços de gasolina e diesel.",
+  "O pagamento dos dividendos em 2027."
+ ],
+ "fontes": [
+  {
+   "t": "Banda B, com Agência Brasil: lucro de R$ 39,8 bilhões",
+   "u": "https://www.bandab.com.br/economia/petrobras-lucra-r-398-bilhoes-no-terceiro-trimestre-alta-de-215-em-relacao-a-2025/"
+  },
+  {
+   "t": "Suno: resultado do 3º trimestre",
+   "u": "https://www.suno.com.br/noticias/petrobras-registra-alta-no-lucro-liquido-de-215-no-3o-trimestre-2026-go/"
+  },
+  {
+   "t": "Itabira Online: reação das ações",
+   "u": "https://itabiraonline.com.br/2026/11/11/dolar-fecha-em-queda-a-r-556-e-ibovespa-sobe-042-nesta-quarta-feira-11/"
+  }
+ ]
+}

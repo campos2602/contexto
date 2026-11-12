@@ -1,0 +1,913 @@
+{
+ "data": "2026-11-12",
+ "dia": "Quinta, 12 de novembro de 2026",
+ "leitura": "6 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje o pacote fiscal enviado ao Congresso, a renegociação das dívidas rurais e a troca de prisioneiros acertada entre Rússia e Ucrânia.",
+ "trinta": [
+  "O governo enviou um pacote de até R$ 60 bilhões para cumprir a meta de 2027.",
+  "O Congresso aprovou a renegociação de dívidas de produtores rurais.",
+  "Rússia e Ucrânia acertaram uma grande troca de prisioneiros."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "O pacote limita gastos e corta incentivos; o Senado pode votar nesta quinta."
+  },
+  {
+   "id": "b2",
+   "porque": "Produtores com safras perdidas podem renegociar dívidas com juros de 5% a 12%."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Governo envia ao Congresso pacote de até R$ 60 bilhões para 2027",
+     "contexto": "ajuste-fiscal-2027",
+     "texto": "O governo enviou ao Congresso na quarta (11) um projeto de lei complementar com cortes de gastos e de benefícios fiscais. O ministro do Planejamento, Bruno Moretti, estima impacto de R$ 50 bilhões a R$ 60 bilhões em 2027. O dólar caiu 0,42%, a R$ 5,56.",
+     "pq": "o pacote limita o crescimento real dos gastos a 2% ao ano, abaixo dos 2,5% do arcabouço, e corta incentivos a empresas. Segundo o NeoFeed, mesmo assim a dívida só começa a cair em 2030. O Senado pode votar nesta quinta (12).",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pacote-fiscal-preve-120-dias-para-congresso-discutir-supersalarios"
+      },
+      {
+       "t": "NeoFeed",
+       "u": "https://neofeed.com.br/poder/governo-promete-pacote-fiscal-de-ate-r-60-bi-mas-divida-so-comeca-a-cair-no-ultimo-ano-do-lula-4/"
+      },
+      {
+       "t": "Itabira Online",
+       "u": "https://itabiraonline.com.br/2026/11/11/dolar-fecha-em-queda-a-r-556-e-ibovespa-sobe-042-nesta-quarta-feira-11/"
+      }
+     ],
+     "completa": {
+      "fina": "Saúde, educação, Previdência e segurança pública ficam de fora dos cortes; supersalários terão prazo de 120 dias para regulamentação.",
+      "atualizada": "12 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O governo Lula enviou ao Congresso na quarta-feira (11) um projeto de lei complementar com medidas de receita e de despesa para cumprir a meta fiscal de 2027, segundo a Agência Brasil. O texto foi protocolado pelo senador Jaques Wagner (PT-BA). O ministro do Planejamento, Bruno Moretti, estimou impacto de \"R$ 50 bilhões a R$ 60 bilhões em 2027\".",
+      "blocos": [
+       {
+        "h": "O que propõe",
+        "li": [
+         {
+          "b": "Teto de gastos menor:",
+          "t": "o crescimento real das despesas cai de até 2,5% para até 2% ao ano a partir de 2027."
+         },
+         {
+          "b": "Benefícios fiscais:",
+          "t": "o projeto corta em 20% vários incentivos a empresas e setores, de formas diferentes para isenções, alíquotas reduzidas e créditos, segundo a Agência Brasil. O parecer do relator, segundo o NeoFeed, propõe corte de 10% nos gastos tributários federais."
+         },
+         {
+          "b": "Supersalários:",
+          "t": "o Congresso terá até 120 dias, depois da publicação da lei, para analisar regras sobre verbas indenizatórias de servidores, que hoje podem passar do teto de R$ 46.366,19."
+         },
+         {
+          "b": "Outros limites:",
+          "t": "teto de R$ 1 bilhão por ano para financiamento à exportação até 2030 e de R$ 3 bilhões por ano para compensações da Previdência de 2027 a 2030."
+         },
+         {
+          "b": "Fora do corte:",
+          "t": "recursos vinculados a saúde, educação, Previdência e segurança pública."
+         }
+        ]
+       },
+       {
+        "h": "As metas e a dívida",
+        "p": [
+         "A meta de superávit primário é de 0,5% do PIB em 2027, subindo para 1,5% em 2030, segundo o NeoFeed. A dívida bruta deve fechar 2026 em 83,6% do PIB, chegar a 87,8% em 2029 e cair para 87,5% em 2030, último ano do mandato. O relator, senador Eduardo Braga (MDB-AM), calcula melhora de R$ 43 bilhões a R$ 54 bilhões no resultado primário."
+        ]
+       },
+       {
+        "h": "O mercado",
+        "li": [
+         {
+          "b": "Dólar:",
+          "t": "caiu 0,42%, a R$ 5,5628, depois de fechar a R$ 5,58 na véspera, o maior valor em 15 meses."
+         },
+         {
+          "b": "Ibovespa:",
+          "t": "subiu 0,42%, a 172.060 pontos, segundo o Itabira Online."
+         },
+         {
+          "b": "Avaliação:",
+          "t": "uma fonte do mercado financeiro, sem nome, disse ao NeoFeed que as medidas são positivas, mas que o setor segue cauteloso."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Bruno Moretti, ministro do Planejamento:",
+          "t": "\"A gente tem um olhar claro de que o ajuste fiscal não pode se concentrar nos mais pobres.\" E: \"Não vamos ter capacidade de alavancar investimentos se as contas não estiverem em ordem\", segundo o NeoFeed."
+         },
+         {
+          "b": "Eduardo Braga, relator:",
+          "t": "diz no parecer que o projeto \"melhora o resultado primário\"."
+         },
+         {
+          "b": "Oposição:",
+          "t": "as reportagens consultadas não trazem reação de partidos de oposição."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quanto cada medida economiza; o projeto não traz esse cálculo, segundo a Agência Brasil.",
+         "Quais empresas e setores perdem incentivos."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Votação prevista no Senado nesta quinta (12), segundo o NeoFeed.",
+         "Depois, o texto vai à Câmara."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: o que prevê o pacote",
+        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/pacote-fiscal-preve-120-dias-para-congresso-discutir-supersalarios"
+       },
+       {
+        "t": "NeoFeed: dívida só cai em 2030",
+        "u": "https://neofeed.com.br/poder/governo-promete-pacote-fiscal-de-ate-r-60-bi-mas-divida-so-comeca-a-cair-no-ultimo-ano-do-lula-4/"
+       },
+       {
+        "t": "Itabira Online: dólar e Bolsa",
+        "u": "https://itabiraonline.com.br/2026/11/11/dolar-fecha-em-queda-a-r-556-e-ibovespa-sobe-042-nesta-quarta-feira-11/"
+       },
+       {
+        "t": "Imirante, com Agência Brasil",
+        "u": "https://imirante.com/noticias/brasil/2026/11/11/dolar-cai-042-fecha-r-556-foco-pacote-fiscal"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Congresso aprova renegociação de dívidas de produtores rurais",
+     "contexto": "dividas-rurais",
+     "texto": "O Senado aprovou na quarta (11) a medida provisória que permite renegociar dívidas de produtores rurais que perderam ao menos duas safras entre 2019 e 2025 por eventos climáticos. O texto vai à sanção de Lula. Os juros vão de 5% a 12% ao ano.",
+     "pq": "a inadimplência no crédito rural subiu de 3,99% em maio de 2024 para 7,17% em maio de 2026, segundo dados do governo citados pelo Metrópoles. Senadores retiraram do texto um artigo sobre cigarros eletrônicos.",
+     "fontes": [
+      {
+       "t": "Agência Senado",
+       "u": "https://www12.senado.leg.br/noticias/materias/2026/11/11/renegociacao-de-dividas-rurais-e-aprovada-pelo-senado-e-vai-a-sancao-presidencial"
+      },
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/senado-aprova-mp-que-permite-renegociacao-de-dividas-rurais"
+      }
+     ],
+     "completa": {
+      "fina": "Agricultores familiares podem renegociar até R$ 400 mil a 6% ao ano, com dois anos de carência e até oito anos para pagar.",
+      "atualizada": "12 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Senado aprovou na quarta-feira (11) a Medida Provisória 1.376/2026, que cria linhas de crédito para quitar ou reduzir dívidas de produtores rurais atingidos por enchentes, granizo, geadas e secas, segundo a Agência Senado. O texto, alterado pelo Congresso, vai à sanção presidencial. Era o último dia de validade da medida.",
+      "blocos": [
+       {
+        "h": "Quem pode renegociar",
+        "li": [
+         {
+          "b": "Regra geral:",
+          "t": "produtores e cooperativas com duas ou mais safras perdidas entre 2019 e 2025 e queda de pelo menos 30% na renda esperada; 25% nas áreas da Sudam, Sudene e Sudeco."
+         },
+         {
+          "b": "Casos graves:",
+          "t": "três ou mais safras perdidas e queda de pelo menos 40% na renda; 35% nas mesmas regiões."
+         },
+         {
+          "b": "Pequenos:",
+          "t": "beneficiários do Pronaf e do Pronamp podem usar laudo técnico coletivo da região."
+         }
+        ]
+       },
+       {
+        "h": "Limites e juros",
+        "li": [
+         {
+          "b": "Pronaf, agricultura familiar:",
+          "t": "até R$ 400 mil a 6% ao ano; casos graves, até R$ 500 mil a 5%."
+         },
+         {
+          "b": "Pronamp, médios:",
+          "t": "até R$ 2 milhões a 9%; casos graves, até R$ 2,5 milhões a 8%."
+         },
+         {
+          "b": "Demais produtores:",
+          "t": "até R$ 4 milhões a 12%; casos graves, até R$ 8 milhões a 11%."
+         },
+         {
+          "b": "Prazos:",
+          "t": "dois anos de carência e até oito anos para pagar, ou dez nos casos graves. O prazo para contratar é de 120 dias depois da regulamentação."
+         }
+        ]
+       },
+       {
+        "h": "De onde vem o dinheiro",
+        "p": [
+         "Os recursos saem das aplicações obrigatórias dos bancos em crédito rural, da poupança rural e das Letras de Crédito do Agronegócio, além da equalização de juros pelo Tesouro, dentro de limites do Ministério da Fazenda. Os bancos assumem o risco de calote, segundo a Agência Senado. As reportagens não trazem estimativa de custo fiscal."
+        ]
+       },
+       {
+        "h": "O que saiu do texto",
+        "p": [
+         "A pedido do senador Alessandro Vieira (MDB-SE), o Senado retirou três artigos sem relação com a dívida rural que a Câmara tinha incluído: regras para cigarros eletrônicos, hoje proibidos no Brasil; flexibilização para lojas francas; e prazo maior para dívidas habitacionais. \"Matéria de saúde pública dessa gravidade foi inserida em medida provisória de crédito agrícola\", disse Vieira, segundo o Metrópoles."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Davi Alcolumbre, presidente do Senado:",
+          "t": "\"Nenhum dos três artigos apresenta relação direta com a finalidade original da medida provisória.\""
+         },
+         {
+          "b": "Jaime Bagattoli (PL-RO):",
+          "t": "\"É só um paliativo, não vai resolver o problema definitivo.\""
+         },
+         {
+          "b": "Tereza Cristina (PP-MS):",
+          "t": "\"Não é a solução definitiva.\""
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantos produtores vão aderir.",
+         "Quanto a equalização de juros vai custar ao Tesouro."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Sanção de Lula.",
+         "Senadores pedem a votação do PL 5.122/2023, que trata de forma mais ampla da dívida rural e está na Câmara."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Senado: renegociação vai à sanção",
+        "u": "https://www12.senado.leg.br/noticias/materias/2026/11/11/renegociacao-de-dividas-rurais-e-aprovada-pelo-senado-e-vai-a-sancao-presidencial"
+       },
+       {
+        "t": "Metrópoles: Senado aprova MP",
+        "u": "https://www.metropoles.com/brasil/senado-aprova-mp-que-permite-renegociacao-de-dividas-rurais"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Petrobras lucra R$ 39,8 bilhões no terceiro trimestre, alta de 21,5%",
+     "contexto": "petrobras",
+     "texto": "A Petrobras teve lucro de R$ 39,8 bilhões no terceiro trimestre, alta de 21,5% sobre o mesmo período de 2025, segundo a Agência Brasil citada pela Banda B. A empresa vai pagar R$ 15,3 bilhões em dividendos e juros sobre capital próprio.",
+     "pq": "a União é a maior acionista e recebe parte dos dividendos. O lucro caiu 24,2% em relação ao trimestre anterior, segundo a Suno, e as ações caíram na quarta (11): 3,11% as preferenciais.",
+     "fontes": [
+      {
+       "t": "Banda B, com Agência Brasil",
+       "u": "https://www.bandab.com.br/economia/petrobras-lucra-r-398-bilhoes-no-terceiro-trimestre-alta-de-215-em-relacao-a-2025/"
+      },
+      {
+       "t": "Suno",
+       "u": "https://www.suno.com.br/noticias/petrobras-registra-alta-no-lucro-liquido-de-215-no-3o-trimestre-2026-go/"
+      },
+      {
+       "t": "Itabira Online",
+       "u": "https://itabiraonline.com.br/2026/11/11/dolar-fecha-em-queda-a-r-556-e-ibovespa-sobe-042-nesta-quarta-feira-11/"
+      }
+     ],
+     "completa": {
+      "fina": "A empresa elevou a previsão de produção média do ano de 3,1 milhões para 3,3 a 3,4 milhões de barris de óleo equivalente por dia.",
+      "atualizada": "12 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Petrobras divulgou na terça-feira (10) lucro líquido de R$ 39,8 bilhões no terceiro trimestre de 2026, alta de 21,5% sobre o mesmo período de 2025, segundo a Banda B, com informações da Agência Brasil. A Suno registra R$ 39,7 bilhões. Em relação ao segundo trimestre, o lucro caiu 24,2%.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Receita:",
+          "t": "R$ 169,3 bilhões, alta de 32,4% em um ano, segundo a Suno."
+         },
+         {
+          "b": "Ebitda ajustado:",
+          "t": "R$ 94,5 bilhões, alta de 45,1% em um ano."
+         },
+         {
+          "b": "Lucro sem eventos não recorrentes:",
+          "t": "R$ 47,9 bilhões, segundo a Suno."
+         },
+         {
+          "b": "Investimentos:",
+          "t": "R$ 33 bilhões, dos quais R$ 27,5 bilhões em exploração e produção."
+         },
+         {
+          "b": "Dividendos:",
+          "t": "R$ 15,3 bilhões, pagos em 22 de fevereiro e 22 de março de 2027, segundo a Banda B."
+         }
+        ]
+       },
+       {
+        "h": "Por que caiu em relação ao trimestre anterior",
+        "p": [
+         "Segundo a Suno, a empresa citou lucro bruto menor, despesas com venda e baixa de ativos, incluindo uma obrigação ligada à venda da TAG, contingências judiciais e ganho cambial menor com a valorização do real. O petróleo Brent caiu 7% no período, e parte do óleo exportado ainda não tinha sido contabilizada no fim do trimestre."
+        ]
+       },
+       {
+        "h": "Produção",
+        "li": [
+         {
+          "b": "Previsão:",
+          "t": "a média do ano deve ficar entre 3,3 e 3,4 milhões de barris de óleo equivalente por dia, acima dos 3,1 milhões previstos antes."
+         },
+         {
+          "b": "Recordes:",
+          "t": "a produção de petróleo bateu recorde trimestral três vezes em 2026, segundo a Banda B."
+         },
+         {
+          "b": "Diesel:",
+          "t": "a produção chegou a 769 mil barris por dia, recorde trimestral; as vendas de derivados no país, 1,854 milhão de barris por dia, a maior desde 2021."
+         }
+        ]
+       },
+       {
+        "h": "A reação",
+        "p": [
+         "As ações preferenciais caíram 3,11% e as ordinárias 2,08% na quarta (11), segundo o Itabira Online, que diz que o resultado ficou abaixo das estimativas de analistas."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Magda Chambriard, presidente da Petrobras:",
+          "t": "\"Nossas estimativas agora apontam para uma média entre 3,3 e 3,4 milhões de barris por dia.\""
+         },
+         {
+          "b": "Analistas:",
+          "t": "as reportagens consultadas não trazem avaliações nominais de analistas."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como fica a política de preços dos combustíveis com o petróleo perto de US$ 92.",
+         "O efeito da venda da TAG nos próximos trimestres.",
+         "Quanto do lucro ficará com a União, maior acionista, pelos dividendos."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Pagamento dos dividendos em fevereiro e março de 2027.",
+         "O resultado do quarto trimestre, com o óleo exportado que ficou pendente."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Banda B, com Agência Brasil: lucro de R$ 39,8 bilhões",
+        "u": "https://www.bandab.com.br/economia/petrobras-lucra-r-398-bilhoes-no-terceiro-trimestre-alta-de-215-em-relacao-a-2025/"
+       },
+       {
+        "t": "Suno: resultado do 3º trimestre",
+        "u": "https://www.suno.com.br/noticias/petrobras-registra-alta-no-lucro-liquido-de-215-no-3o-trimestre-2026-go/"
+       },
+       {
+        "t": "Itabira Online: reação das ações",
+        "u": "https://itabiraonline.com.br/2026/11/11/dolar-fecha-em-queda-a-r-556-e-ibovespa-sobe-042-nesta-quarta-feira-11/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Rússia e Ucrânia acertam grande troca de prisioneiros em Abu Dhabi",
+     "contexto": "negociacoes-ucrania-russia",
+     "texto": "As conversas entre Rússia, Ucrânia e EUA terminaram na quarta (11), em Abu Dhabi, com acordo para uma troca de prisioneiros em grande escala, sem número nem data, segundo o Kyiv Independent. Não houve avanço sobre território.",
+     "pq": "Vladimir Medinsky, chefe da delegação russa, repetiu que \"cada centímetro\" do que Moscou considera seu voltará à Rússia. Os enviados americanos vão a Moscou e depois encontram Zelensky na Irlanda.",
+     "fontes": [
+      {
+       "t": "Kyiv Independent",
+       "u": "https://kyivindependent.com/large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/"
+      },
+      {
+       "t": "The Moscow Times",
+       "u": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227"
+      }
+     ],
+     "completa": {
+      "fina": "Zelensky disse que se discutiram trocas de 1.000 por 1.000 ou 1.500 por 1.500; a última, em outubro, teve 270 de cada lado.",
+      "atualizada": "12 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Negociadores da Ucrânia e da Rússia confirmaram na quarta-feira (11), no fim do segundo dia de conversas mediadas pelos EUA em Abu Dhabi, um acordo para uma nova troca de prisioneiros em grande escala, segundo o Kyiv Independent. Nenhum dos lados informou quantas pessoas serão trocadas nem quando.",
+      "blocos": [
+       {
+        "h": "A troca",
+        "li": [
+         {
+          "b": "Formatos:",
+          "t": "Zelensky disse na véspera que se discutiram trocas de 1.000 por 1.000 ou de 1.500 por 1.500."
+         },
+         {
+          "b": "Versão russa:",
+          "t": "a agência estatal TASS, citando o general Alexander Zorin, disse que será \"a maior de todas\", com mais de mil pessoas de cada lado; o Kyiv Independent diz não ter confirmado."
+         },
+         {
+          "b": "Comparação:",
+          "t": "uma troca de 1.000 por 1.000 ocorreu de 23 a 25 de maio de 2025; a mais recente, em 23 de outubro de 2026, teve 270 de cada lado."
+         }
+        ]
+       },
+       {
+        "h": "O resto da pauta",
+        "p": [
+         "A sessão de quarta durou pouco menos de duas horas, segundo o Moscow Times. O foco foi a segurança da Ucrânia e da Europa depois da guerra. Medinsky disse que houve acordo em alguns pontos e não em outros e descartou os europeus que se reuniram com a delegação ucraniana. Os EUA querem os europeus na mesa; Moscou rejeita."
+        ]
+       },
+       {
+        "h": "Território",
+        "p": [
+         "Medinsky repetiu a posição de Moscou: \"Cada centímetro da nossa terra voltará para a Rússia. De um jeito ou de outro\", segundo o Moscow Times. A Ucrânia rejeita entregar terras que controla e diz que território só se discute em encontro direto entre Zelensky e Putin."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Rustem Umerov, chefe da delegação ucraniana:",
+          "t": "\"O principal resultado é que conseguimos chegar a um acordo sobre uma troca de prisioneiros em grande escala.\""
+         },
+         {
+          "b": "Vladimir Medinsky:",
+          "t": "\"Chegamos a um acordo fundamental sobre outra troca de prisioneiros em grande escala. Os detalhes serão anunciados em breve.\""
+         },
+         {
+          "b": "Jared Kushner, enviado dos EUA:",
+          "t": "\"Vemos algumas aberturas e algumas oportunidades\", segundo o Kyiv Independent. O Moscow Times relata que ele vê a desconfiança entre os dois lados como grande obstáculo."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "Trocas de prisioneiros são o resultado mais concreto das negociações desde o início da guerra, em fevereiro de 2022. Elas não resolvem as disputas sobre território e segurança, mas mantêm um canal de conversa aberto entre os dois governos, com mediação americana."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantos prisioneiros e quando.",
+         "Se haverá nova rodada e onde."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Kushner e Witkoff vão a Moscou nesta quinta (12) para informar Putin.",
+         "Depois, encontram Zelensky na Irlanda, antes de uma reunião informal de líderes da União Europeia em 13 de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Kyiv Independent: troca acertada",
+        "u": "https://kyivindependent.com/large-scale-prisoner-exchange-agreed-as-2nd-day-of-abu-dhabi-talks-concludes-umerov-says/"
+       },
+       {
+        "t": "The Moscow Times: sem avanço",
+        "u": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Irã diz que não entrega urânio enriquecido e ameaça bases americanas",
+     "contexto": "guerra-ira-eua-2026",
+     "texto": "O chefe de segurança do Irã, Mohsen Rezaei, disse na quarta (11) que o país não vai deixar o urânio enriquecido sair do território, segundo a Reuters. Os EUA propõem que o material vá para outro país como parte de um cessar-fogo.",
+     "pq": "o programa nuclear é o principal ponto da negociação para encerrar a guerra, no nono mês. Rezaei disse que não há conversas em andamento com Washington. O petróleo voltou a subir depois da fala.",
+     "fontes": [
+      {
+       "t": "Reuters, via TimesLIVE",
+       "u": "https://www.timeslive.co.za/news/world/2026-11-11-iran-wont-release-enriched-nuclear-material-security-chief-says/"
+      },
+      {
+       "t": "Investing.com, via Yahoo",
+       "u": "https://www.yahoo.com/news/world/articles/iran-security-chief-rejects-transfer-132310345.html"
+      }
+     ],
+     "completa": {
+      "fina": "A agência atômica da ONU estima que o Irã tinha 440,9 kg de urânio enriquecido a 60% antes dos ataques de junho de 2025.",
+      "atualizada": "12 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Mohsen Rezaei, chefe de segurança do Irã, disse na quarta-feira (11), em entrevista à TV libanesa Al Mayadeen, que o país vai manter o material nuclear enriquecido no próprio território, segundo a Reuters. Afirmou também que novos ataques americanos teriam como resposta \"atingir bases dos EUA distantes\".",
+      "blocos": [
+       {
+        "h": "O que disse Rezaei",
+        "li": [
+         {
+          "b": "O urânio:",
+          "t": "\"Precisamos do material enriquecido para projetar navios e submarinos movidos a energia nuclear.\""
+         },
+         {
+          "b": "A Rússia:",
+          "t": "disse que Teerã avisou Moscou que vai manter o material e \"usá-lo nós mesmos\". A Rússia já tinha se oferecido para receber o urânio."
+         },
+         {
+          "b": "As conversas:",
+          "t": "disse que não há negociação em andamento entre Teerã e Washington."
+         }
+        ]
+       },
+       {
+        "h": "A proposta americana",
+        "p": [
+         "Os EUA propõem um cessar-fogo em que o Irã transfira o estoque de urânio enriquecido para um terceiro país, segundo o Investing.com. Washington diz que a questão nuclear precisa estar em qualquer negociação inicial. Na semana passada, uma autoridade iraniana disse que o Irã enviou aos EUA, pelo Catar, uma proposta nuclear a ser discutida só depois que Washington atender a sete exigências iranianas, segundo a Reuters."
+        ]
+       },
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Estoque:",
+          "t": "440,9 kg de urânio enriquecido a 60% em junho de 2025, segundo a agência atômica da ONU; não se sabe quanto sobrou depois dos ataques."
+         },
+         {
+          "b": "Guerra:",
+          "t": "está no nono mês, segundo o Investing.com."
+         },
+         {
+          "b": "Petróleo:",
+          "t": "o Brent subiu 1,39%, a US$ 92,76, na quarta, segundo o Itabira Online."
+         }
+        ]
+       },
+       {
+        "h": "No mar",
+        "p": [
+         "O centro britânico de operações marítimas registrou um incidente com um petroleiro no Estreito de Ormuz. No fim de semana, três petroleiros pegaram fogo, segundo o Investing.com."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Mohsen Rezaei:",
+          "t": "\"Qualquer novo ataque dos EUA também será respondido com ataques a bases americanas distantes.\""
+         },
+         {
+          "b": "Donald Trump:",
+          "t": "disse que os EUA estão \"prontos para disparar\" e que as Forças Armadas do Irã estão \"praticamente acabadas\"; no início da semana, tinha usado tom mais conciliador."
+         },
+         {
+          "b": "Irã, oficialmente:",
+          "t": "nega buscar armas nucleares."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "Urânio enriquecido a 60% está perto do nível usado em armas, de cerca de 90%. Tirar esse material do Irã é a principal exigência americana para um acordo. A recusa fecha também a saída oferecida pela Rússia e pode prolongar o bloqueio, que afeta o petróleo e o frete marítimo no mundo, inclusive no Brasil. Em maio, duas fontes iranianas disseram à Reuters que o líder supremo mandou manter o urânio no país."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a posição de Rezaei é a do líder supremo, Mojtaba Khamenei.",
+         "Se o Catar retoma a mediação."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A resposta americana à recusa.",
+         "O bloqueio aos portos iranianos continua."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Reuters, via TimesLIVE: Irã não vai liberar urânio",
+        "u": "https://www.timeslive.co.za/news/world/2026-11-11-iran-wont-release-enriched-nuclear-material-security-chief-says/"
+       },
+       {
+        "t": "Investing.com, via Yahoo: recusa à transferência",
+        "u": "https://www.yahoo.com/news/world/articles/iran-security-chief-rejects-transfer-132310345.html"
+       },
+       {
+        "t": "Itabira Online: petróleo",
+        "u": "https://itabiraonline.com.br/2026/11/11/dolar-fecha-em-queda-a-r-556-e-ibovespa-sobe-042-nesta-quarta-feira-11/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Lula diz na COP31 que ricos falam mais de armas",
+     "contexto": "combustiveis-fosseis-cop",
+     "texto": "Na abertura da cúpula de líderes da COP31, na quarta (11), Lula disse que o clima sumiu dos discursos do G7 e do G20: \"Passamos a falar mais de armas e tarifas do que da sobrevivência das futuras gerações\". Pediu doações ao fundo de florestas tropicais.",
+     "pq": "o fundo Florestas Tropicais para Sempre precisa de mais de US$ 2 bilhões até o fim do ano para começar, segundo O Tempo. Rouco, Lula cancelou o último discurso do dia, segundo o Estadão.",
+     "fontes": [
+      {
+       "t": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/governo/2026/11/11/lula-na-cop31-passamos-a-falar-mais-de-armas-e-tarifas-do-que-sobrevivencia-das-futuras-geracoes"
+      },
+      {
+       "t": "ClimaInfo",
+       "u": "https://climainfo.org.br/2026/11/11/lula-na-cop31-brasil-esta-de-volta-para-defender-um-mundo-mais-saudavel/"
+      },
+      {
+       "t": "Estadão, via Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/politica/2026/11/11/1019104-lula-nao-faz-ultimo-discurso-previsto-nesta-quarta-na-cop-31-devido-a-problemas-na-voz"
+      }
+     ],
+     "completa": {
+      "fina": "Lula disse que \"os países ricos se desenvolveram às custas do planeta e devem cumprir seus compromissos\".",
+      "atualizada": "12 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente Lula discursou na quarta-feira (11) na abertura da cúpula de líderes da COP31, em Antália, na Turquia. Disse que \"a mudança do clima desapareceu dos discursos e dos documentos das lideranças globais\" e criticou países ricos por usar gastos com defesa e segurança energética para enfraquecer compromissos climáticos, segundo O Tempo e o ClimaInfo.",
+      "blocos": [
+       {
+        "h": "As cinco mensagens",
+        "li": [
+         {
+          "b": "Roteiros:",
+          "t": "defendeu os três roteiros da presidência brasileira da COP30: deixar os combustíveis fósseis, reverter o desmatamento até 2030 e chegar a US$ 1,3 trilhão por ano em financiamento climático."
+         },
+         {
+          "b": "Fundo de florestas:",
+          "t": "pediu novas contribuições ao Florestas Tropicais para Sempre, que precisa de mais de US$ 2 bilhões até o fim do ano e tem meta mínima de US$ 10 bilhões de capital público, segundo O Tempo."
+         },
+         {
+          "b": "Metas:",
+          "t": "pediu metas mais ambiciosas de corte de emissões."
+         },
+         {
+          "b": "Florestas e Amazônia:",
+          "t": "citou a queda recente do desmatamento na Amazônia e no Cerrado e pediu cooperação internacional."
+         }
+        ]
+       },
+       {
+        "h": "As críticas",
+        "p": [
+         "Lula disse que a transição energética passou a ser vista por alguns como ameaça à segurança e à prosperidade, criticou ataques à ciência e ao multilateralismo e disse que \"sabotar o regime climático é destruir o que o sistema multilateral tem de melhor\". Defendeu o princípio das \"responsabilidades comuns, porém diferenciadas\", segundo o ClimaInfo."
+        ]
+       },
+       {
+        "h": "A voz",
+        "p": [
+         "Segundo o Estadão, Lula falou rouco pela manhã, pediu ao ministro do Meio Ambiente, João Paulo Capobianco, que lesse seu discurso na cúpula sobre florestas e cancelou o último discurso previsto para o fim da tarde, voltando ao hotel. A agenda previa jantar oferecido pelo presidente turco, Recep Tayyip Erdogan."
+        ]
+       },
+       {
+        "h": "O contexto",
+        "p": [
+         "A COP31 vai até 20 de novembro. Na véspera, o roteiro brasileiro para deixar os combustíveis fósseis recebeu apoio de Índia, Nigéria e Alemanha, mas países produtores querem mantê-lo voluntário. Segundo o Climate Home News, o Brasil mantém planos de explorar petróleo, inclusive na Amazônia."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Lula:",
+          "t": "\"O Brasil está de volta para defender a continuidade de um planeta saudável.\""
+         },
+         {
+          "b": "Outros líderes:",
+          "t": "as reportagens consultadas não trazem reação de outros governos ao discurso."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quanto o fundo de florestas vai arrecadar em Antália.",
+         "Se o roteiro dos fósseis entra na decisão final."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Segundo dia da cúpula de líderes nesta quinta (12).",
+         "Depois da Turquia, Lula vai às Filipinas, para a cúpula da Asean."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "O Tempo: Lula na COP31",
+        "u": "https://www.otempo.com.br/politica/governo/2026/11/11/lula-na-cop31-passamos-a-falar-mais-de-armas-e-tarifas-do-que-sobrevivencia-das-futuras-geracoes"
+       },
+       {
+        "t": "ClimaInfo: o discurso de Lula",
+        "u": "https://climainfo.org.br/2026/11/11/lula-na-cop31-brasil-esta-de-volta-para-defender-um-mundo-mais-saudavel/"
+       },
+       {
+        "t": "Estadão, via Tribuna do Sertão: problema na voz",
+        "u": "https://www.tribunadosertao.com.br/politica/2026/11/11/1019104-lula-nao-faz-ultimo-discurso-previsto-nesta-quarta-na-cop-31-devido-a-problemas-na-voz"
+       },
+       {
+        "t": "Climate Home News: apoio ao roteiro",
+        "u": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Google libera seu modelo de IA mais forte, o Gemini 4 Carbon",
+     "contexto": "modelos-de-ia-de-fronteira",
+     "texto": "O Google liberou na terça (10) para desenvolvedores, empresas e assinantes do plano Ultra o Gemini 4 Carbon, que a empresa chama de seu modelo \"mais forte\". Há duas semanas, ele estava restrito a especialistas em defesa cibernética.",
+     "pq": "modelos mais capazes também podem ser usados em ataques; o Google diz que o Carbon bloqueou 99% das tentativas em testes simulados. O preço sobe em 30 de novembro. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, que concorre com o Google e a OpenAI.",
+     "fontes": [
+      {
+       "t": "Google",
+       "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+      },
+      {
+       "t": "Constellation Research",
+       "u": "https://www.constellationr.com/insights/news/google-rolls-out-gemini-4-carbon"
+      }
+     ],
+     "completa": {
+      "fina": "O Google reconhece que a resistência a ataques por instruções escondidas, a chamada injeção de prompt, \"continua sendo uma área de melhoria\".",
+      "atualizada": "12 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Google anunciou em 10 de novembro que o Gemini 4 Carbon, seu modelo de inteligência artificial mais avançado, está disponível para desenvolvedores e empresas pela API e para assinantes do plano Google AI Ultra no aplicativo Gemini e no Modo IA da Busca. O modelo foi apresentado em 28 de outubro, com acesso inicial restrito a defensores de segurança cibernética, segundo a Constellation Research.",
+      "blocos": [
+       {
+        "h": "O que é",
+        "li": [
+         {
+          "b": "Posição:",
+          "t": "fica acima do Gemini 4 Argon, lançado duas semanas antes dele, para tarefas difíceis, como programação complexa e pesquisa aberta; o Argon segue recomendado para a maior parte do trabalho, segundo o Google."
+         },
+         {
+          "b": "Novidade:",
+          "t": "uma prévia do recurso /swarm, que coordena vários agentes de programação."
+         },
+         {
+          "b": "Cientistas:",
+          "t": "acesso gratuito por seis meses, sujeito a seleção."
+         }
+        ]
+       },
+       {
+        "h": "O preço",
+        "li": [
+         {
+          "b": "Agora:",
+          "t": "US$ 2 por milhão de tokens de entrada e US$ 10 por milhão de saída, o mesmo do Argon."
+         },
+         {
+          "b": "A partir de 30 de novembro:",
+          "t": "US$ 4 e US$ 20, respectivamente."
+         }
+        ]
+       },
+       {
+        "h": "O que o Google diz sobre segurança",
+        "p": [
+         "Em testes simulados, o Carbon bloqueou 99% das tentativas de um agente de ataque, e a taxa de invasão por tentativa caiu para 0,8%, contra 3,1% no Argon. Um teste externo da Trajectory Labs não encontrou novas formas universais de burlar as travas em 132 horas e mais de 13 mil pedidos. Os números são da própria empresa."
+        ]
+       },
+       {
+        "h": "O que o Google diz sobre desempenho",
+        "p": [
+         "O Google diz que o modelo lidera três testes de mercado, entre eles o CursorBench 4.0, com custo por tarefa duas vezes menor que o do concorrente seguinte. Também são números divulgados pela empresa, sem verificação independente nas fontes consultadas."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Google:",
+          "t": "chama o Carbon de seu \"modelo mais forte\" e admite que a defesa contra injeção de prompt precisa melhorar."
+         },
+         {
+          "b": "Larry Dignan, da Constellation Research:",
+          "t": "diz que o Google está acelerando o ritmo de lançamento de modelos de fronteira."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "Google, Anthropic, OpenAI e outras empresas disputam o posto de modelo mais capaz, e cada lançamento muda preços e ferramentas para desenvolvedores e empresas. O fato de o Google ter liberado o Carbon primeiro para especialistas em segurança mostra a preocupação com o uso de modelos avançados em ataques cibernéticos."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como o modelo se sai em testes independentes.",
+         "Quando chega aos usuários gratuitos."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Aumento de preço em 30 de novembro.",
+         "Expansão do acesso para especialistas em segurança."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Google: Gemini 4 Carbon disponível",
+        "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+       },
+       {
+        "t": "Constellation Research: lançamento do Carbon",
+        "u": "https://www.constellationr.com/insights/news/google-rolls-out-gemini-4-carbon"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "7,17%",
+  "texto": "era a inadimplência no crédito rural em maio de 2026, contra 3,99% em maio de 2024, segundo o governo.",
+  "fontes": [
+   {
+    "t": "Metrópoles",
+    "u": "https://www.metropoles.com/brasil/senado-aprova-mp-que-permite-renegociacao-de-dividas-rurais"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "Rouco, Lula pediu ao ministro do Meio Ambiente que lesse seu discurso sobre florestas na COP31 e voltou ao hotel.",
+  "fontes": [
+   {
+    "t": "Estadão, via Tribuna do Sertão",
+    "u": "https://www.tribunadosertao.com.br/politica/2026/11/11/1019104-lula-nao-faz-ultimo-discurso-previsto-nesta-quarta-na-cop-31-devido-a-problemas-na-voz"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição cita o Google e a OpenAI, que concorrem com a Anthropic, e menciona a própria Anthropic.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. O pacote fiscal traz a versão do governo e os limites apontados pela imprensa, como a dívida que só cai em 2030. Ressalvas: o Número e o Fechar têm uma fonte cada, e Inovação tem uma nota só, baseada sobretudo no anúncio da própria empresa.",
+  "pontos": [
+   "Brasil 1: a divergência entre corte de 20% no projeto e 10% no parecer está explicada; a nota diz que faltam reações da oposição.",
+   "Brasil 2: senadores de PL, PP e MDB com aspas; a nota diz que não há estimativa de custo.",
+   "Brasil 3: as duas cifras de lucro, R$ 39,8 bilhões e R$ 39,7 bilhões, estão atribuídas.",
+   "Mundo 1: as falas de Medinsky e Umerov têm o mesmo peso; nota de guerra sem menção a IA.",
+   "Mundo 2: a ameaça iraniana está entre aspas; a nota registra que o Irã nega buscar armas nucleares.",
+   "Mundo 3: críticas de Lula atribuídas; a nota lembra a exploração de petróleo pelo Brasil.",
+   "Inovação 1: números de desempenho e segurança marcados como da própria empresa; aviso de conflito de interesse."
+  ],
+  "equilibrio": "Governo Lula: 3 menções (neutras); oposição e Congresso: 4 (neutras). Rússia e Ucrânia: 3 cada. EUA e Irã: 2 cada.",
+  "foraDaEdicao": [
+   "Inovação 2: sem segunda pauta com duas fontes abertas; sites de tecnologia como Wired e Reuters estavam bloqueados.",
+   "Esportes e demais categorias extras: sem fato novo checado em duas fontes até o fechamento.",
+   "Votação do pacote no Senado: prevista para esta quinta."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: o pacote fiscal, pelo efeito nas contas públicas e no dólar.",
+   "Essencial: pacote fiscal e dívidas rurais.",
+   "Toda nota tem página de contexto."
+  ]
+ },
+ "geradaEm": "2026-11-12T07:42:16Z"
+}
