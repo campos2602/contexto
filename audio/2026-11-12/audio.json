@@ -1,0 +1,168 @@
+{
+ "edicao": "2026-11-12",
+ "voz": "bJrNspxJVFovUxNBQ0wh",
+ "modelo": "eleven_v4_turbo",
+ "gerado": "2026-11-12T07:45:15.168Z",
+ "clipes": [
+  {
+   "texto": "Contexto de Quinta, 12 de novembro de 2026.",
+   "arquivo": "26156bb312be.mp3"
+  },
+  {
+   "texto": "Contexto de Quinta, 12 de novembro de 2026. Em 30 segundos.",
+   "arquivo": "fcf1c16ac04c.mp3"
+  },
+  {
+   "texto": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje o pacote fiscal enviado ao Congresso, a renegociação das dívidas rurais e a troca de prisioneiros acertada entre Rússia e Ucrânia.",
+   "arquivo": "cb6a0499908b.mp3"
+  },
+  {
+   "texto": "Em 30 segundos.",
+   "arquivo": "1098ddc604c0.mp3"
+  },
+  {
+   "texto": "O governo enviou um pacote de até R$ 60 bilhões para cumprir a meta de 2027.",
+   "arquivo": "ef8f51b71709.mp3"
+  },
+  {
+   "texto": "O Congresso aprovou a renegociação de dívidas de produtores rurais.",
+   "arquivo": "1cea7b0bbdc0.mp3"
+  },
+  {
+   "texto": "Rússia e Ucrânia acertaram uma grande troca de prisioneiros.",
+   "arquivo": "46fe4cfcee8b.mp3"
+  },
+  {
+   "texto": "Brasil.",
+   "arquivo": "ca9410717fba.mp3"
+  },
+  {
+   "texto": "Governo envia ao Congresso pacote de até R$ 60 bilhões para 2027",
+   "arquivo": "b82e26cc852a.mp3"
+  },
+  {
+   "texto": "O governo enviou ao Congresso na quarta (11) um projeto de lei complementar com cortes de gastos e de benefícios fiscais. O ministro do Planejamento, Bruno Moretti, estima impacto de R$ 50 bilhões a R$ 60 bilhões em 2027. O dólar caiu 0,42%, a R$ 5,56.",
+   "arquivo": "1a46e39fc506.mp3"
+  },
+  {
+   "texto": "Por que importa: o pacote limita o crescimento real dos gastos a 2% ao ano, abaixo dos 2,5% do arcabouço, e corta incentivos a empresas. Segundo o NeoFeed, mesmo assim a dívida só começa a cair em 2030. O Senado pode votar nesta quinta (12).",
+   "arquivo": "85fc733e0cff.mp3"
+  },
+  {
+   "texto": "Governo envia ao Congresso pacote de até R$ 60 bilhões para 2027.",
+   "arquivo": "b1ee3ca6bcc0.mp3"
+  },
+  {
+   "texto": "Congresso aprova renegociação de dívidas de produtores rurais",
+   "arquivo": "15640be516bf.mp3"
+  },
+  {
+   "texto": "O Senado aprovou na quarta (11) a medida provisória que permite renegociar dívidas de produtores rurais que perderam ao menos duas safras entre 2019 e 2025 por eventos climáticos. O texto vai à sanção de Lula. Os juros vão de 5% a 12% ao ano.",
+   "arquivo": "3fa831a47da2.mp3"
+  },
+  {
+   "texto": "Por que importa: a inadimplência no crédito rural subiu de 3,99% em maio de 2024 para 7,17% em maio de 2026, segundo dados do governo citados pelo Metrópoles. Senadores retiraram do texto um artigo sobre cigarros eletrônicos.",
+   "arquivo": "c7d195ff930a.mp3"
+  },
+  {
+   "texto": "Congresso aprova renegociação de dívidas de produtores rurais.",
+   "arquivo": "6e42c9a356e8.mp3"
+  },
+  {
+   "texto": "Petrobras lucra R$ 39,8 bilhões no terceiro trimestre, alta de 21,5%",
+   "arquivo": "37ccbb389d74.mp3"
+  },
+  {
+   "texto": "A Petrobras teve lucro de R$ 39,8 bilhões no terceiro trimestre, alta de 21,5% sobre o mesmo período de 2025, segundo a Agência Brasil citada pela Banda B. A empresa vai pagar R$ 15,3 bilhões em dividendos e juros sobre capital próprio.",
+   "arquivo": "9e22b3ae6bf2.mp3"
+  },
+  {
+   "texto": "Por que importa: a União é a maior acionista e recebe parte dos dividendos. O lucro caiu 24,2% em relação ao trimestre anterior, segundo a Suno, e as ações caíram na quarta (11): 3,11% as preferenciais.",
+   "arquivo": "2a125750570e.mp3"
+  },
+  {
+   "texto": "Petrobras lucra R$ 39,8 bilhões no terceiro trimestre, alta de 21,5%.",
+   "arquivo": "a99b16d6a965.mp3"
+  },
+  {
+   "texto": "Mundo.",
+   "arquivo": "f98195d252f3.mp3"
+  },
+  {
+   "texto": "Rússia e Ucrânia acertam grande troca de prisioneiros em Abu Dhabi",
+   "arquivo": "32c9e4836c82.mp3"
+  },
+  {
+   "texto": "As conversas entre Rússia, Ucrânia e EUA terminaram na quarta (11), em Abu Dhabi, com acordo para uma troca de prisioneiros em grande escala, sem número nem data, segundo o Kyiv Independent. Não houve avanço sobre território.",
+   "arquivo": "2fcb9d89ecc3.mp3"
+  },
+  {
+   "texto": "Por que importa: Vladimir Medinsky, chefe da delegação russa, repetiu que \"cada centímetro\" do que Moscou considera seu voltará à Rússia. Os enviados americanos vão a Moscou e depois encontram Zelensky na Irlanda.",
+   "arquivo": "eb9a6944cbd9.mp3"
+  },
+  {
+   "texto": "Rússia e Ucrânia acertam grande troca de prisioneiros em Abu Dhabi.",
+   "arquivo": "44f9aaacc541.mp3"
+  },
+  {
+   "texto": "Irã diz que não entrega urânio enriquecido e ameaça bases americanas",
+   "arquivo": "7874ef4d650f.mp3"
+  },
+  {
+   "texto": "O chefe de segurança do Irã, Mohsen Rezaei, disse na quarta (11) que o país não vai deixar o urânio enriquecido sair do território, segundo a Reuters. Os EUA propõem que o material vá para outro país como parte de um cessar-fogo.",
+   "arquivo": "d5fb90d350ac.mp3"
+  },
+  {
+   "texto": "Por que importa: o programa nuclear é o principal ponto da negociação para encerrar a guerra, no nono mês. Rezaei disse que não há conversas em andamento com Washington. O petróleo voltou a subir depois da fala.",
+   "arquivo": "6a1b3f8c67d0.mp3"
+  },
+  {
+   "texto": "Irã diz que não entrega urânio enriquecido e ameaça bases americanas.",
+   "arquivo": "14ac18c0d4a9.mp3"
+  },
+  {
+   "texto": "Lula diz na COP31 que ricos falam mais de armas",
+   "arquivo": "9888e4f8a9bd.mp3"
+  },
+  {
+   "texto": "Na abertura da cúpula de líderes da COP31, na quarta (11), Lula disse que o clima sumiu dos discursos do G7 e do G20: \"Passamos a falar mais de armas e tarifas do que da sobrevivência das futuras gerações\". Pediu doações ao fundo de florestas tropicais.",
+   "arquivo": "1fd1230f5b6a.mp3"
+  },
+  {
+   "texto": "Por que importa: o fundo Florestas Tropicais para Sempre precisa de mais de US$ 2 bilhões até o fim do ano para começar, segundo O Tempo. Rouco, Lula cancelou o último discurso do dia, segundo o Estadão.",
+   "arquivo": "a1d6e55574d5.mp3"
+  },
+  {
+   "texto": "Lula diz na COP31 que ricos falam mais de armas.",
+   "arquivo": "35b0f17c63aa.mp3"
+  },
+  {
+   "texto": "Inovação.",
+   "arquivo": "87c407146be3.mp3"
+  },
+  {
+   "texto": "Google libera seu modelo de IA mais forte, o Gemini 4 Carbon",
+   "arquivo": "7efc7e4d9551.mp3"
+  },
+  {
+   "texto": "O Google liberou na terça (10) para desenvolvedores, empresas e assinantes do plano Ultra o Gemini 4 Carbon, que a empresa chama de seu modelo \"mais forte\". Há duas semanas, ele estava restrito a especialistas em defesa cibernética.",
+   "arquivo": "de61592fbc0c.mp3"
+  },
+  {
+   "texto": "Por que importa: modelos mais capazes também podem ser usados em ataques; o Google diz que o Carbon bloqueou 99% das tentativas em testes simulados. O preço sobe em 30 de novembro. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, que concorre com o Google e a OpenAI.",
+   "arquivo": "1570aa0e5e88.mp3"
+  },
+  {
+   "texto": "Google libera seu modelo de IA mais forte, o Gemini 4 Carbon.",
+   "arquivo": "0b380cbe76ab.mp3"
+  },
+  {
+   "texto": "Número do dia: 7,17%. era a inadimplência no crédito rural em maio de 2026, contra 3,99% em maio de 2024, segundo o governo.",
+   "arquivo": "542a843951dc.mp3"
+  },
+  {
+   "texto": "Para fechar. Rouco, Lula pediu ao ministro do Meio Ambiente que lesse seu discurso sobre florestas na COP31 e voltou ao hotel.",
+   "arquivo": "65d9ec959a2c.mp3"
+  }
+ ]
+}
