@@ -1,13 +1,9 @@
 {
  "titulo": "Nvidia, China e a disputa pelos chips de inteligência artificial",
- "atualizado": "10 nov 2026",
+ "atualizado": "13 nov 2026",
  "selo": "Com ressalva",
  "frase": "Os chips da Nvidia são a base do treinamento de inteligência artificial. Desde 2022, os EUA limitam a venda dos modelos mais avançados à China, e a China, por sua vez, passou a restringir a compra de alguns deles.",
  "linha": [
-  {
-   "d": "Outubro de 2023",
-   "t": "Novas regras fecham a brecha dos modelos adaptados; a Nvidia desenvolve o H20 para o mercado chinês."
-  },
   {
    "d": "Abril de 2025",
    "t": "Os EUA passam a exigir licença para exportar o H20 à China, segundo documento da Nvidia citado pelo What Led To."
@@ -35,6 +31,10 @@
   {
    "d": "8 e 9 de novembro de 2026",
    "t": "O conselho da Nvidia abre investigação para saber se Jensen Huang foi alvo de operação de inteligência chinesa. As ações caem 5,14% na segunda (9). A China chama a acusação de \"infundada\", segundo a Al Jazeera e a Fox Business."
+  },
+  {
+   "d": "12 de novembro de 2026",
+   "t": "Jensen Huang deixa o comando da Nvidia depois de 33 anos. A diretora financeira, Colette Kress, assume interinamente, e as ações fecham em queda de 4,34%, segundo a Fortune e o Yahoo Finance."
   }
  ],
  "termos": [
@@ -100,10 +100,10 @@
   }
  ],
  "observar": [
-  "A investigação do conselho da Nvidia sobre Jensen Huang.",
-  "A reunião fechada de 18 de novembro citada pelo Wccftech.",
-  "Se o Departamento de Comércio revê licenças de empresas intermediárias.",
-  "Novas regras de exportação de chips no novo Congresso dos EUA."
+  "O resultado da investigação do conselho sobre Jensen Huang.",
+  "O balanço da Nvidia, na terça (17).",
+  "O depoimento de Huang no Congresso dos EUA.",
+  "A investigação do Departamento de Justiça sobre a Megaspeed."
  ],
  "fontes": [
   {
@@ -137,6 +137,18 @@
   {
    "t": "Fox Business: investigação sobre Huang",
    "u": "https://www.foxbusiness.com/markets/nvidia-shares-fall-after-investigation-ceos-relationship-alleged-chinese-spy"
+  },
+  {
+   "t": "Fortune: Huang renuncia, Kress assume",
+   "u": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/"
+  },
+  {
+   "t": "CBS News: o que se sabe",
+   "u": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
+  },
+  {
+   "t": "Yahoo Finance: ações e valor de mercado",
+   "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-following-jensen-huangs-resignation-as-ceo-allegations-of-a-third-affair-emerge-195535310.html"
   }
  ]
 }

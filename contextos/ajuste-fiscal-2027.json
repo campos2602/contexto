@@ -1,6 +1,6 @@
 {
  "titulo": "Ajuste fiscal de 2027: o pacote para equilibrar as contas",
- "atualizado": "12 nov 2026",
+ "atualizado": "13 nov 2026",
  "selo": "Checado",
  "frase": "Depois da reeleição, com o dólar em alta e a dívida pública em crescimento, o governo Lula enviou ao Congresso em 11 de novembro de 2026 um projeto com cortes de gastos e de benefícios fiscais de R$ 50 bilhões a R$ 60 bilhões para cumprir a meta de 2027.",
  "linha": [
@@ -30,7 +30,7 @@
   },
   {
    "d": "12 de novembro de 2026",
-   "t": "Votação prevista no Senado, segundo o NeoFeed."
+   "t": "O Senado aprova o texto-base por 45 a 31, depois de aprovar a urgência por 40 a 38. Os destaques ficam para terça (17), segundo a Agência Brasil. O dólar fecha a R$ 5,65, o maior valor em 17 meses."
   },
   {
    "d": "2030",
@@ -96,8 +96,8 @@
   }
  ],
  "observar": [
-  "A votação no Senado e depois na Câmara.",
-  "Quais setores perdem incentivos.",
+  "A votação dos destaques no Senado, na terça (17).",
+  "A votação na Câmara, que exige 257 votos.",
   "A reação do dólar e dos juros futuros.",
   "A regulamentação dos supersalários em até 120 dias."
  ],
@@ -113,6 +113,18 @@
   {
    "t": "Itabira Online: dólar e Bolsa",
    "u": "https://itabiraonline.com.br/2026/11/11/dolar-fecha-em-queda-a-r-556-e-ibovespa-sobe-042-nesta-quarta-feira-11/"
+  },
+  {
+   "t": "Agência Brasil: Senado aprova texto-base",
+   "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi"
+  },
+  {
+   "t": "O Tempo: por 45 a 31",
+   "u": "https://www.otempo.com.br/politica/2026/11/12/por-45-a-31-senado-aprova-pacote-fiscal-que-pode-melhorar-contas-de-2027-em-ate-r-56-bilhoes"
+  },
+  {
+   "t": "Times Brasil: o que muda",
+   "u": "https://timesbrasil.com.br/brasil/senado-aprova-texto-base-de-ajuste-fiscal-para-2027/"
   }
  ]
 }

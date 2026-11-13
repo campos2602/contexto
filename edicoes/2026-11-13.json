@@ -1,0 +1,975 @@
+{
+ "data": "2026-11-13",
+ "dia": "Sexta, 13 de novembro de 2026",
+ "leitura": "7 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje a aprovação do pacote fiscal no Senado, o dólar no maior valor em 17 meses e a saída de Jensen Huang do comando da Nvidia.",
+ "trinta": [
+  "O Senado aprovou o texto-base do pacote fiscal; faltam os destaques.",
+  "O dólar fechou a R$ 5,65, o maior valor desde junho de 2025.",
+  "Jensen Huang deixou o comando da Nvidia depois de 33 anos."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "O pacote passou no Senado por 45 a 31; destaques na terça e depois Câmara."
+  },
+  {
+   "id": "b2",
+   "porque": "O dólar mais caro pressiona preços; o mercado duvida do alcance do pacote."
+  },
+  {
+   "id": "i1",
+   "porque": "A maior fabricante de chips de IA troca de comando no meio de uma investigação."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Senado aprova texto-base do pacote fiscal por 45 a 31",
+     "contexto": "ajuste-fiscal-2027",
+     "texto": "O Senado aprovou na quinta (12) o texto-base do projeto de ajuste fiscal para 2027. Os destaques, que podem mudar partes do texto, ficam para terça (17). Depois, o projeto vai à Câmara.",
+     "pq": "o governo estima economia de R$ 50 bilhões a R$ 60 bilhões em 2027; o relator, Eduardo Braga, calcula de R$ 43 bilhões a R$ 54 bilhões. A oposição criticou a pressa e diz que há aumento de impostos.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi"
+      },
+      {
+       "t": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/2026/11/12/por-45-a-31-senado-aprova-pacote-fiscal-que-pode-melhorar-contas-de-2027-em-ate-r-56-bilhoes"
+      },
+      {
+       "t": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/senado-aprova-texto-base-de-ajuste-fiscal-para-2027/"
+      }
+     ],
+     "completa": {
+      "fina": "Cada trecho contestado precisa de 41 votos para ficar no texto; o governo teve 45 no texto-base, margem de quatro.",
+      "atualizada": "13 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Depois de quase quatro horas de sessão, o Senado aprovou na quinta-feira (12), por 45 votos a 31, o texto-base do projeto de lei complementar 299/2026, que reúne medidas de receita e despesa para cumprir a meta fiscal de 2027, segundo a Agência Brasil. Antes, o pedido de urgência passou por 40 a 38. Os destaques serão votados na terça-feira (17), segundo a Agência Brasil e o Times Brasil.",
+      "blocos": [
+       {
+        "h": "O que foi aprovado",
+        "li": [
+         {
+          "b": "Benefícios fiscais:",
+          "t": "novo corte linear de 10% em incentivos a empresas, somado ao aprovado no fim de 2025; a redução total pode chegar a 20% dos valores originais, segundo a Agência Brasil. Ficam de fora a desoneração da folha, informática, semicondutores e a isenção na compra de carros por pessoas com deficiência e autismo."
+         },
+         {
+          "b": "Gastos:",
+          "t": "o teto de crescimento real das despesas cai de 2,5% para 2% nos anos em que os gatilhos de contenção forem acionados."
+         },
+         {
+          "b": "Créditos tributários:",
+          "t": "o governo pode limitar o uso de créditos de empresas para abater outros tributos."
+         },
+         {
+          "b": "Piso da saúde:",
+          "t": "até 2030, receitas extraordinárias com exportação de petróleo ficam fora do cálculo do mínimo federal da saúde. A Warren Investimentos estima que o piso pode cair cerca de R$ 9 bilhões, segundo O Tempo."
+         },
+         {
+          "b": "Supersalários:",
+          "t": "o Congresso terá 120 dias para regulamentar pagamentos acima do teto, hoje de R$ 46,3 mil."
+         },
+         {
+          "b": "Diesel:",
+          "t": "até R$ 10,5 bilhões gastos em 2026 para segurar o preço podem ficar fora do cálculo da meta deste ano. O gasto continua existindo."
+         }
+        ]
+       },
+       {
+        "h": "Quanto rende",
+        "p": [
+         "O governo estimou inicialmente até R$ 60 bilhões em 2027. O Ministério do Planejamento trabalha agora com R$ 46 bilhões a R$ 56 bilhões, e o relator, Eduardo Braga (MDB-AM), com R$ 43 bilhões a R$ 54 bilhões, segundo o Times Brasil. A meta de 2027 é superávit primário de 0,5% do PIB, cerca de R$ 73,2 bilhões. São projeções, não economia já realizada."
+        ]
+       },
+       {
+        "h": "O contexto político",
+        "p": [
+         "Na quarta (11), uma sessão foi suspensa depois de uma discussão entre o presidente do Senado, Davi Alcolumbre, e o senador Magno Malta, segundo O Tempo. Braga aceitou, no todo ou em parte, 20 de 53 emendas, segundo O Tempo; a Agência Brasil cita cerca de 50 emendas incorporadas, número dado pelo relator."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Rogério Marinho (PL-RN), da oposição:",
+          "t": "questionou o tempo para analisar o texto e disse que o governo aumenta impostos sob o nome de ajuste fiscal, segundo o Times Brasil."
+         },
+         {
+          "b": "Eduardo Braga, relator:",
+          "t": "disse que o projeto já tinha sido debatido e que incorporou emendas dos parlamentares."
+         },
+         {
+          "b": "Governo:",
+          "t": "argumenta que receita temporária, como a do petróleo, não pode bancar gasto permanente, justificativa para a mudança no piso da saúde, segundo O Tempo."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quais destaques serão aprovados na terça.",
+         "Como a Câmara vai tratar o texto; por ser lei complementar, precisa de 257 dos 513 votos."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Votação dos destaques no Senado na terça (17).",
+         "Depois, Câmara; se os deputados mudarem o texto, ele volta ao Senado antes da sanção."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: Senado aprova texto-base",
+        "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi"
+       },
+       {
+        "t": "O Tempo: por 45 a 31",
+        "u": "https://www.otempo.com.br/politica/2026/11/12/por-45-a-31-senado-aprova-pacote-fiscal-que-pode-melhorar-contas-de-2027-em-ate-r-56-bilhoes"
+       },
+       {
+        "t": "Times Brasil: o que muda",
+        "u": "https://timesbrasil.com.br/brasil/senado-aprova-texto-base-de-ajuste-fiscal-para-2027/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Dólar fecha a R$ 5,65, maior valor em 17 meses",
+     "contexto": "dolar-bolsa-e-juros",
+     "texto": "O dólar subiu 1,58% na quinta (12) e fechou a R$ 5,6507, o maior valor desde 2 de junho de 2025, segundo a Agência Brasil. O Ibovespa caiu 0,47%, a 171.324 pontos, puxado pelo Banco do Brasil.",
+     "pq": "o dólar mais caro encarece importados e pressiona a inflação. Analistas citam dúvida sobre o que o Congresso vai aprovar do pacote fiscal, juros mais altos nos EUA e o lucro 66,5% menor do Banco do Brasil.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-dispara-158-e-fecha-r-565-maior-nivel-em-17-meses"
+      },
+      {
+       "t": "O Tempo",
+       "u": "https://www.otempo.com.br/economia/2026/11/12/dolar-dispara-e-fecha-no-maior-valor-desde-junho-de-2025"
+      }
+     ],
+     "completa": {
+      "fina": "As ações do Banco do Brasil caíram 8,35%, o menor fechamento desde abril de 2023; Petrobras subiu com o petróleo.",
+      "atualizada": "13 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O dólar comercial fechou a quinta-feira (12) em alta de 1,58%, a R$ 5,6507, o maior valor desde 2 de junho de 2025, segundo a Agência Brasil. O Ibovespa caiu 0,47%, a 171.324 pontos; O Tempo registra queda de 0,43%. Na mínima do dia, o índice chegou a 169.942 pontos. Na quarta (11), o dólar tinha caído 0,42%, a R$ 5,56.",
+      "blocos": [
+       {
+        "h": "Por que o dólar subiu",
+        "li": [
+         {
+          "b": "Pacote fiscal:",
+          "t": "investidores consideram as medidas, de R$ 50 bilhões a R$ 60 bilhões em 2027, modestas diante do desafio, e há incerteza sobre o que será aprovado, segundo as duas reportagens. A aprovação do texto-base no Senado saiu à noite, depois do fechamento."
+         },
+         {
+          "b": "Exterior:",
+          "t": "o índice DXY, que mede o dólar contra moedas fortes, subiu 0,28%, e os juros dos títulos americanos subiram depois de dirigentes do Fed indicarem preocupação com a inflação e possível alta de juros, segundo a Agência Brasil."
+         },
+         {
+          "b": "Banco do Brasil:",
+          "t": "o resultado fraco de um banco controlado pela União aumentou a preocupação com as contas públicas, segundo O Tempo."
+         }
+        ]
+       },
+       {
+        "h": "O Banco do Brasil",
+        "p": [
+         "O banco teve lucro ajustado de R$ 1,27 bilhão no terceiro trimestre, queda de 66,5% sobre o mesmo período de 2025, e reduziu a previsão de lucro para 2026. As ações caíram 8,35%, segundo a Agência Brasil, e 8,34%, segundo O Tempo, o menor fechamento desde abril de 2023. Foi o principal peso no Ibovespa."
+        ]
+       },
+       {
+        "h": "Outras ações",
+        "li": [
+         {
+          "b": "Petrobras:",
+          "t": "as ordinárias subiram 2,55% e as preferenciais 2,64%, com o petróleo mais caro, segundo O Tempo."
+         },
+         {
+          "b": "Petróleo:",
+          "t": "o Brent subiu 3,30%, a US$ 95,82, com a tensão entre EUA e Irã, segundo a Agência Brasil."
+         },
+         {
+          "b": "Quedas:",
+          "t": "Magazine Luiza caiu 7,70% e BTG Pactual 3,23%."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Vitor Kayo, economista da Nomad:",
+          "t": "\"A incerteza sobre o que será aprovado pelo Congresso leva investidores a buscar proteção em dólar\", segundo O Tempo."
+         },
+         {
+          "b": "William Castro Alves, estrategista-chefe da Avenue:",
+          "t": "vê o pacote como primeiro passo na direção certa, mas insuficiente. O governo \"ganha algum tempo, mas ainda não apresenta medidas estruturais capazes de resolver o problema\"."
+         },
+         {
+          "b": "Governo:",
+          "t": "as reportagens não trazem reação do Ministério da Fazenda ao câmbio."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como o mercado reage nesta sexta à aprovação do texto-base no Senado.",
+         "Se o Banco Central vai atuar no câmbio."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Votação dos destaques do pacote na terça (17).",
+         "Balanço da Nvidia na terça (17), que mexe com bolsas no mundo."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: dólar a R$ 5,65",
+        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-dispara-158-e-fecha-r-565-maior-nivel-em-17-meses"
+       },
+       {
+        "t": "O Tempo: maior valor desde junho de 2025",
+        "u": "https://www.otempo.com.br/economia/2026/11/12/dolar-dispara-e-fecha-no-maior-valor-desde-junho-de-2025"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Inflação desacelera para 0,14% em outubro, abaixo do esperado",
+     "contexto": "selic-e-copom",
+     "texto": "O IPCA subiu 0,14% em outubro, depois de 0,82% em setembro, segundo o IBGE. Em 12 meses, a inflação foi a 4,63%, acima do teto da meta, de 4,5%. Analistas esperavam 0,25% no mês.",
+     "pq": "a conta de luz caiu 1,92% e as passagens aéreas 9,21%, mas alimentos subiram 1,04%, puxados por tomate e carnes. A inflação alta é o motivo citado pelo Banco Central para manter a Selic em 13,75%.",
+     "fontes": [
+      {
+       "t": "O Tempo",
+       "u": "https://www.otempo.com.br/economia/2026/11/12/ibge-inflacao-fica-em-0-14-em-outubro-abaixo-das-expectativas"
+      },
+      {
+       "t": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4368331/ipca-de-outubro-sobe-0-14-ante-alta-de-0-82-em-setembro-revela-ibge"
+      }
+     ],
+     "completa": {
+      "fina": "O resultado ficou abaixo da menor projeção de analistas ouvidos pelo Projeções Broadcast, de 0,18%.",
+      "atualizada": "13 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA), a inflação oficial, subiu 0,14% em outubro, depois de 0,82% em setembro, informou o IBGE na quinta-feira (12), segundo O Tempo e o Diário do Grande ABC. Em 12 meses, a alta foi de 4,63%, ante 4,58% até setembro. No ano, o acumulado é de 4,1%.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Expectativa:",
+          "t": "a mediana de 35 analistas ouvidos pela Bloomberg era de 0,25% no mês e 4,74% em 12 meses, segundo O Tempo. No levantamento do Projeções Broadcast, as estimativas iam de 0,18% a 0,40%, segundo o Diário do Grande ABC."
+         },
+         {
+          "b": "Comparação:",
+          "t": "em outubro de 2025, o IPCA foi de 0,09%; em outubro de 2024, de 0,56%."
+         },
+         {
+          "b": "Meta:",
+          "t": "o centro é 3%, com tolerância de 1,5% a 4,5%."
+         }
+        ]
+       },
+       {
+        "h": "O que subiu e o que caiu",
+        "li": [
+         {
+          "b": "Energia elétrica residencial:",
+          "t": "caiu 1,92%, depois de subir 7,98% em setembro; foi a principal razão da desaceleração."
+         },
+         {
+          "b": "Transportes:",
+          "t": "caíram 0,59%, com passagens aéreas em queda de 9,21% e gasolina de 0,56%. O diesel subiu 1,66% e o etanol 1,02%."
+         },
+         {
+          "b": "Alimentação e bebidas:",
+          "t": "subiu 1,04%, a maior alta entre os grupos e a maior contribuição, de 0,22 ponto percentual, com tomate e carnes."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "A prévia do mês, o IPCA-15 de outubro, tinha subido 0,32%, com 4,62% em 12 meses, também acima do teto. O dado cheio confirma a desaceleração no mês, mas não muda o acumulado. O Copom interrompeu os cortes da Selic em 4 de novembro e manteve a taxa em 13,75%, citando a inflação acima do teto e a piora fiscal. A ata, divulgada na terça (10), disse que os juros devem ficar altos por mais tempo. O dado de outubro não mudou as apostas sobre a Selic, segundo O Tempo. Os analistas do boletim Focus projetam inflação de 5,22% em 2026, e o Banco Central, de 5,6%."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Analistas:",
+          "t": "as reportagens consultadas destacam que o resultado veio abaixo de todas as projeções, mas não trazem avaliações nominais."
+         },
+         {
+          "b": "Governo e Banco Central:",
+          "t": "as reportagens não trazem comentários oficiais sobre o dado."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a queda da energia se repete em novembro.",
+         "Quanto o dólar mais alto vai pesar nos preços nos próximos meses."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O IPCA-15 de novembro, prévia da inflação.",
+         "A última reunião do Copom no ano, em 8 e 9 de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "O Tempo: inflação de 0,14% em outubro",
+        "u": "https://www.otempo.com.br/economia/2026/11/12/ibge-inflacao-fica-em-0-14-em-outubro-abaixo-das-expectativas"
+       },
+       {
+        "t": "Diário do Grande ABC: IPCA de outubro",
+        "u": "https://www.dgabc.com.br/Noticia/4368331/ipca-de-outubro-sobe-0-14-ante-alta-de-0-82-em-setembro-revela-ibge"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Enviados dos EUA veem Putin em Moscou e Zelensky em Dublin",
+     "contexto": "negociacoes-ucrania-russia",
+     "texto": "Steve Witkoff e Jared Kushner se reuniram com Vladimir Putin por cerca de duas horas no Kremlin na quinta (12) e depois com Volodymyr Zelensky em Dublin, segundo a AP. Witkoff disse que a próxima rodada terá os europeus.",
+     "pq": "o Kremlin não confirmou a presença europeia e Putin repetiu que tropas estrangeiras na Ucrânia são \"absolutamente inaceitáveis\". Zelensky disse que a troca de prisioneiros acertada deve ser a maior da guerra.",
+     "fontes": [
+      {
+       "t": "AP, via ETV Bharat",
+       "u": "https://www.etvbharat.com/en/international/us-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-see-zelenskyy-in-dublin-enn26111300557"
+      },
+      {
+       "t": "The Tribune",
+       "u": "https://www.tribuneindia.com/news/diplomatic-efforts/zelenskyy-meets-witkoff-kushner-in-ireland-announces-major-prisoner-exchange-greater-european-role-in-ukraine-peace-talks"
+      },
+      {
+       "t": "UA.News",
+       "u": "https://ua.news/en/world/zelenskii-pidbiv-pidsumki-peregovoriv-iz-komandoiu-trampa-ta-nazvav-tri-rezultati"
+      },
+      {
+       "t": "Kyiv Independent",
+       "u": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
+      }
+     ],
+     "completa": {
+      "fina": "Em Abu Dhabi, discutiram-se trocas de 1.000 por 1.000 ou 1.200 por 1.200 prisioneiros; número e data não foram anunciados.",
+      "atualizada": "13 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Os enviados americanos Steve Witkoff e Jared Kushner se reuniram com o presidente russo, Vladimir Putin, por cerca de duas horas no Kremlin na quinta-feira (12), segundo a Associated Press. No mesmo dia, voaram para a Irlanda e conversaram por mais de uma hora com o presidente ucraniano, Volodymyr Zelensky, perto de Dublin, onde ele participava de encontro da Comunidade Política Europeia.",
+      "blocos": [
+       {
+        "h": "O encontro em Moscou",
+        "li": [
+         {
+          "b": "Avaliação russa:",
+          "t": "Yuri Ushakov, assessor de Putin, chamou a conversa de \"substantiva, construtiva, franca e útil\" e disse que a Rússia vai atualizar suas propostas de 2021, segundo a AP."
+         },
+         {
+          "b": "Tropas:",
+          "t": "Putin disse que \"a presença de qualquer tropa estrangeira em território ucraniano é absolutamente inaceitável\", segundo o Tribune."
+         },
+         {
+          "b": "Proposta local:",
+          "t": "a imprensa estatal russa informou que Putin propôs uma \"missão humanitária\" temporária em Kostiantynivka, que diz estar sob controle russo, para retirar civis, segundo o Kyiv Independent."
+         },
+         {
+          "b": "Próximo encontro:",
+          "t": "Ushakov disse que os temas serão discutidos numa reunião entre Trump e Putin na cúpula da Apec, em Shenzhen, segundo o Kyiv Independent."
+         }
+        ]
+       },
+       {
+        "h": "O encontro em Dublin",
+        "p": [
+         "Zelensky recebeu os enviados no aeródromo de Casement, com o negociador Rustem Umerov, segundo o Kyiv Independent. Depois, listou três resultados: a troca de prisioneiros, que chamou de principal resultado humanitário; maior participação da Europa; e novas reuniões multilaterais em preparação, segundo o UA.News. A próxima rodada pode ser nos Emirados Árabes ou na Suíça."
+        ]
+       },
+       {
+        "h": "A Europa na mesa",
+        "p": [
+         "Witkoff disse que \"os europeus vão participar da próxima reunião\", sem dizer quais países, segundo a AP. Ushakov não confirmou e disse que a Europa precisa decidir se quer a paz ou a continuação da guerra, segundo o Tribune. O secretário-geral da Otan, Mark Rutte, disse que EUA, Europa e Ucrânia estão \"muito alinhados\" sobre garantias de segurança."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Volodymyr Zelensky:",
+          "t": "\"A Europa estará na mesa de negociação\", segundo o UA.News. Contou ter dito aos enviados: \"Vamos mais rápido, pessoal, se possível.\""
+         },
+         {
+          "b": "Steve Witkoff:",
+          "t": "disse que Trump tem como prioridade encerrar o conflito o mais rápido possível, segundo o Kremlin citado pelo Tribune."
+         },
+         {
+          "b": "Dmitry Peskov, porta-voz do Kremlin:",
+          "t": "\"Os europeus brigam como aranhas num pote\", segundo a AP."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O número e a data da troca de prisioneiros.",
+         "Quem representará a Europa na próxima rodada.",
+         "A data da reunião entre Trump e Putin."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Witkoff e Kushner relatam a Trump o encontro em Moscou.",
+         "Zelensky disse que a coalizão de países que apoiam a Ucrânia se reúne em Berlim na próxima semana."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "AP, via ETV Bharat: Putin e Zelensky no mesmo dia",
+        "u": "https://www.etvbharat.com/en/international/us-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-see-zelenskyy-in-dublin-enn26111300557"
+       },
+       {
+        "t": "The Tribune: o que disse o Kremlin",
+        "u": "https://www.tribuneindia.com/news/diplomatic-efforts/zelenskyy-meets-witkoff-kushner-in-ireland-announces-major-prisoner-exchange-greater-european-role-in-ukraine-peace-talks"
+       },
+       {
+        "t": "UA.News: os três resultados de Zelensky",
+        "u": "https://ua.news/en/world/zelenskii-pidbiv-pidsumki-peregovoriv-iz-komandoiu-trampa-ta-nazvav-tri-rezultati"
+       },
+       {
+        "t": "Kyiv Independent: encontro em Dublin",
+        "u": "https://kyivindependent.com/zelensky-meets-with-trumps-envoys-in-dublin-after-their-summit-with-putin/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Israel manda Exército se preparar para possível novo ataque ao Irã",
+     "contexto": "guerra-ira-eua-2026",
+     "texto": "O gabinete de segurança de Israel orientou o Exército a reforçar a preparação para um possível ataque ao Irã, segundo a emissora pública Kan. Gadi Eisenkot, encarregado de formar o novo governo, pediu a Netanyahu que não use as Forças Armadas até lá.",
+     "pq": "um novo ataque pode reabrir a guerra. Segundo o Canal 13, o Exército disse a Netanyahu e a Eisenkot que não vê urgência em atacar. O Irã ameaça bases americanas \"da Ásia Ocidental à Europa\".",
+     "fontes": [
+      {
+       "t": "Al Jazeera",
+       "u": "https://aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
+      },
+      {
+       "t": "JFeed",
+       "u": "https://www.jfeed.com/news-israel/toe0ks"
+      },
+      {
+       "t": "Newscord",
+       "u": "https://newscord.org/article/israeli-army-tells-netanyahu-and-eisenkot-it-sees-no-urgent-need-to-strike-iran--Story_20261113_75d3f56c"
+      }
+     ],
+     "completa": {
+      "fina": "O gabinete de segurança deve se reunir no domingo (15), pela primeira vez desde 5 de outubro.",
+      "atualizada": "13 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O gabinete de segurança de Israel, presidido pelo primeiro-ministro interino Benjamin Netanyahu, orientou as Forças Armadas a aumentar a prontidão para um possível novo ataque ao Irã, segundo a emissora pública Kan, que divulgou a informação na noite de quarta-feira (11). A Kan disse que as diretrizes podem levar a ações capazes de iniciar uma guerra, segundo a Al Jazeera e o JFeed.",
+      "blocos": [
+       {
+        "h": "A disputa em Israel",
+        "p": [
+         "Netanyahu perdeu a maioria no Parlamento na eleição de outubro, e o presidente Isaac Herzog deu a Gadi Eisenkot a tarefa de formar governo. Em carta, Eisenkot pediu a Netanyahu que evite operações militares até a posse do novo governo e disse que usar as forças de segurança sem ameaça direta e imediata \"pode ter consequências devastadoras para a democracia israelense e para a confiança pública nas instituições\", segundo o JFeed. Ele também pediu à procuradora-geral que garanta que receba informes de segurança."
+        ]
+       },
+       {
+        "h": "O que disse o Exército",
+        "p": [
+         "Segundo o Canal 13, citado pelo Newscord, o Exército disse a Netanyahu e a Eisenkot que não há urgência para um ataque israelense, mas que Israel deve participar se Trump decidir atacar. O Canal 12 relatou divergência entre Netanyahu e o chefe do Estado-Maior, Eyal Zamir. Essas informações vêm de emissoras israelenses e não foram confirmadas oficialmente."
+        ]
+       },
+       {
+        "h": "A reação do Irã",
+        "li": [
+         {
+          "b": "Ameaça:",
+          "t": "Mohsen Rezaei, secretário do Conselho Supremo de Segurança Nacional, escreveu que toda base americana usada numa nova guerra, \"da Ásia Ocidental à Europa\", será alvo. \"Nenhuma distância segura\", disse, segundo a Al Jazeera."
+         },
+         {
+          "b": "Ormuz:",
+          "t": "o presidente do Parlamento, Mohammad Bagher Ghalibaf, disse que o estreito \"nunca voltará\" à situação de antes da guerra e que \"a bola está com os americanos\"."
+         },
+         {
+          "b": "Urânio:",
+          "t": "o Irã rejeitou a proposta dos EUA de levar o urânio enriquecido a 60% para outro país."
+         }
+        ]
+       },
+       {
+        "h": "A posição dos EUA",
+        "p": [
+         "Trump disse estar pronto para voltar à guerra se a mediação do Catar fracassar. O secretário de Estado, Marco Rubio, disse que a pressão econômica funciona e que grandes operações militares não são necessárias agora, segundo a Al Jazeera. O Brent fechou a quarta em alta de 1,39%, a US$ 92,76."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Gabinete de Netanyahu:",
+          "t": "chamou a carta de Eisenkot de \"movimento irresponsável\" por discutir segurança em público, segundo o JFeed."
+         },
+         {
+          "b": "Gadi Eisenkot:",
+          "t": "disse que o governo de Netanyahu não tem mais a confiança do Parlamento e pediu que evite \"movimentos perigosos\"."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se haverá ataque e quando.",
+         "Quando Eisenkot forma governo."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Reunião do gabinete de segurança no domingo (15).",
+         "A mediação do Catar entre EUA e Irã."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: Irã ameaça ampliar retaliação",
+        "u": "https://aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
+       },
+       {
+        "t": "JFeed: Exército recebe ordem de se preparar",
+        "u": "https://www.jfeed.com/news-israel/toe0ks"
+       },
+       {
+        "t": "Newscord: como dez veículos relataram",
+        "u": "https://newscord.org/article/israeli-army-tells-netanyahu-and-eisenkot-it-sees-no-urgent-need-to-strike-iran--Story_20261113_75d3f56c"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Líderes divergem na COP31 sobre petróleo e meta de eletrificação",
+     "contexto": "combustiveis-fosseis-cop",
+     "texto": "Depois de dois dias de discursos na COP31, em Antália, ilhas pequenas pediram cortes rápidos de emissões, produtores de petróleo defenderam continuar explorando e europeus apoiaram a meta turca de eletrificação, segundo a RTÉ e a Reuters.",
+     "pq": "a Turquia propõe que a eletricidade chegue a 35% do consumo mundial de energia até 2035, ante pouco mais de 20% hoje. Críticos dizem que, sem plano para reduzir combustíveis fósseis, a meta pouco freia o aquecimento.",
+     "fontes": [
+      {
+       "t": "RTÉ",
+       "u": "https://www.rte.ie/news/environment/2026/1112/1599028-world-leaders-clash-over-climate-change-talks-at-cop31/"
+      },
+      {
+       "t": "Reuters, via West Hawaii Today",
+       "u": "https://www.westhawaiitoday.com/2026/11/12/nation-world-news/conflict-must-not-distract-from-climate-action-leaders-warn-cop31/"
+      }
+     ],
+     "completa": {
+      "fina": "Os EUA não participam pelo segundo ano; França, Alemanha, Japão, Itália e Canadá não mandaram seus principais líderes.",
+      "atualizada": "13 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A cúpula de líderes da COP31, em Antália, na Turquia, terminou dois dias de discursos na quinta-feira (12) com posições opostas, o que deixa aos negociadores de quase 200 países a tarefa de chegar a um texto aceito por todos, segundo a emissora irlandesa RTÉ. A conferência começou na segunda-feira (9) e vai até 20 de novembro.",
+      "blocos": [
+       {
+        "h": "As posições",
+        "li": [
+         {
+          "b": "Ilhas pequenas:",
+          "t": "Bahamas, Tuvalu, Ilhas Salomão e Santa Lúcia pediram cortes rápidos e profundos de emissões. O primeiro-ministro de Santa Lúcia, Philip J. Pierre, disse que os grandes emissores precisam \"ir além das promessas de sempre\"."
+         },
+         {
+          "b": "Europeus:",
+          "t": "apoiaram a proposta turca de ampliar a eletrificação. O premiê britânico, Andy Burnham, disse que as interrupções de energia causadas pelas guerras no Irã e na Ucrânia mostram que energia limpa é a escolha prudente."
+         },
+         {
+          "b": "Países em desenvolvimento:",
+          "t": "repetiram pedidos de mais dinheiro dos países ricos para transição, adaptação e reparação de danos."
+         },
+         {
+          "b": "Produtores:",
+          "t": "a presidente interina da Venezuela, Delcy Rodríguez, defendeu o direito soberano de desenvolver o petróleo. O ministro da Energia da Arábia Saudita, príncipe Abdulaziz bin Salman, disse que medidas climáticas não podem virar barreira ao desenvolvimento, segundo a Reuters."
+         }
+        ]
+       },
+       {
+        "h": "A proposta turca",
+        "p": [
+         "A Turquia propõe elevar a participação da eletricidade no consumo mundial de energia para 35% até 2035, de pouco mais de um quinto hoje. O país não disse se a energia extra seria renovável, segundo a RTÉ. A proposta também tenta retomar o esforço de abandonar os combustíveis fósseis, mas nenhum roteiro foi acertado, segundo a Reuters."
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "Um relatório da ONU do mês passado concluiu que o mundo caminha para passar o limite de 1,5 °C do Acordo de Paris. Na quarta (11), Lula disse na cúpula que o mundo fala mais de armas e tarifas do que da sobrevivência das futuras gerações. O Brasil presidiu a COP30, em Belém, e defende roteiros para a transição."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Chris Bowen, presidente das negociações, da Austrália:",
+          "t": "disse que seu papel é levar ao consenso mais ambicioso possível e que ainda tem \"muitas horas de consultas\", segundo a RTÉ."
+         },
+         {
+          "b": "Laurent Fabius, ex-premiê francês:",
+          "t": "disse à Reuters que \"implementação\" é a palavra-chave de Antália."
+         },
+         {
+          "b": "Fernanda de Carvalho, do WWF:",
+          "t": "chamou os discursos de decepcionantes."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a meta de eletrificação entra na decisão final.",
+         "Se o roteiro brasileiro para os combustíveis fósseis será citado no texto."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Negociações técnicas até 20 de novembro.",
+         "Lula segue para a cúpula da Asean, nas Filipinas."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "RTÉ: líderes divergem na COP31",
+        "u": "https://www.rte.ie/news/environment/2026/1112/1599028-world-leaders-clash-over-climate-change-talks-at-cop31/"
+       },
+       {
+        "t": "Reuters, via West Hawaii Today: conflitos não podem desviar o foco",
+        "u": "https://www.westhawaiitoday.com/2026/11/12/nation-world-news/conflict-must-not-distract-from-climate-action-leaders-warn-cop31/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Jensen Huang deixa o comando da Nvidia após 33 anos",
+     "contexto": "nvidia-china-chips",
+     "texto": "O conselho da Nvidia anunciou na quinta (12) a saída de Jensen Huang do cargo de presidente-executivo. A diretora financeira, Colette Kress, assume interinamente, segundo a Fortune e o Yahoo Finance. A busca por um sucessor começou.",
+     "pq": "a Nvidia fabrica a maior parte dos chips usados para treinar IA. A saída vem depois de reportagens sobre relacionamentos de Huang, um deles com uma mulher que a inteligência americana liga à espionagem chinesa, segundo a CBS. A China nega.",
+     "fontes": [
+      {
+       "t": "Fortune",
+       "u": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/"
+      },
+      {
+       "t": "CBS News",
+       "u": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
+      },
+      {
+       "t": "Yahoo Finance",
+       "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-following-jensen-huangs-resignation-as-ceo-allegations-of-a-third-affair-emerge-195535310.html"
+      }
+     ],
+     "completa": {
+      "fina": "A empresa perdeu cerca de US$ 490 bilhões em valor de mercado desde a sexta anterior, segundo o Yahoo Finance.",
+      "atualizada": "13 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Jensen Huang, cofundador da Nvidia e seu presidente-executivo havia 33 anos, renunciou ao cargo na quinta-feira (12), anunciou o conselho da empresa, segundo a Fortune e a CBS News. A diretora financeira, Colette Kress, assume como presidente-executiva interina. Harvey Jones, conselheiro desde 1993, foi nomeado o primeiro presidente do conselho da empresa.",
+      "blocos": [
+       {
+        "h": "Como se chegou aqui",
+        "li": [
+         {
+          "b": "Domingo (8):",
+          "t": "Huang reconheceu ter sido infiel à mulher e pediu desculpas à família, segundo a CBS. O conselho abriu investigação independente sobre reportagens de que ele teria sido alvo de \"um esforço de inteligência estrangeira\"."
+         },
+         {
+          "b": "A suspeita:",
+          "t": "reportagens dizem que agências americanas acreditam que Alice Huang, sem parentesco com ele, foi recrutada pelo Ministério da Segurança do Estado da China. Ela dirigiu a Megaspeed, de Singapura, grande compradora de chips da Nvidia, que o Departamento de Justiça investiga por possível desvio para a China, segundo a CBS. A China chama a acusação de \"infundada\"."
+         },
+         {
+          "b": "Quarta (11):",
+          "t": "o New York Times relatou outro relacionamento, com uma executiva da própria Nvidia; nenhum dos dois comentou, segundo a CBS. O conselho se reuniu à noite."
+         }
+        ]
+       },
+       {
+        "h": "A posição da empresa",
+        "p": [
+         "O conselho disse antes não ter \"razão para acreditar que a segurança nacional ou segredos da Nvidia foram comprometidos\", segundo a Fortune. A empresa nega envolvimento em transferências ilegais de chips e contratou um escritório de advocacia americano para revisar o cumprimento das regras de exportação, segundo a CBS."
+        ]
+       },
+       {
+        "h": "O mercado",
+        "li": [
+         {
+          "b": "Ações:",
+          "t": "chegaram a cair de 13% a 14% durante a quinta e fecharam em queda de 4,34%, a US$ 166,19, segundo o Yahoo Finance."
+         },
+         {
+          "b": "Valor de mercado:",
+          "t": "caiu de US$ 4,498 trilhões na sexta anterior para US$ 4,005 trilhões."
+         },
+         {
+          "b": "Participação de Huang:",
+          "t": "cerca de 3,6% da empresa, avaliados em perto de US$ 150 bilhões, segundo a Fortune."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Harvey Jones, presidente do conselho:",
+          "t": "\"Colette ajudou a conduzir a Nvidia num período de crescimento extraordinário\", segundo a Fortune."
+         },
+         {
+          "b": "Colette Kress:",
+          "t": "\"A força da Nvidia sempre veio de sua gente.\""
+         },
+         {
+          "b": "Donald Trump:",
+          "t": "chamou Huang de \"pessoa de altíssima qualidade\", segundo a CBS."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se Huang continua no conselho.",
+         "Quem será o presidente-executivo definitivo; o conselho avalia nomes internos e externos.",
+         "O resultado da investigação do conselho."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Balanço trimestral na terça (17), com Kress na teleconferência.",
+         "O deputado Brian Mast disse que Huang aceitou depor no Congresso antes do Dia de Ação de Graças, em 26 de novembro, segundo o Yahoo Finance."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Fortune: Huang renuncia, Kress assume",
+        "u": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/"
+       },
+       {
+        "t": "CBS News: o que se sabe",
+        "u": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
+       },
+       {
+        "t": "Yahoo Finance: ações e valor de mercado",
+        "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-following-jensen-huangs-resignation-as-ceo-allegations-of-a-third-affair-emerge-195535310.html"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Google DeepMind lança AlphaGenome 2 para prever efeito de mutações no DNA",
+     "contexto": "ia-na-genetica",
+     "texto": "O Google DeepMind lançou na quarta (11) o AlphaGenome 2, modelo de IA que prevê como variações no DNA mudam a atividade dos genes em tipos específicos de célula. É gratuito para pesquisa não comercial.",
+     "pq": "pode ajudar a achar mutações ligadas a doenças. Num teste da empresa, encontrou 30% das variantes causais, ante 16% da versão anterior. Não é aprovado para diagnóstico. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, que concorre com o Google.",
+     "fontes": [
+      {
+       "t": "Interesting Engineering",
+       "u": "https://interestingengineering.com/ai-robotics/deepmind-alphagenome-2-causal-dna-variants"
+      },
+      {
+       "t": "Unite.AI",
+       "u": "https://www.unite.ai/google-deepminds-alphagenome-2-predicts-cell-state-variant-effects/"
+      }
+     ],
+     "completa": {
+      "fina": "O modelo foi treinado com mais de 100 milhões de perfis de células humanas e de camundongos, de 68 tecidos.",
+      "atualizada": "13 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Google DeepMind, laboratório de inteligência artificial do Google, anunciou na quarta-feira (11) o AlphaGenome 2, um modelo que prevê como variantes no DNA afetam a regulação dos genes em tipos e estados específicos de célula, segundo o Interesting Engineering e o Unite.AI. A versão anterior fazia previsões para tecidos inteiros.",
+      "blocos": [
+       {
+        "h": "Como funciona",
+        "li": [
+         {
+          "b": "Entrada:",
+          "t": "o pesquisador informa uma condição biológica e uma sequência de DNA; pode escolher um tipo de célula de um catálogo ou usar dados do próprio experimento."
+         },
+         {
+          "b": "Saídas:",
+          "t": "expressão de genes, processamento do RNA, acessibilidade da cromatina e, como novidade, metilação do DNA, segundo o Unite.AI."
+         },
+         {
+          "b": "Dados:",
+          "t": "mais de 100 milhões de perfis de células individuais, de humanos e camundongos."
+         }
+        ]
+       },
+       {
+        "h": "Os resultados, segundo a empresa",
+        "p": [
+         "No teste TenK10K, com 28 tipos de células do sistema imune, o modelo identificou 30% das variantes causais, ante 16% da primeira versão ajustada, e acertou a direção do efeito em 43% dos casos, ante 23%. Os números foram divulgados pelo próprio Google DeepMind. Em exemplos, reproduziu uma descoberta já confirmada em laboratório sobre doença inflamatória intestinal e distinguiu células T ativadas por vacina de covid de células em repouso."
+        ]
+       },
+       {
+        "h": "Os limites",
+        "li": [
+         "Mesmo com alta precisão, recupera só uma minoria das variantes apontadas por estudos estatísticos, segundo o Unite.AI.",
+         "Pode subestimar efeitos em regiões distantes ou que agem depois da transcrição.",
+         "Capta correlações, não causas; as hipóteses precisam de confirmação em laboratório.",
+         "Não foi validado nem aprovado para uso clínico ou diagnóstico."
+        ]
+       },
+       {
+        "h": "Acesso",
+        "p": [
+         "Pesquisadores sem fins comerciais usam de graça pela API do AlphaGenome; empresas têm acesso por uma prévia fechada. O processamento exige mais computação que modelos anteriores, porque cada condição pede uma previsão separada. Junto com o modelo, a empresa divulgou escores para mais de 6,8 milhões de variantes comuns e ligadas a doenças em 510 condições humanas, segundo o Unite.AI. O Google também mantém o AlphaGenome Atlas, lançado neste ano, que mapeia o efeito de cada troca possível de uma letra no genoma humano, segundo o Interesting Engineering."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Google DeepMind:",
+          "t": "diz que o modelo \"não foi validado nem aprovado para fins clínicos ou diagnósticos\", segundo o Interesting Engineering."
+         },
+         {
+          "b": "Genomics Limited:",
+          "t": "o presidente-executivo disse que a empresa vai incorporar o modelo à sua plataforma Mystra, segundo o Unite.AI."
+         },
+         {
+          "b": "Pesquisadores independentes:",
+          "t": "as reportagens não trazem avaliações de cientistas sem ligação com o Google."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se os resultados se repetem em testes independentes.",
+         "Quanto vai custar o uso comercial."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O Google planeja ferramentas do modelo para sua plataforma de agentes, a Antigravity."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Interesting Engineering: quase o dobro de variantes",
+        "u": "https://interestingengineering.com/ai-robotics/deepmind-alphagenome-2-causal-dna-variants"
+       },
+       {
+        "t": "Unite.AI: como o modelo funciona e seus limites",
+        "u": "https://www.unite.ai/google-deepminds-alphagenome-2-predicts-cell-state-variant-effects/"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "11.042",
+  "texto": "casos de ebola no Congo, com ao menos 5.387 mortes; só o surto de 2014 a 2016, na África Ocidental, foi maior.",
+  "fontes": [
+   {
+    "t": "Al Jazeera",
+    "u": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths"
+   },
+   {
+    "t": "Euronews",
+    "u": "https://www.euronews.com/2026/11/11/deadliest-ebola-outbreak-in-congos-history-reaches-11000-cases"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "Drauzio Varella foi eleito para a cadeira 32 da Academia Brasileira de Letras, que era de Zuenir Ventura, com 29 de 37 votos.",
+  "fontes": [
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/drauzio-varela-e-novo-membro-da-academia-brasileira-de-letras"
+   },
+   {
+    "t": "Diário do Grande ABC",
+    "u": "https://www.dgabc.com.br/Noticia/4351831/abl-revela-candidatos-a-vaga-de-zuenir-ventura-com-drauzio-varella-entre-os-nomes"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição cita o Google, que concorre com a Anthropic.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "sem ressalvas",
+  "resumo": "A edição passa no teste do espelho. O pacote fiscal traz o governo, o relator e a oposição; o dólar traz dois analistas com nome; a nota sobre a Nvidia trata a vida pessoal de Huang só no que explica a investigação. Número e Fechar têm duas fontes cada.",
+  "pontos": [
+   "Brasil 1: as três estimativas de economia, do governo, do Planejamento e do relator, estão atribuídas; a divergência sobre o número de emendas está explicada.",
+   "Brasil 2: a queda do Ibovespa aparece com os dois números, 0,47% e 0,43%, atribuídos.",
+   "Brasil 3: a nota diz que não há avaliações nominais de analistas nem do governo.",
+   "Mundo 1: falas do Kremlin, de Zelensky e de Witkoff com o mesmo peso; nota de guerra sem menção a IA.",
+   "Mundo 2: as informações de emissoras israelenses estão marcadas como não confirmadas; a ameaça iraniana está entre aspas.",
+   "Mundo 3: produtores de petróleo, ilhas, europeus e países em desenvolvimento aparecem com suas posições.",
+   "Inovação 1: a suspeita de espionagem está atribuída a reportagens, com a negativa da China e da empresa.",
+   "Inovação 2: números de desempenho marcados como da própria empresa; a nota diz que faltam avaliações independentes; aviso de conflito de interesse."
+  ],
+  "equilibrio": "Governo Lula: 2 menções (neutras); oposição: 1 (neutra); relator do MDB: 2. Rússia e Ucrânia: 3 cada. Israel: governo e oposição com 2 cada; Irã: 2.",
+  "foraDaEdicao": [
+   "PGR contra a revisão da condenação de Jair Bolsonaro: há mais de um pedido de revisão no STF e as reportagens abertas divergem sobre qual foi analisado; fica para quando houver confirmação.",
+   "TSMC investe até US$ 1 bilhão na Anthropic e na OpenAI: notícia de 11 de novembro, fora da janela de 24 horas.",
+   "Esportes e demais categorias extras: sem fato novo checado em duas fontes até o fechamento."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: o pacote fiscal, pelo efeito nas contas públicas e no dólar.",
+   "Essencial: pacote fiscal, dólar e Nvidia.",
+   "Toda nota tem página de contexto."
+  ]
+ },
+ "geradaEm": "2026-11-13T07:47:14Z"
+}

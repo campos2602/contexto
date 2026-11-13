@@ -1,13 +1,9 @@
 {
  "titulo": "A guerra entre Estados Unidos e Irã em 2026",
- "atualizado": "12 nov 2026",
+ "atualizado": "13 nov 2026",
  "selo": "Checado",
  "frase": "Estados Unidos e Israel entraram em guerra com o Irã no fim de fevereiro de 2026. Desde então houve cessar-fogo, um acordo provisório que venceu sem renovação, bloqueio naval e ataques no Estreito de Ormuz, enquanto mediadores tentam um acordo.",
  "linha": [
-  {
-   "d": "Semanas antes de 2 de novembro",
-   "t": "Os EUA fazem ataques na costa iraniana de Ormuz para conter ataques com mísseis, segundo o Al-Monitor."
-  },
   {
    "d": "2 de novembro de 2026",
    "t": "Mediadores do Catar se reúnem em Teerã. À noite, os EUA atacam a ilha de Qeshm."
@@ -35,6 +31,10 @@
   {
    "d": "11 de novembro de 2026",
    "t": "O chefe de segurança do Irã, Mohsen Rezaei, diz que o urânio enriquecido não sairá do país e ameaça bases americanas distantes em caso de novo ataque. Diz que não há negociação com Washington, segundo a Reuters."
+  },
+  {
+   "d": "11 e 12 de novembro de 2026",
+   "t": "O gabinete de segurança de Israel manda o Exército se preparar para um possível ataque ao Irã, segundo a emissora Kan. Gadi Eisenkot pede a Netanyahu que espere o novo governo. Rezaei ameaça bases americanas até a Europa."
   }
  ],
  "termos": [
@@ -100,10 +100,10 @@
   }
  ],
  "observar": [
-  "A resposta dos EUA à recusa iraniana.",
+  "A reunião do gabinete de segurança de Israel, no domingo (15).",
   "Se o Catar retoma a mediação.",
   "A situação no Estreito de Ormuz e o preço do petróleo.",
-  "O alcance do bloqueio às rotas do Irã."
+  "A formação do novo governo israelense."
  ],
  "fontes": [
   {
@@ -153,6 +153,14 @@
   {
    "t": "Investing.com, via Yahoo: recusa à transferência",
    "u": "https://www.yahoo.com/news/world/articles/iran-security-chief-rejects-transfer-132310345.html"
+  },
+  {
+   "t": "Al Jazeera: Irã ameaça ampliar retaliação",
+   "u": "https://aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack"
+  },
+  {
+   "t": "JFeed: Exército recebe ordem de se preparar",
+   "u": "https://www.jfeed.com/news-israel/toe0ks"
   }
  ]
 }

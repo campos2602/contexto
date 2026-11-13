@@ -1,0 +1,102 @@
+{
+ "titulo": "IA na genética: modelos que leem o DNA",
+ "atualizado": "13 nov 2026",
+ "selo": "Checado",
+ "frase": "Empresas de inteligência artificial treinam modelos para prever o que acontece quando uma letra do DNA muda. A promessa é achar mais rápido as mutações ligadas a doenças. Os próprios criadores dizem que as previsões ainda precisam de confirmação em laboratório.",
+ "linha": [
+  {
+   "d": "2003",
+   "t": "O Projeto Genoma Humano conclui a leitura da sequência do DNA humano, base para estudos que comparam variações entre pessoas."
+  },
+  {
+   "d": "2020",
+   "t": "O AlphaFold, do Google DeepMind, prevê a forma de proteínas com precisão próxima à de experimentos de laboratório."
+  },
+  {
+   "d": "2024",
+   "t": "Demis Hassabis e John Jumper, do Google DeepMind, dividem o Nobel de Química pelo AlphaFold."
+  },
+  {
+   "d": "2025",
+   "t": "O Google DeepMind apresenta o primeiro AlphaGenome, que prevê efeitos de variantes em tecidos inteiros, em regiões que codificam proteínas e nas que não codificam."
+  },
+  {
+   "d": "2026",
+   "t": "Sai o AlphaGenome Atlas, que mapeia o efeito de cada troca possível de uma letra no genoma humano, segundo o Interesting Engineering."
+  },
+  {
+   "d": "11 de novembro de 2026",
+   "t": "O Google DeepMind lança o AlphaGenome 2, que faz previsões por tipo e estado de célula. Num teste da empresa, encontra 30% das variantes causais, ante 16% da versão anterior."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Variante",
+   "d": "Diferença em uma ou mais letras do DNA entre pessoas. A maioria não tem efeito; algumas aumentam o risco de doenças."
+  },
+  {
+   "t": "Variante causal",
+   "d": "A mudança que de fato provoca o efeito, entre várias que aparecem juntas em estudos estatísticos."
+  },
+  {
+   "t": "Expressão gênica",
+   "d": "O quanto um gene está ativo numa célula, produzindo RNA e proteínas."
+  },
+  {
+   "t": "Cromatina",
+   "d": "O DNA enrolado em proteínas dentro do núcleo. Quando está mais aberta, os genes daquela região ficam mais acessíveis."
+  },
+  {
+   "t": "Célula única",
+   "d": "Técnica que mede a atividade dos genes em cada célula separadamente, em vez da média de um tecido."
+  },
+  {
+   "t": "Região não codificante",
+   "d": "Parte do DNA que não vira proteína, mas pode controlar quando e quanto um gene funciona."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Google DeepMind",
+   "t": "laboratório de IA do Google, criador do AlphaFold e do AlphaGenome."
+  },
+  {
+   "b": "Pesquisadores acadêmicos",
+   "t": "usam o AlphaGenome 2 de graça para pesquisa sem fins comerciais, pela API do modelo."
+  },
+  {
+   "b": "Empresas de genômica e farmacêuticas",
+   "t": "têm acesso por uma prévia fechada; a Genomics Limited diz que vai incorporar o modelo à sua plataforma, segundo o Unite.AI."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "O quanto o modelo acerta",
+   "t": "os números de desempenho foram divulgados pelo próprio Google DeepMind. Mesmo com alta precisão, o modelo recupera só uma minoria das variantes apontadas por estudos estatísticos, segundo o Unite.AI. Ainda não há avaliações independentes publicadas."
+  },
+  {
+   "b": "Correlação ou causa",
+   "t": "o modelo aprende com perfis de células em repouso e capta correlações. Não se sabe se consegue prever o que acontece quando um gene é desligado ou superativado."
+  },
+  {
+   "b": "Uso médico",
+   "t": "nenhuma versão foi validada ou aprovada para diagnóstico. A empresa restringe o uso à pesquisa."
+  }
+ ],
+ "observar": [
+  "Testes independentes do AlphaGenome 2.",
+  "Se laboratórios confirmam variantes apontadas pelo modelo.",
+  "As condições de uso comercial.",
+  "Modelos concorrentes de outras empresas e universidades."
+ ],
+ "fontes": [
+  {
+   "t": "Interesting Engineering: AlphaGenome 2 encontra quase o dobro de variantes",
+   "u": "https://interestingengineering.com/ai-robotics/deepmind-alphagenome-2-causal-dna-variants"
+  },
+  {
+   "t": "Unite.AI: como o modelo funciona e seus limites",
+   "u": "https://www.unite.ai/google-deepminds-alphagenome-2-predicts-cell-state-variant-effects/"
+  }
+ ]
+}

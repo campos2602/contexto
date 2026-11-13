@@ -1,13 +1,9 @@
 {
  "titulo": "Selic e Copom: como o Banco Central decide os juros",
- "atualizado": "11 nov 2026",
+ "atualizado": "13 nov 2026",
  "selo": "Checado",
  "frase": "A Selic é a taxa básica de juros do país. O Copom, comitê do Banco Central, a sobe para frear a inflação e a reduz quando a inflação dá sinais de controle, e cada decisão passa para os juros de empréstimos, financiamentos e aplicações.",
  "linha": [
-  {
-   "d": "Fim de 2025",
-   "t": "Terminam os mandatos de dois diretores do Banco Central. Até 4 de novembro de 2026, o presidente Lula não tinha enviado os nomes dos substitutos ao Senado, segundo a Agência Brasil."
-  },
   {
    "d": "Março de 2026",
    "t": "O Copom começa a cortar a Selic, com redução de 0,25 ponto, segundo o The Rio Times."
@@ -22,19 +18,19 @@
   },
   {
    "d": "4 de novembro de 2026",
-   "t": "Penúltima reunião do ano, com analistas divididos entre manter a Selic em 13,75% e cortar para 13,5%."
+   "t": "O Copom mantém a Selic em 13,75%, por unanimidade, e interrompe os cortes. O comunicado cita piora do cenário e o petróleo mais caro com a guerra no Oriente Médio."
   },
   {
    "d": "10 de novembro de 2026",
    "t": "A ata diz que a Selic deve ficar restritiva por mais tempo e cita quatro choques de oferta: petróleo, El Niño, fim da escala 6x1 e desvalorização do real. O BC projeta inflação de 5,6% em 2026. O dólar fecha a R$ 5,58, maior valor em 15 meses."
   },
   {
-   "d": "8 e 9 de dezembro de 2026",
-   "t": "Última reunião do Copom no ano, segundo o Metrópoles."
+   "d": "12 de novembro de 2026",
+   "t": "O IPCA de outubro sobe 0,14%, abaixo das projeções, e acumula 4,63% em 12 meses, ainda acima do teto da meta. A conta de luz cai; alimentos sobem 1,04%, segundo o IBGE."
   },
   {
-   "d": "4 de novembro de 2026",
-   "t": "O Copom mantém a Selic em 13,75%, por unanimidade, e interrompe os cortes. O comunicado cita piora do cenário e o petróleo mais caro com a guerra no Oriente Médio."
+   "d": "8 e 9 de dezembro de 2026",
+   "t": "Última reunião do Copom no ano, segundo o Metrópoles."
   }
  ],
  "termos": [
@@ -100,9 +96,9 @@
   }
  ],
  "observar": [
-  "O IPCA de outubro, que mostra se a inflação continua acima do teto.",
+  "O IPCA-15 de novembro.",
   "A reunião de 8 e 9 de dezembro.",
-  "Medidas fiscais do governo, que o Copom diz serem necessárias para a inflação cair.",
+  "O efeito do dólar a R$ 5,65 sobre os preços.",
   "A indicação dos substitutos dos diretores Renato Gomes e Diego Guillen."
  ],
  "fontes": [
@@ -145,6 +141,14 @@
   {
    "t": "TV Sim Brasil: dólar no maior valor em 15 meses",
    "u": "https://tvsimbrasil.com.br/brasil/economia/noticia/2026/11/10/dolar-fecha-maior-valor-15-meses-ibovespa-queda"
+  },
+  {
+   "t": "O Tempo: inflação de 0,14% em outubro",
+   "u": "https://www.otempo.com.br/economia/2026/11/12/ibge-inflacao-fica-em-0-14-em-outubro-abaixo-das-expectativas"
+  },
+  {
+   "t": "Diário do Grande ABC: IPCA de outubro",
+   "u": "https://www.dgabc.com.br/Noticia/4368331/ipca-de-outubro-sobe-0-14-ante-alta-de-0-82-em-setembro-revela-ibge"
   }
  ]
 }

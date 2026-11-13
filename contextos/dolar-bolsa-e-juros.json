@@ -1,13 +1,9 @@
 {
  "titulo": "Dólar, Bolsa e juros: como o mercado reage a um susto",
- "atualizado": "10 nov 2026",
+ "atualizado": "13 nov 2026",
  "selo": "Checado",
  "frase": "Quando investidores mudam de ideia sobre o futuro da economia de um país, eles vendem ações e reais e cobram juros mais altos para emprestar dinheiro ao governo. O dólar, o Ibovespa e os juros futuros medem esses três movimentos.",
  "linha": [
-  {
-   "d": "27 de outubro de 2026",
-   "t": "O dólar recua 1,07%, a R$ 5,349, e o Ibovespa cai 0,51%. Galípolo diz que o BC pode atuar no câmbio; o Tesouro cancela leilão e anuncia recompra de títulos."
-  },
   {
    "d": "28 de outubro de 2026",
    "t": "O Ibovespa cai 2,68%, a 171.006 pontos, o menor fechamento desde agosto, puxado por bancos. O dólar fica perto de R$ 5,34."
@@ -35,6 +31,10 @@
   {
    "d": "9 de novembro de 2026",
    "t": "No primeiro pregão depois do pronunciamento, o Ibovespa sobe 2,22%, a 172.236 pontos, maior alta diária desde 5 de outubro; o dólar cai 0,06%, a R$ 5,50. O Focus eleva a previsão da Selic no fim de 2026 para 13,75%, segundo o SBT News."
+  },
+  {
+   "d": "12 de novembro de 2026",
+   "t": "O dólar sobe 1,58% e fecha a R$ 5,6507, o maior valor desde 2 de junho de 2025. O Ibovespa cai 0,47%, puxado pelo Banco do Brasil, que perde 8,35% depois de lucro 66,5% menor, segundo a Agência Brasil."
   }
  ],
  "termos": [
@@ -112,10 +112,10 @@
   }
  ],
  "observar": [
-  "A ata do Copom, nesta terça (10).",
-  "Se a recuperação da Bolsa se mantém.",
-  "Como o governo vai pagar a isenção da cesta básica e a compra de dívidas de famílias.",
-  "As medidas de corte de gastos e de aumento de arrecadação."
+  "A reação do mercado à aprovação do texto-base do pacote fiscal.",
+  "Se o Banco Central atua no câmbio.",
+  "Os juros nos EUA e a possibilidade de alta pelo Fed.",
+  "O balanço da Nvidia, na terça (17)."
  ],
  "fontes": [
   {
@@ -209,6 +209,14 @@
   {
    "t": "Diário do Grande ABC: fechamento do mercado",
    "u": "https://www.dgabc.com.br/Noticia/4367794/fechamento-do-mercado-financeiro"
+  },
+  {
+   "t": "Agência Brasil: dólar a R$ 5,65",
+   "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-dispara-158-e-fecha-r-565-maior-nivel-em-17-meses"
+  },
+  {
+   "t": "O Tempo: maior valor desde junho de 2025",
+   "u": "https://www.otempo.com.br/economia/2026/11/12/dolar-dispara-e-fecha-no-maior-valor-desde-junho-de-2025"
   }
  ]
 }

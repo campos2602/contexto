@@ -1,6 +1,6 @@
 {
  "titulo": "O fim dos combustíveis fósseis nas conferências do clima",
- "atualizado": "12 nov 2026",
+ "atualizado": "13 nov 2026",
  "selo": "Checado",
  "frase": "Petróleo, gás e carvão são a maior fonte das emissões que aquecem o planeta. Desde 2023, as conferências do clima da ONU discutem como os países vão deixá-los, mas grandes produtores resistem a prazos e metas obrigatórias.",
  "linha": [
@@ -25,8 +25,8 @@
    "t": "Abertura da COP31 em Antália: Corrêa do Lago passa a presidência a Murat Kurum e cita o roteiro dos combustíveis fósseis entre os resultados do Brasil. A conferência vai até 20 de novembro, segundo o ClimaInfo."
   },
   {
-   "d": "10 e 11 de novembro de 2026",
-   "t": "Corrêa do Lago apresenta o roteiro; Índia, Nigéria e Alemanha apoiam. Na cúpula de líderes, Lula defende os roteiros e pede doações ao fundo de florestas, segundo o Climate Home News e o ClimaInfo."
+   "d": "10 a 12 de novembro de 2026",
+   "t": "Corrêa do Lago apresenta o roteiro; Índia, Nigéria e Alemanha apoiam, e Lula o defende na cúpula de líderes. Os discursos terminam com posições opostas; a Turquia propõe 35% de eletrificação até 2035, segundo a RTÉ."
   },
   {
    "d": "Até 2028",
@@ -112,7 +112,7 @@
   }
  ],
  "observar": [
-  "Se o roteiro entra na decisão final da COP31.",
+  "Se o roteiro e a meta de eletrificação entram na decisão final, até 20 de novembro.",
   "Quanto o fundo Florestas Tropicais para Sempre arrecada em Antália.",
   "Se o Brasil publica o próprio plano nacional de transição.",
   "Se o tema segue até o balanço global de 2028."
@@ -157,6 +157,14 @@
   {
    "t": "O Tempo: Lula na COP31",
    "u": "https://www.otempo.com.br/politica/governo/2026/11/11/lula-na-cop31-passamos-a-falar-mais-de-armas-e-tarifas-do-que-sobrevivencia-das-futuras-geracoes"
+  },
+  {
+   "t": "RTÉ: líderes divergem na COP31",
+   "u": "https://www.rte.ie/news/environment/2026/1112/1599028-world-leaders-clash-over-climate-change-talks-at-cop31/"
+  },
+  {
+   "t": "Reuters, via West Hawaii Today: conflitos não podem desviar o foco",
+   "u": "https://www.westhawaiitoday.com/2026/11/12/nation-world-news/conflict-must-not-distract-from-climate-action-leaders-warn-cop31/"
   }
  ]
 }

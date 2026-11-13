@@ -1,13 +1,9 @@
 {
  "titulo": "Guerra na Ucrânia: onde estão as negociações",
- "atualizado": "12 nov 2026",
+ "atualizado": "13 nov 2026",
  "selo": "Checado",
  "frase": "A Rússia invadiu a Ucrânia em fevereiro de 2022. Desde então, houve rodadas de conversa sem acordo de paz; uma nova rodada, com os EUA, está prevista para novembro de 2026.",
  "linha": [
-  {
-   "d": "23 de outubro de 2026",
-   "t": "Um cessar-fogo local em torno de Oleshky é acertado com mediação da primeira-dama dos EUA, Melania Trump, segundo a Euronews."
-  },
   {
    "d": "26 de outubro de 2026",
    "t": "Ataque de drones mata dois em Voronezh; ataques russos ferem civis em Zaporíjia, Chernihiv e Izium."
@@ -35,6 +31,10 @@
   {
    "d": "11 de novembro de 2026",
    "t": "Segundo e último dia em Abu Dhabi: Rússia e Ucrânia acertam troca de prisioneiros em grande escala, sem número nem data. Não há avanço sobre território, segundo o Kyiv Independent e o Moscow Times."
+  },
+  {
+   "d": "12 de novembro de 2026",
+   "t": "Witkoff e Kushner passam cerca de duas horas com Putin no Kremlin e depois encontram Zelensky em Dublin. Witkoff diz que os europeus estarão na próxima rodada; o Kremlin não confirma, segundo a AP."
   }
  ],
  "termos": [
@@ -101,9 +101,9 @@
  ],
  "observar": [
   "A data e o tamanho da troca de prisioneiros.",
-  "A visita de Kushner e Witkoff a Moscou e o encontro com Zelensky na Irlanda.",
-  "Se a Europa entra na negociação.",
-  "Ataques à infraestrutura de energia com a chegada do inverno."
+  "Se a Europa entra na próxima rodada, nos Emirados ou na Suíça.",
+  "O encontro entre Trump e Putin na cúpula da Apec.",
+  "A reunião da coalizão de apoio à Ucrânia em Berlim."
  ],
  "fontes": [
   {
@@ -161,6 +161,18 @@
   {
    "t": "The Moscow Times: sem avanço",
    "u": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227"
+  },
+  {
+   "t": "AP, via ETV Bharat: Putin e Zelensky no mesmo dia",
+   "u": "https://www.etvbharat.com/en/international/us-envoys-meet-with-putin-in-moscow-on-ukraine-talks-then-see-zelenskyy-in-dublin-enn26111300557"
+  },
+  {
+   "t": "The Tribune: o que disse o Kremlin",
+   "u": "https://www.tribuneindia.com/news/diplomatic-efforts/zelenskyy-meets-witkoff-kushner-in-ireland-announces-major-prisoner-exchange-greater-european-role-in-ukraine-peace-talks"
+  },
+  {
+   "t": "UA.News: os três resultados de Zelensky",
+   "u": "https://ua.news/en/world/zelenskii-pidbiv-pidsumki-peregovoriv-iz-komandoiu-trampa-ta-nazvav-tri-rezultati"
   }
  ]
 }
