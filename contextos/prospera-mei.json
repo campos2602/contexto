@@ -1,6 +1,6 @@
 {
  "titulo": "Prospera MEI e o Pix MEI de até R$ 5 mil",
- "atualizado": "6 nov 2026",
+ "atualizado": "14 nov 2026",
  "selo": "Checado",
  "frase": "O Prospera MEI é um pacote do governo federal para microempreendedores individuais. A parte mais conhecida, o Pix MEI, prevê repasse de até R$ 5 mil sem devolução para projetos de parte dos MEIs, a partir de 2027.",
  "linha": [
@@ -13,12 +13,12 @@
    "t": "O Ministério das Mulheres diz que o repasse não é automático e que será preciso seguir critérios, prazos e procedimentos de seleção."
   },
   {
-   "d": "Novembro de 2026",
-   "t": "Publicações nas redes dizem que o governo vai pagar só R$ 363 por CNPJ. O Aos Fatos classifica a afirmação como falsa."
-  },
-  {
    "d": "5 de novembro de 2026",
    "t": "O ministro do Empreendedorismo, Paulo Pereira, diz no programa Bom Dia, Ministro que \"não vai ter Pix MEI este ano\", segundo o site Claudio Dantas."
+  },
+  {
+   "d": "13 de novembro de 2026",
+   "t": "A Receita informa que vai cancelar dívidas de MEIs com a parte do INSS do DAS vencidas até 13 de outubro, com juros e multas, a partir de 1º de janeiro de 2027, segundo a Agência Brasil."
   },
   {
    "d": "Fim de 2026",
@@ -96,10 +96,10 @@
   }
  ],
  "observar": [
-  "A publicação dos critérios de seleção, prevista para o fim de 2026.",
-  "A inclusão do programa no Orçamento de 2027.",
-  "A data do primeiro pagamento em 2027.",
-  "Novas mensagens falsas sobre o programa."
+  "O detalhamento dos critérios do Pix MEI.",
+  "O cancelamento automático das dívidas em 1º de janeiro de 2027.",
+  "Quantos MEIs mantêm o perdão pagando em dia de janeiro a junho de 2027.",
+  "O novo limite de faturamento do MEI, que vale a partir de 2027."
  ],
  "fontes": [
   {
@@ -109,6 +109,14 @@
   {
    "t": "Aos Fatos: é falso que o governo vai pagar só R$ 363",
    "u": "https://www.aosfatos.org/noticias/governo-5000-mas-so-vai-pagar-363-pix-mei/"
+  },
+  {
+   "t": "Agência Brasil: Receita cancelará dívidas",
+   "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-cancelara-dividas-de-meis-vencidas-ate-esta-sexta-feira"
+  },
+  {
+   "t": "PGFN: perguntas frequentes sobre o perdão do MEI",
+   "u": "https://www.gov.br/pgfn/pt-br/servicos/perguntas-frequentes/perguntas-frequentes-perdao-do-mei"
   }
  ]
 }

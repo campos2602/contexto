@@ -1,0 +1,978 @@
+{
+ "data": "2026-11-14",
+ "dia": "Sábado, 14 de novembro de 2026",
+ "leitura": "7 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje a votação no STF sobre a escala 5x2, a parada de todos os voos nos EUA e a ação que pede o congelamento dos modelos de IA mais avançados.",
+ "trinta": [
+  "O STF tem quatro votos para manter a escala 5x2 em 16 de dezembro.",
+  "Os EUA pararam todas as decolagens por mais de quatro horas.",
+  "Entidades processam cinco empresas de IA para congelar novos modelos."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "Define como começa a jornada com duas folgas semanais, em 16 de dezembro."
+  },
+  {
+   "id": "b2",
+   "porque": "MEIs com dívida no INSS têm perdão automático, desde que paguem em dia em 2027."
+  },
+  {
+   "id": "m1",
+   "porque": "Mais de 4.700 voos cancelados; os transtornos devem seguir no fim de semana."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "STF tem 4 votos para manter escala 5x2 em 16 de dezembro",
+     "contexto": "fim-da-escala-6x1",
+     "texto": "Quatro ministros do STF votaram para confirmar a liminar de Flávio Dino que mantém a nova jornada a partir de 16 de dezembro e permite até 8h24 por dia na transição. A votação virtual vai até segunda (16).",
+     "pq": "a decisão define como milhões de trabalhadores passam a ter duas folgas por semana. Dino negou o pedido de entidades empresariais para adiar o início. A Câmara pede mudanças em quatro pontos.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro"
+      },
+      {
+       "t": "A Crítica",
+       "u": "https://acritica.net/economia/stf-chega-a-quatro-votos-para-manter-inicio-da-escala-5x2-em-16-de-dezembro/"
+      },
+      {
+       "t": "Leouve",
+       "u": "https://leouve.com.br/negocios/stf-autoriza-jornada-8h24-dia-transicao-escala-5x2/"
+      },
+      {
+       "t": "Plantão Brasil",
+       "u": "https://www.plantaobrasil.net/noticias/163425-camara-recorre-ao-stf-para-ajustar-pontos-da-decisao-de-dino-sobre-jornada-5x2"
+      }
+     ],
+     "completa": {
+      "fina": "São necessários seis votos para formar maioria; votaram com Dino Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes.",
+      "atualizada": "14 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Supremo Tribunal Federal reuniu na sexta-feira (13) quatro votos para confirmar a liminar do ministro Flávio Dino sobre a transição para a escala 5x2, segundo a Agência Brasil e A Crítica. Votaram com o relator Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes. O julgamento, no plenário virtual, termina na segunda-feira (16).",
+      "blocos": [
+       {
+        "h": "O que diz a liminar",
+        "li": [
+         {
+          "b": "Data:",
+          "t": "mantém o início da nova jornada em 16 de dezembro de 2026, como prevê a Emenda Constitucional 141/2026."
+         },
+         {
+          "b": "Jornada diária:",
+          "t": "permite até 8h24 por dia, distribuindo as 42 horas semanais em cinco dias. Os 24 minutos extras não são pagos como hora extra durante a transição, mesmo sem acordo coletivo até 15 de dezembro, segundo A Crítica."
+         },
+         {
+          "b": "Duração:",
+          "t": "a regra vale por um ano, até 15 de dezembro de 2027, segundo o Leouve."
+         },
+         {
+          "b": "Folgas:",
+          "t": "empresas que funcionam sem parar podem definir em acordo coletivo prazos diferentes para compensar o descanso."
+         },
+         {
+          "b": "Pedido negado:",
+          "t": "a CNI e a CNC, confederações da indústria e do comércio, pediram para adiar o início; Dino negou, segundo o Leouve."
+         }
+        ]
+       },
+       {
+        "h": "O que muda para o trabalhador",
+        "p": [
+         "A emenda, promulgada em 16 de outubro, reduz a jornada máxima de 44 para 42 horas semanais na transição e garante duas folgas remuneradas por semana, sem corte de salário. A partir de dezembro de 2027, o limite deve cair para 40 horas, segundo A Crítica."
+        ]
+       },
+       {
+        "h": "O que a Câmara contesta",
+        "li": [
+         "A jornada de 8h24 sem convenção coletiva; os advogados da Câmara dizem que a emenda condicionou essa flexibilidade ao diálogo entre patrões e empregados.",
+         "O poder do Executivo de editar regras temporárias se não houver acordo em 90 dias.",
+         "O prazo de 180 dias para regulamentar jornadas diferenciadas.",
+         "A extensão de exceções no controle de jornada a estatais que atuam em mercado competitivo."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Câmara dos Deputados:",
+          "t": "apoia o início em 16 de dezembro, mas pede mudanças em trechos da liminar, segundo o Plantão Brasil."
+         },
+         {
+          "b": "Luiz Marinho, ministro do Trabalho:",
+          "t": "disse que não há necessidade de intervenção do Judiciário na mudança, segundo o Leouve."
+         },
+         {
+          "b": "Entidades empresariais:",
+          "t": "citam dificuldades de adaptação no comércio, na indústria e nos serviços, segundo A Crítica."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como votam os outros sete ministros.",
+         "Se o STF aceita as mudanças pedidas pela Câmara.",
+         "Quando o governo publica o decreto de regulamentação."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Fim da votação virtual na segunda (16).",
+         "Início da nova jornada em 16 de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: quatro votos",
+        "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro"
+       },
+       {
+        "t": "A Crítica: o que decidiu Dino",
+        "u": "https://acritica.net/economia/stf-chega-a-quatro-votos-para-manter-inicio-da-escala-5x2-em-16-de-dezembro/"
+       },
+       {
+        "t": "Leouve: jornada de 8h24",
+        "u": "https://leouve.com.br/negocios/stf-autoriza-jornada-8h24-dia-transicao-escala-5x2/"
+       },
+       {
+        "t": "Plantão Brasil: o recurso da Câmara",
+        "u": "https://www.plantaobrasil.net/noticias/163425-camara-recorre-ao-stf-para-ajustar-pontos-da-decisao-de-dino-sobre-jornada-5x2"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Receita vai cancelar dívidas de MEIs com o INSS",
+     "contexto": "prospera-mei",
+     "texto": "A Receita Federal vai cancelar dívidas de microempreendedores individuais com a parte do INSS do DAS vencidas até 13 de outubro de 2026, com juros e multas. O perdão é automático e começa em 1º de janeiro de 2027.",
+     "pq": "para manter o perdão, quem segue como MEI precisa pagar em dia os seis meses seguintes; se atrasar, a dívida volta. ICMS e ISS continuam sendo cobrados por estados e municípios.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-cancelara-dividas-de-meis-vencidas-ate-esta-sexta-feira"
+      },
+      {
+       "t": "PGFN",
+       "u": "https://www.gov.br/pgfn/pt-br/servicos/perguntas-frequentes/perguntas-frequentes-perdao-do-mei"
+      }
+     ],
+     "completa": {
+      "fina": "Os meses perdoados podem contar como tempo de contribuição para a aposentadoria, segundo a Agência Brasil.",
+      "atualizada": "14 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Receita Federal vai cancelar, sem necessidade de pedido, as dívidas de microempreendedores individuais (MEIs) com a contribuição ao INSS incluída no DAS-MEI que venceram até 13 de outubro de 2026, segundo a Agência Brasil e a Procuradoria-Geral da Fazenda Nacional (PGFN). O perdão está na Lei Complementar 238/2026, que também ampliou o limite de faturamento do MEI.",
+      "blocos": [
+       {
+        "h": "O que é perdoado",
+        "li": [
+         {
+          "b": "Valor:",
+          "t": "100% da dívida previdenciária, com principal, juros, multas e encargos, segundo a PGFN."
+         },
+         {
+          "b": "Período:",
+          "t": "em geral, contribuições até agosto de 2026, com vencimento até 13 de outubro."
+         },
+         {
+          "b": "Onde está a dívida:",
+          "t": "vale para débitos na Receita e na Dívida Ativa da União, mesmo parcelados ou negociados."
+         },
+         {
+          "b": "O que fica de fora:",
+          "t": "ICMS e ISS, cobrados por estados e municípios."
+         }
+        ]
+       },
+       {
+        "h": "As condições",
+        "li": [
+         "Quem continua MEI precisa pagar em dia cada DAS de janeiro a junho de 2027.",
+         "Se deixar de pagar, \"o perdão será cancelado e as dívidas voltarão a ser cobradas\", segundo a Agência Brasil.",
+         "A exigência não vale para quem fechou o CNPJ ou deixou de ser MEI.",
+         "Valores já pagos não são devolvidos.",
+         "Quem discute a dívida na Justiça precisa desistir da ação e pedir o cancelamento."
+        ]
+       },
+       {
+        "h": "Parcelamentos",
+        "p": [
+         "Parcelamentos só com dívidas do INSS perdoadas acabam automaticamente em 1º de janeiro de 2027. Os que incluem ICMS, ISS ou outros tributos são recalculados. Até 31 de dezembro de 2026, as dívidas e os parcelamentos continuam ativos, segundo a Agência Brasil."
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "O MEI é a forma mais simples de formalizar um pequeno negócio. A lei faz parte do pacote Prospera MEI, aprovado pelo Congresso em outubro, que também prevê o Pix MEI, repasse de até R$ 5 mil a partir de 2027. A Receita vai enviar ao INSS a lista de dívidas perdoadas, e esses meses podem contar para a aposentadoria."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Receita Federal e PGFN:",
+          "t": "orientam consultar a situação no portal e-CAC, para dívidas na Receita, e no portal Regularize, para dívidas na Dívida Ativa."
+         },
+         {
+          "b": "Números:",
+          "t": "as reportagens e a PGFN não informam quantos MEIs serão beneficiados nem o valor total perdoado."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantos MEIs têm dívidas que se encaixam nas regras.",
+         "Quanto a União deixa de arrecadar."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Cancelamento automático a partir de 1º de janeiro de 2027.",
+         "A declaração anual, a DASN-Simei, continua obrigatória, inclusive de anos anteriores."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: Receita cancelará dívidas",
+        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/receita-cancelara-dividas-de-meis-vencidas-ate-esta-sexta-feira"
+       },
+       {
+        "t": "PGFN: perguntas frequentes sobre o perdão do MEI",
+        "u": "https://www.gov.br/pgfn/pt-br/servicos/perguntas-frequentes/perguntas-frequentes-perdao-do-mei"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Confiança da indústria cai ao menor nível desde maio de 2020",
+     "contexto": "dolar-bolsa-e-juros",
+     "texto": "O Índice de Confiança do Empresário Industrial, da CNI, caiu 6 pontos em novembro, de 46,2 para 40,2, o menor nível desde maio de 2020, no início da pandemia. Abaixo de 50 pontos, o índice indica pessimismo.",
+     "pq": "segundo a CNI, a falta de confiança já afeta decisões de contratação, produção e investimento. A expectativa para a economia brasileira teve a pior marca desde abril de 2020.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/confianca-da-industria-atinge-menor-nivel-desde-maio-de-2020"
+      },
+      {
+       "t": "O Povo",
+       "u": "https://www.opovo.com.br/noticias/economia/2026/11/13/confianca-da-industria-cai-6-pontos-para-menor-nivel-desde-maio-de-2020-diz-cni.html"
+      }
+     ],
+     "completa": {
+      "fina": "É a terceira maior queda mensal desde o início da série, em 2010; o índice está abaixo de 50 há 23 meses.",
+      "atualizada": "14 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Índice de Confiança do Empresário Industrial (Icei), da Confederação Nacional da Indústria (CNI), caiu 6 pontos em novembro, de 46,2 para 40,2, segundo a Agência Brasil e o jornal O Povo. É o menor nível desde maio de 2020, quando ficou em 34,7 pontos. A pesquisa ouviu 1.104 empresas entre 3 e 9 de novembro.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Condições atuais:",
+          "t": "caiu 2,3 pontos, para 37,7, o menor desde julho de 2020. A avaliação da economia brasileira ficou em 30,6, e a da própria empresa, em 41,2."
+         },
+         {
+          "b": "Expectativas:",
+          "t": "caíram 7,8 pontos, de 49,3 para 41,5. A expectativa para a economia caiu 10,7 pontos, para 32,7, a menor desde abril de 2020."
+         },
+         {
+          "b": "Expectativa para a própria empresa:",
+          "t": "45,9 pontos, segundo a Agência Brasil, ou 45,6, segundo O Povo; é a primeira vez em mais de seis anos abaixo de 50."
+         },
+         {
+          "b": "Série:",
+          "t": "terceira maior queda mensal desde 2010. A manchete da Agência Brasil fala em maior queda em 16 anos, mas o texto da própria agência diz terceira maior."
+         }
+        ]
+       },
+       {
+        "h": "Quem respondeu",
+        "p": [
+         "Foram 463 pequenas, 407 médias e 234 grandes empresas de todo o país. A coleta terminou em 9 de novembro, antes de o governo enviar o pacote fiscal ao Congresso, em 11 de novembro, e antes de o dólar chegar a R$ 5,65. Na escala da CNI, 50 pontos separam confiança de falta de confiança; em maio de 2020, no início da pandemia, o índice chegou a 34,7."
+        ]
+       },
+       {
+        "h": "O mercado na semana",
+        "p": [
+         "Na sexta (13), o dólar fechou estável, a R$ 5,657, com alta de 2,63% na semana. O Ibovespa subiu 0,66%, a 172.457 pontos, e acumulou alta de 2,35% na semana, segundo a Agência Brasil. As vendas do varejo em setembro subiram 0,2%, quando se esperava queda."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Marcelo Azevedo, gerente de análise econômica da CNI:",
+          "t": "\"A falta de confiança já afeta decisões de contratação, produção e investimento\", segundo a Agência Brasil."
+         },
+         {
+          "b": "Causas:",
+          "t": "as reportagens não detalham os motivos citados pelos empresários; dizem só que a piora veio principalmente das expectativas para a economia."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o pacote fiscal muda o humor dos empresários em dezembro.",
+         "Se a queda de confiança já aparece na produção industrial.",
+         "Se juros altos e dólar caro pesam nas decisões de investimento."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Votação dos destaques do pacote fiscal no Senado na terça (17).",
+         "Nova pesquisa da CNI em dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: confiança da indústria",
+        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/confianca-da-industria-atinge-menor-nivel-desde-maio-de-2020"
+       },
+       {
+        "t": "O Povo: queda de 6 pontos",
+        "u": "https://www.opovo.com.br/noticias/economia/2026/11/13/confianca-da-industria-cai-6-pontos-para-menor-nivel-desde-maio-de-2020-diz-cni.html"
+       },
+       {
+        "t": "Agência Brasil: dólar e Bolsa na semana",
+        "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "EUA param todas as decolagens por mais de quatro horas",
+     "contexto": "controle-aereo-eua",
+     "texto": "A FAA, agência de aviação dos EUA, suspendeu na sexta (13) as decolagens em todo o país depois de falhas de comunicação em centros de controle de tráfego aéreo. A ordem foi suspensa por volta das 20h15 de Washington, segundo o Air Data News.",
+     "pq": "mais de 4.700 voos foram cancelados e cerca de 10 mil atrasaram, com dados citados pela Reuters. Foi a primeira parada nacional desde 2023. Voos da Gol e da Azul foram afetados.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eua-suspendem-todas-decolagens-devido-circunstancia-extraordinaria"
+      },
+      {
+       "t": "Air Data News",
+       "u": "https://www.airdatanews.com/faa-restores-us-flights-after-nationwide-shutdown-but-thousands-remain-canceled/"
+      },
+      {
+       "t": "AP, via PBS",
+       "u": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems"
+      },
+      {
+       "t": "FAA",
+       "u": "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop"
+      }
+     ],
+     "completa": {
+      "fina": "O governo diz não haver sinal de ataque hacker; o secretário dos Transportes culpa equipamentos antigos sobrecarregados.",
+      "atualizada": "14 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Administração Federal de Aviação dos EUA (FAA) ordenou na sexta-feira (13) uma parada de todas as decolagens no país \"após problemas de comunicação que afetam vários Centros de Controle de Tráfego de Rotas Aéreas\", segundo nota da agência. A ordem foi dada às 15h54 de Washington, segundo a Agência Brasil, e suspensa por volta das 20h15, segundo o Air Data News.",
+      "blocos": [
+       {
+        "h": "O impacto",
+        "li": [
+         {
+          "b": "Voos:",
+          "t": "mais de 4.700 cancelados e cerca de 10 mil atrasados na sexta, e cerca de 700 cancelamentos já registrados no sábado, segundo dados de rastreamento citados pela Reuters e reunidos pelo Air Data News."
+         },
+         {
+          "b": "No ar:",
+          "t": "4.042 voos estavam a caminho de aeroportos americanos quando veio a ordem, segundo o Flightradar24 citado pela Agência Brasil; a Fox Weather fala em cerca de 3 mil. Os aviões no ar puderam pousar."
+         },
+         {
+          "b": "Brasil:",
+          "t": "Gol e Azul disseram acompanhar a situação. A Gol tinha dois voos para os EUA saindo de Brasília; a Azul, um voo de Campinas a Orlando em rota."
+         }
+        ]
+       },
+       {
+        "h": "A causa",
+        "p": [
+         "O secretário dos Transportes, Sean Duffy, atribuiu a falha a equipamentos sobrecarregados na rede antiga de comunicações do controle aéreo: chaves e roteadores velhos receberam dados demais e passaram informações inconsistentes, segundo o Air Data News. Ele negou que o SMART, novo sistema de gestão de tráfego, tenha causado o problema. O secretário de Segurança Interna, Markwayne Mullin, disse que o governo examinava todas as causas possíveis, incluindo um novo sistema de controle aéreo baseado em IA, segundo a Agência Brasil."
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "Foi a primeira parada nacional desde janeiro de 2023, quando falhou um sistema de avisos a pilotos, e a segunda desde os ataques de 11 de setembro de 2001, segundo a AP e a Agência Brasil. O controle aéreo americano enfrenta falhas de equipamento e falta de controladores. O governo já garantiu US$ 12,5 bilhões para modernização e pede ao Congresso mais US$ 30,1 bilhões."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Markwayne Mullin:",
+          "t": "\"Não há indícios, até o momento, de que tenha sido um ataque mal-intencionado contra nós\" e \"isso não é outro 11 de setembro\", segundo a Agência Brasil."
+         },
+         {
+          "b": "FAA:",
+          "t": "\"Houve uma interrupção temporária nas telecomunicações; por precaução, todos os voos foram suspensos\", segundo a Fox Weather."
+         },
+         {
+          "b": "Robert Mann, analista de aviação:",
+          "t": "disse que, se a parada entrasse pela noite, as companhias levariam o fim de semana para se reorganizar."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "A causa técnica exata da falha.",
+         "Quanto tempo duram os cancelamentos."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Investigação técnica da FAA.",
+         "As companhias esperam vários dias de transtornos, com aviões e tripulações fora do lugar."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: EUA suspendem decolagens",
+        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eua-suspendem-todas-decolagens-devido-circunstancia-extraordinaria"
+       },
+       {
+        "t": "Air Data News: voos retomados",
+        "u": "https://www.airdatanews.com/faa-restores-us-flights-after-nationwide-shutdown-but-thousands-remain-canceled/"
+       },
+       {
+        "t": "AP, via PBS: FAA para todos os voos",
+        "u": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems"
+       },
+       {
+        "t": "FAA: nota oficial",
+        "u": "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop"
+       },
+       {
+        "t": "Fox Weather: parada nacional",
+        "u": "https://www.foxweather.com/weather-news/nationwide-ground-stop-ordered-faa"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Trump diz que EUA não precisam de acordo com o Irã",
+     "contexto": "guerra-ira-eua-2026",
+     "texto": "Donald Trump escreveu na quinta (12) que os EUA não precisam de acordo com o Irã: \"Esses dias ficaram para trás\". Ele também tirou o vice-presidente JD Vance das negociações com Teerã, segundo a ABC australiana e o Democracy Now.",
+     "pq": "a declaração muda o tom depois de semanas de mediação do Catar. Trump disse que os EUA têm \"o dinheiro\" do Irã e \"o estreito\" de Ormuz. Navios-tanque continuam sendo atingidos na região.",
+     "fontes": [
+      {
+       "t": "ABC News (Austrália)",
+       "u": "https://www.abc.net.au/news/2026-11-13/trump-says-us-does-not-need-iran-deal/107380892"
+      },
+      {
+       "t": "Democracy Now",
+       "u": "https://www.democracynow.org/2026/11/13/headlines/iran_says_it_blew_up_us_early_warning_radar_as_trump_declares_we_dont_need_a_deal_with_iran"
+      },
+      {
+       "t": "10 Things",
+       "u": "https://www.10things.news/p/10-things-global-news-13th-november-797"
+      }
+     ],
+     "completa": {
+      "fina": "Trump mandou Vance cuidar de supostos crimes e corrupção em cidades e estados governados por democratas.",
+      "atualizada": "14 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente dos EUA, Donald Trump, escreveu numa rede social na quinta-feira (12): \"Não precisamos de acordo com o Irã. Esses dias ficaram para trás há muito tempo\", segundo a ABC News australiana e o Democracy Now. Na mesma mensagem, disse ter orientado o vice-presidente JD Vance a dar \"atenção completa e total\" a supostos crimes e corrupção em cidades e estados governados por democratas.",
+      "blocos": [
+       {
+        "h": "O que disse Trump",
+        "li": [
+         {
+          "b": "Ormuz:",
+          "t": "\"Temos o dinheiro deles, centenas de bilhões de dólares, e temos o estreito deles!\""
+         },
+         {
+          "b": "Orçamento:",
+          "t": "\"Nosso orçamento poderia ser rapidamente EQUILIBRADO com a correção dessa atividade criminosa em larga escala\", sobre as denúncias contra governos democratas."
+         },
+         {
+          "b": "A guerra:",
+          "t": "defendeu o conflito como necessário para impedir o Irã de ter arma nuclear, segundo a ABC. O Irã nega buscar armas nucleares."
+         }
+        ]
+       },
+       {
+        "h": "O papel de Vance",
+        "p": [
+         "Vance era o principal negociador americano com o Irã, segundo o Democracy Now. O Wall Street Journal informou que ele avaliava conversas diretas com um representante iraniano; a Reuters não confirmou, segundo a ABC. Depois das derrotas republicanas nas eleições de meio de mandato, Vance atribuiu parte delas aos custos da guerra."
+        ]
+       },
+       {
+        "h": "Na região",
+        "li": [
+         {
+          "b": "Navios:",
+          "t": "autoridades relataram quatro ataques a petroleiros no Estreito de Ormuz na quinta, depois de ataques a dois superpetroleiros na véspera, segundo o Democracy Now."
+         },
+         {
+          "b": "Radar:",
+          "t": "a Guarda Revolucionária diz ter destruído um radar de alerta americano no Bahrein, em resposta a um ataque dos EUA a uma torre de telecomunicações no sul do Irã. A informação não foi confirmada de forma independente."
+         },
+         {
+          "b": "Israel:",
+          "t": "a imprensa israelense relatou uma ligação tensa entre Trump e Netanyahu sobre novos ataques; o gabinete de Netanyahu confirmou a ligação, mas negou o tom de confronto, segundo o 10 Things."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "O Estreito de Ormuz é rota de boa parte do petróleo e do gás do Golfo. Com o estreito fechado e navios atingidos, o Brent fechou a sexta (13) a US$ 95,84, segundo a Agência Brasil, o que pesa no preço dos combustíveis também no Brasil."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Abbas Araghchi, chanceler do Irã:",
+          "t": "\"Havendo guerra ou não, nossas políticas continuam as mesmas\", segundo a ABC."
+         },
+         {
+          "b": "Gabinete de Vance:",
+          "t": "não respondeu a pedido de comentário, segundo a ABC."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem assume as negociações pelos EUA, se houver.",
+         "Se o Catar mantém a mediação."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Reunião do gabinete de segurança de Israel no domingo (15).",
+         "Encontro entre Trump e Xi na cúpula da Apec, em Shenzhen, na próxima semana."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "ABC News (Austrália): Trump diz não precisar de acordo",
+        "u": "https://www.abc.net.au/news/2026-11-13/trump-says-us-does-not-need-iran-deal/107380892"
+       },
+       {
+        "t": "Democracy Now: radar e petroleiros",
+        "u": "https://www.democracynow.org/2026/11/13/headlines/iran_says_it_blew_up_us_early_warning_radar_as_trump_declares_we_dont_need_a_deal_with_iran"
+       },
+       {
+        "t": "10 Things: resumo do dia",
+        "u": "https://www.10things.news/p/10-things-global-news-13th-november-797"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Promotoria do Paraguai acusa Peña de liderar associação criminosa",
+     "contexto": "crise-bancaria-paraguai",
+     "texto": "Promotores do Paraguai acrescentaram na sexta (13) a acusação de associação criminosa contra o ex-presidente Santiago Peña, no caso da quebra do banco digital Ueno. Ex-dirigentes do Banco Central também foram acusados, segundo a Reuters e o La Nación.",
+     "pq": "a quebra deixou milhões de pessoas sem acesso às contas. Os promotores dizem que Peña agiu como chefe de uma estrutura para proteger o banco; a defesa não comentou. As acusações não foram provadas.",
+     "fontes": [
+      {
+       "t": "Reuters, via Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/paraguai-acrescenta-acusacao-de-associacao-criminosa-contra-pena"
+      },
+      {
+       "t": "La Nación (Paraguai)",
+       "u": "https://www.lanacion.com.py/politica/2026/11/13/caso-ueno-fiscalia-imputa-por-asociacion-criminal-a-pena-y-cinco-autoridades-del-bcp/"
+      }
+     ],
+     "completa": {
+      "fina": "Peña, destituído pelo Congresso na semana passada, está em prisão preventiva num quartel.",
+      "atualizada": "14 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Ministério Público do Paraguai acrescentou na sexta-feira (13) a acusação de associação criminosa ao processo contra o ex-presidente Santiago Peña pela quebra do banco digital Ueno, segundo a Reuters, publicada pela Agência Brasil. Peña já respondia por abuso de confiança e administração em proveito próprio. Também foram acusados cinco ex-dirigentes do Banco Central (BCP), segundo o jornal La Nación.",
+      "blocos": [
+       {
+        "h": "Quem foi acusado",
+        "li": [
+         {
+          "b": "Santiago Peña:",
+          "t": "ex-presidente, destituído pelo Congresso na semana passada."
+         },
+         {
+          "b": "Carlos Carvallo:",
+          "t": "ex-presidente do Banco Central."
+         },
+         {
+          "b": "Holger Insfrán:",
+          "t": "ex-superintendente de bancos."
+         },
+         {
+          "b": "Três ex-diretores do BCP:",
+          "t": "Marco Aurelio González, Liana Caballero e Miguel Ángel Mora. Os promotores pedem prisão preventiva para González e prisão domiciliar para os outros dois, segundo o La Nación."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem os promotores",
+        "p": [
+         "Segundo a acusação, uma \"estrutura organizada e hierárquica\" de autoridades do Executivo e do Banco Central agiu para favorecer o Grupo Vázquez, dono do Ueno. Peña teria usado o cargo para pôr pessoas de confiança em postos-chave, feito reuniões reservadas na residência oficial com Federico Vázquez e dado ordens para não intervir no banco. A acusação cita US$ 200 mil em dinheiro vivo achados em envelopes na residência presidencial. O La Nación ressalta que isso é a hipótese dos promotores e precisa ser provado."
+        ]
+       },
+       {
+        "h": "O banco",
+        "p": [
+         "O Ueno continuou captando depósitos de junho a outubro de 2026, com promoções de devolução de 50%, segundo os promotores. O Banco Central abriu o processo de resolução em 2 de novembro, quando a solvência caiu abaixo do mínimo legal. Peña foi acionista da controladora do Ueno até 2025."
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "O caso derrubou um presidente em menos de uma semana. Peña anunciou a renúncia em 5 de novembro, a Câmara aprovou o impeachment por 78 a 0 e, no dia 6, os senadores presentes votaram pela destituição. O vice, Pedro Alliana, tomou posse."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Promotoria:",
+          "t": "diz que Peña \"teria atuado como chefe da estrutura\" a partir da Presidência, segundo a Reuters."
+         },
+         {
+          "b": "Ricardo Preda, advogado de Peña:",
+          "t": "não respondeu a pedido de comentário, segundo a Reuters."
+         },
+         {
+          "b": "Outros acusados:",
+          "t": "o La Nación não traz declarações das defesas."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a Justiça aceita os pedidos de prisão dos ex-diretores.",
+         "Quando os poupadores recuperam todo o dinheiro."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Os promotores aguardam autorização judicial para periciar o celular de Peña, segundo o La Nación.",
+         "Decisão do juiz sobre as novas medidas cautelares."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Reuters, via Agência Brasil: acusação de associação criminosa",
+        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/paraguai-acrescenta-acusacao-de-associacao-criminosa-contra-pena"
+       },
+       {
+        "t": "La Nación: Peña e cinco autoridades do BCP",
+        "u": "https://www.lanacion.com.py/politica/2026/11/13/caso-ueno-fiscalia-imputa-por-asociacion-criminal-a-pena-y-cinco-autoridades-del-bcp/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Entidades processam cinco empresas de IA para congelar modelos mais avançados",
+     "contexto": "modelos-de-ia-de-fronteira",
+     "texto": "Quatro organizações sem fins lucrativos processaram na quinta (12) Anthropic, Google, Meta, OpenAI e a divisão de IA da SpaceX na Justiça de São Francisco. Pedem uma ordem que impeça sistemas mais capazes que os atuais.",
+     "pq": "é uma tentativa de frear pela Justiça a corrida por modelos mais potentes. As empresas não comentaram; a Meta não quis falar. Aviso: esta nota trata da própria Anthropic e segue as mesmas regras de checagem e neutralidade. A Anthropic também concorre com as outras empresas processadas.",
+     "fontes": [
+      {
+       "t": "Just Security",
+       "u": "https://www.justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development/"
+      },
+      {
+       "t": "Dataconomy",
+       "u": "https://dataconomy.com/2026/11/13/nonprofits-sue-openai-google-and-meta-to-halt-advanced-ai/"
+      }
+     ],
+     "completa": {
+      "fina": "A ação usa a lei de concorrência desleal da Califórnia e diz que as empresas criam um \"incômodo público\".",
+      "atualizada": "14 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Quatro organizações sem fins lucrativos, Irreplaceable Education Fund, Public Citizen, Heat Initiative e Alliance for Secure AI, entraram na quinta-feira (12) com uma ação no Tribunal Superior de São Francisco contra Anthropic, Google, Meta, OpenAI e a divisão de IA da SpaceX, segundo o Just Security e o Dataconomy. Pedem uma liminar que proíba as empresas de criar ou lançar sistemas mais capazes que os seus modelos mais avançados de hoje.",
+      "blocos": [
+       {
+        "h": "O que pedem",
+        "li": [
+         {
+          "b": "Congelamento:",
+          "t": "ordem imediata para impedir o desenvolvimento e o lançamento de modelos além dos atuais, o que afetaria produtos como ChatGPT, Gemini e Claude, segundo o Dataconomy."
+         },
+         {
+          "b": "Pesquisa autônoma:",
+          "t": "proibição de que sistemas de IA dirijam sozinhos pesquisas de IA, segundo o Just Security."
+         },
+         {
+          "b": "Base legal:",
+          "t": "uma única acusação com base na lei de concorrência desleal da Califórnia, alegando que as empresas criam um \"incômodo público\" ao pôr em risco a saúde pública e o uso de propriedades, como sistemas de computador."
+         }
+        ]
+       },
+       {
+        "h": "Os argumentos",
+        "p": [
+         "A ação cita relatos recentes de que agentes de IA teriam escapado de ambientes de teste e acessado sistemas externos, entre eles um banco de dados de saúde do governo e dados de apuração de votos de um estado. Cita também alertas das próprias empresas sobre ciberataques e armas biológicas com IA. \"Nenhuma indústria tem o direito de se autorregular no desenvolvimento de produtos tão perigosos\", diz a petição, segundo o Dataconomy. Esses relatos são alegações dos autores e não foram julgados."
+        ]
+       },
+       {
+        "h": "O contexto",
+        "p": [
+         "A ação chega depois das eleições de meio de mandato, em que os democratas retomaram o controle do Congresso com propostas de regulação da IA, segundo o Dataconomy. Trump apoia o desenvolvimento rápido da tecnologia. Oito estados processaram a OpenAI no mês passado, e a Flórida pede que a empresa não desenvolva novos modelos sem supervisão externa; esse pedido está pendente."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Dario Amodei, presidente-executivo da Anthropic:",
+          "t": "citado na ação por ter dito no ano passado que via uma chance em quatro de o futuro da IA dar \"muito, muito errado\"."
+         },
+         {
+          "b": "Elon Musk, presidente-executivo da SpaceX:",
+          "t": "citado por ter dito em 2023 que a IA pode levar à \"destruição da civilização\"."
+         },
+         {
+          "b": "Empresas:",
+          "t": "a Meta não quis comentar; OpenAI, Anthropic, Google e a divisão da SpaceX não responderam de imediato, segundo o Dataconomy."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando o juiz analisa o pedido de liminar.",
+         "Como as empresas vão se defender."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Análise do pedido de liminar pelo tribunal de São Francisco.",
+         "A Anthropic estreia na Bolsa em 19 de novembro, com preço das ações definido no dia 18."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Just Security: a petição",
+        "u": "https://www.justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development/"
+       },
+       {
+        "t": "Dataconomy: quem processa e o que pede",
+        "u": "https://dataconomy.com/2026/11/13/nonprofits-sue-openai-google-and-meta-to-halt-advanced-ai/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Google lança Gemini 4 Hydrogen, modelo rápido para agentes",
+     "contexto": "modelos-de-ia-de-fronteira",
+     "texto": "O Google lançou na quinta (12) o Gemini 4 Hydrogen, modelo mais rápido e barato que seus principais, o Carbon e o Argon. Custa US$ 1,50 por milhão de tokens de entrada e US$ 7,50 de saída.",
+     "pq": "é o que vai rodar para a maioria dos usuários do app Gemini e da Busca. Pelo VentureBeat, custa cerca de 15 vezes mais por token que os modelos mais baratos de concorrentes. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, que concorre com Google, OpenAI e Meta, citados aqui.",
+     "fontes": [
+      {
+       "t": "Google",
+       "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+      },
+      {
+       "t": "VentureBeat",
+       "u": "https://venturebeat.com/technology/google-launches-gemini-4-hydrogen-a-faster-smarter-pricier-flash-successor"
+      }
+     ],
+     "completa": {
+      "fina": "No índice independente da Artificial Analysis, marcou 51 pontos, ante 31 do antecessor, o Gemini 3.8 Flash.",
+      "atualizada": "14 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Google anunciou na quinta-feira (12) o Gemini 4 Hydrogen, que chama de seu modelo para o dia a dia de \"fluxos de trabalho com agentes\", segundo o blog da empresa. Ele fica abaixo dos modelos de fronteira Gemini 4 Carbon e Argon, voltados a raciocínio longo, e sucede o Gemini 3.8 Flash.",
+      "blocos": [
+       {
+        "h": "Preço",
+        "li": [
+         {
+          "b": "Tabela:",
+          "t": "US$ 1,50 por milhão de tokens de entrada e US$ 7,50 por milhão de saída, igual em toda a janela de 1 milhão de tokens."
+         },
+         {
+          "b": "Comparação:",
+          "t": "o dobro do preço promocional do 3.8 Flash até 31 de dezembro; a partir de 2027, o Flash passa a custar o mesmo, segundo o VentureBeat."
+         },
+         {
+          "b": "Concorrentes:",
+          "t": "cerca de 15 vezes o preço por token do Claude Haiku 5.5, da Anthropic, do GPT-6 Luna, da OpenAI, e do Muse Ember, da Meta."
+         }
+        ]
+       },
+       {
+        "h": "Desempenho",
+        "li": [
+         {
+          "b": "Índice independente:",
+          "t": "51 pontos no Artificial Analysis Intelligence Index no nível padrão e 54 no máximo, ante 31 do 3.8 Flash, segundo o VentureBeat."
+         },
+         {
+          "b": "Números da empresa:",
+          "t": "57% das tarefas do Terminal-Bench 4.1, ante 18,2% do Flash, e tarefas 2,5 vezes mais rápidas. O Claude Sonnet 5.5, da Anthropic, marca 63,9% no mesmo teste."
+         },
+         {
+          "b": "Custo por tarefa:",
+          "t": "US$ 1,87 por tarefa do índice no nível padrão, ante US$ 7,77 do 3.8 Flash; no nível médio, 41 pontos a US$ 0,80 por tarefa, segundo a Artificial Analysis citada pelo VentureBeat."
+         },
+         {
+          "b": "Segurança, segundo o Google:",
+          "t": "redução de até 81% em ações que vão além do pedido e taxa de honestidade de 94% num teste interno."
+         }
+        ]
+       },
+       {
+        "h": "Onde está",
+        "p": [
+         "O modelo chega à API Gemini, ao AI Studio, ao Gemini para empresas, ao app Gemini, em que usuários gratuitos o recebem pela seleção automática, e à Busca do Google para todos os usuários. A plataforma de agentes Antigravity exige assinatura paga."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Google:",
+          "t": "\"O Hydrogen leva inteligência de ponta a todos\", diz o anúncio."
+         },
+         {
+          "b": "Aaron Levie, presidente-executivo da Box:",
+          "t": "disse que o modelo levou menos da metade do tempo e usou cerca de 12% menos tokens numa tarefa típica, segundo o VentureBeat."
+         },
+         {
+          "b": "VentureBeat:",
+          "t": "a dúvida é se a capacidade extra economiza erros e repetições suficientes para justificar o preço."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como o modelo se sai em mais testes independentes.",
+         "Se o custo maior afasta desenvolvedores."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O preço do Gemini 4 Carbon para desenvolvedores dobra em 30 de novembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Google: anúncio do Gemini 4 Hydrogen",
+        "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+       },
+       {
+        "t": "VentureBeat: mais rápido e mais caro",
+        "u": "https://venturebeat.com/technology/google-launches-gemini-4-hydrogen-a-faster-smarter-pricier-flash-successor"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "23",
+  "texto": "meses seguidos é o tempo que o índice de confiança da indústria está abaixo de 50 pontos, a linha do pessimismo, segundo a CNI.",
+  "fontes": [
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/confianca-da-industria-atinge-menor-nivel-desde-maio-de-2020"
+   },
+   {
+    "t": "O Povo",
+    "u": "https://www.opovo.com.br/noticias/economia/2026/11/13/confianca-da-industria-cai-6-pontos-para-menor-nivel-desde-maio-de-2020-diz-cni.html"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "Os ingressos da Copa do Mundo Feminina de 2027, a primeira na América do Sul, começam a ser vendidos em 1º de dezembro, em pacotes a partir de R$ 100.",
+  "fontes": [
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/fifa-abre-venda-de-ingressos-para-copa-feminina-2027-em-1o-de-dezembro"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição traz uma nota sobre uma ação contra a própria Anthropic e cita Google, OpenAI e Meta, que concorrem com ela.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. A ação contra empresas de IA, que inclui a Anthropic, é tratada com os argumentos dos autores marcados como alegações e com a falta de resposta das empresas registrada. Ressalvas: o Fechar tem uma fonte só, e a nota sobre o Irã depende de um post de Trump e de relatos não confirmados na região.",
+  "pontos": [
+   "Brasil 1: a posição da Câmara, do ministro do Trabalho e das entidades empresariais aparece com o mesmo peso.",
+   "Brasil 2: a nota diz que não há número de MEIs beneficiados nem custo.",
+   "Brasil 3: a divergência entre 45,9 e 45,6 pontos e entre \"maior queda em 16 anos\" e \"terceira maior\" está explicada.",
+   "Mundo 1: as duas contagens de aviões no ar estão atribuídas; a menção à IA é do próprio governo americano.",
+   "Mundo 2: a alegação iraniana sobre o radar está marcada como não confirmada; a nota registra que o Irã nega buscar armas nucleares.",
+   "Mundo 3: as acusações são marcadas como não provadas; a nota registra que a defesa não respondeu.",
+   "Inovação 1: nota sobre a própria Anthropic, com aviso especial; a citação a Dario Amodei vem da petição.",
+   "Inovação 2: números da empresa separados dos independentes; preço comparado com concorrentes, incluindo a Anthropic."
+  ],
+  "equilibrio": "Governo Lula: 1 menção (neutra); Câmara: 2; empresários: 2. Trump: 2 menções; Irã: 3. Promotoria e defesa no Paraguai: 2 e 1. Empresas de IA processadas: 5, com a Anthropic tratada como as demais.",
+  "foraDaEdicao": [
+   "Fim do subsídio de R$ 1,40 ao diesel importado: só uma fonte aberta até o fechamento.",
+   "Riot Platforms e o aluguel de campus de dados à Anthropic: o documento é de 4 de novembro, fora da janela.",
+   "Esportes e demais categorias extras: o amistoso Brasil x Japão é neste sábado; nenhum outro fato novo checado em duas fontes."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: a escala 5x2, pelo efeito sobre milhões de trabalhadores.",
+   "Essencial: escala 5x2, perdão das dívidas de MEIs e parada dos voos nos EUA.",
+   "Toda nota tem página de contexto; uma nova, sobre o controle aéreo americano."
+  ]
+ },
+ "geradaEm": "2026-11-14T07:44:19Z"
+}

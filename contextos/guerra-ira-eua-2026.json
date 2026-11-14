@@ -1,13 +1,9 @@
 {
  "titulo": "A guerra entre Estados Unidos e Irã em 2026",
- "atualizado": "13 nov 2026",
+ "atualizado": "14 nov 2026",
  "selo": "Checado",
  "frase": "Estados Unidos e Israel entraram em guerra com o Irã no fim de fevereiro de 2026. Desde então houve cessar-fogo, um acordo provisório que venceu sem renovação, bloqueio naval e ataques no Estreito de Ormuz, enquanto mediadores tentam um acordo.",
  "linha": [
-  {
-   "d": "2 de novembro de 2026",
-   "t": "Mediadores do Catar se reúnem em Teerã. À noite, os EUA atacam a ilha de Qeshm."
-  },
   {
    "d": "3 de novembro de 2026",
    "t": "O Catar diz que os dois países analisam um rascunho de proposta para encerrar a guerra."
@@ -35,6 +31,10 @@
   {
    "d": "11 e 12 de novembro de 2026",
    "t": "O gabinete de segurança de Israel manda o Exército se preparar para um possível ataque ao Irã, segundo a emissora Kan. Gadi Eisenkot pede a Netanyahu que espere o novo governo. Rezaei ameaça bases americanas até a Europa."
+  },
+  {
+   "d": "12 de novembro de 2026",
+   "t": "Trump escreve que os EUA não precisam de acordo com o Irã e tira JD Vance das negociações. Petroleiros são atingidos em Ormuz, e o Irã diz ter destruído um radar americano no Bahrein, sem confirmação independente."
   }
  ],
  "termos": [
@@ -100,10 +100,10 @@
   }
  ],
  "observar": [
+  "Quem conduz as negociações pelos EUA, se houver.",
   "A reunião do gabinete de segurança de Israel, no domingo (15).",
-  "Se o Catar retoma a mediação.",
   "A situação no Estreito de Ormuz e o preço do petróleo.",
-  "A formação do novo governo israelense."
+  "O encontro entre Trump e Xi na Apec."
  ],
  "fontes": [
   {
@@ -161,6 +161,14 @@
   {
    "t": "JFeed: Exército recebe ordem de se preparar",
    "u": "https://www.jfeed.com/news-israel/toe0ks"
+  },
+  {
+   "t": "ABC News (Austrália): Trump diz não precisar de acordo",
+   "u": "https://www.abc.net.au/news/2026-11-13/trump-says-us-does-not-need-iran-deal/107380892"
+  },
+  {
+   "t": "Democracy Now: radar e petroleiros",
+   "u": "https://www.democracynow.org/2026/11/13/headlines/iran_says_it_blew_up_us_early_warning_radar_as_trump_declares_we_dont_need_a_deal_with_iran"
   }
  ]
 }

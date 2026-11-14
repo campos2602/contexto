@@ -1,13 +1,9 @@
 {
  "titulo": "Dólar, Bolsa e juros: como o mercado reage a um susto",
- "atualizado": "13 nov 2026",
+ "atualizado": "14 nov 2026",
  "selo": "Checado",
  "frase": "Quando investidores mudam de ideia sobre o futuro da economia de um país, eles vendem ações e reais e cobram juros mais altos para emprestar dinheiro ao governo. O dólar, o Ibovespa e os juros futuros medem esses três movimentos.",
  "linha": [
-  {
-   "d": "28 de outubro de 2026",
-   "t": "O Ibovespa cai 2,68%, a 171.006 pontos, o menor fechamento desde agosto, puxado por bancos. O dólar fica perto de R$ 5,34."
-  },
   {
    "d": "29 de outubro de 2026",
    "t": "O Ibovespa cai pela quarta vez seguida, a 169.186 pontos, e o dólar sobe a R$ 5,387. O BC informa dívida bruta de 82,9% do PIB em setembro."
@@ -35,6 +31,10 @@
   {
    "d": "12 de novembro de 2026",
    "t": "O dólar sobe 1,58% e fecha a R$ 5,6507, o maior valor desde 2 de junho de 2025. O Ibovespa cai 0,47%, puxado pelo Banco do Brasil, que perde 8,35% depois de lucro 66,5% menor, segundo a Agência Brasil."
+  },
+  {
+   "d": "13 de novembro de 2026",
+   "t": "O dólar fecha estável, a R$ 5,657, com alta de 2,63% na semana; o Ibovespa sobe 2,35% na semana. A CNI informa que a confiança da indústria caiu ao menor nível desde maio de 2020."
   }
  ],
  "termos": [
@@ -112,7 +112,7 @@
   }
  ],
  "observar": [
-  "A reação do mercado à aprovação do texto-base do pacote fiscal.",
+  "A votação dos destaques do pacote fiscal, na terça (17).",
   "Se o Banco Central atua no câmbio.",
   "Os juros nos EUA e a possibilidade de alta pelo Fed.",
   "O balanço da Nvidia, na terça (17)."
@@ -217,6 +217,18 @@
   {
    "t": "O Tempo: maior valor desde junho de 2025",
    "u": "https://www.otempo.com.br/economia/2026/11/12/dolar-dispara-e-fecha-no-maior-valor-desde-junho-de-2025"
+  },
+  {
+   "t": "Agência Brasil: dólar e Bolsa na semana",
+   "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-fecha-estavel-r-565-mas-sobe-263-na-semana"
+  },
+  {
+   "t": "Agência Brasil: confiança da indústria",
+   "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/confianca-da-industria-atinge-menor-nivel-desde-maio-de-2020"
+  },
+  {
+   "t": "O Povo: queda de 6 pontos",
+   "u": "https://www.opovo.com.br/noticias/economia/2026/11/13/confianca-da-industria-cai-6-pontos-para-menor-nivel-desde-maio-de-2020-diz-cni.html"
   }
  ]
 }

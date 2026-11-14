@@ -1,0 +1,114 @@
+{
+ "titulo": "Controle aéreo nos EUA: um sistema antigo sob pressão",
+ "atualizado": "14 nov 2026",
+ "selo": "Checado",
+ "frase": "Os EUA têm o espaço aéreo mais movimentado do mundo, controlado pela FAA com equipamentos que o próprio governo chama de antigos. Quando a comunicação entre os centros de controle falha, a agência pode parar todas as decolagens do país.",
+ "linha": [
+  {
+   "d": "11 de setembro de 2001",
+   "t": "Depois dos ataques, a FAA para todo o tráfego aéreo do país, a primeira parada nacional, segundo a AP."
+  },
+  {
+   "d": "Janeiro de 2023",
+   "t": "Falha no sistema de avisos a pilotos leva à segunda parada nacional de decolagens, de cerca de uma hora e meia, segundo a Fox Weather."
+  },
+  {
+   "d": "2026",
+   "t": "O governo garante US$ 12,5 bilhões para modernizar o controle aéreo, segundo o Air Data News."
+  },
+  {
+   "d": "13 de novembro de 2026, 15h54",
+   "t": "Depois de falhas de comunicação em Chicago e em Washington, a FAA para todas as decolagens do país, segundo a Agência Brasil."
+  },
+  {
+   "d": "13 de novembro de 2026, 20h15",
+   "t": "A parada é suspensa. Mais de 4.700 voos são cancelados no dia, segundo dados citados pela Reuters."
+  },
+  {
+   "d": "14 de novembro de 2026",
+   "t": "Cerca de 700 voos já estão cancelados no sábado, com aviões e tripulações fora do lugar."
+  }
+ ],
+ "termos": [
+  {
+   "t": "FAA",
+   "d": "Administração Federal de Aviação, a agência do governo americano que regula a aviação civil e opera o controle de tráfego aéreo."
+  },
+  {
+   "t": "Parada em solo",
+   "d": "Ordem que impede decolagens; os aviões no ar podem seguir e pousar."
+  },
+  {
+   "t": "Centro de controle de rotas",
+   "d": "Instalação que acompanha os aviões entre os aeroportos, na fase de cruzeiro. Os EUA têm vários, cada um cuidando de uma região."
+  },
+  {
+   "t": "Aviso a pilotos",
+   "d": "Sistema que informa tripulações sobre riscos e mudanças em rotas e aeroportos; sua falha causou a parada de 2023."
+  },
+  {
+   "t": "SMART",
+   "d": "Novo sistema de gestão de tráfego aéreo; o secretário dos Transportes nega que tenha causado a falha de 2026."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Sean Duffy",
+   "t": "secretário dos Transportes, a quem a FAA responde."
+  },
+  {
+   "b": "Markwayne Mullin",
+   "t": "secretário de Segurança Interna; disse não haver sinal de ataque hacker."
+  },
+  {
+   "b": "Companhias aéreas",
+   "t": "precisam reorganizar aviões e tripulações depois de cada parada; no Brasil, Gol e Azul têm voos para os EUA."
+  },
+  {
+   "b": "Congresso dos EUA",
+   "t": "decide sobre os US$ 30,1 bilhões extras pedidos pela Casa Branca para modernização."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "A causa",
+   "t": "Duffy atribui a falha de 2026 a chaves e roteadores antigos sobrecarregados. Mullin disse que o governo examinava todas as hipóteses, incluindo um novo sistema de controle baseado em IA, segundo a Agência Brasil."
+  },
+  {
+   "b": "O dinheiro",
+   "t": "o governo pede mais US$ 30,1 bilhões ao Congresso para terminar a modernização; os parlamentares ainda não votaram."
+  },
+  {
+   "b": "Segurança",
+   "t": "o governo diz que a parada foi uma precaução e que não houve ataque. Não houve relato de acidente."
+  }
+ ],
+ "observar": [
+  "O resultado da investigação técnica da FAA.",
+  "A votação dos recursos extras no Congresso.",
+  "Quanto tempo duram os cancelamentos.",
+  "Novas falhas de comunicação nos centros de controle."
+ ],
+ "fontes": [
+  {
+   "t": "Agência Brasil: EUA suspendem decolagens",
+   "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eua-suspendem-todas-decolagens-devido-circunstancia-extraordinaria"
+  },
+  {
+   "t": "Air Data News: voos retomados",
+   "u": "https://www.airdatanews.com/faa-restores-us-flights-after-nationwide-shutdown-but-thousands-remain-canceled/"
+  },
+  {
+   "t": "AP, via PBS: FAA para todos os voos",
+   "u": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems"
+  },
+  {
+   "t": "FAA: nota oficial",
+   "u": "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop"
+  },
+  {
+   "t": "Fox Weather: parada nacional",
+   "u": "https://www.foxweather.com/weather-news/nationwide-ground-stop-ordered-faa"
+  }
+ ]
+}

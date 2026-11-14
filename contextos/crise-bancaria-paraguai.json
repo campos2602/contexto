@@ -1,13 +1,9 @@
 {
  "titulo": "A quebra do banco Ueno e a crise política no Paraguai",
- "atualizado": "8 nov 2026",
+ "atualizado": "14 nov 2026",
  "selo": "Checado",
  "frase": "A quebra do Ueno, banco digital com cerca de 3 milhões de clientes e mais de US$ 800 milhões em depósitos públicos, levou à destituição do presidente Santiago Peña pelo Senado em 6 de novembro de 2026. O vice, Pedro Alliana, assumiu.",
  "linha": [
-  {
-   "d": "2023",
-   "t": "O Ueno, banco digital, obtém licença para funcionar, segundo a AP."
-  },
   {
    "d": "2025",
    "t": "Peña, que teve participação na empresa controladora do Ueno, diz que a vendeu nesse ano, segundo a Al Jazeera."
@@ -35,6 +31,10 @@
   {
    "d": "7 de novembro de 2026",
    "t": "O juiz Humberto Otazú manda prender Peña preventivamente em um quartel em Assunção. Ele responde por abuso de confiança e administração em proveito próprio; Carvallo também é acusado."
+  },
+  {
+   "d": "13 de novembro de 2026",
+   "t": "Promotores acrescentam a acusação de associação criminosa contra Peña e acusam cinco ex-dirigentes do Banco Central. Três ex-diretores são detidos, segundo a Reuters e o La Nación."
   }
  ],
  "termos": [
@@ -116,10 +116,10 @@
   }
  ],
  "observar": [
-  "Quanto tempo dura a prisão preventiva de Peña.",
-  "Se a Justiça aceita o pedido de prisão de Carlos Carvallo.",
-  "A devolução do dinheiro aos clientes; até 7 de novembro, US$ 160 milhões tinham sido pagos a quase 1,2 milhão de poupadores, segundo a Reuters.",
-  "A greve de professores prevista a partir de segunda (9)."
+  "Se a Justiça aceita as prisões pedidas para ex-diretores do Banco Central.",
+  "A perícia no celular de Peña.",
+  "A devolução do dinheiro aos poupadores.",
+  "Quanto tempo dura a prisão preventiva de Peña."
  ],
  "fontes": [
   {
@@ -145,6 +145,14 @@
   {
    "t": "DPA, via Yahoo News: Peña em prisão preventiva",
    "u": "https://www.yahoo.com/news/world/articles/paraguays-ousted-president-pe-remanded-033337630.html"
+  },
+  {
+   "t": "Reuters, via Agência Brasil: acusação de associação criminosa",
+   "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/paraguai-acrescenta-acusacao-de-associacao-criminosa-contra-pena"
+  },
+  {
+   "t": "La Nación: Peña e cinco autoridades do BCP",
+   "u": "https://www.lanacion.com.py/politica/2026/11/13/caso-ueno-fiscalia-imputa-por-asociacion-criminal-a-pena-y-cinco-autoridades-del-bcp/"
   }
  ]
 }

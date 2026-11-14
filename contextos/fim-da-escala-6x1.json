@@ -1,6 +1,6 @@
 {
  "titulo": "O fim da escala 6x1: o que muda na jornada de trabalho",
- "atualizado": "10 nov 2026",
+ "atualizado": "14 nov 2026",
  "selo": "Checado",
  "frase": "Uma emenda à Constituição reduz a jornada máxima de 44 para 42 horas semanais e torna obrigatórias duas folgas por semana a partir de 16 de dezembro de 2026. O governo prepara um decreto que define como as empresas podem organizar as escalas.",
  "linha": [
@@ -9,8 +9,8 @@
    "t": "A Constituição permite jornada de até 44 horas semanais. A escala 6x1, com seis dias de trabalho e um de folga, é comum no comércio e nos serviços."
   },
   {
-   "d": "2026",
-   "t": "O Congresso aprova a emenda que acaba com a escala 6x1: jornada máxima de 42 horas e duas folgas semanais obrigatórias."
+   "d": "16 de outubro de 2026",
+   "t": "O Congresso promulga a Emenda Constitucional 141/2026: jornada máxima de 42 horas na transição, duas folgas remuneradas por semana e queda gradual para 40 horas, sem corte de salário."
   },
   {
    "d": "5 de novembro de 2026",
@@ -19,6 +19,10 @@
   {
    "d": "9 de novembro de 2026",
    "t": "O decreto é adiado. Segundo a Folhapress, Lula não teve tempo de revisar o texto antes de viajar para a COP31, na Turquia, e para a cúpula da Asean, nas Filipinas."
+  },
+  {
+   "d": "12 e 13 de novembro de 2026",
+   "t": "Flávio Dino, do STF, mantém o início em 16 de dezembro e permite até 8h24 por dia na transição. Quatro ministros votam para confirmar a liminar; a Câmara pede mudanças em quatro pontos."
   },
   {
    "d": "Semana de 16 de novembro de 2026",
@@ -88,9 +92,9 @@
   }
  ],
  "observar": [
-  "A publicação do decreto, prevista para a semana de 16 de novembro.",
-  "Quais normas regulamentadoras serão alteradas.",
-  "A proposta de emenda do senador Eduardo Braga.",
+  "O fim da votação no STF, na segunda (16).",
+  "Se o STF aceita as mudanças pedidas pela Câmara.",
+  "A publicação do decreto de regulamentação.",
   "A entrada em vigor da emenda, em 16 de dezembro."
  ],
  "fontes": [
@@ -101,6 +105,22 @@
   {
    "t": "O Antagonista: decreto fica na gaveta",
    "u": "https://oantagonista.com.br/brasil/decreto-sobre-escala-6x1-fica-na-gaveta-ate-volta-de-lula/"
+  },
+  {
+   "t": "Agência Brasil: quatro votos",
+   "u": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-tem-4-votos-para-manter-inicio-da-escala-5x2-em-dezembro"
+  },
+  {
+   "t": "A Crítica: o que decidiu Dino",
+   "u": "https://acritica.net/economia/stf-chega-a-quatro-votos-para-manter-inicio-da-escala-5x2-em-16-de-dezembro/"
+  },
+  {
+   "t": "Leouve: jornada de 8h24",
+   "u": "https://leouve.com.br/negocios/stf-autoriza-jornada-8h24-dia-transicao-escala-5x2/"
+  },
+  {
+   "t": "Plantão Brasil: o recurso da Câmara",
+   "u": "https://www.plantaobrasil.net/noticias/163425-camara-recorre-ao-stf-para-ajustar-pontos-da-decisao-de-dino-sobre-jornada-5x2"
   }
  ]
 }

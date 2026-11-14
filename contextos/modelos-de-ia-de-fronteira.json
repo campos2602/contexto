@@ -1,6 +1,6 @@
 {
  "titulo": "Modelos de IA de fronteira: a disputa pelo sistema mais capaz",
- "atualizado": "12 nov 2026",
+ "atualizado": "14 nov 2026",
  "selo": "Checado",
  "frase": "Modelos de fronteira são os sistemas de inteligência artificial mais avançados de cada empresa. Google, Anthropic, OpenAI e outras lançam versões novas em intervalos cada vez menores, e cada lançamento traz promessas de desempenho e preocupações de segurança.",
  "linha": [
@@ -15,6 +15,10 @@
   {
    "d": "10 de novembro de 2026",
    "t": "O Carbon é liberado para desenvolvedores, empresas e assinantes do plano Google AI Ultra."
+  },
+  {
+   "d": "12 de novembro de 2026",
+   "t": "O Google lança o Gemini 4 Hydrogen, modelo mais rápido e barato que o Carbon. Quatro entidades processam Anthropic, Google, Meta, OpenAI e a divisão de IA da SpaceX para congelar modelos mais capazes que os atuais."
   },
   {
    "d": "30 de novembro de 2026",
@@ -84,10 +88,10 @@
   }
  ],
  "observar": [
-  "Testes independentes do Gemini 4 Carbon.",
-  "Novos lançamentos de concorrentes.",
+  "O pedido de liminar contra as cinco empresas, em São Francisco.",
+  "Testes independentes do Gemini 4 Carbon e do Hydrogen.",
   "Regras de segurança para modelos de fronteira nos EUA e na Europa.",
-  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, que concorre com o Google e a OpenAI."
+  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, que é ré na ação e concorre com Google, Meta e OpenAI."
  ],
  "fontes": [
   {
@@ -97,6 +101,22 @@
   {
    "t": "Constellation Research: lançamento do Carbon",
    "u": "https://www.constellationr.com/insights/news/google-rolls-out-gemini-4-carbon"
+  },
+  {
+   "t": "Google: anúncio do Gemini 4 Hydrogen",
+   "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+  },
+  {
+   "t": "VentureBeat: mais rápido e mais caro",
+   "u": "https://venturebeat.com/technology/google-launches-gemini-4-hydrogen-a-faster-smarter-pricier-flash-successor"
+  },
+  {
+   "t": "Just Security: a petição",
+   "u": "https://www.justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development/"
+  },
+  {
+   "t": "Dataconomy: quem processa e o que pede",
+   "u": "https://dataconomy.com/2026/11/13/nonprofits-sue-openai-google-and-meta-to-halt-advanced-ai/"
   }
  ]
 }
