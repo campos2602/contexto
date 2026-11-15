@@ -299,10 +299,12 @@ def v_contexto(slug, cx):
         h.append('<p class="fina">%s</p>' % esc(cx["frase"]))
     h.append('<p class="meta"><span class="selo">%s</span><span>Atualizado em %s</span></p>' % (esc(cx.get("selo") or "Checado"), esc(cx.get("atualizado") or "")))
     h.append('<div class="acoes">%s</div>' % botao_ouvir("#pag-ler", "Contexto: " + str(cx.get("titulo") or ""), "Ouvir o Contexto", True))
+    if cx.get("historia"):
+        h.append("<h2>Como chegamos aqui</h2>" + "".join("<p>%s</p>" % esc(p) for p in cx["historia"]))
     if cx.get("linha"):
-        h.append('<h2>Como chegamos aqui</h2><ol class="tempo">%s</ol>' % "".join('<li><span class="d">%s</span><span>%s</span></li>' % (esc(x.get("d")), esc(x.get("t"))) for x in cx["linha"]))
+        h.append('<h2>%s</h2><ol class="tempo">' % ("Linha do tempo" if cx.get("historia") else "Como chegamos aqui") + '%s</ol>' % "".join('<li><span class="d">%s</span><span>%s</span></li>' % (esc(x.get("d")), esc(x.get("t"))) for x in cx["linha"]))
     if cx.get("termos"):
-        h.append('<h2>Termos que você vai ver</h2><dl class="gloss">%s</dl>' % "".join("<div><dt>%s</dt><dd>%s</dd></div>" % (esc(x.get("t")), esc(x.get("d"))) for x in cx["termos"]))
+        h.append('<h2>Termos que você vai ver</h2><ul class="termos">%s</ul>' % "".join("<li><b>%s:</b> %s</li>" % (esc(x.get("t")), esc(x.get("d"))) for x in cx["termos"]))
     for chave, nome in (("quem", "Quem é quem"), ("disputa", "O que está em disputa"), ("observar", "O que observar")):
         if cx.get(chave):
             h.append("<h2>%s</h2><ul>%s</ul>" % (nome, "".join("<li>%s</li>" % rich(x) for x in cx[chave])))

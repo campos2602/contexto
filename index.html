@@ -298,8 +298,9 @@ textarea { width: 100%; min-height: 120px; resize: vertical; font: inherit; font
     h.push('<p class="meta"><span>Atualizado em ' + esc(cx.atualizado) + "</span>" + (cx.selo ? '<span class="selo">' + esc(cx.selo) + "</span>" : "") + "</p>");
     h.push('<div class="acoes"><button class="btn cheio ouvir" type="button" data-ouvir="#pag-ler" data-titulo="Contexto: ' + esc(cx.titulo) + '">Ouvir o Contexto</button></div>');
     if (cx.frase) h.push("<h2>Em uma frase</h2><p>" + esc(cx.frase) + "</p>");
-    if (cx.linha && cx.linha.length) h.push('<h2>Como chegamos aqui</h2><ol class="tempo">' + cx.linha.map(function (x) { return '<li><span class="d">' + esc(x.d) + "</span><span>" + esc(x.t) + "</span></li>"; }).join("") + "</ol>");
-    if (cx.termos && cx.termos.length) h.push('<h2>Termos que você vai ver</h2><dl class="gloss">' + cx.termos.map(function (x) { return "<div><dt>" + esc(x.t) + "</dt><dd>" + esc(x.d) + "</dd></div>"; }).join("") + "</dl>");
+    if (cx.historia && cx.historia.length) h.push("<h2>Como chegamos aqui</h2>" + cx.historia.map(function (p) { return "<p>" + esc(p) + "</p>"; }).join(""));
+    if (cx.linha && cx.linha.length) h.push('<h2>' + (cx.historia && cx.historia.length ? "Linha do tempo" : "Como chegamos aqui") + '</h2><ol class="tempo">' + cx.linha.map(function (x) { return '<li><span class="d">' + esc(x.d) + "</span><span>" + esc(x.t) + "</span></li>"; }).join("") + "</ol>");
+    if (cx.termos && cx.termos.length) h.push('<h2>Termos que você vai ver</h2><ul class="termos">' + cx.termos.map(function (x) { return "<li><b>" + esc(x.t) + ":</b> " + esc(x.d) + "</li>"; }).join("") + "</ul>");
     [["quem", "Quem é quem"], ["disputa", "O que está em disputa"], ["observar", "O que observar"]].forEach(function (s) {
       var a = cx[s[0]]; if (a && a.length) h.push("<h2>" + s[1] + "</h2><ul>" + a.map(function (x) { return "<li>" + rich(x) + "</li>"; }).join("") + "</ul>");
     });
