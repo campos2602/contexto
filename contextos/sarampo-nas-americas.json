@@ -1,0 +1,127 @@
+{
+ "titulo": "Sarampo nas Américas: a volta de uma doença eliminada",
+ "atualizado": "15 nov 2026",
+ "selo": "Checado",
+ "frase": "Os Estados Unidos tinham eliminado o sarampo em 2000. Com a queda da vacinação e surtos contínuos desde janeiro de 2025, perderam o status em novembro de 2026, segundo reportagens sobre decisão da Opas.",
+ "historia": [
+  "O sarampo é uma das doenças mais contagiosas que existem, e a vacina tríplice viral, com duas doses, protege cerca de 97% das pessoas, segundo a Al Jazeera. Graças a ela, os Estados Unidos foram declarados livres da circulação do vírus em 2000. Ser \"livre\" não significa ter zero casos: significa que nenhum surto local dura 12 meses ou mais.",
+  "Esse status começou a ruir com a queda da vacinação. A cobertura de crianças no jardim de infância caiu de 95,2% em 2019-2020 para 92,4% em 2025-2026, abaixo dos 95% que a Organização Pan-Americana da Saúde (Opas) recomenda. Nove estados facilitaram a dispensa de vacinas em 2025, segundo especialista ouvida pela CBS.",
+  "Em 20 de janeiro de 2025, começou um surto que não parou mais. O país teve 2.242 casos naquele ano e 5.412 em 2026, até novembro, segundo o CDC citado pela CBS. Em janeiro de 2026, a Opas chamou EUA e México para revisar o status. A contagem de mortes virou disputa: os estados somam 10 em 2026, e o CDC registra seis.",
+  "Em novembro de 2026, reportagens da CBS e da Al Jazeera informaram que a Opas decidiu retirar o status dos EUA, depois de 26 anos. Canadá, Espanha e Reino Unido já tinham perdido o seu. Para recuperá-lo, o país precisa interromper a transmissão por pelo menos 12 meses, com vacinação alta e vigilância."
+ ],
+ "linha": [
+  {
+   "d": "2000",
+   "t": "Os Estados Unidos são declarados livres da circulação do sarampo."
+  },
+  {
+   "d": "20 de janeiro de 2025",
+   "t": "Começa nos EUA o surto que a Opas considera o início da transmissão contínua; no México, em 1º de fevereiro."
+  },
+  {
+   "d": "2025",
+   "t": "Os EUA registram 2.242 casos, 245 internações e três mortes, segundo a CBS."
+  },
+  {
+   "d": "16 de janeiro de 2026",
+   "t": "A Opas convida EUA e México para revisar o status de eliminação."
+  },
+  {
+   "d": "2026",
+   "t": "Canadá, Espanha e Reino Unido perdem o status depois de revisão de especialistas da OMS, segundo a Al Jazeera."
+  },
+  {
+   "d": "2 de novembro de 2026",
+   "t": "Nova York registra a morte de uma criança por sarampo, a primeira no estado em mais de 30 anos, segundo a Al Jazeera."
+  },
+  {
+   "d": "Novembro de 2026",
+   "t": "Os EUA chegam a 5.412 casos no ano; reportagens informam que a Opas retirou o status do país."
+  },
+  {
+   "d": "17 de novembro de 2026",
+   "t": "Entrevista prevista da Opas, segundo a CBS."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Eliminação",
+   "d": "Ausência de transmissão local contínua por 12 meses ou mais. Casos vindos de fora podem acontecer."
+  },
+  {
+   "t": "Erradicação",
+   "d": "Fim da doença no mundo inteiro, como ocorreu com a varíola. Não é o caso do sarampo."
+  },
+  {
+   "t": "Tríplice viral",
+   "d": "Vacina contra sarampo, caxumba e rubéola, aplicada em duas doses na infância."
+  },
+  {
+   "t": "Surto",
+   "d": "Para o CDC, três ou mais casos ligados entre si."
+  },
+  {
+   "t": "Opas",
+   "d": "Organização Pan-Americana da Saúde, braço da Organização Mundial da Saúde nas Américas. Os EUA deixaram a OMS, mas seguem membros da Opas."
+  },
+  {
+   "t": "CDC",
+   "d": "Centros de Controle e Prevenção de Doenças, a agência de saúde pública do governo americano."
+  },
+  {
+   "t": "Cobertura vacinal",
+   "d": "Parcela da população-alvo que recebeu a vacina. A Opas recomenda 95% ou mais para manter o sarampo eliminado."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Opas",
+   "t": "revisa e decide o status de eliminação de cada país das Américas."
+  },
+  {
+   "b": "Robert F. Kennedy Jr.",
+   "t": "secretário de Saúde dos EUA; segundo a Al Jazeera, pediu que algumas mortes não entrassem na contagem oficial."
+  },
+  {
+   "b": "Erica Schwartz",
+   "t": "diretora do CDC."
+  },
+  {
+   "b": "Departamentos estaduais de saúde",
+   "t": "contam os casos e as mortes e fazem campanhas de vacinação."
+  },
+  {
+   "b": "Pensilvânia",
+   "t": "estado com mais casos, mais de 1.500, e sete mortes em 2026, segundo a CBS."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Contagem de mortes",
+   "t": "a Pensilvânia conta como associada ao sarampo a morte de quem tinha a doença e morreu até 30 dias após os sintomas; Kennedy diz não haver prova de que algumas dessas mortes foram causadas pelo vírus, segundo a Al Jazeera."
+  },
+  {
+   "b": "Vacinas",
+   "t": "especialistas ouvidos pela CBS defendem campanhas e regras escolares mais rígidas; a Al Jazeera diz que Kennedy espalhou dúvidas sobre a segurança da vacina sem base científica."
+  }
+ ],
+ "observar": [
+  "A entrevista da Opas na terça (17).",
+  "Se o México também perde o status.",
+  "A definição padrão de morte por sarampo em preparo no CDC."
+ ],
+ "fontes": [
+  {
+   "t": "CBS News: o que significa a perda",
+   "u": "https://www.cbsnews.com/news/measles-elimination-status-united-states/"
+  },
+  {
+   "t": "Al Jazeera: mortes chegam a 10",
+   "u": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported"
+  },
+  {
+   "t": "Opas: revisão de janeiro de 2026",
+   "u": "https://www.paho.org/en/news/16-1-2026-measles-elimination-status-united-states-and-mexico"
+  }
+ ]
+}

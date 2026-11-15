@@ -1,0 +1,119 @@
+{
+ "titulo": "Apagões na nuvem: quando um fornecedor para o mundo",
+ "atualizado": "15 nov 2026",
+ "selo": "Checado",
+ "frase": "Empresas e governos concentraram e-mail, agenda e reuniões em poucos serviços na nuvem. Quando um deles falha, como a Microsoft em novembro de 2026, o efeito chega a bancos, hospitais e tribunais.",
+ "historia": [
+  "Na última década, muitas empresas e governos deixaram de manter servidores próprios de e-mail e passaram a alugar o serviço de grandes fornecedores na nuvem, como a Microsoft. A troca reduz custos e trabalho de manutenção, mas concentra o risco: se o fornecedor falha, milhões de usuários param ao mesmo tempo. Organizações que mantêm servidores próprios costumam ser poupadas, como mostrou a falha de novembro de 2026, segundo a Agência Brasil.",
+  "Em 12 de novembro de 2026, por volta das 11h17 no horário de Nova York, o Exchange Online, serviço de e-mail e agenda da Microsoft, começou a falhar. Logo depois, a pane se espalhou para Outlook, Teams, Copilot e outros serviços, segundo o Digital Trends. Foi a segunda interrupção de serviços da empresa no ano.",
+  "Os efeitos apareceram em vários países. O e-mail do governo japonês caiu, a Nova Zelândia suspendeu vistos, o serviço público de saúde britânico usou sistemas alternativos, corretoras atrasaram operações, e uma empresa de Taiwan recorreu ao fax. No Brasil, o STF suspendeu prazos processuais. O Downdetector registrou mais de 7,4 milhões de relatos.",
+  "A recuperação foi lenta. Segundo o Digital Trends, a Microsoft primeiro suspeitou de excesso de tráfego; depois, viu que vários servidores tinham ficado indisponíveis e que os outros não davam conta da carga. Cada tentativa de reiniciá-los falhava quando o tráfego voltava. A solução foi corrigir um componente de autenticação e roteamento. As ações da empresa fecharam estáveis na sexta (13), a US$ 523,88, e acumulam alta de cerca de 8% no ano, segundo a Agência Brasil.",
+  "A Microsoft atribuiu o problema a uma atualização de capacidade de rede que só se revelou com uma mudança posterior, descartou ataque e IA e pediu desculpas. Em 14 de novembro, disse ter restabelecido tudo. Para analistas, como Luke Kehoe, da Ookla, o episódio mostra quanto do trabalho depende de um só fornecedor."
+ ],
+ "linha": [
+  {
+   "d": "Antes de novembro de 2026",
+   "t": "A Microsoft tem outra interrupção de serviços no ano, segundo a Agência Brasil."
+  },
+  {
+   "d": "12 de novembro de 2026, 11h17 (Nova York)",
+   "t": "Começam os problemas no Exchange Online, segundo o Digital Trends."
+  },
+  {
+   "d": "12 de novembro de 2026, 13h26 (Nova York)",
+   "t": "A falha se espalha para outros serviços do Microsoft 365."
+  },
+  {
+   "d": "Entre 12 e 14 de novembro de 2026",
+   "t": "O STF suspende prazos processuais por causa da instabilidade, segundo a Agência Brasil. O e-mail do governo japonês sai do ar, segundo a Anadolu."
+  },
+  {
+   "d": "Até 14 de novembro de 2026",
+   "t": "A Microsoft diz que a causa foi técnica, ligada a uma atualização de rede, e não ataque nem IA, segundo a Anadolu."
+  },
+  {
+   "d": "14 de novembro de 2026",
+   "t": "A Microsoft informa que restabeleceu os serviços para todos os clientes e regiões."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Nuvem",
+   "d": "Serviços de computação alugados pela internet, rodando em centros de dados do fornecedor, e não em máquinas da própria empresa."
+  },
+  {
+   "t": "Exchange Online",
+   "d": "Plataforma de e-mail e agenda da Microsoft na nuvem, base do Outlook corporativo."
+  },
+  {
+   "t": "Downdetector",
+   "d": "Site da empresa Ookla que reúne relatos de usuários sobre falhas. O número de relatos não é o número de pessoas afetadas."
+  },
+  {
+   "t": "Microsoft 365",
+   "d": "Pacote de serviços por assinatura da Microsoft, com Outlook, Teams, Word, Excel e outros."
+  },
+  {
+   "t": "Roteamento",
+   "d": "Sistema que decide por qual caminho os dados viajam entre servidores."
+  },
+  {
+   "t": "Autenticação",
+   "d": "Etapa que confirma quem é o usuário antes de liberar o acesso, como login e senha."
+  },
+  {
+   "t": "Servidor",
+   "d": "Computador que guarda dados e responde a pedidos de outros computadores pela rede."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Microsoft",
+   "t": "fornecedora dos serviços que falharam; atribuiu a pane a uma mudança de rede."
+  },
+  {
+   "b": "Ookla",
+   "t": "dona do Downdetector; seu analista Luke Kehoe comentou a dependência de um só fornecedor."
+  },
+  {
+   "b": "Clientes",
+   "t": "governos, bancos, hospitais e companhias aéreas que usam o Microsoft 365."
+  },
+  {
+   "b": "STF",
+   "t": "suspendeu prazos processuais por causa da instabilidade, segundo a Agência Brasil."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Dependência",
+   "t": "analistas dizem que concentrar serviços em um fornecedor aumenta o risco; a Microsoft diz ter corrigido o componente que falhou."
+  },
+  {
+   "b": "Causa",
+   "t": "a empresa descartou ataque e IA; até agora, só há a versão da própria Microsoft."
+  },
+  {
+   "b": "Tamanho",
+   "t": "o Downdetector registrou mais de 7,4 milhões de relatos, com pico de quase 20 mil por minuto; o próprio site e o Digital Trends ressaltam que relatos não equivalem a usuários afetados."
+  }
+ ],
+ "observar": [
+  "Se a Microsoft publica um relatório final sobre a falha.",
+  "Se clientes empresariais recebem compensação."
+ ],
+ "fontes": [
+  {
+   "t": "Agência Brasil: serviço restabelecido",
+   "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/microsoft-restabelece-servico-do-outlook-e-teams-apos-falha-global"
+  },
+  {
+   "t": "Digital Trends: o que deu errado",
+   "u": "https://www.digitaltrends.com/computing/microsoft-365-outage-resolved/"
+  },
+  {
+   "t": "Anadolu: governos atingidos",
+   "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+  }
+ ]
+}

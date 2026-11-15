@@ -1,0 +1,123 @@
+{
+ "titulo": "Armas nucleares: EUA, Rússia e China sem tratado",
+ "atualizado": "15 nov 2026",
+ "selo": "Checado",
+ "frase": "Desde fevereiro de 2026, quando expirou o Novo START, os dois maiores arsenais nucleares do mundo não têm limite. Trump quer um novo acordo que inclua a China e marcou uma reunião com Xi e Putin.",
+ "historia": [
+  "Durante a Guerra Fria e depois dela, EUA e Rússia negociaram uma série de tratados para limitar suas armas nucleares. O último em vigor era o Novo START, que colocava teto no número de ogivas instaladas e permitia inspeções mútuas. Quando ele expirou, em fevereiro de 2026, os dois maiores arsenais do mundo ficaram sem limite pela primeira vez em mais de 50 anos, segundo a AP.",
+  "A Rússia propôs estender o tratado por um ano. O presidente Donald Trump recusou e pediu um acordo \"novo, melhorado e modernizado\" que incluísse a China. O argumento é que o arsenal chinês cresce: pelo Pentágono, a China tem mais de 600 ogivas, enquanto EUA e Rússia têm mais de 5.000 cada. Pequim tem mostrado pouco interesse em negociar limites, dada a diferença de tamanho.",
+  "A ideia de uma reunião a três ganhou forma ao longo de 2026. Trump e Putin já se encontraram sete vezes, a última no Alasca, em agosto de 2025; Trump e Xi, oito vezes, incluindo uma visita de Estado a Washington em setembro de 2026; e Putin e Xi, mais de 40 vezes desde 2013, segundo a AP.",
+  "Em 13 de novembro, a Casa Branca confirmou o encontro para 19 de novembro, em Shenzhen, durante a cúpula da Apec. Trump quer falar de redução de arsenais e da guerra com o Irã; a Ucrânia fica de fora. Um funcionário americano disse não esperar acordo: seria só o começo de uma conversa."
+ ],
+ "linha": [
+  {
+   "d": "Agosto de 2025",
+   "t": "Trump e Putin se encontram no Alasca, o sétimo encontro entre os dois, segundo a AP."
+  },
+  {
+   "d": "Fevereiro de 2026",
+   "t": "Expira o Novo START, último tratado nuclear entre EUA e Rússia. Trump recusa estender por um ano e pede acordo com a China."
+  },
+  {
+   "d": "Setembro de 2026",
+   "t": "Xi Jinping faz visita de Estado a Washington, segundo a AP."
+  },
+  {
+   "d": "13 de novembro de 2026",
+   "t": "A Casa Branca confirma a reunião de Trump, Xi e Putin em Shenzhen, à margem da Apec."
+  },
+  {
+   "d": "16 de novembro de 2026",
+   "t": "Trump viaja a Manila para reuniões do Quad e uma cúpula especial EUA-Asean, segundo a Anadolu."
+  },
+  {
+   "d": "19 de novembro de 2026",
+   "t": "Data prevista para a reunião a três e para um almoço de trabalho entre Trump e Xi."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Novo START",
+   "d": "Tratado entre EUA e Rússia que limitava ogivas nucleares instaladas e permitia inspeções. Expirou em fevereiro de 2026."
+  },
+  {
+   "t": "Ogiva",
+   "d": "A parte da arma que carrega a carga nuclear, montada em mísseis, bombas ou submarinos."
+  },
+  {
+   "t": "Apec",
+   "d": "Cooperação Econômica Ásia-Pacífico, fórum de 21 economias que se reúne todo ano; em 2026, em Shenzhen, na China."
+  },
+  {
+   "t": "Controle de armas",
+   "d": "Acordos entre países para limitar, reduzir ou verificar arsenais."
+  },
+  {
+   "t": "Quad",
+   "d": "Grupo de diálogo formado por EUA, Japão, Índia e Austrália."
+  },
+  {
+   "t": "Conferência de Ialta",
+   "d": "Reunião de 1945 entre EUA, Reino Unido e União Soviética sobre a ordem do pós-guerra. O Kremlin rejeitou a comparação com Shenzhen."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Donald Trump",
+   "t": "presidente dos EUA; quer um acordo nuclear a três."
+  },
+  {
+   "b": "Xi Jinping",
+   "t": "presidente da China, anfitrião da Apec."
+  },
+  {
+   "b": "Vladimir Putin",
+   "t": "presidente da Rússia; o Kremlin chamou o encontro de \"extremamente significativo\"."
+  },
+  {
+   "b": "Volodymyr Zelensky",
+   "t": "presidente da Ucrânia; teme que o encontro sirva para discutir a guerra sem Kiev, segundo a AP."
+  },
+  {
+   "b": "Olivia Wales",
+   "t": "porta-voz da Casa Branca; disse que Trump vai discutir a redução de armas nucleares."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Incluir a China",
+   "t": "os EUA dizem que a China deve \"subir à mesa dos adultos\" na segurança internacional, segundo um funcionário citado pela AP; a China tem um arsenal bem menor e não declarou posição sobre o encontro."
+  },
+  {
+   "b": "Ucrânia",
+   "t": "autoridades americanas dizem que a guerra segue em negociação separada; Zelensky teme ser deixado de fora."
+  },
+  {
+   "b": "Multilateralismo",
+   "t": "o Kremlin diz que a ordem mundial deve se basear em \"benefício mútuo e respeito mútuo\"; o professor Hoo Tiang Boon diz que a reunião vai contra o discurso chinês em favor do multilateralismo."
+  },
+  {
+   "b": "O que se espera",
+   "t": "a Casa Branca diz que Trump vê a proliferação como \"muito perigosa\"; um funcionário americano diz que não há acordo previsto, e o ex-embaixador Edgard Kagan disse à AP que o encontro sinaliza disposição para conversar."
+  }
+ ],
+ "observar": [
+  "Se haverá declaração conjunta em Shenzhen.",
+  "A posição oficial da China.",
+  "Se EUA e Rússia retomam limites aos arsenais."
+ ],
+ "fontes": [
+  {
+   "t": "AP, via WSVN: a reunião em Shenzhen",
+   "u": "https://wsvn.com/news/us-world/trump-xi-putin-shenzhen-summit/"
+  },
+  {
+   "t": "CBS News: a pauta",
+   "u": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
+  },
+  {
+   "t": "Anadolu: agenda de Trump",
+   "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+  }
+ ]
+}

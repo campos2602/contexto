@@ -1,6 +1,6 @@
 {
  "titulo": "Modelos de IA de fronteira: a disputa pelo sistema mais capaz",
- "atualizado": "14 nov 2026",
+ "atualizado": "15 nov 2026",
  "selo": "Checado",
  "frase": "Modelos de fronteira são os sistemas de inteligência artificial mais avançados de cada empresa. Google, Anthropic, OpenAI e outras lançam versões novas em intervalos cada vez menores, e cada lançamento traz promessas de desempenho e preocupações de segurança.",
  "linha": [
@@ -19,6 +19,10 @@
   {
    "d": "12 de novembro de 2026",
    "t": "O Google lança o Gemini 4 Hydrogen, modelo mais rápido e barato que o Carbon. Quatro entidades processam Anthropic, Google, Meta, OpenAI e a divisão de IA da SpaceX para congelar modelos mais capazes que os atuais."
+  },
+  {
+   "d": "13 de novembro de 2026",
+   "t": "A OpenAI começa a liberar o ChatGPT Wallet, para seus agentes de IA fazerem compras com aprovação do usuário, só para assinantes Pro nos EUA."
   },
   {
    "d": "30 de novembro de 2026",
@@ -117,12 +121,17 @@
   {
    "t": "Dataconomy: quem processa e o que pede",
    "u": "https://dataconomy.com/2026/11/13/nonprofits-sue-openai-google-and-meta-to-halt-advanced-ai/"
+  },
+  {
+   "t": "PPC Land: ChatGPT Wallet",
+   "u": "https://ppc.land/openai-hands-its-ai-agents-a-wallet-without-the-real-card-number-in-it/"
   }
  ],
  "historia": [
   "Modelos de fronteira são os sistemas de inteligência artificial mais capazes de cada empresa. Desde o lançamento do ChatGPT, no fim de 2022, empresas como OpenAI, Google, Anthropic e Meta disputam quem tem o modelo mais avançado, com versões novas em intervalos cada vez menores. Cada lançamento vem com números de desempenho escolhidos pela própria empresa; testes independentes costumam chegar depois.",
   "Em outubro e novembro de 2026, o Google acelerou: lançou o Gemini 4 Argon, depois o Carbon, liberado primeiro a especialistas em defesa cibernética por causa do risco de uso em ataques, e em 12 de novembro o Hydrogen, mais rápido e barato. Para analistas, esse ritmo pressiona concorrentes e encurta o tempo para avaliações externas de segurança.",
   "A mesma velocidade alimenta a pressão por regras. Em 12 de novembro, quatro organizações sem fins lucrativos processaram Anthropic, Google, Meta, OpenAI e a divisão de IA da SpaceX na Califórnia, pedindo que a Justiça congele modelos mais capazes que os atuais. Elas citam alertas das próprias empresas sobre ciberataques e armas biológicas. Nos EUA, os democratas, que retomaram o Congresso nas eleições de meio de mandato, defendem mais regulação; Trump apoia o desenvolvimento rápido.",
+  "A disputa também chegou ao uso prático dos modelos. Em 13 de novembro, a OpenAI começou a liberar o ChatGPT Wallet, que deixa seus agentes de IA pagarem compras com cartões, com aprovação do usuário a cada transação. É a segunda tentativa da empresa de vender dentro do ChatGPT; a primeira, o Instant Checkout, foi encerrada em março de 2026, segundo o PPC Land.",
   "O Contexto é escrito com o Claude, da Anthropic, uma das empresas citadas. Por isso, notas sobre esse tema trazem aviso de conflito de interesse."
  ]
 }

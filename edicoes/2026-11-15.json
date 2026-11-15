@@ -1,0 +1,943 @@
+{
+ "data": "2026-11-15",
+ "dia": "Domingo, 15 de novembro de 2026",
+ "leitura": "7 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje a mudança no julgamento da escala 5x2 no STF, a perda do status de país livre do sarampo pelos EUA e a reunião marcada entre Trump, Xi e Putin.",
+ "trinta": [
+  "Fux tira do plenário virtual o julgamento da escala 5x2; a nova jornada segue para 16/12.",
+  "Os EUA perdem o status de país livre do sarampo após 26 anos.",
+  "Trump, Xi e Putin se reúnem na quinta para falar de armas nucleares."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "Adia a confirmação das regras da nova jornada, que segue marcada para 16 de dezembro."
+  },
+  {
+   "id": "b3",
+   "porque": "A Câmara pode votar na semana que vem o corte de gastos e incentivos para 2027."
+  },
+  {
+   "id": "m1",
+   "porque": "Sarampo volta a circular sem controle no maior país das Américas."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Fux leva ao plenário físico do STF decisão sobre a escala 5x2",
+     "contexto": "fim-da-escala-6x1",
+     "texto": "O ministro Luiz Fux pediu no sábado (14) que o julgamento da liminar de Flávio Dino sobre a transição da escala 6x1 saia do plenário virtual, onde havia quatro votos a favor. O caso recomeça no plenário físico, ainda sem data.",
+     "pq": "a liminar continua valendo e a nova jornada segue marcada para 16 de dezembro, segundo O Povo. Mas a confirmação pelo STF fica para depois, e a data depende do presidente da Corte, Edson Fachin.",
+     "fontes": [
+      {
+       "t": "O Povo",
+       "u": "https://mais.opovo.com.br/jornal/dom/2026/11/15/fux-leva-decisao-sobre-fim-da-escala-6x1-a-julgamento-presencial.html"
+      },
+      {
+       "t": "Mix Vale",
+       "u": "https://mixvale.com.br/2026/11/14/fux-pede-que-stf-analise-fim-da-escala-6x1-no-plenario-fisico"
+      },
+      {
+       "t": "Fato Amazônico",
+       "u": "https://fatoamazonico.com.br/dino-defende-folga-negociada-na-5x2-e-diz-que-decisao-perfeita-nao-existe/"
+      }
+     ],
+     "completa": {
+      "fina": "Pedido do ministro, chamado de destaque, tira o caso da votação online; quatro ministros já tinham votado com Dino.",
+      "atualizada": "15 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O ministro Luiz Fux, do Supremo Tribunal Federal, pediu no sábado (14) que o julgamento sobre as regras de transição do fim da escala 6x1 seja feito no plenário físico, segundo O Povo e o Mix Vale. O pedido, chamado de destaque, interrompe a votação no plenário virtual, que tinha começado na sexta (13) e terminaria na segunda (16).",
+      "blocos": [
+       {
+        "h": "O que muda com o pedido",
+        "li": [
+         {
+          "b": "Votação:",
+          "t": "o caso sai do plenário virtual, onde os ministros votam pela internet, e recomeça no plenário presencial. Segundo O Povo, os votos já dados não são aproveitados; o Mix Vale cita a mesma informação, mas diz que ela não estava confirmada."
+         },
+         {
+          "b": "Placar:",
+          "t": "antes da interrupção, quatro ministros tinham votado para manter a liminar: o relator, Flávio Dino, Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes. O voto de Fux não foi divulgado."
+         },
+         {
+          "b": "Data:",
+          "t": "não há data para o novo julgamento. Quem define a pauta é o presidente do STF, Edson Fachin."
+         }
+        ]
+       },
+       {
+        "h": "O que continua valendo",
+        "p": [
+         "A liminar de Dino segue em vigor até o STF voltar a analisar o caso, segundo O Povo. Por ela, a transição para a jornada de 42 horas semanais começa em 16 de dezembro de 2026, com duas folgas remuneradas por semana, e a redução para 40 horas está prevista para 16 de dezembro de 2027.",
+         "Se não houver acordo ou convenção coletiva até 15 de dezembro, as 42 horas podem ser distribuídas em cinco dias, com até 8h24 por dia, sem que os 24 minutos extras contem como hora extra. Empresas e sindicatos têm 90 dias a partir de 16 de dezembro para renegociar benefícios, e o empregador não pode mudá-los sozinho nesse período."
+        ]
+       },
+       {
+        "h": "O processo",
+        "p": [
+         "O caso reúne as ações diretas de inconstitucionalidade 8.041 e 8.042, apresentadas pela Confederação Nacional do Comércio (CNC) e pela Confederação Nacional da Indústria (CNI). Elas questionam pontos da aplicação da Emenda Constitucional 141/2026, que reduziu a jornada máxima."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Flávio Dino, relator:",
+          "t": "no Instagram, no sábado, defendeu a negociação entre sindicatos e empresas na transição e disse que a liminar não autoriza acordos individuais. \"Não cabe a mim definir essas hipóteses, mas aos sindicatos e às empresas\", escreveu, segundo o Fato Amazônico. Também disse que \"texto perfeito não existe\"."
+         },
+         {
+          "b": "CNC e CNI:",
+          "t": "pediram ao Supremo o adiamento da nova jornada, citando dificuldades de adaptação; Dino negou o adiamento."
+         },
+         {
+          "b": "Luiz Fux:",
+          "t": "não explicou publicamente o pedido até o fechamento desta edição."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando o caso será julgado no plenário físico.",
+         "Se os votos já dados serão refeitos.",
+         "Como votam os outros ministros, incluindo Fux."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Fachin define a data do julgamento presencial.",
+         "A nova jornada continua marcada para 16 de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "O Povo: Fux leva caso ao plenário",
+        "u": "https://mais.opovo.com.br/jornal/dom/2026/11/15/fux-leva-decisao-sobre-fim-da-escala-6x1-a-julgamento-presencial.html"
+       },
+       {
+        "t": "Mix Vale: pedido de Fux",
+        "u": "https://mixvale.com.br/2026/11/14/fux-pede-que-stf-analise-fim-da-escala-6x1-no-plenario-fisico"
+       },
+       {
+        "t": "Fato Amazônico: Dino defende negociação",
+        "u": "https://fatoamazonico.com.br/dino-defende-folga-negociada-na-5x2-e-diz-que-decisao-perfeita-nao-existe/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Lula cancela discursos por rouquidão e defende parceria com Asean",
+     "contexto": "brasil-e-asean",
+     "texto": "Em Manila, para a 49ª cúpula da Asean, Lula cancelou dois discursos no sábado (14) por rouquidão. Em texto preparado para a cúpula, criticou a concentração de poder das big techs e \"tarifas injustas\". Brasil e Filipinas assinaram dois memorandos sobre comércio agrícola e concorrência.",
+     "pq": "o Sudeste Asiático é o quinto maior parceiro comercial do Brasil, com US$ 38,4 bilhões em 2025, segundo o Fato Amazônico. O governo quer ampliar a parceria com o bloco para tecnologia, biocombustíveis, defesa e alimentos.",
+     "fontes": [
+      {
+       "t": "Tribuna do Sertão",
+       "u": "https://www.tribunadosertao.com.br/geral/2026/11/14/1021732-lula-destaca-aproximacao-com-a-asia-e-cancela-discursos-por-afonia"
+      },
+      {
+       "t": "Fato Amazônico",
+       "u": "https://fatoamazonico.com.br/nas-filipinas-lula-ataca-big-techs-e-tarifas-injustas-contra-sul-global/"
+      },
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/brasil-e-filipinas-assinam-acordos-sobre-agro-e-livre-concorrencia"
+      }
+     ],
+     "completa": {
+      "fina": "É a primeira visita de um chefe de Estado brasileiro às Filipinas, no ano em que os dois países completam 80 anos de relações.",
+      "atualizada": "15 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente Luiz Inácio Lula da Silva cancelou dois discursos que faria no sábado (14) em Manila, nas Filipinas, por causa de rouquidão, segundo a Tribuna do Sertão. Ele está no país para a 49ª cúpula da Associação de Nações do Sudeste Asiático (Asean) e para encontros com o presidente filipino, Ferdinand Marcos Júnior.",
+      "blocos": [
+       {
+        "h": "O que diz o texto de Lula",
+        "li": [
+         {
+          "b": "Tecnologia:",
+          "t": "\"A concentração excessiva de poder tecnológico representa uma ameaça crescente às nossas sociedades\", diz o texto, segundo o Fato Amazônico. Lula afirmou que os interesses das empresas \"não podem se sobrepor à soberania dos Estados\"."
+         },
+         {
+          "b": "Comércio:",
+          "t": "disse que os cidadãos do Sul Global pagam o custo de \"tarifas injustas e vetos irresponsáveis\"."
+         },
+         {
+          "b": "Guerras:",
+          "t": "\"As guerras na Ucrânia e no Oriente Médio afetam todos os quadrantes do globo\", diz o texto, que liga a alta de energia e fertilizantes à insegurança alimentar."
+         },
+         {
+          "b": "Minerais:",
+          "t": "citou a segunda maior reserva de minerais críticos do mundo e disse que o Brasil não vai permitir \"exploração sem agregação de valor em território nacional\"."
+         }
+        ]
+       },
+       {
+        "h": "Os acordos com as Filipinas",
+        "p": [
+         "Depois da reunião entre Lula e Marcos Júnior, os dois governos assinaram dois memorandos de entendimento, segundo a Agência Brasil: um para facilitar o comércio agrícola e outro para combater práticas que prejudicam a concorrência. Memorando de entendimento é um instrumento preliminar, de caráter político, sem os detalhes de um tratado.",
+         "O comércio entre os dois países passa de US$ 3 bilhões, quase quatro vezes o de 20 anos atrás, segundo a nota divulgada após o encontro e citada pela Tribuna do Sertão. O Brasil vende principalmente carnes bovina, suína e de frango e milho. A nota também cita o impacto do fechamento do Estreito de Ormuz sobre as Filipinas."
+        ]
+       },
+       {
+        "h": "O Brasil e a Asean",
+        "p": [
+         "O Brasil aderiu em 2012 ao Tratado de Amizade e Cooperação da Asean, o primeiro país latino-americano a fazê-lo, e hoje é parceiro de diálogo setorial do bloco, segundo o Fato Amazônico. O governo quer subir para parceria de diálogo plena. O Mercosul tem acordo comercial com Singapura e negocia com Vietnã e Indonésia."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Governo brasileiro:",
+          "t": "a nota apresenta a reeleição de Lula, confirmada em 25 de outubro, como escolha por soberania, democracia e justiça social, segundo a Tribuna do Sertão."
+         },
+         {
+          "b": "Governo filipino:",
+          "t": "as reportagens não trazem declaração de Marcos Júnior sobre os acordos."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Os termos detalhados dos dois memorandos.",
+         "Se a Asean aceita ampliar a parceria com o Brasil."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Fórum empresarial Brasil-Filipinas, com cerca de 200 empresários, segundo a Tribuna do Sertão.",
+         "Na próxima semana, Trump também passa por Manila, para encontros com a Asean."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Tribuna do Sertão: rouquidão e nota",
+        "u": "https://www.tribunadosertao.com.br/geral/2026/11/14/1021732-lula-destaca-aproximacao-com-a-asia-e-cancela-discursos-por-afonia"
+       },
+       {
+        "t": "Fato Amazônico: o texto na cúpula",
+        "u": "https://fatoamazonico.com.br/nas-filipinas-lula-ataca-big-techs-e-tarifas-injustas-contra-sul-global/"
+       },
+       {
+        "t": "Agência Brasil: acordos com as Filipinas",
+        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/brasil-e-filipinas-assinam-acordos-sobre-agro-e-livre-concorrencia"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Motta indica votação do ajuste fiscal na Câmara na próxima semana",
+     "contexto": "ajuste-fiscal-2027",
+     "texto": "O presidente da Câmara, Hugo Motta (Republicanos-PB), sinalizou que os deputados podem votar o pacote de ajuste fiscal do governo na próxima semana, depois que o Senado concluir os destaques na terça (17). A data depende de acordo entre os líderes.",
+     "pq": "o governo quer o ajuste aprovado antes do Orçamento de 2027. O relator no Senado, Eduardo Braga (MDB-AM), estima melhora de até R$ 56,1 bilhões nas contas de 2027, somando cortes de gastos e receitas.",
+     "fontes": [
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/motta-sinaliza-votacao-de-ajuste-fiscal-de-lula-na-proxima-semana"
+      },
+      {
+       "t": "Poder News",
+       "u": "https://podernews.com.br/2026/11/13/motta-sinaliza-votacao-de-ajuste-fiscal-para-a-proxima-semana/"
+      }
+     ],
+     "completa": {
+      "fina": "O ministro José Guimarães pediu \"celeridade\"; o projeto reduz de 2,5% para 2% o limite de alta real dos gastos.",
+      "atualizada": "15 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), sinalizou na sexta-feira (13) que a Casa pode votar na próxima semana o projeto de ajuste fiscal enviado pelo governo, segundo o Metrópoles e o Poder News. A data ainda não foi marcada e depende de acordo entre os líderes partidários.",
+      "blocos": [
+       {
+        "h": "Onde está o projeto",
+        "p": [
+         "O Senado aprovou o texto-base na quinta-feira (12), por 45 votos a 31. Faltam quatro destaques, votações separadas de trechos que ainda podem mudar o texto, marcados para terça-feira (17). Só depois disso o projeto vai para a Câmara, segundo o Metrópoles. Por ser projeto de lei complementar, precisa de pelo menos 257 votos entre os 513 deputados."
+        ]
+       },
+       {
+        "h": "O que prevê o pacote",
+        "li": [
+         {
+          "b": "Limite de gastos:",
+          "t": "reduz de 2,5% para 2% o crescimento máximo das despesas federais acima da inflação, a partir de 2027, nos anos em que o governo adotar as medidas de contenção do texto."
+         },
+         {
+          "b": "Bloqueios:",
+          "t": "permite congelar verbas de ministérios para atingir o centro da meta fiscal, mesmo quando uma economia menor já bastaria para ficar dentro da margem de tolerância."
+         },
+         {
+          "b": "Benefícios fiscais:",
+          "t": "aumenta de 10% para 20% o corte em parte dos incentivos tributários a empresas, com efeito estimado de R$ 15 bilhões em 2027, segundo o relator. Fica de fora a isenção na compra de carros por pessoas com deficiência ou autismo."
+         }
+        ]
+       },
+       {
+        "h": "A reunião",
+        "p": [
+         "Motta discutiu a pauta com o ministro das Relações Institucionais, José Guimarães, o presidente do Senado, Davi Alcolumbre (União-AP), e o líder do PT na Câmara, Pedro Uczai (PT-SC). Segundo Motta, o ministro \"pediu celeridade na votação da medida na Câmara\"."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "José Guimarães, ministro:",
+          "t": "disse ao Metrópoles que Motta pautaria a votação logo depois do Senado. \"É assim que se constrói maiorias\", afirmou."
+         },
+         {
+          "b": "Eduardo Braga, relator no Senado:",
+          "t": "calcula melhora de até R$ 56,1 bilhões nas contas de 2027."
+         },
+         {
+          "b": "Oposição:",
+          "t": "no Senado, 31 senadores votaram contra o texto-base. As reportagens sobre a sinalização de Motta não trazem declarações de líderes da oposição."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O dia da votação na Câmara.",
+         "Se os destaques do Senado mudam o texto.",
+         "Se os deputados vão alterar o projeto, o que o faria voltar ao Senado."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Votação dos destaques no Senado na terça (17).",
+         "Possível votação na Câmara ainda na mesma semana."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Metrópoles: Motta sinaliza votação",
+        "u": "https://www.metropoles.com/brasil/motta-sinaliza-votacao-de-ajuste-fiscal-de-lula-na-proxima-semana"
+       },
+       {
+        "t": "Poder News: o que prevê o texto",
+        "u": "https://podernews.com.br/2026/11/13/motta-sinaliza-votacao-de-ajuste-fiscal-para-a-proxima-semana/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Estados Unidos perdem status de país livre do sarampo após 26 anos",
+     "contexto": "sarampo-nas-americas",
+     "texto": "A Organização Pan-Americana da Saúde decidiu que os EUA perderam o status de eliminação do sarampo, segundo a CBS e a Al Jazeera. O país tem 5.412 casos em 2026, ante 2.242 em 2025, pelos dados do CDC.",
+     "pq": "o status, obtido em 2000, cai quando o vírus circula por mais de 12 meses seguidos. Estados americanos contam 10 mortes neste ano. Canadá, Espanha e Reino Unido já tinham perdido o status.",
+     "fontes": [
+      {
+       "t": "CBS News",
+       "u": "https://www.cbsnews.com/news/measles-elimination-status-united-states/"
+      },
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported"
+      },
+      {
+       "t": "Opas",
+       "u": "https://www.paho.org/en/news/16-1-2026-measles-elimination-status-united-states-and-mexico"
+      }
+     ],
+     "completa": {
+      "fina": "96% dos casos de 2026 são de pessoas não vacinadas ou sem informação sobre vacina, segundo a CBS.",
+      "atualizada": "15 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Organização Pan-Americana da Saúde (Opas), braço da Organização Mundial da Saúde nas Américas, decidiu que os Estados Unidos perderam o status de país que eliminou o sarampo, segundo a CBS News, que cita pesquisadores ouvidos pela KFF Health News, e a Al Jazeera. A decisão foi revelada primeiro pelo Wall Street Journal. A Opas deve dar entrevista na terça-feira (17).",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "2026:",
+          "t": "5.412 casos, mais de 590 internações e pelo menos seis mortes no registro do CDC, a agência de saúde pública dos EUA, segundo a CBS. Os estados contam 10 mortes, segundo a Al Jazeera."
+         },
+         {
+          "b": "2025:",
+          "t": "2.242 casos, 245 internações e três mortes, segundo a CBS."
+         },
+         {
+          "b": "Onde:",
+          "t": "casos em 45 estados e na capital, Washington. A Pensilvânia tem mais de 1.500 casos e sete mortes."
+         },
+         {
+          "b": "Vacinação:",
+          "t": "96% dos casos de 2026 são de não vacinados ou sem informação. A cobertura vacinal das crianças no jardim de infância caiu de 95,2% em 2019-2020 para 92,4% em 2025-2026, segundo a Al Jazeera."
+         }
+        ]
+       },
+       {
+        "h": "Por que o status caiu",
+        "p": [
+         "Um país perde o status quando o sarampo circula sem interrupção por mais de 12 meses. Os surtos nos EUA começaram em 20 de janeiro de 2025, segundo a Opas, que em janeiro deste ano chamou o país e o México para uma revisão. Cerca de um terço dos casos de 2026 está ligado a surtos que começaram em 2025, segundo a CBS."
+        ]
+       },
+       {
+        "h": "A disputa sobre as mortes",
+        "p": [
+         "A Al Jazeera diz que o secretário de Saúde, Robert F. Kennedy Jr., pediu à diretora do CDC, Erica Schwartz, que não incluísse algumas mortes na contagem oficial, afirmando não haver prova de que foram causadas pelo sarampo. A Pensilvânia conta como associada ao sarampo a morte de quem tinha a doença confirmada e morreu até 30 dias após os sintomas. O CDC trabalha com os epidemiologistas estaduais numa definição padrão."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Opas:",
+          "t": "diz que a melhor forma de manter a eliminação é vacinar 95% ou mais da população, com vigilância e resposta rápida a surtos."
+         },
+         {
+          "b": "Gounder, especialista em saúde pública ouvida pela CBS:",
+          "t": "\"Os estados definem as regras de vacina nas escolas\", disse. Ela citou nove estados que facilitaram a dispensa em 2025."
+         },
+         {
+          "b": "Governo americano:",
+          "t": "as reportagens não trazem declaração do Departamento de Saúde ou do CDC sobre a decisão."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "A data exata da decisão da Opas.",
+         "Se o México também perde o status.",
+         "Quanto tempo os EUA levam para recuperá-lo."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Entrevista da Opas na terça (17).",
+         "Campanhas de vacinação estaduais e locais, segundo a Al Jazeera."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "CBS News: o que significa a perda",
+        "u": "https://www.cbsnews.com/news/measles-elimination-status-united-states/"
+       },
+       {
+        "t": "Al Jazeera: mortes chegam a 10",
+        "u": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported"
+       },
+       {
+        "t": "Opas: revisão de janeiro",
+        "u": "https://www.paho.org/en/news/16-1-2026-measles-elimination-status-united-states-and-mexico"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Trump, Xi e Putin vão se reunir na China sobre armas nucleares",
+     "contexto": "armas-nucleares-eua-russia-china",
+     "texto": "A Casa Branca confirmou na sexta (13) que Donald Trump, Xi Jinping e Vladimir Putin terão a primeira reunião a três na quinta (19), em Shenzhen, durante a cúpula da Apec. O tema principal é a redução de arsenais nucleares.",
+     "pq": "desde fevereiro, quando expirou o último tratado entre EUA e Rússia, não há limite para os dois maiores arsenais do mundo. Um funcionário americano disse que nenhum acordo deve sair do encontro.",
+     "fontes": [
+      {
+       "t": "AP, via WSVN",
+       "u": "https://wsvn.com/news/us-world/trump-xi-putin-shenzhen-summit/"
+      },
+      {
+       "t": "CBS News",
+       "u": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
+      },
+      {
+       "t": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+      }
+     ],
+     "completa": {
+      "fina": "Trump quer falar também da guerra com o Irã; a Ucrânia fica fora da conversa, segundo autoridades americanas.",
+      "atualizada": "15 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente dos EUA, Donald Trump, o presidente da China, Xi Jinping, e o presidente da Rússia, Vladimir Putin, vão se reunir na quinta-feira (19) em Shenzhen, na China, à margem da cúpula da Cooperação Econômica Ásia-Pacífico (Apec), segundo a Casa Branca. A AP e a CBS dizem que será o primeiro encontro dos três ao mesmo tempo.",
+      "blocos": [
+       {
+        "h": "A pauta",
+        "li": [
+         {
+          "b": "Armas nucleares:",
+          "t": "a porta-voz da Casa Branca, Olivia Wales, disse que Trump \"vai discutir a redução de armas nucleares no mundo\", segundo a CBS."
+         },
+         {
+          "b": "Irã:",
+          "t": "um alto funcionário americano disse que Trump pretende falar da guerra com o Irã."
+         },
+         {
+          "b": "Fora da pauta:",
+          "t": "a guerra na Ucrânia, que segue em negociação separada, e os controles de exportação de chips para a China, segundo a CBS."
+         },
+         {
+          "b": "Expectativa:",
+          "t": "o funcionário disse que não se espera acordo e descreveu o encontro como \"o começo, espera-se, de uma conversa\", segundo a AP."
+         }
+        ]
+       },
+       {
+        "h": "Os arsenais",
+        "p": [
+         "O Novo START, último tratado nuclear entre EUA e Rússia, expirou em fevereiro de 2026 e deixou os dois maiores arsenais sem limite pela primeira vez em mais de 50 anos, segundo a AP. Trump recusou a proposta russa de estender o acordo por um ano e pediu um tratado novo que inclua a China. Pelas estimativas do Pentágono, a China tem mais de 600 ogivas, e EUA e Rússia, mais de 5.000 cada. A China tem mostrado pouco interesse num acordo, dada a diferença de tamanho."
+        ]
+       },
+       {
+        "h": "A agenda de Trump",
+        "p": [
+         "Trump sai de Washington na segunda (16) para Manila, onde participa de reuniões do Quad e de uma cúpula especial EUA-Asean, segundo a Anadolu. Na quinta, em Shenzhen, também almoça com Xi; será o quarto encontro dos dois desde a volta de Trump ao poder, segundo a CBS. Elon Musk viaja com a comitiva, mas não participa das reuniões oficiais."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Dmitri Peskov, porta-voz do Kremlin:",
+          "t": "chamou o encontro de \"extremamente significativo\" e rejeitou comparações com a Conferência de Ialta, de 1945, segundo a AP."
+         },
+         {
+          "b": "Governo chinês:",
+          "t": "a AP não registra declaração oficial de Pequim sobre o encontro."
+         },
+         {
+          "b": "Hoo Tiang Boon, da Universidade Tecnológica de Nanyang:",
+          "t": "disse que a reunião vai \"contra o apoio chinês ao multilateralismo\"."
+         },
+         {
+          "b": "Ucrânia:",
+          "t": "o presidente Volodymyr Zelensky teme que o encontro sirva para discutir um acordo sem Kiev, segundo a AP."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a China aceita negociar limites para o próprio arsenal.",
+         "Se haverá declaração conjunta."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Viagem de Trump a Manila a partir de segunda (16).",
+         "Reunião a três em Shenzhen na quinta (19)."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "AP, via WSVN: a reunião em Shenzhen",
+        "u": "https://wsvn.com/news/us-world/trump-xi-putin-shenzhen-summit/"
+       },
+       {
+        "t": "CBS News: a pauta",
+        "u": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
+       },
+       {
+        "t": "Anadolu: agenda de Trump",
+        "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Microsoft restabelece Outlook e Teams após falha de mais de 24 horas",
+     "contexto": "apagoes-na-nuvem",
+     "texto": "A Microsoft disse no sábado (14) que restabeleceu o Outlook, o Teams e outros serviços para todos os clientes. A falha começou na quinta (12) e atingiu governos, bancos e companhias aéreas da Austrália aos EUA. O STF suspendeu prazos processuais.",
+     "pq": "a pane mostrou quanto do trabalho depende de um só fornecedor. A empresa atribuiu o problema a uma mudança de rede e disse não ver sinal de ataque. O Downdetector registrou mais de 7,4 milhões de relatos de falha.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/microsoft-restabelece-servico-do-outlook-e-teams-apos-falha-global"
+      },
+      {
+       "t": "Digital Trends",
+       "u": "https://www.digitaltrends.com/computing/microsoft-365-outage-resolved/"
+      },
+      {
+       "t": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+      }
+     ],
+     "completa": {
+      "fina": "Foi a segunda interrupção de serviços da Microsoft neste ano, segundo a Agência Brasil.",
+      "atualizada": "15 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Microsoft informou no sábado (14) que restabeleceu os serviços \"para os clientes e regiões restantes afetados\", segundo a Agência Brasil. A falha atingiu o Exchange Online, plataforma de e-mail e agenda na nuvem, e com ela o Outlook, o Teams, o Copilot e outros serviços. Os problemas começaram por volta das 11h17 de quinta-feira (12) no horário de Nova York, segundo o Digital Trends.",
+      "blocos": [
+       {
+        "h": "A causa",
+        "p": [
+         "A Microsoft primeiro suspeitou de excesso de tráfego. Depois, descobriu que vários servidores tinham ficado indisponíveis de forma inesperada, sobrecarregando os demais, e que as tentativas de reiniciá-los falhavam quando o tráfego voltava, segundo o Digital Trends. A empresa ligou o problema a \"uma atualização anterior de capacidade de rede, exposta por uma mudança posterior\" e corrigiu um componente de autenticação e roteamento. Disse não ter indício de atividade maliciosa e descartou a inteligência artificial como causa."
+        ]
+       },
+       {
+        "h": "Quem foi atingido",
+        "li": [
+         {
+          "b": "Governos:",
+          "t": "o e-mail do governo do Japão saiu do ar, e a Nova Zelândia suspendeu a emissão de vistos, segundo a Anadolu."
+         },
+         {
+          "b": "Saúde:",
+          "t": "o serviço público de saúde britânico, o NHS, usou sistemas alternativos, segundo o Digital Trends."
+         },
+         {
+          "b": "Mercado:",
+          "t": "corretoras relataram atrasos e algumas empresas não conseguiram divulgar resultados, segundo a Agência Brasil. Uma empresa de Taiwan usou fax para confirmar operações."
+         },
+         {
+          "b": "Aviação:",
+          "t": "companhias como Air India e IndiGo relataram problemas no atendimento por e-mail."
+         },
+         {
+          "b": "Brasil:",
+          "t": "o STF suspendeu prazos processuais por causa da instabilidade, segundo a Agência Brasil."
+         }
+        ]
+       },
+       {
+        "h": "O tamanho",
+        "p": [
+         "O Downdetector, da Ookla, registrou mais de 7,4 milhões de relatos no mundo, com pico de quase 20 mil por minuto, mais de 1.500 vezes o normal, segundo a Agência Brasil. O número de relatos não equivale ao de usuários afetados. Organizações com servidores próprios, fora da nuvem, foram em grande parte poupadas."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Microsoft:",
+          "t": "disse que a pane veio de problema técnico ligado à atualização de rede, não de ataque nem de IA, e pediu desculpas, segundo a Anadolu."
+         },
+         {
+          "b": "Luke Kehoe, analista da Ookla:",
+          "t": "disse que o caso mostra quanto do dia de trabalho depende das ferramentas de e-mail e colaboração de um só fornecedor, segundo a Agência Brasil."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O horário exato do fim da falha.",
+         "Se haverá compensação a clientes empresariais."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A Microsoft não informou se vai divulgar um relatório final sobre a falha."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: serviço restabelecido",
+        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/microsoft-restabelece-servico-do-outlook-e-teams-apos-falha-global"
+       },
+       {
+        "t": "Digital Trends: o que deu errado",
+        "u": "https://www.digitaltrends.com/computing/microsoft-365-outage-resolved/"
+       },
+       {
+        "t": "Anadolu: governos atingidos",
+        "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Itália multa Meta em 805 milhões de euros por acesso a fotos",
+     "contexto": "big-techs-e-privacidade",
+     "texto": "A autoridade de proteção de dados da Itália multou a Meta em 805 milhões de euros. Segundo o órgão, o Facebook para Android acessou fotos, vídeos e metadados da galeria de usuários italianos sem consentimento específico, para sugerir publicações.",
+     "pq": "a Meta tem 60 dias para desligar o recurso por padrão e pedir consentimento à parte. A multa equivale a cerca de 0,47% da receita global da empresa, segundo o regulador. A agência Ansa diz que a Meta prepara recurso.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/italia-multa-meta-por-acesso-dados-de-usuarios-do-android"
+      },
+      {
+       "t": "Ansa",
+       "u": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
+      }
+     ],
+     "completa": {
+      "fina": "A investigação, aberta em 2025, não tratou do uso das imagens para treinar IA, o que a Meta nega fazer.",
+      "atualizada": "15 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Garante per la protezione dei dati personali, autoridade de proteção de dados da Itália, multou a Meta em 805 milhões de euros (cerca de US$ 887 milhões), segundo a Agência Brasil, que reproduz a Reuters, e a agência italiana Ansa. A decisão foi divulgada no sábado (14).",
+      "blocos": [
+       {
+        "h": "O que o regulador encontrou",
+        "p": [
+         "Segundo o Garante, o aplicativo do Facebook para Android acessou fotos, vídeos e metadados guardados nos celulares de usuários na Itália sem consentimento específico e sem informar de forma adequada. O acesso vinha do recurso \"Receba sugestões da galeria enquanto navega no Facebook\", disponível desde 2023, que propõe imagens do celular como ideia de publicação, segundo a Ansa."
+        ]
+       },
+       {
+        "h": "O que a Meta precisa fazer",
+        "li": [
+         {
+          "b": "Prazo:",
+          "t": "\"A Meta tem 60 dias para desativar o recurso por padrão e solicitar o consentimento dos usuários separadamente\", diz o órgão, segundo a Agência Brasil."
+         },
+         {
+          "b": "Valor:",
+          "t": "cerca de 0,47% da receita global da empresa, segundo o regulador."
+         },
+         {
+          "b": "Limites da investigação:",
+          "t": "o caso, aberto em 2025, não analisou se o conteúdo foi usado para treinar modelos de IA. O Garante se reserva o direito de avaliar à parte um recurso de 2026 que processa a galeria na nuvem."
+         }
+        ]
+       },
+       {
+        "h": "Quem decidiu",
+        "p": [
+         "O Garante é o órgão independente que fiscaliza o uso de dados pessoais na Itália. A multa foi anunciada pelo próprio órgão em comunicado, segundo a Agência Brasil, que reproduz reportagem da Reuters feita em Milão. A Ansa, principal agência de notícias italiana, publicou a decisão no mesmo sábado, com o nome do recurso questionado e o prazo dado à empresa."
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "A decisão atinge um recurso que lê arquivos pessoais do celular, e não apenas o que o usuário publica na rede social. Para usuários de outros países, o caso mostra como um recurso pode ser ligado por padrão sem pedido explícito."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Garante italiano:",
+          "t": "diz que faltou consentimento específico e informação adequada aos usuários."
+         },
+         {
+          "b": "Meta:",
+          "t": "não comentou de imediato quando procurada pela Reuters, segundo a Agência Brasil. A Ansa relata que a empresa prepara recurso. A Meta nega usar o conteúdo da galeria para treinar IA."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantos usuários italianos tiveram o recurso ativado.",
+         "Se outros reguladores europeus vão abrir casos parecidos."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Prazo de 60 dias para a Meta mudar o recurso.",
+         "Possível recurso da empresa à Justiça italiana."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil: Itália multa Meta",
+        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/italia-multa-meta-por-acesso-dados-de-usuarios-do-android"
+       },
+       {
+        "t": "Ansa: multa de 805 milhões",
+        "u": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "OpenAI lança carteira para seus agentes de IA fazerem compras",
+     "contexto": "modelos-de-ia-de-fronteira",
+     "texto": "A OpenAI começou a liberar o ChatGPT Wallet, que permite a seus agentes de IA pagar compras com cartões American Express, Mastercard e Visa. Cada compra precisa de aprovação do usuário. Por ora, só assinantes do plano Pro nos EUA.",
+     "pq": "é a segunda tentativa da empresa de vender dentro do ChatGPT; a primeira foi encerrada em março. A OpenAI diz que nem o agente nem a loja veem o número real do cartão. Não está claro quem paga por uma compra errada.",
+     "fontes": [
+      {
+       "t": "PPC Land",
+       "u": "https://ppc.land/openai-hands-its-ai-agents-a-wallet-without-the-real-card-number-in-it/"
+      },
+      {
+       "t": "Anadolu",
+       "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+      }
+     ],
+     "completa": {
+      "fina": "A OpenAI diz que não vai cobrar parte das transações no início, segundo a Anadolu.",
+      "atualizada": "15 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A OpenAI começou em 13 de novembro a liberar o ChatGPT Wallet, uma carteira de pagamentos dentro dos dots, os agentes de IA da empresa que funcionam o tempo todo, segundo o PPC Land e a Anadolu. A ferramenta foi feita com American Express, Mastercard e Visa.",
+      "blocos": [
+       {
+        "h": "Como funciona",
+        "li": [
+         {
+          "b": "Cadastro:",
+          "t": "o usuário registra o cartão uma vez."
+         },
+         {
+          "b": "Compra:",
+          "t": "o agente pesquisa e prepara a compra; o usuário confere itens, total e cartão e aprova com Face ID ou digital."
+         },
+         {
+          "b": "Pagamento:",
+          "t": "a bandeira gera um código para cada transação, e a OpenAI diz que os dados reais do cartão não chegam ao agente nem à loja."
+         },
+         {
+          "b": "Depois:",
+          "t": "troca, entrega e atendimento ficam com a loja; benefícios e proteções do cartão continuam valendo."
+         }
+        ]
+       },
+       {
+        "h": "Os parceiros",
+        "p": [
+         "Além das três bandeiras, participam empresas de prevenção a fraude (Forter, Riskified, Sardine e Signifyd) e de processamento de pagamentos (Adyen, Checkout.com e Stripe), segundo o PPC Land. Luke Gebb, da American Express, disse que é a primeira integração do programa de comércio por agentes da bandeira. Um teste da empresa Blend citado pelo site mostrou que sistemas antirrobô barraram um agente de compras em 29 de 200 lojas, ou 14,5%."
+        ]
+       },
+       {
+        "h": "Quem pode usar",
+        "p": [
+         "Por ora, só assinantes do ChatGPT Pro nos EUA, com 18 anos ou mais e cartões emitidos no país. Não há data para outros países. A OpenAI planeja compras delegadas, com limites de gasto, categorias e prazos, mas sem data, segundo o PPC Land."
+        ]
+       },
+       {
+        "h": "A tentativa anterior",
+        "p": [
+         "É a segunda tentativa da OpenAI de vender dentro do ChatGPT. O Instant Checkout, lançado com a Stripe em setembro de 2025, foi encerrado em março de 2026; o Walmart relatou conversão cerca de três vezes menor nas compras dentro do chat do que nos cliques para o site, segundo o PPC Land. Agora a venda volta a acontecer no site da loja."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "OpenAI:",
+          "t": "diz que é \"a primeira carteira que permite a agentes pagar sem acesso aos dados reais do cartão\", afirmação que o PPC Land diz não ter sido comparada com outras."
+         },
+         {
+          "b": "Lojas:",
+          "t": "a OpenAI reconhece que alguns sites podem bloquear sem querer as compras feitas pelo agente."
+         },
+         {
+          "b": "Consumidores:",
+          "t": "uma pesquisa da Salesforce citada pelo PPC Land indica que três em cada quatro compradores de fim de ano não querem agentes de IA comprando por eles."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem arca com o prejuízo se o agente comprar o item errado.",
+         "Quando a ferramenta chega a outros países, incluindo o Brasil."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Liberação gradual para assinantes Pro nos EUA."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "PPC Land: como funciona a carteira",
+        "u": "https://ppc.land/openai-hands-its-ai-agents-a-wallet-without-the-real-card-number-in-it/"
+       },
+       {
+        "t": "Anadolu: lançamento",
+        "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "7,4 milhões",
+  "texto": "de relatos de falha foram registrados no mundo durante a pane da Microsoft desde quinta (12), segundo o Downdetector; o pico foi 1.500 vezes o normal.",
+  "fontes": [
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/microsoft-restabelece-servico-do-outlook-e-teams-apos-falha-global"
+   },
+   {
+    "t": "Digital Trends",
+    "u": "https://www.digitaltrends.com/computing/microsoft-365-outage-resolved/"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "A segunda Copa do Mundo de vela começa na quinta (19) na Baía de Guanabara, com 40 países. Para Robert Scheidt, capitão do Brasil, é \"um retorno ao cenário dos Jogos Olímpicos de 2016\".",
+  "fontes": [
+   {
+    "t": "Agência Brasil",
+    "u": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/copa-do-mundo-da-vela-chega-ao-rio-de-janeiro-para-2a-edicao"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição cita a OpenAI e a Meta, que concorrem com a Anthropic.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Na escala 5x2, o relator, as entidades empresariais e o ministro que pediu o destaque aparecem com o mesmo peso, e a falta de explicação de Fux está registrada. Ressalvas: o Fechar tem uma fonte só, e a perda do status do sarampo nos EUA ainda depende de entrevista oficial da Opas na terça.",
+  "pontos": [
+   "Brasil 1: a divergência entre O Povo e o Mix Vale sobre a anulação dos votos está explicada.",
+   "Brasil 2: \"ataca\", usado em títulos de outros veículos, virou \"criticou\"; as frases de Lula estão entre aspas e atribuídas.",
+   "Brasil 3: a nota registra os 31 votos contra no Senado e que as reportagens não ouviram a oposição.",
+   "Mundo 1: a disputa sobre a contagem de mortes traz a posição do secretário de Saúde e a regra da Pensilvânia; a nota diz que o governo não comentou.",
+   "Mundo 2: posições dos EUA, da Rússia e da Ucrânia; a falta de declaração oficial da China está registrada.",
+   "Mundo 3: a causa é a versão da Microsoft; a nota diz que relatos não equivalem a usuários.",
+   "Inovação 1: a posição da Meta está registrada, inclusive a negativa sobre treino de IA.",
+   "Contextos: as cinco páginas novas e as três atualizadas têm a parte em prosa \"Como chegamos aqui\", só com fatos das fontes abertas.",
+   "Inovação 2: a afirmação de \"primeira carteira\" é marcada como da própria OpenAI; aviso de conflito de interesse no rodapé."
+  ],
+  "equilibrio": "Governo Lula: 3 menções (neutras); oposição: 1 (votos no Senado); STF: 2. EUA: 3; Rússia: 1; China: 1 (sem declaração). Empresas: Microsoft, Meta e OpenAI com a própria versão registrada.",
+  "foraDaEdicao": [
+   "Japão 3 x 2 Brasil, com expulsões de Ancelotti e Raphinha: sem tempo para checar uma página de contexto da seleção antes do prazo; deve entrar se houver desdobramento.",
+   "Previsão de tempestades do Inmet para o fim de semana: só uma fonte com data confirmada.",
+   "Consulta pública sobre calor extremo: só uma fonte.",
+   "Demais categorias extras: nenhum fato novo checado em duas fontes com contexto pronto até o fechamento."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: a escala 5x2, pelo efeito sobre milhões de trabalhadores.",
+   "Essencial: escala 5x2, votação do ajuste fiscal e sarampo nos EUA, por afetarem renda, contas públicas e saúde.",
+   "Toda nota tem página de contexto; cinco novas, todas com a parte em prosa \"Como chegamos aqui\"."
+  ]
+ },
+ "geradaEm": "2026-11-15T07:46:01Z"
+}
