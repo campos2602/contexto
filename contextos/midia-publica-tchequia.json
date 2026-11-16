@@ -1,0 +1,120 @@
+{
+ "titulo": "A disputa sobre a mídia pública na República Tcheca",
+ "atualizado": "16 nov 2026",
+ "selo": "Checado",
+ "frase": "O governo de Andrej Babis quer acabar com a taxa que financia a TV e a rádio públicas tchecas e pagá-las com dinheiro do orçamento. Críticos veem risco à independência; o governo diz que a independência fica garantida.",
+ "historia": [
+  "Na República Tcheca, a Televisão Tcheca e a Rádio Tcheca são financiadas por uma taxa paga por quem tem TV ou rádio, e não pelo orçamento do governo. Segundo o Instituto Reuters, as emissoras públicas são as marcas de mídia mais confiáveis do país, numa confiança geral que fica entre 30% e 33%.",
+  "Andrej Babis, empresário e líder do partido ANO, voltou a ser primeiro-ministro depois de ter governado de 2017 a 2021. Sua coalizão inclui o SPD, de extrema direita, e o partido eurocético dos Motoristas. Em abril de 2026, o ministro da Cultura, Oto Klempir, apresentou o plano de acabar com a taxa e financiar as emissoras pelo orçamento, com corte de cerca de 15%, segundo o TheJournal.ie.",
+  "A primeira votação na Câmara, numa sessão que terminou às 4h36 de um fim de semana, virou símbolo da reação. O presidente Petr Pavel disse que o rito enfraqueceu a confiança no governo, segundo a Rádio Praga. Em outubro, milhares protestaram, e em 3 de novembro funcionários das duas emissoras fizeram greve de um dia.",
+  "Além da mídia, o protesto passou a reunir críticas a outras políticas do governo, como cultura e meio ambiente, segundo o TheJournal.ie. Os organizadores entregaram uma petição pedindo a retirada do projeto e a destituição de Tomio Okamura, presidente da Câmara e líder do SPD, a quem acusam de pôr em risco a segurança nacional. O ANO, partido de Babis, mantém cerca de 30% nas pesquisas.",
+  "Em 15 de novembro, o grupo Um Milhão de Momentos pela Democracia levou ao centro de Praga, segundo a própria estimativa, entre 350 mil e 450 mil pessoas. Babis diz que ninguém quer controlar a mídia pública. Entidades europeias de imprensa comparam o plano a medidas de Robert Fico, na Eslováquia, e de Viktor Orbán, na Hungria."
+ ],
+ "linha": [
+  {
+   "d": "2017 a 2021",
+   "t": "Primeiro mandato de Andrej Babis como primeiro-ministro."
+  },
+  {
+   "d": "Março de 2026",
+   "t": "Ato contra Babis reúne cerca de 250 mil pessoas, segundo os organizadores."
+  },
+  {
+   "d": "Abril de 2026",
+   "t": "O ministro da Cultura, Oto Klempir, apresenta o plano de acabar com a taxa."
+  },
+  {
+   "d": "Outubro de 2026",
+   "t": "A Câmara aprova a primeira votação de madrugada; milhares protestam em Praga e Brno."
+  },
+  {
+   "d": "3 de novembro de 2026",
+   "t": "Funcionários da TV e da rádio públicas fazem greve de um dia."
+  },
+  {
+   "d": "15 de novembro de 2026",
+   "t": "Protesto em Praga reúne entre 350 mil e 450 mil pessoas, segundo os organizadores."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Taxa de radiodifusão",
+   "d": "Valor cobrado de quem tem TV ou rádio para financiar as emissoras públicas, sem depender do orçamento anual do governo."
+  },
+  {
+   "t": "Televisão Tcheca e Rádio Tcheca",
+   "d": "As emissoras públicas do país, conhecidas pelas siglas ČT e ČRo."
+  },
+  {
+   "t": "Primeira leitura",
+   "d": "Primeira de três votações de um projeto na Câmara tcheca."
+  },
+  {
+   "t": "Um Milhão de Momentos pela Democracia",
+   "d": "Grupo civil que organiza protestos contra Babis desde o primeiro mandato dele."
+  },
+  {
+   "t": "ANO",
+   "d": "Partido de Andrej Babis, o maior da coalizão de governo."
+  },
+  {
+   "t": "SPD",
+   "d": "Partido Liberdade e Democracia Direta, de extrema direita, liderado por Tomio Okamura."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Andrej Babis",
+   "t": "primeiro-ministro, líder do ANO."
+  },
+  {
+   "b": "Oto Klempir",
+   "t": "ministro da Cultura, autor do plano."
+  },
+  {
+   "b": "Petr Pavel",
+   "t": "presidente da República; criticou o rito da votação."
+  },
+  {
+   "b": "Tomio Okamura",
+   "t": "presidente da Câmara e líder do SPD; os manifestantes pedem sua saída."
+  },
+  {
+   "b": "Mikulas Minar",
+   "t": "líder do grupo que organizou o protesto."
+  },
+  {
+   "b": "Entidades de imprensa",
+   "t": "União Europeia de Radiodifusão, Federação Europeia de Jornalistas, Repórteres sem Fronteiras e Instituto Internacional de Imprensa, que criticaram o plano."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Independência",
+   "t": "o governo diz que a mudança não afeta a independência editorial nem a programação; críticos e entidades de imprensa dizem que o dinheiro do orçamento dá ao governo poder sobre as emissoras."
+  },
+  {
+   "b": "Custos",
+   "t": "o governo diz que as emissoras precisam cortar gastos; os funcionários fizeram greve contra o corte."
+  },
+  {
+   "b": "Rito",
+   "t": "a oposição vai contestar a votação de madrugada na Corte Constitucional e na Comissão Europeia; o governo acusa a oposição de usar o tema para aumentar a tensão."
+  }
+ ],
+ "observar": [
+  "A segunda e a terceira votações na Câmara.",
+  "A análise da Corte Constitucional.",
+  "A reação da Comissão Europeia."
+ ],
+ "fontes": [
+  {
+   "t": "TheJournal.ie, com AFP: o protesto de domingo",
+   "u": "https://www.thejournal.ie/czechia-public-media-funding-protests-7227143-Nov2026/"
+  },
+  {
+   "t": "Rádio Praga: o plano e as reações",
+   "u": "https://english.radio.cz/thousands-protest-prague-against-plans-abolish-public-media-fees-8900930"
+  }
+ ]
+}

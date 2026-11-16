@@ -1,32 +1,16 @@
 {
  "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
- "atualizado": "9 nov 2026",
+ "atualizado": "16 nov 2026",
  "selo": "Checado",
  "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
  "linha": [
-  {
-   "d": "31 de outubro de 2026",
-   "t": "Advogados pedem à Justiça Federal a suspensão do salário de Flávio. Ministros visitam aldeias Guarani Kaiowá em Mato Grosso do Sul e anunciam reforço da Força Nacional após ameaças."
-  },
-  {
-   "d": "5 e 6 de janeiro de 2027",
-   "t": "Posse do presidente (dia 5) e dos governadores (dia 6)."
-  },
   {
    "d": "26 de outubro de 2026",
    "t": "Flávio desiste da anulação e diz que vai pedir a cassação da chapa de Lula por abuso de poder. O PL reconhece o resultado."
   },
   {
-   "d": "1º de fevereiro de 2027",
-   "t": "Tomam posse deputados federais e senadores."
-  },
-  {
    "d": "4 e 5 de novembro de 2026",
    "t": "O presidente do PT, Edinho Silva, encarregado por Lula, pede a MDB, PSD, PSB e União Brasil propostas para os ministérios e uma estimativa dos votos que cada partido pode dar no Congresso, segundo a Folha."
-  },
-  {
-   "d": "11 e 12 de novembro de 2026",
-   "t": "Lula vai à COP31, na Turquia. Os nomes do novo ministério devem ser definidos a partir do fim de novembro."
   },
   {
    "d": "5 de novembro de 2026",
@@ -35,6 +19,22 @@
   {
    "d": "8 de novembro de 2026",
    "t": "No primeiro pronunciamento depois da reeleição, Lula promete medida provisória para criar o Ministério da Segurança Pública depois da aprovação da PEC da Segurança e pede \"com urgência uma reforma política e do Judiciário\"."
+  },
+  {
+   "d": "11 e 12 de novembro de 2026",
+   "t": "Lula vai à COP31, na Turquia. Os nomes do novo ministério devem ser definidos a partir do fim de novembro."
+  },
+  {
+   "d": "15 de novembro de 2026",
+   "t": "Alckmin diz que Lula começa a definir os ministérios ao voltar de viagem, entre 16 e 17 de novembro, segundo a CNN Brasil."
+  },
+  {
+   "d": "5 e 6 de janeiro de 2027",
+   "t": "Posse do presidente (dia 5) e dos governadores (dia 6)."
+  },
+  {
+   "d": "1º de fevereiro de 2027",
+   "t": "Tomam posse deputados federais e senadores."
   }
  ],
  "termos": [
@@ -213,6 +213,20 @@
   {
    "t": "Money Times: íntegra do pronunciamento",
    "u": "https://www.moneytimes.com.br/reforma-do-judiciario-isencao-da-cesta-basica-e-divida-publica-leia-a-integra-do-pronunciamento-de-lula-igdl/"
+  },
+  {
+   "t": "CNN Brasil: Lula decidirá ministérios na volta",
+   "u": "https://www.cnnbrasil.com.br/politica/lula-decidira-formacao-dos-ministerios-quando-voltar-de-viagem-diz-alckmin/"
+  },
+  {
+   "t": "BNews: declaração de Alckmin",
+   "u": "https://www.bnews.com.br/noticias/politica/lula-deve-iniciar-definicao-dos-ministros-do-quarto-mandato-na-proxima-semana-diz-alckmin.html"
   }
+ ],
+ "historia": [
+  "Em 2026, o Brasil elegeu presidente, governadores, senadores e deputados. O presidente Luiz Inácio Lula da Silva (PT) foi reeleito no segundo turno, em 25 de outubro, para o quarto mandato. O senador Flávio Bolsonaro (PL), adversário no segundo turno, não reconheceu o resultado de início e disse que tentaria anular a eleição; no dia seguinte, desistiu da anulação e anunciou um pedido de cassação da chapa por abuso de poder, e o PL reconheceu o resultado.",
+  "A disputa seguiu na Justiça Eleitoral. Em 5 de novembro, o corregedor-geral, Ricardo Villas Bôas Cueva, aceitou uma ação do partido Novo que acusa Lula e o vice, Geraldo Alckmin, de abuso de poder político; ele disse que aceitar a ação não significa reconhecer irregularidade.",
+  "Ao mesmo tempo, começou a montagem do novo governo. O presidente do PT, Edinho Silva, pediu a MDB, PSD, PSB e União Brasil propostas para os ministérios e uma estimativa de votos no Congresso. Em 15 de novembro, Alckmin disse que Lula discute a formação dos ministérios ao voltar de viagem, começando pelas áreas econômica e social.",
+  "Por causa de uma emenda constitucional de 2021, as posses mudaram de data: o presidente toma posse em 5 de janeiro de 2027, os governadores no dia 6 e os parlamentares em 1º de fevereiro."
  ]
 }

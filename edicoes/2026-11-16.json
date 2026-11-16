@@ -1,0 +1,897 @@
+{
+ "data": "2026-11-16",
+ "dia": "Segunda, 16 de novembro de 2026",
+ "leitura": "7 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje as faltas no segundo dia do Enem, o início da montagem do novo ministério de Lula e os novos ataques do Irã ao Bahrein.",
+ "trinta": [
+  "O Enem teve 36% de faltas no domingo; o gabarito sai na quarta (18).",
+  "Lula começa a definir os ministros do novo mandato nesta semana.",
+  "O Irã lançou drones contra o Bahrein pela segunda vez em três dias."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "Quem faltou por doença ou problema logístico pode pedir reaplicação até sexta (20)."
+  },
+  {
+   "id": "b2",
+   "porque": "Os nomes da Fazenda e da Saúde definem as prioridades do novo governo."
+  },
+  {
+   "id": "m1",
+   "porque": "Nova tensão no Golfo, com Ormuz fechado, mexe com o preço do petróleo."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Enem tem 36% de faltas no segundo dia; gabarito sai quarta",
+     "contexto": "enem-2026",
+     "texto": "O segundo dia do Enem, no domingo (15), com matemática e ciências da natureza, teve 36% de abstenção, ante 32% no primeiro, segundo o MEC. O gabarito oficial sai na quarta (18), e as notas, em 18 de janeiro.",
+     "pq": "a nota do Enem dá acesso a quase 1,5 milhão de vagas pelo Sisu, Prouni e Fies. Quem faltou por doença, problema logístico ou desastre natural pode pedir reaplicação de 16 a 20 de novembro.",
+     "fontes": [
+      {
+       "t": "Estado de Minas",
+       "u": "https://www.em.com.br/educacao/2026/11/7539052-enem-tem-abstencao-de-36-neste-domingo-15-diz-mec.html"
+      },
+      {
+       "t": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-tem-mais-concluintes-do-ensino-publico-mas-abstencao-tambem-sobe/"
+      }
+     ],
+     "completa": {
+      "fina": "O MEC atribui a alta das faltas à inscrição automática de concluintes da rede pública, que tiveram participação recorde.",
+      "atualizada": "16 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A abstenção no segundo dia do Exame Nacional do Ensino Médio (Enem) 2026, no domingo (15), foi de 36%, segundo o Ministério da Educação, citado pelo Estado de Minas e pela CNN Brasil. No primeiro dia, em 8 de novembro, havia sido de 32%. O exame teve mais de 5 milhões de inscritos.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Abstenção:",
+          "t": "36% no segundo dia e 32% no primeiro, segundo o MEC."
+         },
+         {
+          "b": "Rede pública:",
+          "t": "1.963.906 inscritos eram concluintes do ensino médio público, segundo a CNN Brasil. A presença desse grupo foi de 65%, ante 53,8% em 2025, o que o MEC calcula como 250 mil estudantes a mais, segundo o Estado de Minas."
+         },
+         {
+          "b": "Inscrição automática:",
+          "t": "o Inep cadastrou cerca de 500 mil concluintes da rede pública sem que eles pedissem, e cerca de metade fez a prova."
+         },
+         {
+          "b": "Provas:",
+          "t": "90 questões, 45 de matemática e 45 de ciências da natureza, em cinco horas."
+         }
+        ]
+       },
+       {
+        "h": "Problemas no domingo",
+        "p": [
+         "Onze locais de prova tiveram falta de energia: quatro em Minas Gerais, três na Bahia, dois no Paraná, um no Maranhão e um no Piauí, segundo a CNN Brasil. O ministro da Educação, Leonardo Barchini, relatou tentativas de ataque hacker ao site do Inep e disse que a situação estava sob controle."
+        ]
+       },
+       {
+        "h": "Datas",
+        "li": [
+         {
+          "b": "Reaplicação:",
+          "t": "pedidos na Página do Participante de segunda (16) a sexta (20), para quem faltou por doença, problema logístico ou desastre natural."
+         },
+         {
+          "b": "Gabarito oficial:",
+          "t": "quarta-feira (18)."
+         },
+         {
+          "b": "Notas, com a redação:",
+          "t": "18 de janeiro de 2027."
+         }
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Leonardo Barchini, ministro da Educação:",
+          "t": "chamou a alta das faltas de \"esperada\" por causa da inscrição automática e disse que os concluintes da rede pública tiveram a maior participação da história do exame. Sobre os ataques: \"Esses ataques sempre ocorrem, mas nada fora do comum\"."
+         },
+         {
+          "b": "Manuel Palacius, presidente do Inep:",
+          "t": "\"Conseguimos já em 2026 ampliar o número de municípios e queremos ampliar ainda mais em 2027\", segundo o Estado de Minas."
+         },
+         {
+          "b": "Críticas:",
+          "t": "as reportagens não trazem avaliação de especialistas ou entidades estudantis sobre a abstenção."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O número absoluto de presentes no segundo dia.",
+         "A proposta de mudança no exame que o Inep deve apresentar nas próximas semanas; o ministro disse que ainda não a viu.",
+         "Se o Enem será aplicado em outros países do Mercosul a partir de 2027, como o ministério estuda."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Pedidos de reaplicação até sexta (20).",
+         "Gabarito na quarta (18) e notas em 18 de janeiro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Estado de Minas: abstenção de 36%",
+        "u": "https://www.em.com.br/educacao/2026/11/7539052-enem-tem-abstencao-de-36-neste-domingo-15-diz-mec.html"
+       },
+       {
+        "t": "CNN Brasil: rede pública e faltas",
+        "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-tem-mais-concluintes-do-ensino-publico-mas-abstencao-tambem-sobe/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Lula começa a definir ministros do quarto mandato nesta semana, diz Alckmin",
+     "contexto": "eleicoes-brasil-2026",
+     "texto": "O vice-presidente Geraldo Alckmin disse no domingo (15) que Lula vai discutir a formação dos ministérios do novo governo ao voltar de viagem, o que deve ocorrer entre segunda (16) e terça (17). O novo mandato começa em 5 de janeiro.",
+     "pq": "os primeiros nomes devem ser das áreas econômica e social, como Fazenda, Saúde, Planejamento, Educação e Desenvolvimento Social, segundo a CNN Brasil. A escolha indica como o governo vai negociar com o Congresso.",
+     "fontes": [
+      {
+       "t": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/lula-decidira-formacao-dos-ministerios-quando-voltar-de-viagem-diz-alckmin/"
+      },
+      {
+       "t": "BNews",
+       "u": "https://www.bnews.com.br/noticias/politica/lula-deve-iniciar-definicao-dos-ministros-do-quarto-mandato-na-proxima-semana-diz-alckmin.html"
+      }
+     ],
+     "completa": {
+      "fina": "Os nomes citados pela imprensa ainda não foram confirmados pelo governo.",
+      "atualizada": "16 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O vice-presidente Geraldo Alckmin (PSB) disse no domingo (15), em entrevista em Brasília, que o presidente Luiz Inácio Lula da Silva (PT) vai discutir a formação dos ministérios do quarto mandato ao voltar de viagem, segundo a CNN Brasil e o BNews. \"Na volta do presidente, que deve ser amanhã, aí o presidente vai discutir essa questão de formação de ministérios\", afirmou.",
+      "blocos": [
+       {
+        "h": "O calendário",
+        "p": [
+         "Lula volta de viagens à Turquia, às Filipinas e à Espanha. Alckmin falou em retorno na segunda-feira (16); a CNN Brasil diz que a chegada é esperada entre a noite de segunda e a terça (17). O novo governo começa em 5 de janeiro de 2027, primeira posse presidencial na nova data definida por emenda constitucional de 2021. Na viagem, Lula foi à COP31, na Turquia, e à cúpula da Asean, em Manila, onde cancelou discursos por rouquidão no sábado (14)."
+        ]
+       },
+       {
+        "h": "Os nomes citados",
+        "p": [
+         "Segundo a CNN Brasil, reproduzida pelo BNews, Lula deve começar pelas pastas da economia e da área social. Os nomes abaixo são apuração da imprensa, não confirmação do governo."
+        ],
+        "li": [
+         {
+          "b": "Fazenda:",
+          "t": "Geraldo Alckmin, Dario Durigan e Fernando Haddad."
+         },
+         {
+          "b": "Saúde:",
+          "t": "Alexandre Padilha deve continuar."
+         },
+         {
+          "b": "Planejamento e Orçamento:",
+          "t": "Bruno Moretti, Miriam Belchior e Aloizio Mercadante."
+         },
+         {
+          "b": "Educação:",
+          "t": "Izolda Cela, Cid Gomes e Luizianne Lins estão em avaliação; o cenário é incerto."
+         },
+         {
+          "b": "Cultura e Meio Ambiente:",
+          "t": "Margareth Menezes e Marina Silva devem continuar."
+         }
+        ]
+       },
+       {
+        "h": "As negociações",
+        "p": [
+         "No início de novembro, o presidente do PT, Edinho Silva, a pedido de Lula, pediu a MDB, PSD, PSB e União Brasil propostas para os ministérios e uma estimativa dos votos que cada partido pode dar no Congresso, como o Contexto registrou em edições anteriores. Todas as nomeações dependem de conversas com aliados, diz o BNews."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Geraldo Alckmin, vice-presidente:",
+          "t": "disse que o tema será discutido \"para o próximo governo, que se inicia no dia 5 de janeiro do ano que vem\"."
+         },
+         {
+          "b": "Oposição:",
+          "t": "as reportagens sobre a declaração de Alckmin não trazem posição de partidos de oposição sobre a montagem do ministério."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantos ministérios terá o novo governo.",
+         "Quem assume as pastas da área política, como a Casa Civil e as Relações Institucionais.",
+         "Quando saem os primeiros anúncios oficiais.",
+         "Quantas pastas ficam com partidos aliados."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Volta de Lula ao Brasil entre segunda (16) e terça (17).",
+         "Primeiras definições nas áreas econômica e social."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "CNN Brasil: Lula decidirá ministérios na volta",
+        "u": "https://www.cnnbrasil.com.br/politica/lula-decidira-formacao-dos-ministerios-quando-voltar-de-viagem-diz-alckmin/"
+       },
+       {
+        "t": "BNews: declaração de Alckmin",
+        "u": "https://www.bnews.com.br/noticias/politica/lula-deve-iniciar-definicao-dos-ministros-do-quarto-mandato-na-proxima-semana-diz-alckmin.html"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Com ressalva",
+     "titulo": "Lula marca conversa com quatro ministros do STF sobre vaga de Barroso",
+     "contexto": "vaga-de-barroso-no-stf",
+     "texto": "Lula deve se reunir nesta semana com Gilmar Mendes, Cristiano Zanin, Flávio Dino e Alexandre de Moraes para discutir quem indicará à vaga de Luís Roberto Barroso no STF, aberta desde 2025, segundo O Globo. Ressalva: as reportagens divergem sobre o preferido de Lula.",
+     "pq": "o Senado rejeitou em abril o primeiro indicado, Jorge Messias. Os quatro ministros apoiam Rodrigo Pacheco, ministro do TCU e ex-presidente do Senado. O escolhido precisa de 41 votos no Senado.",
+     "fontes": [
+      {
+       "t": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/15/lula-reune-4-ministros-stf-decidir-vaga-barroso"
+      },
+      {
+       "t": "Blog do Nill Júnior, com O Globo",
+       "u": "https://nilljunior.com.br/lula-marca-reuniao-com-quatro-ministros-do-stf-para-discutir-indicacao-a-corte/"
+      }
+     ],
+     "completa": {
+      "fina": "Também ganha força a indicação de uma mulher; o STF nunca teve uma ministra negra.",
+      "atualizada": "16 nov 2026, 5h",
+      "selo": "Com ressalva",
+      "fato": "O presidente Luiz Inácio Lula da Silva marcou para esta semana, depois de voltar de viagem, uma reunião com os ministros do Supremo Tribunal Federal Gilmar Mendes, Cristiano Zanin, Flávio Dino e Alexandre de Moraes sobre a vaga aberta com a aposentadoria de Luís Roberto Barroso, em 2025, segundo a coluna de Lauro Jardim, no Globo, reproduzida pelo Blog do Nill Júnior, e a TV Sim Brasil.",
+      "blocos": [
+       {
+        "h": "Os nomes",
+        "li": [
+         {
+          "b": "Jorge Messias:",
+          "t": "advogado-geral da União. O Senado rejeitou sua indicação em 29 de abril de 2026, por 42 a 34, depois de aprovação por 16 a 11 na Comissão de Constituição e Justiça, segundo a TV Sim Brasil, que diz ter sido a primeira rejeição de um indicado ao STF sob a Constituição de 1988."
+         },
+         {
+          "b": "Rodrigo Pacheco:",
+          "t": "ministro do Tribunal de Contas da União e ex-presidente do Senado. Os quatro ministros do STF passaram a apoiá-lo depois de reunião em outubro, segundo O Globo; tem apoio de Davi Alcolumbre (União-AP) e de Hugo Motta (Republicanos-PB)."
+         },
+         {
+          "b": "Uma mulher:",
+          "t": "auxiliares de Lula discutem indicar uma mulher, e o nome de uma ministra do Superior Tribunal de Justiça ganha força, segundo a TV Sim Brasil. O presidente do STF, Edson Fachin, defende a indicação de uma mulher negra."
+         }
+        ]
+       },
+       {
+        "h": "A ressalva",
+        "p": [
+         "As reportagens não concordam sobre a preferência de Lula. O Blog do Nill Júnior, com base no Globo, diz que Lula prefere Messias apesar da resistência de senadores. A TV Sim Brasil diz no título que Messias é o favorito, mas no texto afirma que Lula pende para Pacheco. Não houve anúncio oficial."
+        ]
+       },
+       {
+        "h": "Como funciona",
+        "p": [
+         "Cabe ao presidente indicar ministros do STF. O indicado passa por sabatina na Comissão de Constituição e Justiça do Senado e precisa de pelo menos 41 dos 81 votos no plenário. A sabatina é esperada para o início de dezembro, segundo a TV Sim Brasil, mas depende da indicação formal. Se Pacheco for ao STF, abre-se também uma vaga no TCU."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Ministros do STF:",
+          "t": "Zanin é o porta-voz do grupo nas conversas com o Planalto, segundo a TV Sim Brasil."
+         },
+         {
+          "b": "Senado:",
+          "t": "Alcolumbre apoia Pacheco, segundo as duas reportagens."
+         },
+         {
+          "b": "Planalto:",
+          "t": "não comentou oficialmente a escolha."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem Lula vai indicar.",
+         "Se ele insiste em Messias depois da rejeição.",
+         "A data da reunião e da sabatina."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Reunião de Lula com os quatro ministros nesta semana.",
+         "Indicação formal ao Senado."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "TV Sim Brasil: reunião sobre a vaga",
+        "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/15/lula-reune-4-ministros-stf-decidir-vaga-barroso"
+       },
+       {
+        "t": "Blog do Nill Júnior, com O Globo",
+        "u": "https://nilljunior.com.br/lula-marca-reuniao-com-quatro-ministros-do-stf-para-discutir-indicacao-a-corte/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Irã lança drones contra o Bahrein pela segunda vez em três dias",
+     "contexto": "guerra-ira-eua-2026",
+     "texto": "A Guarda Revolucionária do Irã disse ter lançado seis drones contra um radar americano na base aérea de Riffa, no Bahrein, no domingo (15). O Bahrein disse ter interceptado os ataques. Não há registro de vítimas.",
+     "pq": "o Bahrein, sede da Quinta Frota americana, estava calmo havia meses. Os ataques ocorrem com as negociações entre EUA e Irã paradas e o Estreito de Ormuz fechado, segundo a Guarda Revolucionária.",
+     "fontes": [
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"
+      },
+      {
+       "t": "Spokesman-Review, com AP",
+       "u": "https://www.spokesman.com/stories/2026/nov/15/iran-targets-bahrain-twice-after-months-of-quiet-c/"
+      }
+     ],
+     "completa": {
+      "fina": "O Comando Central americano disse que não houve impacto sobre forças dos EUA.",
+      "atualizada": "16 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Guarda Revolucionária do Irã afirmou ter lançado seis drones contra um radar de defesa aérea dos EUA na base aérea de Riffa, no Bahrein, no domingo (15), segundo a Al Jazeera e o Spokesman-Review. As Forças de Defesa do Bahrein disseram ter interceptado \"vários ataques aéreos\" iranianos. Foi o segundo ataque ao país em três dias.",
+      "blocos": [
+       {
+        "h": "Os dois ataques",
+        "li": [
+         {
+          "b": "Sexta (13):",
+          "t": "a Guarda Revolucionária disse ter destruído um radar de alerta antecipado dos EUA no Bahrein, em resposta a um ataque a uma torre de telecomunicações no sul do Irã. O Comando Central americano negou, disse ter derrubado dois drones e não registrou feridos nem danos."
+         },
+         {
+          "b": "Domingo (15):",
+          "t": "sirenes e explosões no Bahrein; o Ministério do Interior emitiu dois alertas em cerca de três horas, o primeiro por volta das 4h30, e pediu que moradores fossem ao local seguro mais próximo."
+         }
+        ]
+       },
+       {
+        "h": "O contexto",
+        "p": [
+         "A guerra entre EUA e Israel e o Irã começou em 28 de fevereiro de 2026. Nos primeiros meses, o Bahrein foi alvo de centenas de drones e mísseis, e a base da Quinta Frota sofreu danos extensos, segundo o Spokesman-Review. Um relatório do inspetor-geral do Pentágono de setembro diz que ataques iranianos danificaram instalações americanas em oito países nos quatro primeiros meses, segundo a Al Jazeera.",
+         "No sábado (14), a marinha da Guarda Revolucionária disse que dois petroleiros bateram em minas ao usar uma rota que chamou de \"não autorizada\". O Irã diz ter \"controle total\" do Estreito de Ormuz; os EUA rejeitam isso."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Guarda Revolucionária do Irã:",
+          "t": "chamou o ataque de domingo de \"segunda fase de uma resposta decisiva e esmagadora\" aos EUA e citou ataques americanos à ilha de Qeshm."
+         },
+         {
+          "b": "Governo do Bahrein:",
+          "t": "chamou os ataques de \"traiçoeiros\" e pediu calma à população."
+         },
+         {
+          "b": "Comando Central dos EUA:",
+          "t": "o porta-voz Tim Hawkins disse que \"não houve impacto sobre forças americanas\". Autoridades americanas confirmaram ataques a Qeshm e um funcionário os chamou de \"defensivos\"."
+         },
+         {
+          "b": "Donald Trump:",
+          "t": "disse que os EUA vão manter o \"status quo\" na guerra."
+         },
+         {
+          "b": "Ebtesam Al-Ketbi, do Emirates Policy Center:",
+          "t": "disse que o Irã parece aumentar a pressão militar para melhorar sua posição nas negociações."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se houve danos na base de Riffa.",
+         "A resposta dos EUA ao pedido iraniano de sete condições para um acordo, enviado via Catar."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Trump deve falar do Irã na reunião com Xi e Putin, na quinta (19), em Shenzhen."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: o que se sabe",
+        "u": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"
+       },
+       {
+        "t": "Spokesman-Review, com AP: dois ataques",
+        "u": "https://www.spokesman.com/stories/2026/nov/15/iran-targets-bahrain-twice-after-months-of-quiet-c/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Com ressalva",
+     "titulo": "Centenas de milhares protestam em Praga contra plano para mídia pública",
+     "contexto": "midia-publica-tchequia",
+     "texto": "Centenas de milhares de pessoas protestaram em Praga no domingo (15) contra o plano do governo de Andrej Babis de acabar com a taxa que financia a TV e a rádio públicas tchecas. Os organizadores falam em 350 mil a 450 mil pessoas.",
+     "pq": "o governo diz que a independência editorial será mantida e que as emissoras precisam cortar custos. Os críticos dizem que o dinheiro do orçamento dá ao governo poder sobre a imprensa pública. Ressalva: não há estimativa independente de público.",
+     "fontes": [
+      {
+       "t": "TheJournal.ie, com AFP",
+       "u": "https://www.thejournal.ie/czechia-public-media-funding-protests-7227143-Nov2026/"
+      },
+      {
+       "t": "Rádio Praga",
+       "u": "https://english.radio.cz/thousands-protest-prague-against-plans-abolish-public-media-fees-8900930"
+      }
+     ],
+     "completa": {
+      "fina": "A reforma corta cerca de 15% do orçamento das emissoras públicas, segundo o TheJournal.ie.",
+      "atualizada": "16 nov 2026, 5h",
+      "selo": "Com ressalva",
+      "fato": "Centenas de milhares de pessoas foram às ruas de Praga, na República Tcheca, no domingo (15), contra o plano do governo do primeiro-ministro Andrej Babis de mudar o financiamento da TV e da rádio públicas, segundo o TheJournal.ie. Mikulas Minar, líder do grupo Um Milhão de Momentos pela Democracia, que organizou o ato, estimou entre 350 mil e 450 mil pessoas.",
+      "blocos": [
+       {
+        "h": "O plano",
+        "li": [
+         {
+          "b": "Taxa:",
+          "t": "acaba a taxa paga por telespectadores e ouvintes para financiar a Televisão Tcheca e a Rádio Tcheca."
+         },
+         {
+          "b": "Orçamento:",
+          "t": "as emissoras passam a receber dinheiro do orçamento do Estado, com corte de cerca de 15%."
+         },
+         {
+          "b": "Tramitação:",
+          "t": "a primeira de três votações passou na Câmara numa sessão de madrugada, às 4h36, que virou símbolo do protesto, segundo o TheJournal.ie. A oposição diz que vai contestar o rito na Corte Constitucional e na Comissão Europeia, segundo a Rádio Praga."
+         }
+        ]
+       },
+       {
+        "h": "A confiança na mídia",
+        "p": [
+         "A confiança na mídia na República Tcheca fica entre 30% e 33%, segundo o Digital News Report 2026, do Instituto Reuters, citado pelo TheJournal.ie, e as emissoras públicas \"continuam as marcas mais confiáveis\". O ministro da Cultura, Oto Klempir, apresentou o plano em abril. Entidades de imprensa comparam a proposta a medidas de Robert Fico, primeiro-ministro da Eslováquia, e de Viktor Orbán, ex-primeiro-ministro da Hungria."
+        ]
+       },
+       {
+        "h": "Antes do domingo",
+        "p": [
+         "Milhares protestaram em outubro, e funcionários das duas emissoras fizeram greve de um dia em 3 de novembro. O grupo organizador diz ter levado cerca de 250 mil pessoas a cada um de três atos anteriores contra Babis. O partido de Babis, o ANO, tem cerca de 30% nas pesquisas."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Andrej Babis, primeiro-ministro:",
+          "t": "\"Ninguém quer controlar a mídia pública, muito menos estatizá-la\", disse na semana passada. O governo diz que a mudança não afeta a independência editorial nem a programação, mas que as emissoras precisam cortar custos."
+         },
+         {
+          "b": "Petr Pavel, presidente:",
+          "t": "disse que a votação de madrugada enfraqueceu a confiança nas intenções do governo, segundo a Rádio Praga."
+         },
+         {
+          "b": "Organizadores e oposição:",
+          "t": "pedem a retirada do projeto e a destituição do presidente da Câmara, Tomio Okamura, do SPD, de extrema direita."
+         },
+         {
+          "b": "Entidades de imprensa:",
+          "t": "a União Europeia de Radiodifusão, a Federação Europeia de Jornalistas, os Repórteres sem Fronteiras e o Instituto Internacional de Imprensa criticaram o plano."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando ocorrem a segunda e a terceira votações.",
+         "Se a Corte Constitucional vai analisar o rito."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A petição pela retirada do projeto será entregue ao governo."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "TheJournal.ie, com AFP: o protesto de domingo",
+        "u": "https://www.thejournal.ie/czechia-public-media-funding-protests-7227143-Nov2026/"
+       },
+       {
+        "t": "Rádio Praga: o plano e as reações",
+        "u": "https://english.radio.cz/thousands-protest-prague-against-plans-abolish-public-media-fees-8900930"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Kremlin confirma reunião com Trump e Xi; Zelensky fala em Ialta 2.0",
+     "contexto": "armas-nucleares-eua-russia-china",
+     "texto": "O Kremlin confirmou a reunião de Donald Trump, Xi Jinping e Vladimir Putin para quinta (19), em Shenzhen. O premiê australiano, Anthony Albanese, disse que \"o diálogo é uma coisa boa\". Volodymyr Zelensky comparou o encontro a uma \"Ialta 2.0\".",
+     "pq": "a pauta oficial é a redução de arsenais nucleares, mas aliados da Ucrânia temem que a guerra seja discutida sem Kiev. O chanceler alemão, Friedrich Merz, pediu aos EUA: \"Por favor, sem surpresas\".",
+     "fontes": [
+      {
+       "t": "SBS",
+       "u": "https://www.sbs.com.au/news/article/trump-xi-putin-meeting/lanttf9lg"
+      },
+      {
+       "t": "ABC Australia",
+       "u": "https://www.abc.net.au/news/2026-11-15/albanese-will-not-rule-out-apec-photo-with-putin/107387814"
+      }
+     ],
+     "completa": {
+      "fina": "Trump começa nesta semana uma viagem pela Ásia, com reunião do Quad na terça (17), em Manila.",
+      "atualizada": "16 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Kremlin confirmou que a reunião entre o presidente dos EUA, Donald Trump, o presidente da China, Xi Jinping, e o presidente da Rússia, Vladimir Putin, será em 19 de novembro, à margem da cúpula da Apec, em Shenzhen, segundo a emissora australiana SBS. O encontro, anunciado pela Casa Branca na sexta (13), provocou reações de aliados dos EUA no fim de semana.",
+      "blocos": [
+       {
+        "h": "As reações",
+        "li": [
+         {
+          "b": "Anthony Albanese, primeiro-ministro da Austrália:",
+          "t": "\"Achamos que o diálogo é uma coisa boa e aguardamos o resultado\", disse no domingo (15), segundo a ABC. Ele disse esperar \"algo construtivo\", incluindo a redução de conflitos, e não descartou aparecer na foto oficial da Apec com Putin."
+         },
+         {
+          "b": "Friedrich Merz, chanceler da Alemanha:",
+          "t": "pediu \"Por favor, sem surpresas\" e que os EUA fiquem \"no time da Europa e no time da Ucrânia\", segundo a SBS."
+         },
+         {
+          "b": "Volodymyr Zelensky, presidente da Ucrânia:",
+          "t": "chamou o encontro de possível \"Ialta 2.0\", que poderia desenhar uma \"redistribuição de esferas de influência\"."
+         },
+         {
+          "b": "Mark Carney, primeiro-ministro do Canadá:",
+          "t": "planeja aparecer na foto dos líderes por respeito à China, anfitriã, segundo a ABC."
+         },
+         {
+          "b": "China:",
+          "t": "as reportagens não trazem reação do governo chinês."
+         }
+        ]
+       },
+       {
+        "h": "A pauta",
+        "p": [
+         "A porta-voz da Casa Branca, Olivia Wales, disse que Trump \"vai discutir a redução de armas nucleares\". Ele também deve falar da guerra com o Irã. A Ucrânia não está prevista na pauta, e não há reunião bilateral entre Trump e Putin, segundo a SBS. Trump terá um almoço de trabalho com Xi, o quarto encontro dos dois neste mandato."
+        ]
+       },
+       {
+        "h": "A referência a Ialta",
+        "p": [
+         "Em 1945, EUA, Reino Unido e União Soviética se reuniram em Ialta para discutir a ordem do pós-guerra. O negociador russo Vladimir Medinsky pediu uma \"nova Ialta moderna\" em conversas em Abu Dhabi, segundo a SBS; Merz respondeu que a Europa não precisa discutir isso porque a ordem já existe, numa referência à Otan. O porta-voz do Kremlin, Dmitri Peskov, havia rejeitado a comparação na semana passada."
+        ]
+       },
+       {
+        "h": "A agenda da semana",
+        "li": [
+         "Terça (17): reunião do Quad em Manila, com Albanese, Trump, a premiê japonesa, Sanae Takaichi, e o premiê indiano, Narendra Modi.",
+         "Quarta (18): Albanese viaja a Shenzhen.",
+         "Quinta (19): reunião a três e almoço Trump-Xi."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a China aceita discutir limites ao próprio arsenal.",
+         "Se haverá declaração conjunta.",
+         "Se o canadense Mark Carney e outros líderes aparecem na foto com Putin."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "SBS: o mundo acompanha a reunião",
+        "u": "https://www.sbs.com.au/news/article/trump-xi-putin-meeting/lanttf9lg"
+       },
+       {
+        "t": "ABC Australia: Albanese e a foto com Putin",
+        "u": "https://www.abc.net.au/news/2026-11-15/albanese-will-not-rule-out-apec-photo-with-putin/107387814"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Primeiro colocado em exame na Coreia do Sul confessa fraude com IA",
+     "contexto": "ia-e-fraude-em-provas",
+     "texto": "Han Won-seok, primeiro colocado no exame de contador tributário da Coreia do Sul, confessou ter fotografado as questões com uma microcâmera e usado IA generativa para obter as respostas. Ele se entregou à polícia no domingo (15).",
+     "pq": "o caso chega quatro dias antes do exame nacional de acesso à universidade, na quinta (19). O governo fez reunião de emergência e estuda medidas como câmeras térmicas. O órgão que aplica a prova pediu desculpas.",
+     "fontes": [
+      {
+       "t": "Anadolu",
+       "u": "https://www.aa.com.tr/en/asia-pacific/top-scorer-in-south-korean-accountant-exam-admits-to-cheating-with-ai-turns-himself-in-to-police/4125753"
+      },
+      {
+       "t": "Korea Times",
+       "u": "https://www.koreatimes.co.kr/southkorea/law-crime/20261115/top-tax-accountant-exam-scorer-admits-to-cheating-using-ai"
+      }
+     ],
+     "completa": {
+      "fina": "Na primeira fase, em abril, ele acertou 159 de 160 questões, o que levantou suspeitas na internet.",
+      "atualizada": "16 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Han Won-seok, que teve a maior nota do exame de contador tributário da Coreia do Sul em 2026, confessou ter fraudado as duas fases da prova com uma microcâmera, um celular e inteligência artificial generativa, segundo a Anadolu e o Korea Times. A confissão foi divulgada em vídeo no canal do advogado dele no YouTube, e Han se entregou à polícia de Seul no domingo (15).",
+      "blocos": [
+       {
+        "h": "Como foi a fraude",
+        "p": [
+         "Segundo a confissão, ele fotografava as questões com a microcâmera, enviava as imagens a um sistema de IA e conferia as respostas no celular. Não deu mais detalhes, para que o método não fosse copiado. Ele disse que não usou óculos inteligentes, como se especulava. Também disse ter usado o mesmo método na primeira fase do exame de contador público. A Anadolu lembra outros casos recentes no país, com óculos com IA em provas de acesso à universidade e em escolas."
+        ]
+       },
+       {
+        "h": "As notas",
+        "li": [
+         {
+          "b": "Primeira fase, em abril:",
+          "t": "397,5 de 400 pontos, com 159 de 160 questões certas."
+         },
+         {
+          "b": "Segunda fase, escrita:",
+          "t": "663 de 800 pontos, o que o deixou em primeiro lugar no geral, segundo o Korea Times."
+         },
+         {
+          "b": "Fiscalização:",
+          "t": "quatro fiscais de sala não relataram nada suspeito, e o órgão aplicador não tinha encontrado prova concreta antes da confissão."
+         }
+        ]
+       },
+       {
+        "h": "As consequências",
+        "p": [
+         "A polícia abriu investigação. O Serviço de Desenvolvimento de Recursos Humanos da Coreia, que aplica a prova, vai apresentar queixa por obstrução de atividade. O Ministério das Finanças disse que vai suspender o certificado dele. Pela lei sul-coreana, a prova pode ser anulada e ele pode ficar cinco anos sem poder refazê-la, segundo a Anadolu."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Han Won-seok:",
+          "t": "\"Peço sinceras desculpas pelo dano que meu erro causou a tanta gente\", disse. Afirmou que queria ganhar dinheiro e não queria decepcionar os pais depois de deixar um bom emprego."
+         },
+         {
+          "b": "Órgão aplicador:",
+          "t": "\"Pedimos profundas desculpas por não ter evitado a fraude como responsáveis pelo exame\"."
+         },
+         {
+          "b": "Ha Joon-kyung, chefe de políticas da Presidência:",
+          "t": "\"A justiça das provas está diretamente ligada à confiança pública, e nenhuma forma de fraude deve ser tolerada\"."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Qual sistema de IA foi usado.",
+         "Se outros candidatos usaram o mesmo método.",
+         "Quais medidas serão adotadas no exame universitário de quinta."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Investigação da polícia de Seul.",
+         "Exame nacional de acesso à universidade, o suneung, na quinta (19)."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Anadolu: confissão e notas",
+        "u": "https://www.aa.com.tr/en/asia-pacific/top-scorer-in-south-korean-accountant-exam-admits-to-cheating-with-ai-turns-himself-in-to-police/4125753"
+       },
+       {
+        "t": "Korea Times: método e reação do governo",
+        "u": "https://www.koreatimes.co.kr/southkorea/law-crime/20261115/top-tax-accountant-exam-scorer-admits-to-cheating-using-ai"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "SpaceX pega estágio superior da Starship com a torre pela primeira vez",
+     "contexto": "starship",
+     "texto": "No 15º voo de teste, a SpaceX capturou a nave Starship com os braços da torre de lançamento no Texas, no sábado (14), cerca de 22,5 horas após a decolagem. O propulsor Super Heavy não voltou e foi destruído sobre o Golfo do México.",
+     "pq": "pegar as duas partes do foguete é o passo para reaproveitá-lo por inteiro, o que pode baratear lançamentos. A nave levou 26 satélites Starlink à órbita. A causa da falha do propulsor está sob investigação.",
+     "fontes": [
+      {
+       "t": "The Tech Hacker",
+       "u": "https://thetechhacker.com/news/spacex-catches-starship-upper-stage-first-time/"
+      },
+      {
+       "t": "Startup Fortune",
+       "u": "https://startupfortune.com/spacex-starship-flight-15-reaches-orbit-but-loses-its-booster-before-the-ship-catch/"
+      },
+      {
+       "t": "Interesting Engineering",
+       "u": "https://interestingengineering.com/space/spacex-starship-15th-flight-booster-catch-skipped"
+      }
+     ],
+     "completa": {
+      "fina": "Foi a primeira tentativa de capturar um estágio superior; antes, só o propulsor tinha sido pego pela torre.",
+      "atualizada": "16 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A SpaceX capturou com os braços da torre de lançamento, em Starbase, no Texas, o estágio superior da Starship no sábado (14), cerca de 22,5 horas depois da decolagem do 15º voo de teste, segundo o The Tech Hacker. O lançamento foi na sexta (13), às 16h47 no horário do Texas, segundo o Startup Fortune.",
+      "blocos": [
+       {
+        "h": "O que aconteceu",
+        "li": [
+         {
+          "b": "Propulsor:",
+          "t": "o Super Heavy, a primeira parte do foguete, não tentou a captura. A SpaceX desviou-o para o Golfo do México, onde foi destruído. O Startup Fortune cita relatos de problema no sistema de orientação; o The Tech Hacker diz que a queima de retorno terminou cedo por pouco combustível. A empresa diz que a causa está sob investigação."
+         },
+         {
+          "b": "Nave:",
+          "t": "chegou à órbita e soltou 26 satélites Starlink V3 a cerca de 275 km de altitude. Voltou sobre o Pacífico e pousou nos braços da torre, apelidados de Mechazilla."
+         },
+         {
+          "b": "Antes do voo:",
+          "t": "Elon Musk disse que a captura da nave era \"mais provável do que não\", segundo o Startup Fortune."
+         }
+        ]
+       },
+       {
+        "h": "Os números do voo",
+        "p": [
+         "O Super Heavy acendeu 33 motores Raptor; Dan Huot, da SpaceX, disse que 32 seguiam funcionando durante o voo, segundo o Interesting Engineering. A captura da nave tinha um último ponto de decisão com 20 horas e 41 minutos de missão, segundo o Startup Fortune. A empresa não marcou data para o próximo voo."
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "A SpaceX quer reaproveitar as duas partes do foguete, o que, segundo o Interesting Engineering, pode baixar o custo dos lançamentos e encurtar o intervalo entre eles. Até aqui, só o propulsor tinha sido capturado pela torre. Em setembro, a Starship levou satélites Starlink em operação à órbita pela primeira vez, mas a nave terminou o voo no mar, no Pacífico, depois de cerca de três horas, em vez das dez previstas."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "SpaceX:",
+          "t": "disse que fez contato com todos os satélites e que a Starship \"mudou tudo\" ao voltar, segundo o The Tech Hacker."
+         },
+         {
+          "b": "Avaliações independentes:",
+          "t": "as reportagens não trazem análise de especialistas de fora da empresa sobre os dados do voo."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "A causa da perda do propulsor.",
+         "A data do 16º voo.",
+         "Quando a SpaceX tenta pegar as duas partes no mesmo voo."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Investigação sobre o propulsor.",
+         "Análise dos dados da nave capturada."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "The Tech Hacker: a captura da nave",
+        "u": "https://thetechhacker.com/news/spacex-catches-starship-upper-stage-first-time/"
+       },
+       {
+        "t": "Startup Fortune: o voo e o propulsor",
+        "u": "https://startupfortune.com/spacex-starship-flight-15-reaches-orbit-but-loses-its-booster-before-the-ship-catch/"
+       },
+       {
+        "t": "Interesting Engineering: o plano de voo",
+        "u": "https://interestingengineering.com/space/spacex-starship-15th-flight-booster-catch-skipped"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "159 de 160",
+  "texto": "questões acertou na primeira fase do exame de contador da Coreia do Sul o candidato que depois confessou ter usado IA; quatro fiscais não viram nada.",
+  "fontes": [
+   {
+    "t": "Korea Times",
+    "u": "https://www.koreatimes.co.kr/southkorea/law-crime/20261115/top-tax-accountant-exam-scorer-admits-to-cheating-using-ai"
+   },
+   {
+    "t": "Anadolu",
+    "u": "https://www.aa.com.tr/en/asia-pacific/top-scorer-in-south-korean-accountant-exam-admits-to-cheating-with-ai-turns-himself-in-to-police/4125753"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "O MEC estuda aplicar o Enem em outros países do Mercosul a partir de 2027, segundo o ministro da Educação, Leonardo Barchini.",
+  "fontes": [
+   {
+    "t": "CNN Brasil",
+    "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-tem-mais-concluintes-do-ensino-publico-mas-abstencao-tambem-sobe/"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Nas notas de política, governo, oposição, Senado e STF aparecem pela própria voz, e a falta de posição de quem não falou está registrada. Ressalvas: a nota sobre a vaga no STF tem relatos divergentes sobre a preferência de Lula, e o público do protesto em Praga só tem a estimativa dos organizadores; as duas levam selo \"Com ressalva\". O Fechar tem uma fonte só.",
+  "pontos": [
+   "Brasil 1: a explicação do MEC para as faltas está atribuída ao ministro; a nota diz que não há avaliação independente.",
+   "Brasil 2: os nomes de ministros são marcados como apuração da imprensa, não confirmação do governo.",
+   "Brasil 3: a divergência entre as reportagens sobre Messias e Pacheco está explicada no texto.",
+   "Mundo 1: as alegações iranianas são atribuídas à Guarda Revolucionária; a negação americana de sexta e a falta de dados de danos estão registradas.",
+   "Mundo 2: \"extrema direita\", usado pela agência, aparece só como descrição do partido; o governo tem espaço com citação direta de Babis.",
+   "Mundo 3: reações de Austrália, Alemanha e Ucrânia; a falta de reação da China está registrada.",
+   "Inovação 1: o nome do candidato é público, divulgado por ele e pelo advogado; a nota não especula sobre o sistema de IA usado.",
+   "Inovação 2: as duas versões para a perda do propulsor estão atribuídas."
+  ],
+  "equilibrio": "Governo Lula: 3 menções (neutras); oposição: 1 (sem posição registrada); STF: 2; Senado: 2. EUA: 3; Irã: 2; Rússia: 2; China: 1 (sem declaração). Governo tcheco: 2; oposição e organizadores: 2.",
+  "foraDaEdicao": [
+   "Ataque de Israel que matou comandante do Hamas em Rafah: sem segunda fonte aberta a tempo.",
+   "Chegada de 2.200 migrantes às Canárias em 48 horas: uma fonte só.",
+   "IPO da Anthropic, previsto para quarta e quinta: sem fato novo desde a última edição.",
+   "Esportes e demais categorias extras: nenhum fato novo checado em duas fontes com contexto pronto até o fechamento."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: o Enem, pelo número de estudantes afetados e o prazo de reaplicação.",
+   "Essencial: Enem, montagem do ministério e ataques ao Bahrein, por afetarem estudos, governo e preço do petróleo.",
+   "Toda nota tem página de contexto; quatro novas, todas com a parte em prosa \"Como chegamos aqui\"."
+  ]
+ },
+ "geradaEm": "2026-11-16T07:53:45Z"
+}

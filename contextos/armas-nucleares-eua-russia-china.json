@@ -1,13 +1,13 @@
 {
  "titulo": "Armas nucleares: EUA, Rússia e China sem tratado",
- "atualizado": "15 nov 2026",
+ "atualizado": "16 nov 2026",
  "selo": "Checado",
  "frase": "Desde fevereiro de 2026, quando expirou o Novo START, os dois maiores arsenais nucleares do mundo não têm limite. Trump quer um novo acordo que inclua a China e marcou uma reunião com Xi e Putin.",
  "historia": [
   "Durante a Guerra Fria e depois dela, EUA e Rússia negociaram uma série de tratados para limitar suas armas nucleares. O último em vigor era o Novo START, que colocava teto no número de ogivas instaladas e permitia inspeções mútuas. Quando ele expirou, em fevereiro de 2026, os dois maiores arsenais do mundo ficaram sem limite pela primeira vez em mais de 50 anos, segundo a AP.",
   "A Rússia propôs estender o tratado por um ano. O presidente Donald Trump recusou e pediu um acordo \"novo, melhorado e modernizado\" que incluísse a China. O argumento é que o arsenal chinês cresce: pelo Pentágono, a China tem mais de 600 ogivas, enquanto EUA e Rússia têm mais de 5.000 cada. Pequim tem mostrado pouco interesse em negociar limites, dada a diferença de tamanho.",
   "A ideia de uma reunião a três ganhou forma ao longo de 2026. Trump e Putin já se encontraram sete vezes, a última no Alasca, em agosto de 2025; Trump e Xi, oito vezes, incluindo uma visita de Estado a Washington em setembro de 2026; e Putin e Xi, mais de 40 vezes desde 2013, segundo a AP.",
-  "Em 13 de novembro, a Casa Branca confirmou o encontro para 19 de novembro, em Shenzhen, durante a cúpula da Apec. Trump quer falar de redução de arsenais e da guerra com o Irã; a Ucrânia fica de fora. Um funcionário americano disse não esperar acordo: seria só o começo de uma conversa."
+  "Em 13 de novembro, a Casa Branca confirmou o encontro para 19 de novembro, em Shenzhen, durante a cúpula da Apec, e o Kremlin confirmou a data. Trump quer falar de redução de arsenais e da guerra com o Irã; a Ucrânia fica de fora. Um funcionário americano disse não esperar acordo. O anúncio dividiu aliados: o premiê australiano, Anthony Albanese, disse que \"o diálogo é uma coisa boa\", enquanto Volodymyr Zelensky falou em \"Ialta 2.0\" e o chanceler alemão, Friedrich Merz, pediu \"sem surpresas\"."
  ],
  "linha": [
   {
@@ -19,12 +19,12 @@
    "t": "Expira o Novo START, último tratado nuclear entre EUA e Rússia. Trump recusa estender por um ano e pede acordo com a China."
   },
   {
-   "d": "Setembro de 2026",
-   "t": "Xi Jinping faz visita de Estado a Washington, segundo a AP."
-  },
-  {
    "d": "13 de novembro de 2026",
    "t": "A Casa Branca confirma a reunião de Trump, Xi e Putin em Shenzhen, à margem da Apec."
+  },
+  {
+   "d": "15 de novembro de 2026",
+   "t": "Albanese apoia o diálogo; Zelensky fala em \"Ialta 2.0\", e Merz pede que os EUA fiquem \"no time da Europa e no time da Ucrânia\", segundo a SBS."
   },
   {
    "d": "16 de novembro de 2026",
@@ -118,6 +118,14 @@
   {
    "t": "Anadolu: agenda de Trump",
    "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+  },
+  {
+   "t": "SBS: reações à reunião",
+   "u": "https://www.sbs.com.au/news/article/trump-xi-putin-meeting/lanttf9lg"
+  },
+  {
+   "t": "ABC Australia: Albanese",
+   "u": "https://www.abc.net.au/news/2026-11-15/albanese-will-not-rule-out-apec-photo-with-putin/107387814"
   }
  ]
 }

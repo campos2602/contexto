@@ -1,0 +1,125 @@
+{
+ "titulo": "A vaga de Barroso no STF",
+ "atualizado": "16 nov 2026",
+ "selo": "Com ressalva",
+ "frase": "O Supremo Tribunal Federal tem uma cadeira vazia desde a aposentadoria de Luís Roberto Barroso, em 2025. O Senado rejeitou o primeiro indicado de Lula, Jorge Messias, em abril de 2026, e a escolha segue em aberto.",
+ "historia": [
+  "O Supremo Tribunal Federal tem 11 ministros, indicados pelo presidente da República e aprovados pelo Senado. A cadeira de Luís Roberto Barroso ficou vazia com a aposentadoria dele em 2025, segundo o Blog do Nill Júnior, com base no Globo. Lula escolheu o advogado-geral da União, Jorge Messias, para a vaga.",
+  "A indicação parecia encaminhada quando Messias passou na Comissão de Constituição e Justiça do Senado por 16 a 11. Mas, em 29 de abril de 2026, o plenário o rejeitou por 42 a 34, segundo a TV Sim Brasil, que diz ter sido a primeira rejeição de um indicado ao Supremo sob a Constituição de 1988. A derrota abriu um impasse entre o Planalto e o Senado.",
+  "Desde então, surgiram alternativas. Em outubro, quatro ministros do STF, Gilmar Mendes, Cristiano Zanin, Flávio Dino e Alexandre de Moraes, passaram a apoiar Rodrigo Pacheco, ex-presidente do Senado e hoje ministro do Tribunal de Contas da União, que também tem apoio de Davi Alcolumbre e Hugo Motta. Auxiliares de Lula discutem ainda indicar uma mulher; o presidente do STF, Edson Fachin, defende a escolha de uma mulher negra, algo que a Corte nunca teve.",
+  "A escolha também tem efeito em outro tribunal: se Pacheco for para o Supremo, abre-se uma vaga no TCU, que também entra na negociação política. Cristiano Zanin, ministro do STF, é o porta-voz do grupo de ministros nas conversas com o Planalto, segundo a TV Sim Brasil.",
+  "Em novembro, Lula marcou uma conversa com os quatro ministros para depois da volta de viagem. As reportagens divergem sobre a preferência dele, e não houve anúncio oficial. O indicado precisará de pelo menos 41 dos 81 votos no Senado."
+ ],
+ "linha": [
+  {
+   "d": "2025",
+   "t": "Luís Roberto Barroso se aposenta do STF, e a cadeira fica vaga."
+  },
+  {
+   "d": "Abril de 2026",
+   "t": "Jorge Messias é aprovado na Comissão de Constituição e Justiça do Senado por 16 a 11, segundo a TV Sim Brasil."
+  },
+  {
+   "d": "29 de abril de 2026",
+   "t": "O plenário do Senado rejeita Messias por 42 a 34."
+  },
+  {
+   "d": "Outubro de 2026",
+   "t": "Gilmar Mendes, Zanin, Dino e Moraes passam a apoiar Rodrigo Pacheco, segundo O Globo."
+  },
+  {
+   "d": "15 de novembro de 2026",
+   "t": "O Globo informa que Lula marcou reunião com os quatro ministros para esta semana."
+  },
+  {
+   "d": "Início de dezembro de 2026",
+   "t": "Data esperada para a sabatina, se a indicação sair em novembro, segundo a TV Sim Brasil."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Sabatina",
+   "d": "Audiência em que o indicado responde a perguntas dos senadores na Comissão de Constituição e Justiça antes da votação."
+  },
+  {
+   "t": "Maioria absoluta",
+   "d": "Metade mais um do total de integrantes; no Senado, 41 dos 81 senadores."
+  },
+  {
+   "t": "TCU",
+   "d": "Tribunal de Contas da União, que fiscaliza o uso do dinheiro federal. Pacheco é ministro do tribunal."
+  },
+  {
+   "t": "AGU",
+   "d": "Advocacia-Geral da União, que defende o governo federal na Justiça. Messias é o advogado-geral."
+  },
+  {
+   "t": "Indicação",
+   "d": "Mensagem formal do presidente ao Senado com o nome escolhido. Só a partir dela começa a contar o prazo para a sabatina."
+  },
+  {
+   "t": "Comissão de Constituição e Justiça",
+   "d": "Comissão do Senado que sabatina e vota primeiro os indicados ao STF, antes do plenário."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Luiz Inácio Lula da Silva",
+   "t": "presidente; cabe a ele indicar."
+  },
+  {
+   "b": "Jorge Messias",
+   "t": "advogado-geral da União, rejeitado pelo Senado em abril."
+  },
+  {
+   "b": "Rodrigo Pacheco",
+   "t": "ministro do TCU e ex-presidente do Senado, apoiado por quatro ministros do STF."
+  },
+  {
+   "b": "Davi Alcolumbre",
+   "t": "presidente do Senado; apoia Pacheco."
+  },
+  {
+   "b": "Edson Fachin",
+   "t": "presidente do STF; defende a indicação de uma mulher negra."
+  },
+  {
+   "b": "Cristiano Zanin",
+   "t": "ministro do STF; porta-voz dos quatro ministros nas conversas com o Planalto."
+  },
+  {
+   "b": "Hugo Motta",
+   "t": "presidente da Câmara; apoia Pacheco, segundo O Globo."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Insistir em Messias",
+   "t": "o Globo diz que Lula ainda prefere Messias; senadores resistem, e uma nova indicação enfrenta obstáculos políticos e processuais, segundo a mesma reportagem."
+  },
+  {
+   "b": "Pacheco",
+   "t": "tem apoio do Senado, da Câmara e de ministros do STF; a TV Sim Brasil diz que Lula pende para ele, mas não há confirmação."
+  },
+  {
+   "b": "Representatividade",
+   "t": "grupos pedem mais mulheres no STF; Fachin defende uma mulher negra."
+  }
+ ],
+ "observar": [
+  "A reunião de Lula com os quatro ministros.",
+  "A indicação formal ao Senado.",
+  "A data da sabatina.",
+  "Se a vaga de Pacheco no TCU entra na negociação."
+ ],
+ "fontes": [
+  {
+   "t": "TV Sim Brasil: reunião sobre a vaga",
+   "u": "https://tvsimbrasil.com.br/brasil/politica/noticia/2026/11/15/lula-reune-4-ministros-stf-decidir-vaga-barroso"
+  },
+  {
+   "t": "Blog do Nill Júnior, com O Globo",
+   "u": "https://nilljunior.com.br/lula-marca-reuniao-com-quatro-ministros-do-stf-para-discutir-indicacao-a-corte/"
+  }
+ ]
+}

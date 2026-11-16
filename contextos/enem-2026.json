@@ -1,17 +1,9 @@
 {
  "titulo": "Enem 2026: a prova que abre a porta do ensino superior",
- "atualizado": "9 nov 2026",
+ "atualizado": "16 nov 2026",
  "selo": "Checado",
  "frase": "O Exame Nacional do Ensino Médio é aplicado pelo Inep, ligado ao MEC, e a nota é usada para entrar em universidades públicas e conseguir bolsas e financiamento. Em 2026, foram 5.655.423 inscrições confirmadas, e 32% faltaram ao primeiro dia.",
  "linha": [
-  {
-   "d": "1998",
-   "t": "O MEC cria o Enem como avaliação do fim do ensino médio."
-  },
-  {
-   "d": "2009",
-   "t": "O exame é reformulado e passa a servir de vestibular para universidades federais, pelo Sistema de Seleção Unificada, o Sisu."
-  },
   {
    "d": "2025",
    "t": "A abstenção do primeiro dia é de 27%, segundo o Inep, citado pelo Diário do Pará."
@@ -26,7 +18,19 @@
   },
   {
    "d": "15 de novembro de 2026",
-   "t": "Segundo dia: ciências da natureza e matemática. Portões abrem às 12h e fecham às 13h, no horário de Brasília; a prova vai das 13h30 às 18h30."
+   "t": "Segundo dia: matemática e ciências da natureza. A abstenção é de 36%, e 11 locais têm falta de energia, segundo o MEC e a CNN Brasil."
+  },
+  {
+   "d": "16 a 20 de novembro de 2026",
+   "t": "Prazo para pedir reaplicação na Página do Participante."
+  },
+  {
+   "d": "18 de novembro de 2026",
+   "t": "Divulgação do gabarito oficial."
+  },
+  {
+   "d": "18 de janeiro de 2027",
+   "t": "Divulgação das notas, com a redação."
   },
   {
    "d": "Dezembro de 2026",
@@ -88,10 +92,10 @@
   }
  ],
  "observar": [
-  "A abstenção por estado, quando o Inep divulgar.",
-  "As regras para pedir a reaplicação de dezembro.",
-  "O segundo dia de provas, em 15 de novembro.",
-  "Os gabaritos oficiais e, depois, o resultado, usado no Sisu, no Prouni e no Fies."
+  "O gabarito, na quarta (18).",
+  "Os pedidos de reaplicação até sexta (20).",
+  "A proposta de mudança no exame que o Inep vai apresentar.",
+  "As notas, em 18 de janeiro."
  ],
  "fontes": [
   {
@@ -101,6 +105,20 @@
   {
    "t": "Diário do Pará: mais candidatos faltaram",
    "u": "https://diariodopara.com.br/concursos-e-empregos/mais-candidatos-faltaram-ao-enem-2026-abstencao-chega-a-32/"
+  },
+  {
+   "t": "Estado de Minas: abstenção de 36%",
+   "u": "https://www.em.com.br/educacao/2026/11/7539052-enem-tem-abstencao-de-36-neste-domingo-15-diz-mec.html"
+  },
+  {
+   "t": "CNN Brasil: rede pública e faltas",
+   "u": "https://www.cnnbrasil.com.br/educacao/enem-2026-tem-mais-concluintes-do-ensino-publico-mas-abstencao-tambem-sobe/"
   }
+ ],
+ "historia": [
+  "O Exame Nacional do Ensino Médio foi criado pelo MEC em 1998 para avaliar quem terminava a escola. Em 2009, foi reformulado e virou a principal porta de entrada nas universidades federais, pelo Sistema de Seleção Unificada, o Sisu, além de dar acesso a bolsas do Prouni e ao financiamento do Fies.",
+  "Em 2026, o governo mudou a forma de inscrição: o Inep passou a inscrever automaticamente concluintes do ensino médio público. Cerca de 500 mil estudantes foram cadastrados assim, segundo o Estado de Minas. O exame teve 5.655.423 inscrições confirmadas, o maior número desde 2021, e 1.963.906 inscritos eram concluintes da rede pública, segundo a CNN Brasil.",
+  "A mudança aumentou a presença de alunos da rede pública, que chegou a 65%, ante 53,8% em 2025. Mas também elevou as faltas, porque parte dos inscritos automaticamente não foi à prova: a abstenção foi de 32% no primeiro dia, em 8 de novembro, a maior desde 2022, e de 36% no segundo, em 15 de novembro. O MEC chamou a alta de esperada.",
+  "Agora vêm o gabarito, em 18 de novembro, a reaplicação para quem faltou por doença ou problema logístico e as notas, em 18 de janeiro de 2027. O Inep prepara uma proposta de mudança no exame, e o ministério estuda aplicá-lo em outros países do Mercosul."
  ]
 }
