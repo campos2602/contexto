@@ -1,6 +1,6 @@
 {
  "titulo": "A vaga de Barroso no STF",
- "atualizado": "16 nov 2026",
+ "atualizado": "17 nov 2026",
  "selo": "Com ressalva",
  "frase": "O Supremo Tribunal Federal tem uma cadeira vazia desde a aposentadoria de Luís Roberto Barroso, em 2025. O Senado rejeitou o primeiro indicado de Lula, Jorge Messias, em abril de 2026, e a escolha segue em aberto.",
  "historia": [
@@ -30,6 +30,10 @@
   {
    "d": "15 de novembro de 2026",
    "t": "O Globo informa que Lula marcou reunião com os quatro ministros para esta semana."
+  },
+  {
+   "d": "16 de novembro de 2026",
+   "t": "Lula retoma a escolha do indicado; o Planalto quer a votação na CCJ no início de dezembro. A CNN Brasil cita Messias, Pacheco, Paulo Gonet e Simone Tebet entre os nomes avaliados."
   },
   {
    "d": "Início de dezembro de 2026",
@@ -120,6 +124,10 @@
   {
    "t": "Blog do Nill Júnior, com O Globo",
    "u": "https://nilljunior.com.br/lula-marca-reuniao-com-quatro-ministros-do-stf-para-discutir-indicacao-a-corte/"
+  },
+  {
+   "t": "CNN Brasil: Lula retoma indicação",
+   "u": "https://www.cnnbrasil.com.br/politica/lula-retoma-indicacao-ao-stf-e-sabatina-deve-acontecer-em-dezembro/"
   }
  ]
 }

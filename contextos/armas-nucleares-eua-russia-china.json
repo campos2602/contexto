@@ -1,6 +1,6 @@
 {
  "titulo": "Armas nucleares: EUA, Rússia e China sem tratado",
- "atualizado": "16 nov 2026",
+ "atualizado": "17 nov 2026",
  "selo": "Checado",
  "frase": "Desde fevereiro de 2026, quando expirou o Novo START, os dois maiores arsenais nucleares do mundo não têm limite. Trump quer um novo acordo que inclua a China e marcou uma reunião com Xi e Putin.",
  "historia": [
@@ -25,6 +25,10 @@
   {
    "d": "15 de novembro de 2026",
    "t": "Albanese apoia o diálogo; Zelensky fala em \"Ialta 2.0\", e Merz pede que os EUA fiquem \"no time da Europa e no time da Ucrânia\", segundo a SBS."
+  },
+  {
+   "d": "15 de novembro de 2026",
+   "t": "Centenas de manifestantes enfrentam a polícia em Manila em protesto contra a visita de Trump e a guerra no Irã, segundo o Democracy Now."
   },
   {
    "d": "16 de novembro de 2026",
@@ -126,6 +130,10 @@
   {
    "t": "ABC Australia: Albanese",
    "u": "https://www.abc.net.au/news/2026-11-15/albanese-will-not-rule-out-apec-photo-with-putin/107387814"
+  },
+  {
+   "t": "Democracy Now: manchetes de 16 de novembro",
+   "u": "https://www.democracynow.org/2026/11/16/headlines"
   }
  ]
 }

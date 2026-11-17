@@ -1,0 +1,911 @@
+{
+ "data": "2026-11-17",
+ "dia": "Terça, 17 de novembro de 2026",
+ "leitura": "7 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje a alta do dólar ao maior valor desde abril de 2025, a votação final do ajuste fiscal no Senado e o recuo das forças do governo do Iêmen no Mar Vermelho.",
+ "trinta": [
+  "O dólar fechou a R$ 5,77, maior valor desde abril de 2025.",
+  "O Senado vota hoje os destaques do ajuste fiscal.",
+  "Os houthis avançaram sobre o estreito de Bab al-Mandeb, no Iêmen."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "Dólar mais alto encarece importados e combustíveis."
+  },
+  {
+   "id": "b2",
+   "porque": "A votação define o tamanho do corte de gastos em 2027."
+  },
+  {
+   "id": "i1",
+   "porque": "A regra americana pode limitar chips de IA para data centers no Brasil."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Dólar fecha a R$ 5,77, maior valor desde abril de 2025",
+     "contexto": "dolar-bolsa-e-juros",
+     "texto": "O dólar fechou a R$ 5,77 na segunda (16), alta de 2,15%, o maior valor desde 17 de abril de 2025, segundo O Tempo. O Ibovespa caiu 1,83%, a 169.295 pontos, e o risco-país subiu 4,72%.",
+     "pq": "dólar mais caro encarece importados e combustíveis e pressiona a inflação. Analistas citam dúvidas sobre a dívida pública, juros futuros em alta e queda das bolsas americanas. O vice Geraldo Alckmin chamou a alta de \"oscilações passageiras\".",
+     "fontes": [
+      {
+       "t": "O Tempo",
+       "u": "https://www.otempo.com.br/economia/2026/11/16/dolar-dispara-e-fecha-a-r-5-77"
+      },
+      {
+       "t": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/16/dolar-supera-r-577-e-bate-maior-valor-desde-abril-de-2025-ibovespa-cai-mais-de-1/"
+      }
+     ],
+     "completa": {
+      "fina": "O Morgan Stanley rebaixou a recomendação para a Bolsa brasileira e projeta o Ibovespa em 160 mil pontos no fim de 2027.",
+      "atualizada": "17 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O dólar comercial fechou a R$ 5,77 na segunda-feira (16), com alta de 2,15%, o maior valor de fechamento desde 17 de abril de 2025, quando terminou a R$ 5,804, segundo O Tempo. O Mix Vale registrou alta de 2,09%, a R$ 5,7734. O Ibovespa caiu 1,83%, aos 169.295 pontos, segundo O Tempo; o Mix Vale cita queda de 1,46%, numa medição anterior ao fechamento.",
+      "blocos": [
+       {
+        "h": "Os motivos citados",
+        "li": [
+         {
+          "b": "Contas públicas:",
+          "t": "investidores se preocupam com a trajetória da dívida depois que o Senado aprovou o texto-base do ajuste fiscal; os destaques ficam para terça (17), segundo O Tempo."
+         },
+         {
+          "b": "Expectativas:",
+          "t": "o boletim Focus elevou a projeção de inflação para 2027 de 4,90% para 5% e a de Selic de 12,5% para 12,75%, segundo Rebecca Nossig, estrategista da Nomad."
+         },
+         {
+          "b": "Bolsas americanas:",
+          "t": "o Nasdaq caiu 2,49% e o S&P 500, 1,91%, pressionados por chips, depois da proposta dos EUA de exigir licença para exportar chips avançados de IA a Brasil e outros países."
+         },
+         {
+          "b": "Commodities:",
+          "t": "o minério de ferro caiu 3,28% na China, e a Vale recuou 2,94%; ações da Petrobras caíram com o petróleo, segundo o Mix Vale."
+         }
+        ]
+       },
+       {
+        "h": "A Bolsa",
+        "p": [
+         "O Morgan Stanley rebaixou a recomendação para a Bolsa brasileira, citando juros altos, desaceleração e revisão dos lucros, e projeta o Ibovespa em 160 mil pontos no fim de 2027. Investidores estrangeiros retiraram R$ 5,5 bilhões da B3 até 12 de novembro; no ano, o saldo ainda é positivo em R$ 34,7 bilhões, segundo O Tempo."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Geraldo Alckmin, vice-presidente, no exercício da Presidência:",
+          "t": "\"Não há razão para o mercado ter essas oscilações\", disse. Citou inflação controlada, mais de meio trilhão de reais em reservas e o ajuste fiscal de R$ 60 bilhões."
+         },
+         {
+          "b": "Rebecca Nossig, da Nomad:",
+          "t": "liga a alta à percepção de risco fiscal e à alta dos juros futuros, que estimulam a busca por proteção e a saída de capital estrangeiro."
+         },
+         {
+          "b": "Mercado:",
+          "t": "segundo o Mix Vale, investidores se decepcionaram com o pacote fiscal do governo."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "A alta de segunda é a mais recente de uma sequência iniciada depois do segundo turno. No primeiro pregão após a reeleição de Lula, em 26 de outubro, o dólar subiu mais de 8% e o Ibovespa caiu 13,88%. Em 4 de novembro, o Copom manteve a Selic em 13,75% e interrompeu os cortes, citando a piora fiscal. Em 12 de novembro, o dólar fechou a R$ 5,65, então o maior valor em 17 meses, segundo a Agência Brasil. O pacote de ajuste enviado em 11 de novembro não reverteu a tendência."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se os destaques no Senado mudam o pacote.",
+         "Se o Banco Central vai atuar no câmbio."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Votação dos destaques do ajuste fiscal no Senado, na terça (17).",
+         "Balanço da Nvidia, que mexe com as bolsas americanas."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "O Tempo: dólar a R$ 5,77",
+        "u": "https://www.otempo.com.br/economia/2026/11/16/dolar-dispara-e-fecha-a-r-5-77"
+       },
+       {
+        "t": "Mix Vale: dólar e Ibovespa",
+        "u": "https://www.mixvale.com.br/2026/11/16/dolar-supera-r-577-e-bate-maior-valor-desde-abril-de-2025-ibovespa-cai-mais-de-1/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Senado vota nesta terça destaques do ajuste fiscal; Câmara pode votar quarta",
+     "contexto": "ajuste-fiscal-2027",
+     "texto": "O Senado deve votar nesta terça (17) os quatro destaques do pacote de ajuste fiscal, sobre controle de gastos, pisos constitucionais e benefícios tributários, segundo O Tempo. O governo quer que a Câmara vote ainda nesta semana, possivelmente na quarta (18).",
+     "pq": "o pacote corta gastos e incentivos para melhorar as contas de 2027 em até R$ 56,1 bilhões, segundo o relator. Para manter um trecho destacado, são necessários 41 senadores. Lula voltou ao Brasil na segunda (16).",
+     "fontes": [
+      {
+       "t": "O Tempo",
+       "u": "https://www.otempo.com.br/politica/congresso/2026/11/16/senado-deve-concluir-votacao-do-ajuste-fiscal-de-lula-nesta-terca-16-11"
+      },
+      {
+       "t": "SP Diário",
+       "u": "https://spdiario.com.br/noticias/politica/lula-retorna-ao-brasil-e-tera-de-articular-agenda-fiscal-novo-governo-e-crise-na-pf.html"
+      }
+     ],
+     "completa": {
+      "fina": "O pacote enfrenta resistência de parte da oposição e de setores da esquerda, segundo o SP Diário.",
+      "atualizada": "17 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Senado deve concluir nesta terça-feira (17) a votação do projeto de ajuste fiscal do governo, com a análise de quatro destaques, segundo O Tempo. O texto-base foi aprovado em 12 de novembro, por 45 votos a 31. O presidente Luiz Inácio Lula da Silva voltou ao Brasil na segunda (16), depois de viagem à Turquia, às Filipinas e à Espanha, segundo o SP Diário.",
+      "blocos": [
+       {
+        "h": "O que está em jogo",
+        "p": [
+         "Os destaques são votações separadas de trechos do texto. Os quatro pendentes tratam de regras de controle de gastos, pisos constitucionais e benefícios tributários, segundo O Tempo, que não detalha cada um. Por ser projeto de lei complementar, um trecho destacado só fica no texto com pelo menos 41 votos."
+        ]
+       },
+       {
+        "h": "O pacote",
+        "li": [
+         {
+          "b": "Limite de gastos:",
+          "t": "reduz de 2,5% para 2% o crescimento real máximo das despesas federais a partir de 2027."
+         },
+         {
+          "b": "Benefícios fiscais:",
+          "t": "aumenta de 10% para 20% o corte em parte dos incentivos a empresas, com efeito estimado de R$ 15 bilhões em 2027."
+         },
+         {
+          "b": "Efeito total:",
+          "t": "até R$ 56,1 bilhões nas contas de 2027, segundo o relator, Eduardo Braga (MDB-AM)."
+         }
+        ]
+       },
+       {
+        "h": "A Câmara",
+        "p": [
+         "O governo quer que os deputados votem nesta semana. A quarta (18) é citada como data possível, mas a presidência da Câmara, de Hugo Motta (Republicanos-PB), não confirmou, segundo O Tempo. Mudanças grandes nos destaques podem obrigar o governo a renegociar. O ministro das Relações Institucionais, José Guimarães, coordena o esforço."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Governo:",
+          "t": "quer concluir rápido no Senado e manter os pontos principais, segundo O Tempo."
+         },
+         {
+          "b": "Paulo Pimenta (PT-RS), líder do governo na Câmara:",
+          "t": "disse que \"as discussões fazem parte do processo legislativo\", segundo o SP Diário."
+         },
+         {
+          "b": "Críticos:",
+          "t": "parlamentares da oposição e setores da esquerda questionam os impactos e o prazo de análise, segundo o SP Diário; as reportagens não trazem declarações nominais da oposição."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Em 2023, o arcabouço fiscal substituiu o teto de gastos e permitiu que as despesas federais crescessem até 2,5% ao ano acima da inflação, conforme a arrecadação. A dívida bruta continuou subindo e deve fechar 2026 em 83,6% do PIB, segundo o NeoFeed. Depois da reeleição, com o dólar em alta, o governo enviou o pacote em 11 de novembro. No dia seguinte, o Senado aprovou a urgência por 40 a 38 e o texto-base por 45 a 31. Pelas projeções do governo citadas pelo NeoFeed, a dívida só começa a cair em 2030."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se algum destaque muda o texto.",
+         "A data da votação na Câmara."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Votação dos destaques no Senado nesta terça (17).",
+         "Envio do projeto à Câmara."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "O Tempo: Senado conclui votação nesta terça",
+        "u": "https://www.otempo.com.br/politica/congresso/2026/11/16/senado-deve-concluir-votacao-do-ajuste-fiscal-de-lula-nesta-terca-16-11"
+       },
+       {
+        "t": "SP Diário: o que espera Lula na volta",
+        "u": "https://spdiario.com.br/noticias/politica/lula-retorna-ao-brasil-e-tera-de-articular-agenda-fiscal-novo-governo-e-crise-na-pf.html"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Lula retoma escolha para o STF; governo mira sabatina em dezembro",
+     "contexto": "vaga-de-barroso-no-stf",
+     "texto": "De volta ao Brasil, Lula retomou a escolha do nome para a vaga de Luís Roberto Barroso no STF, segundo a CNN Brasil. O Planalto quer a votação na Comissão de Constituição e Justiça do Senado no início de dezembro.",
+     "pq": "o governo calcula que o Senado de 2027 será mais difícil para aprovar indicações. Além de Jorge Messias e Rodrigo Pacheco, a CNN cita Paulo Gonet e Simone Tebet entre os nomes avaliados.",
+     "fontes": [
+      {
+       "t": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/lula-retoma-indicacao-ao-stf-e-sabatina-deve-acontecer-em-dezembro/"
+      },
+      {
+       "t": "SP Diário",
+       "u": "https://spdiario.com.br/noticias/politica/lula-retorna-ao-brasil-e-tera-de-articular-agenda-fiscal-novo-governo-e-crise-na-pf.html"
+      }
+     ],
+     "completa": {
+      "fina": "Não está claro se as regras do Senado permitem reenviar Messias, rejeitado em abril, no mesmo ano.",
+      "atualizada": "17 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente Luiz Inácio Lula da Silva retomou a escolha do indicado à vaga aberta no Supremo Tribunal Federal com a aposentadoria de Luís Roberto Barroso, segundo a CNN Brasil, que publicou a informação na segunda-feira (16). Auxiliares do Planalto querem a votação na Comissão de Constituição e Justiça do Senado no início de dezembro.",
+      "blocos": [
+       {
+        "h": "Os nomes",
+        "li": [
+         {
+          "b": "Jorge Messias:",
+          "t": "advogado-geral da União, rejeitado pelo Senado em abril. Lula quer voltar a indicá-lo, mas não está claro se as regras do Senado permitem reenviar o mesmo nome no mesmo ano, segundo a CNN Brasil. O SP Diário diz que Lula enfrenta dificuldades políticas para viabilizá-lo."
+         },
+         {
+          "b": "Rodrigo Pacheco:",
+          "t": "ministro do Tribunal de Contas da União e ex-presidente do Senado, preferido de Davi Alcolumbre (União-AP), segundo a CNN."
+         },
+         {
+          "b": "Paulo Gonet e Simone Tebet:",
+          "t": "citados por Gustavo Uribe, da CNN, entre os nomes avaliados. Gonet é o procurador-geral da República. O Planalto não confirmou nenhum dos nomes."
+         }
+        ]
+       },
+       {
+        "h": "O cálculo do governo",
+        "p": [
+         "Segundo a CNN Brasil, o governo vê em Lula um \"capital político renovado\" depois da reeleição e espera um Senado bem diferente em 2027, o que tornaria mais difícil aprovar indicações ao Supremo. Por isso, quer resolver a vaga ainda este ano, o que exigiria priorizar o tema."
+        ]
+       },
+       {
+        "h": "O Senado",
+        "p": [
+         "Para Alcolumbre, voltar a apoiar Messias teria alto custo político, porque ele não é seu preferido e o presidente do Senado precisa agradar senadores antes da eleição para a presidência da Casa, segundo a CNN. Lula queria levar Alcolumbre na viagem à Ásia para tratar do tema, mas o encontro não aconteceu. O indicado precisa de pelo menos 41 dos 81 votos no plenário."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Planalto:",
+          "t": "não anunciou oficialmente o nome."
+         },
+         {
+          "b": "Davi Alcolumbre:",
+          "t": "não se manifestou publicamente sobre os nomes; sua preferência por Pacheco é relatada pela CNN."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Barroso se aposentou em 2025. Jorge Messias passou na Comissão de Constituição e Justiça por 16 a 11, mas o plenário o rejeitou por 42 a 34 em 29 de abril de 2026, a primeira rejeição de um indicado ao Supremo sob a Constituição de 1988, segundo a TV Sim Brasil. Em outubro, os ministros Gilmar Mendes, Cristiano Zanin, Flávio Dino e Alexandre de Moraes passaram a apoiar Pacheco, segundo O Globo. Se Pacheco for ao Supremo, abre-se uma vaga no TCU, que também entra na negociação."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem Lula vai indicar.",
+         "Se o Senado aceita um novo envio de Messias.",
+         "A data da reunião de Lula com ministros do STF, anunciada pelo Globo no domingo."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Indicação formal ao Senado, que o governo quer ainda em novembro.",
+         "Sabatina prevista para o início de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "CNN Brasil: Lula retoma indicação",
+        "u": "https://www.cnnbrasil.com.br/politica/lula-retoma-indicacao-ao-stf-e-sabatina-deve-acontecer-em-dezembro/"
+       },
+       {
+        "t": "SP Diário: STF na pauta de Lula",
+        "u": "https://spdiario.com.br/noticias/politica/lula-retorna-ao-brasil-e-tera-de-articular-agenda-fiscal-novo-governo-e-crise-na-pf.html"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Forças do governo do Iêmen deixam estreito de Bab al-Mandeb aos houthis",
+     "contexto": "guerra-no-iemen",
+     "texto": "Forças do governo do Iêmen, apoiadas pela Arábia Saudita, deixaram no domingo (15) o aeroporto de Dhubab e áreas próximas ao estreito de Bab al-Mandeb para defender Áden, sede do governo. Os houthis, próximos do Irã, avançaram.",
+     "pq": "com o Estreito de Ormuz praticamente fechado pela guerra no Irã, Bab al-Mandeb, na saída do Mar Vermelho, ganhou peso no comércio marítimo, segundo a Al Jazeera. Um analista diz que os houthis agora controlam parte da rota para Áden.",
+     "fontes": [
+      {
+       "t": "Al Jazeera",
+       "u": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb"
+      },
+      {
+       "t": "Democracy Now",
+       "u": "https://www.democracynow.org/2026/11/16/headlines"
+      }
+     ],
+     "completa": {
+      "fina": "Os houthis estão a cerca de 80 km de Áden, segundo um analista ouvido pela Al Jazeera; o Democracy Now fala em 40 milhas, cerca de 64 km.",
+      "atualizada": "17 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "As forças do governo do Iêmen, apoiadas pela Arábia Saudita, anunciaram no domingo (15) a retirada do aeroporto de Dhubab e de áreas próximas ao estreito de Bab al-Mandeb, segundo a Al Jazeera. O governo diz que a manobra serve para defender Áden, sua sede de fato. Os houthis assumiram a faixa entre Dhubab e o estreito.",
+      "blocos": [
+       {
+        "h": "A situação no terreno",
+        "li": [
+         {
+          "b": "Distância:",
+          "t": "o general reformado libanês Hassan Jouni disse à Al Jazeera que os houthis chegaram a Tor al-Baha, a cerca de 80 km de Áden. O Democracy Now fala em cerca de 40 milhas, ou 64 km."
+         },
+         {
+          "b": "Taiz:",
+          "t": "a cidade já está cercada pelos houthis."
+         },
+         {
+          "b": "Ataques:",
+          "t": "a operação do governo, chamada \"Amanhecer do Iêmen\", teria feito 900 ataques em 24 horas; os houthis responderam com mísseis e drones em direção a Meca, Riad e à Província Oriental saudita, segundo a Al Jazeera."
+         },
+         {
+          "b": "Prisioneiros:",
+          "t": "os houthis libertaram 600 detidos, segundo o responsável houthi por prisioneiros, Abdul Qader al-Murtada, citado pelo Democracy Now."
+         }
+        ]
+       },
+       {
+        "h": "Por que o estreito importa",
+        "p": [
+         "Bab al-Mandeb liga o Mar Vermelho ao Golfo de Áden e ao Oceano Índico. Com o fechamento prático do Estreito de Ormuz durante a guerra dos EUA e de Israel contra o Irã, a rota ganhou peso para o comércio marítimo mundial, segundo a Al Jazeera. O analista Ali al-Dahab diz que os houthis passam a controlar diretamente a costa oeste do Iêmen e parte da rota para Áden, o que, segundo ele, beneficia principalmente o Irã."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Majed al-Nuzaili, porta-voz das Forças Armadas do governo:",
+          "t": "chamou a retirada de parte de uma manobra tática mais ampla."
+         },
+         {
+          "b": "Ali al-Dahab, analista:",
+          "t": "disse que foi um recuo, e não um reposicionamento, porque deixou um vazio para os houthis ocuparem."
+         },
+         {
+          "b": "Houthis:",
+          "t": "dizem que vão continuar os ataques sob o princípio de \"cerco por cerco\"."
+         },
+         {
+          "b": "Arábia Saudita:",
+          "t": "a Al Jazeera não traz declaração do governo saudita."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Os houthis tomaram a capital, Sanaa, em setembro de 2014. Em março de 2015, uma coalizão liderada pela Arábia Saudita entrou na guerra para apoiar o governo, segundo a Al Jazeera. Os combates recomeçaram em julho de 2026, depois que aviões do governo bombardearam o aeroporto de Sanaa para impedir o pouso de uma delegação houthi. Em setembro, uma ofensiva houthi tomou a costa do Mar Vermelho, incluindo o porto de Mocha; no mesmo mês, as forças do governo retomaram Dhubab, que agora deixaram."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O número de mortos nos combates recentes.",
+         "Se os houthis vão atacar navios no estreito."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Defesa de Áden pelas forças do governo.",
+         "Efeitos sobre o tráfego de navios no Mar Vermelho."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera: houthis perto de Áden",
+        "u": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb"
+       },
+       {
+        "t": "Democracy Now: manchetes de 16 de novembro",
+        "u": "https://www.democracynow.org/2026/11/16/headlines"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "EUA levam terceiro porta-aviões ao Oriente Médio; minas atingem petroleiros em Ormuz",
+     "contexto": "guerra-ira-eua-2026",
+     "texto": "O porta-aviões USS Theodore Roosevelt chegou ao Oriente Médio na segunda (16), com milhares de militares, segundo o Comando Central. Os EUA voltam a ter três porta-aviões na região. Minas danificaram seis petroleiros em Ormuz desde domingo, segundo a Guarda Revolucionária.",
+     "pq": "o reforço chega com as negociações paradas e o bloqueio naval americano ao Irã mantido. O tráfego em Ormuz está abaixo de um terço do nível de antes da guerra, segundo a Lloyd's List, o que afeta o preço do petróleo.",
+     "fontes": [
+      {
+       "t": "Times of San Diego",
+       "u": "https://timesofsandiego.com/military/2026/11/16/uss-theodore-roosevelt-middle-east-iran/"
+      },
+      {
+       "t": "Spectrum News, com AP",
+       "u": "https://spectrumlocalnews.com/us/snplus/international/2026/11/16/uss-theodore-roosevelt-aircraft-carrier-middle-east"
+      }
+     ],
+     "completa": {
+      "fina": "Trump disse que, \"se algo não der certo\", não hesitaria em agir.",
+      "atualizada": "17 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O porta-aviões USS Theodore Roosevelt chegou ao Oriente Médio na segunda-feira (16), anunciou o Comando Central dos EUA, segundo o Times of San Diego e a AP, publicada pela Spectrum News. O navio saiu de San Diego em setembro com seu grupo de ataque e leva milhares de militares a mais para a região.",
+      "blocos": [
+       {
+        "h": "A força americana",
+        "li": [
+         {
+          "b": "Porta-aviões:",
+          "t": "o USS George H.W. Bush chegou em abril e o USS George Washington em agosto. Em abril, a Marinha teve três grupos de porta-aviões na região pela primeira vez desde 2003."
+         },
+         {
+          "b": "Mar Arábico:",
+          "t": "além dos três porta-aviões, 13 destróieres, dois cruzadores e um navio de combate litorâneo; outros dois destróieres estão no Mar Vermelho."
+         },
+         {
+          "b": "Fuzileiros:",
+          "t": "o grupo anfíbio do USS Makin Island, com cerca de 2.000 fuzileiros navais, ainda não tinha chegado."
+         },
+         {
+          "b": "Bloqueio:",
+          "t": "o Comando Central diz ter desviado 150 navios mercantes e inutilizado cinco desde junho."
+         }
+        ]
+       },
+       {
+        "h": "Ormuz",
+        "p": [
+         "Minas danificaram seis petroleiros desde domingo, segundo a marinha da Guarda Revolucionária do Irã. Um projétil atingiu um petroleiro e causou incêndio na casa de máquinas, sem vítimas relatadas. O tráfego no estreito está abaixo de um terço do nível de antes da guerra, segundo a Lloyd's List, citada pelo Times of San Diego. Os EUA fizeram ataques limitados perto do estreito e guiam navios na região."
+        ]
+       },
+       {
+        "h": "As negociações",
+        "p": [
+         "As conversas estão paradas por causa do programa nuclear iraniano: Trump exige que qualquer acordo trate dele, e o Irã quer antes que os EUA aceitem condições como o fim do bloqueio. Os EUA monitoram uma instalação ligada ao programa nuclear, conhecida como Pickaxe Mountain, segundo o Times of San Diego."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Donald Trump:",
+          "t": "tem alternado ameaças de novos ataques com a afirmação de que a guerra \"militarmente está praticamente encerrada\". À rádio de Hugh Hewitt, disse que, \"se algo não der certo\", não hesitaria em agir."
+         },
+         {
+          "b": "Irã:",
+          "t": "o porta-voz da chancelaria, Esmail Baghaei, disse que o país não vai \"deixar nenhum ataque sem resposta\", segundo o Democracy Now."
+         },
+         {
+          "b": "JD Vance, vice-presidente:",
+          "t": "disse publicamente que \"a razão de termos perdido é a guerra\", ao comentar as eleições de meio de mandato, segundo o Times of San Diego."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se Trump vai ordenar novos ataques.",
+         "A resposta americana às condições iranianas."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Trump deve tratar do Irã na reunião com Xi e Putin, na quinta (19)."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Times of San Diego: porta-aviões e Ormuz",
+        "u": "https://timesofsandiego.com/military/2026/11/16/uss-theodore-roosevelt-middle-east-iran/"
+       },
+       {
+        "t": "Spectrum News, com AP: terceiro porta-aviões",
+        "u": "https://spectrumlocalnews.com/us/snplus/international/2026/11/16/uss-theodore-roosevelt-aircraft-carrier-middle-east"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Trump começa viagem à Ásia; manifestantes enfrentam a polícia em Manila",
+     "contexto": "armas-nucleares-eua-russia-china",
+     "texto": "Donald Trump começou sua primeira viagem ao exterior desde a derrota republicana nas eleições de meio de mandato. Ele vai a Manila, para a cúpula da Asean e o Quad, e a Shenzhen, para a reunião com Xi Jinping e Vladimir Putin, na quinta (19).",
+     "pq": "a reunião a três é a primeira do tipo e tem como tema oficial a redução de arsenais nucleares. Em Manila, centenas de manifestantes enfrentaram a polícia no domingo (15) em protesto contra a visita e a guerra no Irã.",
+     "fontes": [
+      {
+       "t": "Democracy Now",
+       "u": "https://www.democracynow.org/2026/11/16/headlines"
+      },
+      {
+       "t": "SBS",
+       "u": "https://www.sbs.com.au/news/article/trump-xi-putin-meeting/lanttf9lg"
+      }
+     ],
+     "completa": {
+      "fina": "O Quad, com EUA, Japão, Índia e Austrália, se reúne nesta terça (17) em Manila.",
+      "atualizada": "17 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente dos EUA, Donald Trump, começou nesta semana uma viagem à Ásia, a primeira ao exterior desde a derrota dos republicanos nas eleições de meio de mandato, com passagem por Manila, nas Filipinas, e Shenzhen, na China, segundo o Democracy Now e a SBS. Na quinta-feira (19), ele se reúne com Xi Jinping e Vladimir Putin à margem da cúpula da Apec.",
+      "blocos": [
+       {
+        "h": "A agenda",
+        "li": [
+         {
+          "b": "Terça (17):",
+          "t": "reunião do Quad em Manila, com o premiê australiano, Anthony Albanese, a premiê japonesa, Sanae Takaichi, e o premiê indiano, Narendra Modi, segundo a SBS."
+         },
+         {
+          "b": "Manila:",
+          "t": "Trump também participa de encontros com a Asean."
+         },
+         {
+          "b": "Quinta (19):",
+          "t": "almoço de trabalho com Xi, o quarto encontro dos dois neste mandato, e a reunião a três com Xi e Putin. Não há reunião bilateral prevista com Putin."
+         }
+        ]
+       },
+       {
+        "h": "Os protestos em Manila",
+        "p": [
+         "Centenas de manifestantes entraram em confronto com a polícia no domingo (15) ao marchar em direção à cúpula da Asean, segundo o Democracy Now. Eles protestavam contra a visita de Trump, a guerra no Irã e um centro de inteligência artificial planejado pelos EUA dentro da iniciativa chamada \"Pax Silica\". O manifestante Teddy Casino citou a alta de preços e as dificuldades econômicas."
+        ]
+       },
+       {
+        "h": "A pauta em Shenzhen",
+        "p": [
+         "A Casa Branca diz que Trump \"vai discutir a redução de armas nucleares\". Ele também deve tratar da guerra com o Irã; a guerra na Ucrânia não está na pauta, segundo a SBS. Volodymyr Zelensky comparou a reunião a uma \"Ialta 2.0\", e o chanceler alemão, Friedrich Merz, pediu aos EUA \"sem surpresas\"."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Casa Branca:",
+          "t": "diz que Trump quer um acordo sobre arsenais nucleares que inclua a China."
+         },
+         {
+          "b": "Manifestantes filipinos:",
+          "t": "criticam a visita e a guerra no Irã."
+         },
+         {
+          "b": "Governo filipino:",
+          "t": "as reportagens não trazem declaração sobre os confrontos."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Em fevereiro de 2026, expirou o Novo START, último tratado que limitava as armas nucleares de EUA e Rússia, e os dois maiores arsenais do mundo ficaram sem teto pela primeira vez em mais de 50 anos, segundo a AP. Trump recusou a proposta russa de estender o tratado por um ano e pediu um acordo que incluísse a China. Pelo Pentágono, a China tem mais de 600 ogivas; EUA e Rússia, mais de 5.000 cada. A reunião a três foi confirmada em 13 de novembro pela Casa Branca e pelo Kremlin."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se houve feridos ou presos nos confrontos em Manila.",
+         "Se a China aceita discutir o próprio arsenal."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Quad na terça (17).",
+         "Reunião a três em Shenzhen na quinta (19)."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Democracy Now: manchetes de 16 de novembro",
+        "u": "https://www.democracynow.org/2026/11/16/headlines"
+       },
+       {
+        "t": "SBS: a reunião com Xi e Putin",
+        "u": "https://www.sbs.com.au/news/article/trump-xi-putin-meeting/lanttf9lg"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "EUA passam a exigir licença para exportar chips de IA ao Brasil",
+     "contexto": "nvidia-china-chips",
+     "texto": "O Departamento de Comércio dos EUA publicou na segunda (16) uma regra que exige licença para exportar chips avançados de IA a Brasil, Indonésia, Malásia, Singapura e Tailândia. Data centers também precisam de licença para dar acesso remoto a empresas chinesas.",
+     "pq": "a regra mira empresas chinesas que alugam chips em data centers fora da China para contornar restrições. O Brasil foi incluído por risco \"acima do normal\" de desvio para a China, segundo o texto citado pelo Rio Times. O governo brasileiro não comentou.",
+     "fontes": [
+      {
+       "t": "Nextgov",
+       "u": "https://www.nextgov.com/artificial-intelligence/2026/11/commerce-department-moves-close-ai-chip-loophole/417255/"
+      },
+      {
+       "t": "Rio Times",
+       "u": "https://riotimesonline.com/us-requires-licences-ai-chips-brazil-data-centers-commerce-rule"
+      }
+     ],
+     "completa": {
+      "fina": "Data centers que já atendem empresas chinesas terão 90 dias para obter licença; comentários à regra vão até 60 dias.",
+      "atualizada": "17 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Escritório de Indústria e Segurança (BIS) do Departamento de Comércio dos EUA publicou na segunda-feira (16) uma regra provisória que exige licença para exportar chips avançados de inteligência artificial a Indonésia, Malásia, Singapura, Tailândia e Brasil, segundo o Nextgov. A regra também obriga data centers a obter licença antes de dar acesso remoto a empresas com sede na China ou em outros destinos restritos.",
+      "blocos": [
+       {
+        "h": "O que muda",
+        "li": [
+         {
+          "b": "Licença:",
+          "t": "exportar chips avançados aos cinco países passa a exigir autorização do governo americano."
+         },
+         {
+          "b": "Acesso remoto:",
+          "t": "data centers precisam de licença para alugar capacidade a empresas chinesas; os que já fazem isso têm 90 dias a partir da entrada em vigor."
+         },
+         {
+          "b": "Prazo:",
+          "t": "comentários públicos em 60 dias, segundo o Nextgov. A data de entrada em vigor não foi confirmada, segundo o Rio Times."
+         },
+         {
+          "b": "Regra antiga:",
+          "t": "revoga formalmente a norma de difusão de IA do governo Biden, de janeiro de 2025, que o governo Trump já tinha dito em maio de 2025 que não aplicaria."
+         }
+        ]
+       },
+       {
+        "h": "Por que o Brasil entrou",
+        "p": [
+         "Segundo relatos do texto da regra citados pelo Rio Times, o Brasil tem \"risco acima do normal de desvio para a China ou Macau\". O comunicado oficial do BIS não lista os países. O Rio Times diz não ter encontrado declaração do governo brasileiro e não cita projetos de data centers no país afetados."
+        ]
+       },
+       {
+        "h": "O contexto",
+        "p": [
+         "Empresas chinesas vinham alugando poder de computação em data centers do Sudeste Asiático para usar os chips mais avançados da Nvidia, cuja venda direta à China é restrita. A regra é a primeira resposta do governo Trump ao caso que levou à saída de Jensen Huang do comando da Nvidia, na semana passada, segundo o Nextgov. Na sexta (13), o secretário do Tesouro, Scott Bessent, criticou o secretário de Comércio, Howard Lutnick, por não restringir compras da Megaspeed, empresa de nuvem de Singapura no centro do caso. As bolsas americanas caíram na segunda, puxadas por empresas de chips."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Departamento de Comércio:",
+          "t": "diz que a regra foi \"escrita pelo e sob orientação do Departamento do Tesouro e do Conselho de Segurança Nacional\"."
+         },
+         {
+          "b": "Maria Cantwell, senadora democrata:",
+          "t": "\"Essas empresas estão explorando uma brecha nos controles de exportação dos EUA usando chips americanos avançados em data centers estrangeiros\", escreveu a Lutnick um dia antes."
+         },
+         {
+          "b": "Nvidia e governo brasileiro:",
+          "t": "as reportagens não trazem reação."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quais data centers no Brasil serão afetados.",
+         "Se o governo brasileiro vai contestar a inclusão.",
+         "Quais modelos de chips entram na regra."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Período de comentários de 60 dias.",
+         "Balanço da Nvidia nesta terça (17)."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Nextgov: a regra do Comércio",
+        "u": "https://www.nextgov.com/artificial-intelligence/2026/11/commerce-department-moves-close-ai-chip-loophole/417255/"
+       },
+       {
+        "t": "Rio Times: o Brasil na regra",
+        "u": "https://riotimesonline.com/us-requires-licences-ai-chips-brazil-data-centers-commerce-rule"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Clientes do Chase e de outros bancos dos EUA relatam falhas online",
+     "contexto": "apagoes-na-nuvem",
+     "texto": "Clientes do JPMorgan Chase, Bank of America, Wells Fargo, U.S. Bank e Truist relataram na segunda (16) dificuldade para acessar contas e fazer transações online, segundo a CBS e a NBC. O Chase citou um \"problema técnico\".",
+     "pq": "a falha veio menos de uma semana depois da pane da Microsoft e dias depois da parada dos voos nos EUA, mas as reportagens não ligam os casos. O Chase disse que os clientes mantinham acesso às contas e ao dinheiro.",
+     "fontes": [
+      {
+       "t": "CBS News",
+       "u": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/"
+      },
+      {
+       "t": "NBC DFW",
+       "u": "https://www.nbcdfw.com/news/national-international/chase-bank-of-america-wells-fargo-bank-outages-reported/4106849/"
+      }
+     ],
+     "completa": {
+      "fina": "Até 13h35 de Nova York, o Downdetector registrava mais de 4.400 relatos sobre o Chase.",
+      "atualizada": "17 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Clientes de grandes bancos dos EUA, entre eles JPMorgan Chase, Bank of America, Wells Fargo e U.S. Bank, relataram na segunda-feira (16) problemas para acessar contas e concluir transações pela internet, segundo a CBS News e a NBC DFW. Usuários do Zelle, sistema de transferências, também relataram falhas.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Chase:",
+          "t": "mais de 4.400 relatos no Downdetector até 13h35 no horário de Nova York, segundo a NBC DFW."
+         },
+         {
+          "b": "Bank of America:",
+          "t": "mais de 1.300."
+         },
+         {
+          "b": "U.S. Bank:",
+          "t": "mais de 650."
+         },
+         {
+          "b": "Wells Fargo:",
+          "t": "cerca de 380."
+         },
+         {
+          "b": "Observação:",
+          "t": "relatos no Downdetector não equivalem ao número de clientes afetados."
+         }
+        ]
+       },
+       {
+        "h": "O que se sabe da causa",
+        "p": [
+         "O Chase atribuiu o problema a uma \"questão técnica\" e não deu detalhes. Um aviso no aplicativo dizia que alguns serviços estavam indisponíveis e pedia que o cliente tentasse mais tarde. As reportagens não informam se os outros bancos foram afetados pelo mesmo problema nem quando os serviços voltaram por completo."
+        ]
+       },
+       {
+        "h": "A sequência de falhas",
+        "p": [
+         "A pane ocorreu menos de uma semana depois da falha da Microsoft, que deixou o Outlook e o Teams fora do ar por mais de 24 horas, e dias depois da parada nacional de decolagens nos EUA, em 13 de novembro. A CBS e a NBC DFW registram a coincidência, mas não ligam os episódios."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "JPMorgan Chase:",
+          "t": "\"Por causa de um problema técnico, algumas transações estão demorando mais que o normal\", disse um porta-voz, acrescentando que os clientes \"ainda têm acesso às contas e ao dinheiro\"."
+         },
+         {
+          "b": "Outros bancos:",
+          "t": "as reportagens não trazem declarações de Bank of America, Wells Fargo ou U.S. Bank."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Bancos, governos e empresas concentraram serviços digitais em poucos fornecedores e sistemas, o que reduz custos, mas faz uma falha atingir milhões de pessoas ao mesmo tempo. Em 12 de novembro, a pane da Microsoft começou no Exchange Online e se espalhou para Outlook e Teams; o Downdetector registrou mais de 7,4 milhões de relatos, e o STF suspendeu prazos processuais no Brasil, segundo a Agência Brasil. A Microsoft atribuiu a falha a uma atualização de rede, descartou ataque e disse ter restabelecido tudo em 14 de novembro."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "A causa exata da falha.",
+         "Se houve relação entre os problemas dos diferentes bancos.",
+         "Quanto tempo durou."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Explicações dos bancos sobre a causa."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "CBS News: falhas em bancos",
+        "u": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/"
+       },
+       {
+        "t": "NBC DFW: relatos e declaração do Chase",
+        "u": "https://www.nbcdfw.com/news/national-international/chase-bank-of-america-wells-fargo-bank-outages-reported/4106849/"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "150",
+  "texto": "navios mercantes foram desviados pelo bloqueio naval dos EUA ao Irã desde junho, segundo o Comando Central americano; outros cinco foram inutilizados.",
+  "fontes": [
+   {
+    "t": "Times of San Diego",
+    "u": "https://timesofsandiego.com/military/2026/11/16/uss-theodore-roosevelt-middle-east-iran/"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "Uma baleia-jubarte foi vista no rio Hudson, em Nova York, na semana passada; moradores a ligaram à luta contra a poluição do rio.",
+  "fontes": [
+   {
+    "t": "Democracy Now",
+    "u": "https://www.democracynow.org/2026/11/16/headlines"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Governo, oposição, Senado e mercado aparecem com atribuição clara, e a falta de declaração de quem não falou está registrada. Ressalvas: os números do dólar e do Ibovespa divergem entre as fontes, e a distância dos houthis até Áden também; as duas versões estão no texto. O Número e o Fechar têm uma fonte cada.",
+  "pontos": [
+   "Brasil 1: a fala de Alckmin e a leitura da analista estão atribuídas; a divergência de 2,15% e 2,09% está explicada.",
+   "Brasil 2: a nota diz que as reportagens não trazem falas nominais da oposição.",
+   "Brasil 3: os nomes avaliados são apuração da CNN, não confirmação do Planalto; a frase sem fonte sobre o cargo de Simone Tebet foi retirada na checagem.",
+   "Mundo 1: governo e analista dão leituras opostas da retirada, ambas com voz; a falta de declaração saudita está registrada.",
+   "Mundo 2: as alegações sobre as minas são atribuídas à Guarda Revolucionária; Trump, Irã e Vance falam pela própria voz.",
+   "Mundo 3: a falta de declaração do governo filipino sobre os confrontos está registrada.",
+   "Inovação 1: a inclusão do Brasil vem de relatos do texto da regra, e a nota diz que o comunicado oficial não lista os países.",
+   "Inovação 2: a nota diz que relatos no Downdetector não equivalem a clientes afetados e que as reportagens não ligam as falhas recentes."
+  ],
+  "equilibrio": "Governo Lula: 3 menções (neutras); oposição: 2 (sem falas nominais); Senado: 2; mercado: 1. EUA: 4; Irã: 2; houthis e governo do Iêmen: 1 cada; China: 2 (sem declaração).",
+  "foraDaEdicao": [
+   "IPO da Anthropic: sem fato novo checado em duas fontes até o fechamento.",
+   "Balanço da Nvidia: sai depois do fechamento desta edição.",
+   "Esportes e demais categorias extras: nenhum fato novo checado em duas fontes com contexto pronto até o fechamento."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: o dólar, pelo efeito direto em preços e pela ligação com o ajuste fiscal.",
+   "Essencial: dólar, ajuste fiscal e regra de chips, por afetarem o leitor brasileiro.",
+   "Toda nota tem página de contexto; uma nova, sobre a guerra no Iêmen, e a de chips ganhou a parte em prosa \"Como chegamos aqui\"."
+  ]
+ },
+ "geradaEm": "2026-11-17T07:42:29Z"
+}

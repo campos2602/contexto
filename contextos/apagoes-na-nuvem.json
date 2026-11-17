@@ -1,6 +1,6 @@
 {
  "titulo": "Apagões na nuvem: quando um fornecedor para o mundo",
- "atualizado": "15 nov 2026",
+ "atualizado": "17 nov 2026",
  "selo": "Checado",
  "frase": "Empresas e governos concentraram e-mail, agenda e reuniões em poucos serviços na nuvem. Quando um deles falha, como a Microsoft em novembro de 2026, o efeito chega a bancos, hospitais e tribunais.",
  "historia": [
@@ -8,7 +8,8 @@
   "Em 12 de novembro de 2026, por volta das 11h17 no horário de Nova York, o Exchange Online, serviço de e-mail e agenda da Microsoft, começou a falhar. Logo depois, a pane se espalhou para Outlook, Teams, Copilot e outros serviços, segundo o Digital Trends. Foi a segunda interrupção de serviços da empresa no ano.",
   "Os efeitos apareceram em vários países. O e-mail do governo japonês caiu, a Nova Zelândia suspendeu vistos, o serviço público de saúde britânico usou sistemas alternativos, corretoras atrasaram operações, e uma empresa de Taiwan recorreu ao fax. No Brasil, o STF suspendeu prazos processuais. O Downdetector registrou mais de 7,4 milhões de relatos.",
   "A recuperação foi lenta. Segundo o Digital Trends, a Microsoft primeiro suspeitou de excesso de tráfego; depois, viu que vários servidores tinham ficado indisponíveis e que os outros não davam conta da carga. Cada tentativa de reiniciá-los falhava quando o tráfego voltava. A solução foi corrigir um componente de autenticação e roteamento. As ações da empresa fecharam estáveis na sexta (13), a US$ 523,88, e acumulam alta de cerca de 8% no ano, segundo a Agência Brasil.",
-  "A Microsoft atribuiu o problema a uma atualização de capacidade de rede que só se revelou com uma mudança posterior, descartou ataque e IA e pediu desculpas. Em 14 de novembro, disse ter restabelecido tudo. Para analistas, como Luke Kehoe, da Ookla, o episódio mostra quanto do trabalho depende de um só fornecedor."
+  "A Microsoft atribuiu o problema a uma atualização de capacidade de rede que só se revelou com uma mudança posterior, descartou ataque e IA e pediu desculpas. Em 14 de novembro, disse ter restabelecido tudo. Para analistas, como Luke Kehoe, da Ookla, o episódio mostra quanto do trabalho depende de um só fornecedor.",
+  "A sequência de falhas continuou. Em 16 de novembro, clientes do JPMorgan Chase, do Bank of America, do Wells Fargo e do U.S. Bank relataram dificuldade para acessar contas e fazer transações pela internet; o Chase falou em \"problema técnico\" e disse que os clientes mantinham acesso ao dinheiro. As reportagens da CBS e da NBC não ligam o caso à pane da Microsoft."
  ],
  "linha": [
   {
@@ -34,6 +35,10 @@
   {
    "d": "14 de novembro de 2026",
    "t": "A Microsoft informa que restabeleceu os serviços para todos os clientes e regiões."
+  },
+  {
+   "d": "16 de novembro de 2026",
+   "t": "Clientes de grandes bancos dos EUA relatam falhas nos serviços online; o Downdetector registra mais de 4.400 relatos sobre o Chase, segundo a NBC DFW."
   }
  ],
  "termos": [
@@ -99,8 +104,9 @@
   }
  ],
  "observar": [
-  "Se a Microsoft publica um relatório final sobre a falha.",
-  "Se clientes empresariais recebem compensação."
+  "A explicação dos bancos americanos para a falha de 16 de novembro.",
+  "Mudanças de contrato ou de fornecedor depois da pane da Microsoft.",
+  "Novas falhas em serviços concentrados."
  ],
  "fontes": [
   {
@@ -114,6 +120,14 @@
   {
    "t": "Anadolu: governos atingidos",
    "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
+  },
+  {
+   "t": "CBS News: falhas em bancos",
+   "u": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/"
+  },
+  {
+   "t": "NBC DFW: relatos e declaração do Chase",
+   "u": "https://www.nbcdfw.com/news/national-international/chase-bank-of-america-wells-fargo-bank-outages-reported/4106849/"
   }
  ]
 }

@@ -1,13 +1,9 @@
 {
  "titulo": "Nvidia, China e a disputa pelos chips de inteligência artificial",
- "atualizado": "13 nov 2026",
+ "atualizado": "17 nov 2026",
  "selo": "Com ressalva",
  "frase": "Os chips da Nvidia são a base do treinamento de inteligência artificial. Desde 2022, os EUA limitam a venda dos modelos mais avançados à China, e a China, por sua vez, passou a restringir a compra de alguns deles.",
  "linha": [
-  {
-   "d": "Abril de 2025",
-   "t": "Os EUA passam a exigir licença para exportar o H20 à China, segundo documento da Nvidia citado pelo What Led To."
-  },
   {
    "d": "8 de dezembro de 2025",
    "t": "Trump diz que clientes chineses aprovados poderão comprar o H200, com 25% da receita indo para o governo americano."
@@ -35,6 +31,10 @@
   {
    "d": "12 de novembro de 2026",
    "t": "Jensen Huang deixa o comando da Nvidia depois de 33 anos. A diretora financeira, Colette Kress, assume interinamente, e as ações fecham em queda de 4,34%, segundo a Fortune e o Yahoo Finance."
+  },
+  {
+   "d": "16 de novembro de 2026",
+   "t": "O Departamento de Comércio exige licença para exportar chips avançados de IA a Brasil, Indonésia, Malásia, Singapura e Tailândia e para dar acesso remoto a empresas chinesas, segundo o Nextgov."
   }
  ],
  "termos": [
@@ -61,6 +61,10 @@
   {
    "t": "Taxa sobre a receita",
    "d": "Na liberação do H200 anunciada por Trump em dezembro de 2025, 25% do que a Nvidia faturasse com essas vendas à China iria para o governo americano."
+  },
+  {
+   "t": "Acesso remoto",
+   "d": "Uso de chips instalados num data center por um cliente que está em outro lugar, pela internet."
   }
  ],
  "quem": [
@@ -83,6 +87,10 @@
   {
    "b": "Jensen Huang",
    "t": "cofundador e presidente-executivo da Nvidia, com 3,6% das ações. Desde 8 de novembro de 2026, é alvo de investigação interna do conselho sobre possível operação de inteligência chinesa; diz que vai cooperar."
+  },
+  {
+   "b": "Departamento de Comércio dos EUA",
+   "t": "publicou a regra de 16 de novembro de 2026, que diz ter sido escrita sob orientação do Tesouro e do Conselho de Segurança Nacional."
   }
  ],
  "disputa": [
@@ -97,12 +105,16 @@
   {
    "b": "A disputa maior",
    "t": "EUA e China se acusam mutuamente de roubar tecnologia de inteligência artificial e de pôr a segurança em risco, segundo a AFP."
+  },
+  {
+   "b": "A inclusão do Brasil",
+   "t": "o texto da regra, segundo o Rio Times, vê risco de desvio para a China; o governo brasileiro não comentou até o fechamento."
   }
  ],
  "observar": [
-  "O resultado da investigação do conselho sobre Jensen Huang.",
   "O balanço da Nvidia, na terça (17).",
-  "O depoimento de Huang no Congresso dos EUA.",
+  "A reação do governo brasileiro à regra de chips.",
+  "O resultado da investigação do conselho sobre Jensen Huang.",
   "A investigação do Departamento de Justiça sobre a Megaspeed."
  ],
  "fontes": [
@@ -149,6 +161,20 @@
   {
    "t": "Yahoo Finance: ações e valor de mercado",
    "u": "https://finance.yahoo.com/technology/live/nvidia-live-updates-following-jensen-huangs-resignation-as-ceo-allegations-of-a-third-affair-emerge-195535310.html"
+  },
+  {
+   "t": "Nextgov: a regra do Comércio",
+   "u": "https://www.nextgov.com/artificial-intelligence/2026/11/commerce-department-moves-close-ai-chip-loophole/417255/"
+  },
+  {
+   "t": "Rio Times: o Brasil na regra",
+   "u": "https://riotimesonline.com/us-requires-licences-ai-chips-brazil-data-centers-commerce-rule"
   }
+ ],
+ "historia": [
+  "Os chips da Nvidia, chamados GPUs, viraram a base do treinamento de sistemas de inteligência artificial. Por isso, o governo dos EUA passou a tratá-los como tecnologia estratégica e, desde 2022, limita a venda dos modelos mais avançados à China. A Nvidia chegou a criar versões menos potentes, como o H20, para continuar vendendo ao mercado chinês, mas em abril de 2025 também ele passou a exigir licença.",
+  "A política oscilou. Em dezembro de 2025, Donald Trump disse que clientes chineses aprovados poderiam comprar o H200, mais avançado, com 25% da receita indo para o governo americano. Do outro lado, a alfândega chinesa passou a barrar o H200 no início de 2026, e Pequim orientou empresas a reduzir compras. Em agosto, a Nvidia registrou despesa de US$ 400 milhões com estoque parado.",
+  "Ao mesmo tempo, empresas chinesas encontraram outro caminho: alugar capacidade em data centers fora da China, sobretudo no Sudeste Asiático. Em novembro de 2026, uma investigação do New York Times encontrou escritórios vazios em empresas chinesas autorizadas a montar servidores com o H200, e a Megaspeed, empresa de nuvem de Singapura, entrou no centro do caso. O conselho da Nvidia abriu investigação sobre Jensen Huang, que deixou o comando da empresa em 12 de novembro.",
+  "A resposta do governo veio em 16 de novembro: o Departamento de Comércio passou a exigir licença para exportar chips avançados a Brasil, Indonésia, Malásia, Singapura e Tailândia e para que data centers deem acesso remoto a empresas chinesas, segundo o Nextgov. O Brasil foi incluído por risco \"acima do normal\" de desvio, segundo relatos do texto citados pelo Rio Times. A regra fica aberta a comentários por 60 dias."
  ]
 }

@@ -1,13 +1,9 @@
 {
  "titulo": "Ajuste fiscal de 2027: o pacote para equilibrar as contas",
- "atualizado": "15 nov 2026",
+ "atualizado": "17 nov 2026",
  "selo": "Checado",
  "frase": "Depois da reeleição, com o dólar em alta e a dívida pública em crescimento, o governo Lula enviou ao Congresso em 11 de novembro de 2026 um projeto com cortes de gastos e de benefícios fiscais de R$ 50 bilhões a R$ 60 bilhões para cumprir a meta de 2027.",
  "linha": [
-  {
-   "d": "2023",
-   "t": "O arcabouço fiscal substitui o teto de gastos: as despesas podem crescer acima da inflação, até 2,5% ao ano em termos reais, conforme a arrecadação."
-  },
   {
    "d": "26 de outubro de 2026",
    "t": "No primeiro pregão depois da reeleição, o dólar sobe mais de 8% e o Ibovespa cai 13,88%."
@@ -31,6 +27,10 @@
   {
    "d": "13 de novembro de 2026",
    "t": "Hugo Motta sinaliza que a Câmara pode votar o ajuste na semana seguinte, depois dos destaques no Senado, segundo o Metrópoles."
+  },
+  {
+   "d": "16 de novembro de 2026",
+   "t": "Lula volta ao Brasil. O governo quer que a Câmara vote o pacote na quarta (18), depois dos quatro destaques no Senado, segundo O Tempo; a presidência da Câmara não confirma a data."
   },
   {
    "d": "2030",
@@ -133,6 +133,14 @@
   {
    "t": "Poder News: o que prevê o texto",
    "u": "https://podernews.com.br/2026/11/13/motta-sinaliza-votacao-de-ajuste-fiscal-para-a-proxima-semana/"
+  },
+  {
+   "t": "O Tempo: Senado conclui votação nesta terça",
+   "u": "https://www.otempo.com.br/politica/congresso/2026/11/16/senado-deve-concluir-votacao-do-ajuste-fiscal-de-lula-nesta-terca-16-11"
+  },
+  {
+   "t": "SP Diário: o que espera Lula na volta",
+   "u": "https://spdiario.com.br/noticias/politica/lula-retorna-ao-brasil-e-tera-de-articular-agenda-fiscal-novo-governo-e-crise-na-pf.html"
   }
  ],
  "historia": [

@@ -1,0 +1,112 @@
+{
+ "titulo": "A guerra no Iêmen e o estreito de Bab al-Mandeb",
+ "atualizado": "17 nov 2026",
+ "selo": "Checada",
+ "frase": "Desde 2014, o governo do Iêmen, apoiado pela Arábia Saudita, luta contra os houthis, grupo próximo do Irã. Em 2026, os combates voltaram e chegaram ao estreito de Bab al-Mandeb, na saída do Mar Vermelho.",
+ "historia": [
+  "O Iêmen fica no sul da Península Arábica, na entrada do Mar Vermelho. Os houthis, um grupo xiita zaidita também chamado Ansar Allah e próximo do Irã, tomaram a capital, Sanaa, em setembro de 2014. O governo reconhecido internacionalmente foi obrigado a se mudar para o sul e passou a funcionar em Áden, segundo a Al Jazeera.",
+  "Em março de 2015, a Arábia Saudita lançou uma campanha com uma coalizão de países árabes para apoiar o governo, com milhares de ataques aéreos. A guerra dividiu o país entre o norte, sob os houthis, e o sul e o leste, sob o governo e grupos aliados, entre eles o Conselho de Transição do Sul. Seguiram-se anos de combates e períodos de trégua.",
+  "Os combates voltaram em julho de 2026, depois que aviões do governo bombardearam o aeroporto de Sanaa para impedir o pouso de uma delegação houthi. Em setembro, uma ofensiva houthi tomou a costa do Mar Vermelho, incluindo o porto de Mocha, e depois cercou a cidade de Taiz. No mesmo mês, as forças do governo retomaram Dhubab, perto do estreito.",
+  "Em 15 de novembro, o governo anunciou a retirada de Dhubab e de áreas próximas a Bab al-Mandeb para defender Áden, e os houthis avançaram. A rota ganhou peso porque o Estreito de Ormuz está praticamente fechado pela guerra dos EUA e de Israel contra o Irã. O governo chama o recuo de manobra tática; analistas ouvidos pela Al Jazeera dizem que os houthis passam a controlar parte da rota para Áden."
+ ],
+ "linha": [
+  {
+   "d": "Setembro de 2014",
+   "t": "Os houthis tomam Sanaa, e o governo se muda para o sul, para Áden, segundo a Al Jazeera."
+  },
+  {
+   "d": "Março de 2015",
+   "t": "A Arábia Saudita lança uma campanha militar com uma coalizão árabe, com milhares de ataques aéreos."
+  },
+  {
+   "d": "Julho de 2026",
+   "t": "Os combates recomeçam depois que aviões do governo bombardeiam o aeroporto de Sanaa para impedir o pouso de uma delegação houthi."
+  },
+  {
+   "d": "Setembro de 2026",
+   "t": "Uma ofensiva houthi toma a costa do Mar Vermelho, incluindo o porto de Mocha; as forças do governo retomam Dhubab. Taiz passa a ficar cercada."
+  },
+  {
+   "d": "15 de novembro de 2026",
+   "t": "O governo anuncia a retirada de Dhubab e de áreas perto de Bab al-Mandeb. Os houthis dizem ter libertado 600 detidos, segundo o Democracy Now."
+  },
+  {
+   "d": "16 de novembro de 2026",
+   "t": "Os houthis chegam a Tor al-Baha, a cerca de 80 km de Áden, segundo um analista ouvido pela Al Jazeera; o Democracy Now fala em cerca de 64 km."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Houthis",
+   "d": "Movimento armado do norte do Iêmen, também chamado Ansar Allah, que controla Sanaa desde 2014 e é próximo do Irã."
+  },
+  {
+   "t": "Bab al-Mandeb",
+   "d": "Estreito entre o Iêmen e o Chifre da África que liga o Mar Vermelho ao Golfo de Áden e ao Oceano Índico."
+  },
+  {
+   "t": "Áden",
+   "d": "Cidade portuária do sul do Iêmen, sede de fato do governo reconhecido internacionalmente."
+  },
+  {
+   "t": "Coalizão liderada pela Arábia Saudita",
+   "d": "Grupo de países árabes que entrou na guerra em 2015 para apoiar o governo iemenita."
+  },
+  {
+   "t": "Conselho de Transição do Sul",
+   "d": "Grupo do sul do Iêmen aliado ao governo contra os houthis."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Governo do Iêmen",
+   "t": "reconhecido internacionalmente, apoiado pela Arábia Saudita, com sede de fato em Áden."
+  },
+  {
+   "b": "Houthis",
+   "t": "controlam Sanaa e o norte do país; são próximos do Irã."
+  },
+  {
+   "b": "Arábia Saudita",
+   "t": "lidera a coalizão que apoia o governo; teve cidades como Meca e Riad citadas como alvo de mísseis e drones houthis, segundo a Al Jazeera."
+  },
+  {
+   "b": "Majed al-Nuzaili",
+   "t": "porta-voz das Forças Armadas do governo."
+  },
+  {
+   "b": "Irã",
+   "t": "apoia os houthis e está em guerra com os EUA e Israel desde 2026."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "A retirada de Dhubab",
+   "t": "o governo fala em manobra tática para defender Áden; o analista Ali al-Dahab diz que foi um recuo que deixou o terreno para os houthis."
+  },
+  {
+   "b": "Os ataques",
+   "t": "os houthis dizem agir sob o princípio de \"cerco por cerco\"; a Al Jazeera não traz declaração do governo saudita."
+  },
+  {
+   "b": "A distância até Áden",
+   "t": "cerca de 80 km, segundo um analista ouvido pela Al Jazeera, ou cerca de 64 km, segundo o Democracy Now."
+  }
+ ],
+ "observar": [
+  "Se os houthis avançam sobre Áden.",
+  "Se o tráfego de navios em Bab al-Mandeb é afetado.",
+  "A reação da Arábia Saudita.",
+  "O número de mortos e deslocados, ainda sem dados nas reportagens."
+ ],
+ "fontes": [
+  {
+   "t": "Al Jazeera: houthis perto de Áden",
+   "u": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb"
+  },
+  {
+   "t": "Democracy Now: manchetes de 16 de novembro",
+   "u": "https://www.democracynow.org/2026/11/16/headlines"
+  }
+ ]
+}
