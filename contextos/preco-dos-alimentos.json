@@ -1,0 +1,123 @@
+{
+ "titulo": "Clima, safra e o preço dos alimentos",
+ "atualizado": "18 nov 2026",
+ "selo": "Checada",
+ "frase": "O preço de hortaliças como o tomate depende muito do clima: chuva demais ou calor fora de época reduzem a colheita, e a falta chega rápido ao supermercado. Em novembro de 2026, o tomate disparou em várias capitais.",
+ "historia": [
+  "Frutas e hortaliças têm preços mais instáveis que outros alimentos, porque estragam rápido e quase não podem ser estocadas. Quando a colheita cai, a oferta nos centros de abastecimento, as Ceasas, diminui em poucos dias, e o preço sobe no atacado e depois no varejo. A Conab, empresa pública de abastecimento, e o Dieese acompanham esses preços nas 27 capitais.",
+  "O tomate é um caso típico. A produção se concentra em Goiás, São Paulo e Minas Gerais, que respondem por 70% do total nacional, segundo a Agência Brasil. O Brasil colheu cerca de 4,7 milhões de toneladas em 2025. Para 2026, a estimativa caiu para 4,3 milhões, queda de 8%, depois de chuvas fortes e calor que reduziram a colheita. Em Goiás, a queda prevista é de 18,5%.",
+  "Outros fatores pesaram. A área plantada caiu cerca de 30% em relação a 2025, porque produtores migraram para outras culturas, e doenças bacterianas avançaram nas lavouras com a umidade, segundo o DCI, com base em dados do Hortifrúti/Cepea. Estados que dependem de outros para se abastecer, como Mato Grosso do Sul, sentem mais quando várias regiões produtoras têm problemas ao mesmo tempo.",
+  "Em novembro, o resultado apareceu nas gôndolas. O levantamento da Conab e do Dieese citado pela Agência Brasil registrou altas de 181% em Florianópolis, 174% no Rio de Janeiro e 120% em Fortaleza. Na Ceasa de Mato Grosso do Sul, a caixa de 23 quilos passou de R$ 160 para até R$ 380 em três semanas. Meteorologistas preveem mais chuva e calor, o que pode manter os preços altos no curto prazo."
+ ],
+ "linha": [
+  {
+   "d": "2025",
+   "t": "O Brasil produz cerca de 4,7 milhões de toneladas de tomate, segundo a Agência Brasil."
+  },
+  {
+   "d": "Outubro de 2026",
+   "t": "Cuiabá tem o quilo de tomate mais caro entre as capitais pesquisadas, R$ 15,22, segundo dados da Conab e do Dieese citados pelo DCI."
+  },
+  {
+   "d": "21 de outubro de 2026",
+   "t": "A caixa de 23 kg de tomate saladete custa R$ 160 na Ceasa de Mato Grosso do Sul."
+  },
+  {
+   "d": "12 de novembro de 2026",
+   "t": "A mesma caixa chega a R$ 320 a R$ 380, alta de 100% a 137%, segundo o DCI."
+  },
+  {
+   "d": "16 de novembro de 2026",
+   "t": "O boletim Focus reduz a previsão de inflação de 2026 de 5,22% para 5,11% e eleva a de 2027 de 4,9% para 5%, segundo a Agência Brasil."
+  },
+  {
+   "d": "17 de novembro de 2026",
+   "t": "Levantamento da Conab e do Dieese mostra altas do tomate de 181% em Florianópolis, 174% no Rio e 120% em Fortaleza; a produção de 2026 deve cair 8%."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Ceasa",
+   "d": "Central de abastecimento onde produtores vendem frutas e hortaliças no atacado para feiras, mercados e restaurantes."
+  },
+  {
+   "t": "Conab",
+   "d": "Companhia Nacional de Abastecimento, empresa pública que acompanha safras e preços de alimentos."
+  },
+  {
+   "t": "Dieese",
+   "d": "Departamento Intersindical de Estatística e Estudos Socioeconômicos, que pesquisa preços da cesta básica."
+  },
+  {
+   "t": "Hortifrúti/Cepea",
+   "d": "Grupo de pesquisa da USP que acompanha a produção e os preços de frutas e hortaliças."
+  },
+  {
+   "t": "IPCA",
+   "d": "Índice oficial de inflação do Brasil, calculado pelo IBGE."
+  },
+  {
+   "t": "Boletim Focus",
+   "d": "Pesquisa semanal do Banco Central com as projeções de economistas do mercado para inflação, juros, câmbio e PIB."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Produtores",
+   "t": "concentrados em Goiás, São Paulo e Minas Gerais, que respondem por 70% do tomate do país."
+  },
+  {
+   "b": "Conab e Dieese",
+   "t": "fazem o levantamento de preços nas capitais."
+  },
+  {
+   "b": "Consumidores",
+   "t": "pagam até o dobro do início do ano pelo quilo em algumas capitais, segundo a Agência Brasil."
+  },
+  {
+   "b": "Fernando Begena",
+   "t": "diretor de Abastecimento e Mercado da Ceasa de Mato Grosso do Sul."
+  },
+  {
+   "b": "Marco Antonio dos Santos",
+   "t": "meteorologista da Rural Clima."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Quanto vai durar",
+   "t": "o meteorologista Marco Antonio dos Santos prevê mais chuva e calor e preços altos; atrasos nas safras de janeiro e fevereiro podem prolongar a oferta baixa, segundo o DCI."
+  },
+  {
+   "b": "Problema local ou nacional",
+   "t": "para Fernando Begena, da Ceasa/MS, \"isso já é uma situação no âmbito nacional\", e não só de Mato Grosso do Sul."
+  },
+  {
+   "b": "Efeito na inflação",
+   "t": "as reportagens apontam pressão sobre o custo de vida, mas não estimam o peso do tomate no IPCA."
+  },
+  {
+   "b": "Área plantada",
+   "t": "o DCI atribui parte da alta à queda de cerca de 30% na área de tomate, porque produtores migraram para outras culturas; a Agência Brasil destaca o clima."
+  }
+ ],
+ "observar": [
+  "Os próximos levantamentos de preços da Conab e do Dieese.",
+  "O tempo nas regiões produtoras na primavera e no verão.",
+  "O efeito dos alimentos na inflação oficial de novembro."
+ ],
+ "fontes": [
+  {
+   "t": "Agência Brasil: clima eleva preço do tomate",
+   "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/clima-afeta-producao-e-eleva-preco-do-tomate-em-diversas-capitais"
+  },
+  {
+   "t": "DCI: quatro motivos da alta",
+   "u": "https://www.dci.com.br/economia/por-que-o-tomate-esta-tao-caro-veja-4-motivos-que-explicam-a-disparada-dos-precos/"
+  },
+  {
+   "t": "Agência Brasil: boletim Focus",
+   "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/mercado-reduz-projecoes-para-inflacao-e-crescimento-da-economia-em-202"
+  }
+ ]
+}

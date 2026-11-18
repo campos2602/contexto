@@ -1,13 +1,9 @@
 {
  "titulo": "Ajuste fiscal de 2027: o pacote para equilibrar as contas",
- "atualizado": "17 nov 2026",
+ "atualizado": "18 nov 2026",
  "selo": "Checado",
  "frase": "Depois da reeleição, com o dólar em alta e a dívida pública em crescimento, o governo Lula enviou ao Congresso em 11 de novembro de 2026 um projeto com cortes de gastos e de benefícios fiscais de R$ 50 bilhões a R$ 60 bilhões para cumprir a meta de 2027.",
  "linha": [
-  {
-   "d": "26 de outubro de 2026",
-   "t": "No primeiro pregão depois da reeleição, o dólar sobe mais de 8% e o Ibovespa cai 13,88%."
-  },
   {
    "d": "4 de novembro de 2026",
    "t": "O Copom mantém a Selic em 13,75% e interrompe os cortes, citando piora fiscal."
@@ -31,6 +27,10 @@
   {
    "d": "16 de novembro de 2026",
    "t": "Lula volta ao Brasil. O governo quer que a Câmara vote o pacote na quarta (18), depois dos quatro destaques no Senado, segundo O Tempo; a presidência da Câmara não confirma a data."
+  },
+  {
+   "d": "17 de novembro de 2026",
+   "t": "Sem acordo, Alcolumbre adia a votação dos quatro destaques para quarta (18), a pedido do relator, Eduardo Braga, segundo a Agência Brasil. O dólar fecha a R$ 5,78."
   },
   {
    "d": "2030",
@@ -96,10 +96,9 @@
   }
  ],
  "observar": [
-  "A votação dos destaques no Senado, na terça (17).",
-  "A votação na Câmara, que exige 257 votos.",
-  "A reação do dólar e dos juros futuros.",
-  "A regulamentação dos supersalários em até 120 dias."
+  "A votação dos destaques no Senado, em 18 de novembro.",
+  "A análise na Câmara, que Hugo Motta promete priorizar.",
+  "A reação do dólar e dos juros futuros."
  ],
  "fontes": [
   {
@@ -141,12 +140,20 @@
   {
    "t": "SP Diário: o que espera Lula na volta",
    "u": "https://spdiario.com.br/noticias/politica/lula-retorna-ao-brasil-e-tera-de-articular-agenda-fiscal-novo-governo-e-crise-na-pf.html"
+  },
+  {
+   "t": "Agência Brasil: Senado adia destaques",
+   "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-adia-votacao-de-destaques-do-projeto-de-ajuste-fiscal"
+  },
+  {
+   "t": "Revista Fórum: divisões na base",
+   "u": "https://revistaforum.com.br/politica/senado-vota-destaques-ajuste-fiscal/"
   }
  ],
  "historia": [
   "Em 2023, o governo Lula trocou o teto de gastos pelo arcabouço fiscal: as despesas federais passaram a poder crescer acima da inflação, até 2,5% ao ano, conforme a arrecadação. A regra permitiu ampliar gastos, mas a dívida bruta continuou subindo e deve fechar 2026 em 83,6% do PIB, segundo o NeoFeed.",
   "A desconfiança cresceu depois da reeleição. No primeiro pregão após o segundo turno, em 26 de outubro de 2026, o dólar subiu mais de 8% e o Ibovespa caiu 13,88%. O Copom interrompeu os cortes de juros citando a piora fiscal, e Lula foi à TV em 8 de novembro para dizer que a dívida o preocupa e prometer preservar as regras.",
   "Em 11 de novembro, o governo mandou ao Congresso um projeto de lei complementar com cortes de gastos e de benefícios fiscais estimados entre R$ 50 bilhões e R$ 60 bilhões para 2027. O texto reduz de 2,5% para 2% o limite de alta real das despesas e aumenta o corte de incentivos a empresas. No dia seguinte, o Senado aprovou o texto-base por 45 a 31.",
-  "Faltam os destaques no Senado, marcados para 17 de novembro, e a votação na Câmara, que o presidente Hugo Motta sinalizou para a mesma semana. O governo quer o ajuste aprovado antes do Orçamento de 2027. Mesmo com o pacote, as projeções citadas pelo NeoFeed indicam que a dívida só começa a cair em 2030."
+  "Faltam os destaques no Senado e a votação na Câmara. Em 17 de novembro, sem acordo entre governo e oposição, o presidente do Senado, Davi Alcolumbre, adiou a votação dos quatro destaques para o dia seguinte, a pedido do relator, Eduardo Braga. Os destaques tratam de créditos tributários de empresas, do limite de gastos, de repasses da Lei Kandir aos estados e de compensações previdenciárias; o de créditos, apoiado por 119 entidades empresariais, pode tirar até R$ 18,3 bilhões do efeito do pacote em 2027. Mesmo com o pacote, as projeções citadas pelo NeoFeed indicam que a dívida só começa a cair em 2030."
  ]
 }

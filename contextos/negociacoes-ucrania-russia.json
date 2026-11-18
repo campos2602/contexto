@@ -1,13 +1,9 @@
 {
  "titulo": "Guerra na Ucrânia: onde estão as negociações",
- "atualizado": "13 nov 2026",
+ "atualizado": "18 nov 2026",
  "selo": "Checado",
  "frase": "A Rússia invadiu a Ucrânia em fevereiro de 2022. Desde então, houve rodadas de conversa sem acordo de paz; uma nova rodada, com os EUA, está prevista para novembro de 2026.",
  "linha": [
-  {
-   "d": "26 de outubro de 2026",
-   "t": "Ataque de drones mata dois em Voronezh; ataques russos ferem civis em Zaporíjia, Chernihiv e Izium."
-  },
   {
    "d": "29 de outubro de 2026",
    "t": "Ataques russos matam ao menos 20 pessoas, 14 numa estação de trem em Dnipro. Segundo o Wall Street Journal, a Ucrânia suspendeu informalmente ataques a refinarias russas."
@@ -35,13 +31,13 @@
   {
    "d": "12 de novembro de 2026",
    "t": "Witkoff e Kushner passam cerca de duas horas com Putin no Kremlin e depois encontram Zelensky em Dublin. Witkoff diz que os europeus estarão na próxima rodada; o Kremlin não confirma, segundo a AP."
+  },
+  {
+   "d": "17 de novembro de 2026",
+   "t": "Ataque ucraniano derruba um arco e um vão da pista da ponte de Kerch; a ferrovia volta a funcionar à tarde. Mísseis russos fecham as duas principais pontes de Kiev, segundo a AP."
   }
  ],
  "termos": [
-  {
-   "t": "Negociação trilateral",
-   "d": "Conversa com três partes: Ucrânia, Rússia e EUA."
-  },
   {
    "t": "Congelar a linha de frente",
    "d": "Parar os combates nas posições atuais, sem resolver de quem é o território."
@@ -61,6 +57,10 @@
   {
    "t": "Troca de prisioneiros",
    "d": "Libertação mútua de soldados e civis capturados. Os Emirados Árabes Unidos já mediaram trocas, segundo o Gulf Today."
+  },
+  {
+   "t": "Ponte de Kerch",
+   "d": "Ponte rodoviária e ferroviária sobre o estreito de Kerch, que liga o território russo à Crimeia; é a principal rota de suprimentos russos para a península."
   }
  ],
  "quem": [
@@ -79,6 +79,10 @@
   {
    "b": "Alexander Gusev",
    "t": "governador da região russa de Voronezh."
+  },
+  {
+   "b": "Steve Witkoff e Jared Kushner",
+   "t": "enviados de Trump que mediam as conversas."
   }
  ],
  "disputa": [
@@ -97,13 +101,17 @@
   {
    "b": "A Ucrânia e os EUA",
    "t": "Zelensky disse que a Ucrânia precisa se adaptar à nova realidade política americana para garantir ajuda e defesa antiaérea. Trump disse ter se reunido com o enviado russo Kirill Dmitriev e prometeu um acordo que \"pode envolver toda a Europa\", segundo o The New York Times, citado pelo Just Security."
+  },
+  {
+   "b": "A ponte de Kerch",
+   "t": "a Ucrânia diz que \"o símbolo da ocupação rachou\"; o Kremlin diz que a ponte será restaurada e ficará \"ainda melhor do que antes\"."
   }
  ],
  "observar": [
-  "A data e o tamanho da troca de prisioneiros.",
-  "Se a Europa entra na próxima rodada, nos Emirados ou na Suíça.",
-  "O encontro entre Trump e Putin na cúpula da Apec.",
-  "A reunião da coalizão de apoio à Ucrânia em Berlim."
+  "A reunião de Witkoff e Kushner com ucranianos e europeus em Berlim, na quinta (19).",
+  "O que Trump, Putin e Xi dizem sobre a guerra em Shenzhen.",
+  "A data da próxima rodada de negociações.",
+  "O prazo para reabrir a pista da ponte de Kerch."
  ],
  "fontes": [
   {
@@ -173,6 +181,24 @@
   {
    "t": "UA.News: os três resultados de Zelensky",
    "u": "https://ua.news/en/world/zelenskii-pidbiv-pidsumki-peregovoriv-iz-komandoiu-trampa-ta-nazvav-tri-rezultati"
+  },
+  {
+   "t": "PBS, com AP: ponte de Kerch",
+   "u": "https://www.pbs.org/newshour/world/the-symbol-of-the-occupation-ukraine-destroys-span-of-kerch-bridge-linking-russia-with-crimea"
+  },
+  {
+   "t": "ITV: Zelensky e o ataque",
+   "u": "https://www.itv.com/news/2026-11-17/zelenskyy-hails-ukrainian-strikes-on-russian-bridge-in-crimea"
+  },
+  {
+   "t": "Just Security: resumo de 17 de novembro",
+   "u": "https://www.justsecurity.org/164914/early-edition-november-17-2026/"
   }
+ ],
+ "historia": [
+  "A Rússia invadiu a Ucrânia em grande escala em 24 de fevereiro de 2022, oito anos depois de anexar a Crimeia, em 2014. A anexação não é reconhecida pela maioria dos países. Desde a invasão, houve rodadas de conversa, trocas de prisioneiros e tréguas locais, mas nenhum acordo de paz.",
+  "Em 2026, os EUA passaram a mediar conversas diretas. Em 10 e 11 de novembro, Rússia, Ucrânia e EUA se reuniram em Abu Dhabi, nas primeiras conversas a três desde fevereiro. Vladimir Medinsky chefiou a delegação russa, Rustem Umerov a ucraniana, e Steve Witkoff e Jared Kushner mediaram. Saiu um acordo de troca de prisioneiros em grande escala, sem número nem data, e nenhum avanço sobre território.",
+  "Em 12 de novembro, Witkoff e Kushner passaram cerca de duas horas com Vladimir Putin no Kremlin e depois encontraram Volodymyr Zelensky em Dublin. Witkoff disse que os europeus estariam na próxima rodada; o Kremlin não confirmou, e o assessor Yuri Ushakov disse depois que a participação europeia depende de um \"sinal claro\" da Europa.",
+  "Os combates continuaram durante as conversas. Na madrugada de 17 de novembro, um ataque ucraniano com drones e mísseis derrubou um arco e um vão da parte rodoviária da ponte de Kerch, que liga a Rússia à Crimeia e simboliza a anexação. Na mesma noite, mísseis russos fecharam as duas principais pontes de Kiev. Trump diz que vai tratar da guerra com Putin e Xi Jinping em 19 de novembro."
  ]
 }

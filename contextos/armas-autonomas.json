@@ -1,0 +1,115 @@
+{
+ "titulo": "Armas autônomas e a tentativa de regulá-las",
+ "atualizado": "18 nov 2026",
+ "selo": "Checada",
+ "frase": "Armas autônomas são sistemas capazes de escolher e atacar alvos sem uma decisão humana a cada ataque. Países discutem na ONU, em Genebra, se devem ser proibidas ou limitadas por regras obrigatórias.",
+ "historia": [
+  "Drones e outros sistemas com apoio de inteligência artificial já ajudam militares a encontrar e atingir alvos, como na Ucrânia e em Gaza, segundo a NPR. Nesses casos, uma pessoa ainda controla o ataque à distância. A preocupação é o passo seguinte: armas que selecionam e matam sem intervenção humana, chamadas de armas autônomas letais.",
+  "O debate ocorre na Convenção sobre Certas Armas Convencionais (CCW), tratado da ONU que já restringiu outros armamentos. Lá, as decisões exigem consenso, o que dá a qualquer país o poder de bloquear, segundo a NPR. O único sucesso desse tipo citado pela emissora é a proibição dos lasers que cegam, em 1995. Nas minas terrestres, países frustrados com a demora negociaram fora da ONU a Convenção de Ottawa.",
+  "Em 2026, a divisão ficou mais clara. Segundo a campanha Stop Killer Robots, 130 países apoiam um instrumento obrigatório e mais de 70 estão prontos para negociar; cerca de uma dúzia se opõe, entre eles EUA, Israel e Rússia. Pelo menos 50 países, entre eles o Brasil, pedem um cronograma rígido rumo a regras obrigatórias, segundo a NPR. Em 4 de novembro, os EUA propuseram mais cinco anos de trabalho para criar diretrizes não obrigatórias, dizendo que o direito humanitário já se aplica.",
+  "A Sétima Conferência de Revisão da CCW começou em 16 de novembro, em Genebra, e vai até 20 de novembro. Não se espera tratado nesta semana; o que está em jogo é se os países abrem negociações e se as regras seriam obrigatórias. Um acordo possível seria estender as conversas, com regras que cada país adotaria como quisesse, o que ativistas comparam a adiar um problema perigoso."
+ ],
+ "linha": [
+  {
+   "d": "1995",
+   "t": "Países da CCW proíbem os lasers que cegam, o precedente de consenso citado pela NPR."
+  },
+  {
+   "d": "Fora da ONU",
+   "t": "Países negociam a Convenção de Ottawa sobre minas terrestres; os EUA não a ratificam, mas reduzem o uso e os estoques, segundo a NPR."
+  },
+  {
+   "d": "4 de novembro de 2026",
+   "t": "Os EUA apresentam documento propondo mais cinco anos de trabalho para um instrumento não obrigatório, segundo a Newsweek."
+  },
+  {
+   "d": "Novembro de 2026",
+   "t": "A Human Rights Watch pede um tratado que proíba armas sem controle humano significativo ou que tenham pessoas como alvo, segundo a Newsweek."
+  },
+  {
+   "d": "16 de novembro de 2026",
+   "t": "Começa em Genebra a Sétima Conferência de Revisão da CCW."
+  },
+  {
+   "d": "20 de novembro de 2026",
+   "t": "Encerramento previsto da conferência."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Arma autônoma letal",
+   "d": "Sistema que escolhe e ataca alvos sem que uma pessoa aprove cada ataque."
+  },
+  {
+   "t": "CCW",
+   "d": "Convenção sobre Certas Armas Convencionais, tratado da ONU que limita armas consideradas excessivamente danosas ou indiscriminadas."
+  },
+  {
+   "t": "Instrumento obrigatório",
+   "d": "Tratado ou regra que os países que o assinam são legalmente obrigados a cumprir."
+  },
+  {
+   "t": "Controle humano significativo",
+   "d": "Exigência de que uma pessoa entenda e decida sobre o uso da força, defendida por grupos de direitos humanos."
+  },
+  {
+   "t": "Direito humanitário",
+   "d": "Conjunto de regras da guerra, como as Convenções de Genebra, que protegem civis, feridos e quem se rende."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Estados Unidos",
+   "t": "preferem diretrizes não obrigatórias e dizem que a autonomia pode reduzir riscos a civis."
+  },
+  {
+   "b": "Rússia e Israel",
+   "t": "também devem se opor a regras obrigatórias, segundo a NPR."
+  },
+  {
+   "b": "Brasil",
+   "t": "está entre os países que pedem cronograma rumo a regras obrigatórias."
+  },
+  {
+   "b": "ONU e Cruz Vermelha",
+   "t": "o secretário-geral, António Guterres, e o alto comissário para direitos humanos, Volker Türk, defendem regras obrigatórias, assim como o Comitê Internacional da Cruz Vermelha."
+  },
+  {
+   "b": "Stop Killer Robots",
+   "t": "coalizão de organizações que faz campanha por um tratado."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Obrigatório ou não",
+   "t": "os EUA dizem que regras não obrigatórias podem ser adotadas e atualizadas mais rápido; Türk pede \"regras internacionais obrigatórias\" com urgência."
+  },
+  {
+   "b": "Riscos para civis",
+   "t": "a Cruz Vermelha teme que as armas não distingam quem luta de quem está ferido ou quer se render; o documento americano diz que não foi mostrado que elas sejam indiscriminadas por natureza."
+  },
+  {
+   "b": "A linha moral",
+   "t": "Guterres diz que deixar máquinas decidirem matar é cruzar \"uma linha vermelha moral\"; os EUA dizem que atrapalhar a \"inovação responsável\" contraria os objetivos da convenção."
+  },
+  {
+   "b": "Proliferação",
+   "t": "grupos de direitos humanos temem que a tecnologia barata chegue a grupos armados e a polícias de governos repressivos, segundo a NPR."
+  }
+ ],
+ "observar": [
+  "Se a conferência abre negociações formais.",
+  "Se um grupo de países decide negociar fora da ONU.",
+  "O uso de drones com apoio de IA na Ucrânia e no Oriente Médio."
+ ],
+ "fontes": [
+  {
+   "t": "NPR, via OPB: as conversas em Genebra",
+   "u": "https://www.opb.org/article/2026/11/16/u-n-talks-seek-to-rein-in-killer-robots-as-fears-grow-over-autonomous-weapons/"
+  },
+  {
+   "t": "Newsweek: a proposta dos EUA",
+   "u": "https://newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369"
+  }
+ ]
+}
