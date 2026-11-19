@@ -1,13 +1,13 @@
 {
  "titulo": "Sarampo nas Américas: a volta de uma doença eliminada",
- "atualizado": "15 nov 2026",
+ "atualizado": "19 nov 2026",
  "selo": "Checado",
  "frase": "Os Estados Unidos tinham eliminado o sarampo em 2000. Com a queda da vacinação e surtos contínuos desde janeiro de 2025, perderam o status em novembro de 2026, segundo reportagens sobre decisão da Opas.",
  "historia": [
   "O sarampo é uma das doenças mais contagiosas que existem, e a vacina tríplice viral, com duas doses, protege cerca de 97% das pessoas, segundo a Al Jazeera. Graças a ela, os Estados Unidos foram declarados livres da circulação do vírus em 2000. Ser \"livre\" não significa ter zero casos: significa que nenhum surto local dura 12 meses ou mais.",
   "Esse status começou a ruir com a queda da vacinação. A cobertura de crianças no jardim de infância caiu de 95,2% em 2019-2020 para 92,4% em 2025-2026, abaixo dos 95% que a Organização Pan-Americana da Saúde (Opas) recomenda. Nove estados facilitaram a dispensa de vacinas em 2025, segundo especialista ouvida pela CBS.",
   "Em 20 de janeiro de 2025, começou um surto que não parou mais. O país teve 2.242 casos naquele ano e 5.412 em 2026, até novembro, segundo o CDC citado pela CBS. Em janeiro de 2026, a Opas chamou EUA e México para revisar o status. A contagem de mortes virou disputa: os estados somam 10 em 2026, e o CDC registra seis.",
-  "Em novembro de 2026, reportagens da CBS e da Al Jazeera informaram que a Opas decidiu retirar o status dos EUA, depois de 26 anos. Canadá, Espanha e Reino Unido já tinham perdido o seu. Para recuperá-lo, o país precisa interromper a transmissão por pelo menos 12 meses, com vacinação alta e vigilância."
+  "Em 17 de novembro de 2026, a Opas declarou que EUA, México e Bolívia perderam o status de eliminação do sarampo. Os EUA o tinham desde 2000. Canadá, Espanha e Reino Unido já tinham perdido o seu. Para recuperá-lo, cada país precisa interromper a transmissão por pelo menos 12 meses e apresentar um plano à Opas nas semanas seguintes, segundo a AP."
  ],
  "linha": [
   {
@@ -40,7 +40,7 @@
   },
   {
    "d": "17 de novembro de 2026",
-   "t": "Entrevista prevista da Opas, segundo a CBS."
+   "t": "A Opas declara que EUA, México e Bolívia perderam o status de eliminação do sarampo. Os EUA têm mais de 5.000 casos no ano, o maior número desde 1991, segundo a AP."
   }
  ],
  "termos": [
@@ -93,6 +93,10 @@
   {
    "b": "Pensilvânia",
    "t": "estado com mais casos, mais de 1.500, e sete mortes em 2026, segundo a CBS."
+  },
+  {
+   "b": "Opas",
+   "t": "Organização Pan-Americana da Saúde, braço da OMS nas Américas, que concede e retira o status de eliminação."
   }
  ],
  "disputa": [
@@ -103,12 +107,17 @@
   {
    "b": "Vacinas",
    "t": "especialistas ouvidos pela CBS defendem campanhas e regras escolares mais rígidas; a Al Jazeera diz que Kennedy espalhou dúvidas sobre a segurança da vacina sem base científica."
+  },
+  {
+   "b": "O peso do status",
+   "t": "a diretora do CDC, Erica Schwartz, diz que \"a designação de eliminação do sarampo não é o que protege os americanos; a vacinação é\"; Josh Michaud, da KFF, diz que falta ao governo comunicação forte sobre a necessidade de vacinar."
   }
  ],
  "observar": [
-  "A entrevista da Opas na terça (17).",
-  "Se o México também perde o status.",
-  "A definição padrão de morte por sarampo em preparo no CDC."
+  "Os planos de EUA, México e Bolívia para a Opas.",
+  "A cobertura vacinal de crianças nos EUA.",
+  "A definição padrão de morte por sarampo em preparo no CDC.",
+  "Se o número de casos nos EUA continua a subir em 2026, depois de 48 surtos registrados no ano."
  ],
  "fontes": [
   {
@@ -122,6 +131,14 @@
   {
    "t": "Opas: revisão de janeiro de 2026",
    "u": "https://www.paho.org/en/news/16-1-2026-measles-elimination-status-united-states-and-mexico"
+  },
+  {
+   "t": "ABC7: EUA perdem status, diz Opas",
+   "u": "https://abc7news.com/story/us-officially-loses-measles-elimination-status-paho-says/20048136/"
+  },
+  {
+   "t": "AP, via KBTX: o que se sabe",
+   "u": "https://www.kbtx.com/2026/11/17/us-loses-measles-free-status-virus-reaches-highest-rate-decades-what-we-know/?outputType=amp"
   }
  ]
 }

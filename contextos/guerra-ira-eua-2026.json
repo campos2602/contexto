@@ -1,13 +1,9 @@
 {
  "titulo": "A guerra entre Estados Unidos e Irã em 2026",
- "atualizado": "17 nov 2026",
+ "atualizado": "19 nov 2026",
  "selo": "Checado",
  "frase": "Estados Unidos e Israel entraram em guerra com o Irã no fim de fevereiro de 2026. Desde então houve cessar-fogo, um acordo provisório que venceu sem renovação, bloqueio naval e ataques no Estreito de Ormuz, enquanto mediadores tentam um acordo.",
  "linha": [
-  {
-   "d": "6 de novembro de 2026",
-   "t": "Trump diz que decide em breve entre acordo e novos ataques. O Irã envia, via Catar, uma proposta nuclear que só discute depois de os EUA atenderem às sete exigências, segundo a Reuters, citada pelo Just Security."
-  },
   {
    "d": "7 de novembro de 2026",
    "t": "Os EUA criam a Força-Tarefa Iron Gate para vigiar as fronteiras terrestres do Irã e o mar Cáspio. Um avião americano inutiliza o navio M/V Huda no Golfo de Omã, segundo a Fox News."
@@ -35,6 +31,10 @@
   {
    "d": "16 de novembro de 2026",
    "t": "O USS Theodore Roosevelt chega ao Oriente Médio, o terceiro porta-aviões americano na região. A Guarda Revolucionária diz que minas danificaram seis petroleiros em Ormuz desde domingo; o tráfego segue abaixo de um terço do normal, segundo a Lloyd's List."
+  },
+  {
+   "d": "17 e 18 de novembro de 2026",
+   "t": "Os EUA atacam um local de lançamento de mísseis da Guarda Revolucionária em Qeshm; o Irã lança drones contra a base de Ali Al-Salem, no Kuwait, e contra o Bahrein. Sem danos confirmados, segundo a The War Zone."
   }
  ],
  "termos": [
@@ -184,12 +184,20 @@
   {
    "t": "Spectrum News, com AP: terceiro porta-aviões",
    "u": "https://spectrumlocalnews.com/us/snplus/international/2026/11/16/uss-theodore-roosevelt-aircraft-carrier-middle-east"
+  },
+  {
+   "t": "The War Zone: Irã amplia ataques",
+   "u": "https://www.twz.com/news-features/tehran-widens-attacks-on-gulf-nations-after-latest-u-s-strike-on-iranian-island"
+  },
+  {
+   "t": "Fox News: Kuwait e Qeshm",
+   "u": "https://www.foxnews.com/world/iran-targets-us-air-base-kuwait-us-defensive-strikes-criticism-gulf-states"
   }
  ],
  "historia": [
   "Estados Unidos e Israel entraram em guerra com o Irã em 28 de fevereiro de 2026, segundo a Al Jazeera. Washington justifica o conflito como necessário para impedir que o Irã tenha uma arma nuclear; Teerã nega buscar armas nucleares. O ponto mais sensível da guerra é o Estreito de Ormuz, passagem estreita entre o Irã e a Península Arábica por onde sai boa parte do petróleo e do gás do Golfo.",
   "Em 7 de abril, um cessar-fogo de duas semanas foi anunciado, e o petróleo caiu 16% em um dia. Depois veio um prazo de 60 dias para negociar, que terminou em 17 de agosto sem acordo. Os EUA retomaram o bloqueio naval, e o Irã voltou a atacar navios. Em julho, o barril do Brent chegou a US$ 100, ante US$ 69 em 2025. A alta encareceu combustíveis no mundo todo, inclusive no Brasil.",
   "Desde então, o Catar e o Paquistão tentam mediar. O Irã condiciona qualquer acordo a sete exigências, entre elas o fim do bloqueio e das sanções, e diz que o urânio enriquecido não sairá do país. Os EUA alternaram sinais: Trump chegou a dizer que novos ataques eram improváveis se houvesse avanço, enquanto ataques pontuais continuaram em Ormuz.",
-  "Em novembro, a tensão voltou a subir. O gabinete de segurança de Israel mandou o Exército se preparar para um possível novo ataque, e, em 12 de novembro, Trump escreveu que os EUA não precisam mais de acordo. Em 13 e 15 de novembro, o Irã lançou drones contra o Bahrein, sede da Quinta Frota americana, que estava calmo havia meses; o Bahrein disse ter interceptado os ataques, e os EUA negaram danos. O Irã diz que o Estreito de Ormuz segue fechado. Em 16 de novembro, o porta-aviões USS Theodore Roosevelt chegou à região, e os EUA voltaram a ter três porta-aviões no Oriente Médio; a Guarda Revolucionária disse que minas danificaram seis petroleiros em Ormuz desde o dia anterior."
+  "Em novembro, a tensão voltou a subir. O gabinete de segurança de Israel mandou o Exército se preparar para um possível novo ataque, e, em 12 de novembro, Trump escreveu que os EUA não precisam mais de acordo. Em 13 e 15 de novembro, o Irã lançou drones contra o Bahrein, sede da Quinta Frota americana, que estava calmo havia meses; o Bahrein disse ter interceptado os ataques, e os EUA negaram danos. O Irã diz que o Estreito de Ormuz segue fechado. Em 16 de novembro, o porta-aviões USS Theodore Roosevelt chegou à região, e os EUA voltaram a ter três porta-aviões no Oriente Médio; a Guarda Revolucionária disse que minas danificaram seis petroleiros em Ormuz desde o dia anterior. Em 17 de novembro, caças americanos atacaram um local de lançamento de mísseis em Qeshm, e o Irã respondeu com drones contra o Kuwait, o primeiro ataque ao país em mais de dois meses, e contra o Bahrein."
  ]
 }

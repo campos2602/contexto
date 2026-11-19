@@ -1,13 +1,14 @@
 {
  "titulo": "Armas autônomas e a tentativa de regulá-las",
- "atualizado": "18 nov 2026",
+ "atualizado": "19 nov 2026",
  "selo": "Checada",
  "frase": "Armas autônomas são sistemas capazes de escolher e atacar alvos sem uma decisão humana a cada ataque. Países discutem na ONU, em Genebra, se devem ser proibidas ou limitadas por regras obrigatórias.",
  "historia": [
   "Drones e outros sistemas com apoio de inteligência artificial já ajudam militares a encontrar e atingir alvos, como na Ucrânia e em Gaza, segundo a NPR. Nesses casos, uma pessoa ainda controla o ataque à distância. A preocupação é o passo seguinte: armas que selecionam e matam sem intervenção humana, chamadas de armas autônomas letais.",
   "O debate ocorre na Convenção sobre Certas Armas Convencionais (CCW), tratado da ONU que já restringiu outros armamentos. Lá, as decisões exigem consenso, o que dá a qualquer país o poder de bloquear, segundo a NPR. O único sucesso desse tipo citado pela emissora é a proibição dos lasers que cegam, em 1995. Nas minas terrestres, países frustrados com a demora negociaram fora da ONU a Convenção de Ottawa.",
   "Em 2026, a divisão ficou mais clara. Segundo a campanha Stop Killer Robots, 130 países apoiam um instrumento obrigatório e mais de 70 estão prontos para negociar; cerca de uma dúzia se opõe, entre eles EUA, Israel e Rússia. Pelo menos 50 países, entre eles o Brasil, pedem um cronograma rígido rumo a regras obrigatórias, segundo a NPR. Em 4 de novembro, os EUA propuseram mais cinco anos de trabalho para criar diretrizes não obrigatórias, dizendo que o direito humanitário já se aplica.",
-  "A Sétima Conferência de Revisão da CCW começou em 16 de novembro, em Genebra, e vai até 20 de novembro. Não se espera tratado nesta semana; o que está em jogo é se os países abrem negociações e se as regras seriam obrigatórias. Um acordo possível seria estender as conversas, com regras que cada país adotaria como quisesse, o que ativistas comparam a adiar um problema perigoso."
+  "A Sétima Conferência de Revisão da CCW começou em 16 de novembro, em Genebra, e vai até 20 de novembro. Não se espera tratado nesta semana; o que está em jogo é se os países abrem negociações e se as regras seriam obrigatórias. Um acordo possível seria estender as conversas, com regras que cada país adotaria como quisesse, o que ativistas comparam a adiar um problema perigoso.",
+  "Um estudo da empresa Vals, divulgado em 17 de novembro, mostrou o risco do uso de modelos comerciais de IA nessa área. Em simulações, modelos de oito empresas marcaram civis, ambulâncias, soldados que se rendiam e uma escola no Irã como alvos; o Claude, da Anthropic, teve o pior desempenho. As empresas dizem proibir esse uso e preparar novas salvaguardas."
  ],
  "linha": [
   {
@@ -29,6 +30,10 @@
   {
    "d": "16 de novembro de 2026",
    "t": "Começa em Genebra a Sétima Conferência de Revisão da CCW."
+  },
+  {
+   "d": "17 de novembro de 2026",
+   "t": "Estudo da Vals mostra modelos comerciais de IA marcando civis como alvos em simulações; o Claude, da Anthropic, tem o pior desempenho, segundo o TechCrunch."
   },
   {
    "d": "20 de novembro de 2026",
@@ -77,6 +82,10 @@
   {
    "b": "Stop Killer Robots",
    "t": "coalizão de organizações que faz campanha por um tratado."
+  },
+  {
+   "b": "Vals",
+   "t": "empresa de São Francisco que avalia sistemas de IA e fez o estudo de simulações militares."
   }
  ],
  "disputa": [
@@ -110,6 +119,14 @@
   {
    "t": "Newsweek: a proposta dos EUA",
    "u": "https://newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369"
+  },
+  {
+   "t": "TechCrunch: modelos enganados com \"jogo\"",
+   "u": "https://techcrunch.com/?p=3189496"
+  },
+  {
+   "t": "TNW, com Bloomberg: civis como alvos",
+   "u": "https://thenextweb.com/news/ai-models-flagged-civilians-as-military-targets-in-tests-bloomberg-reports"
   }
  ]
 }

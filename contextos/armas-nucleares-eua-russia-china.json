@@ -1,19 +1,15 @@
 {
  "titulo": "Armas nucleares: EUA, Rússia e China sem tratado",
- "atualizado": "18 nov 2026",
+ "atualizado": "19 nov 2026",
  "selo": "Checado",
  "frase": "Desde fevereiro de 2026, quando expirou o Novo START, os dois maiores arsenais nucleares do mundo não têm limite. Trump quer um novo acordo que inclua a China e marcou uma reunião com Xi e Putin.",
  "historia": [
   "Durante a Guerra Fria e depois dela, EUA e Rússia negociaram uma série de tratados para limitar suas armas nucleares. O último em vigor era o Novo START, que colocava teto no número de ogivas instaladas e permitia inspeções mútuas. Quando ele expirou, em fevereiro de 2026, os dois maiores arsenais do mundo ficaram sem limite pela primeira vez em mais de 50 anos, segundo a AP.",
   "A Rússia propôs estender o tratado por um ano. O presidente Donald Trump recusou e pediu um acordo \"novo, melhorado e modernizado\" que incluísse a China. O argumento é que o arsenal chinês cresce: pelo Pentágono, a China tem mais de 600 ogivas, enquanto EUA e Rússia têm mais de 5.000 cada. Pequim tem mostrado pouco interesse em negociar limites, dada a diferença de tamanho.",
   "A ideia de uma reunião a três ganhou forma ao longo de 2026. Trump e Putin já se encontraram sete vezes, a última no Alasca, em agosto de 2025; Trump e Xi, oito vezes, incluindo uma visita de Estado a Washington em setembro de 2026; e Putin e Xi, mais de 40 vezes desde 2013, segundo a AP.",
-  "Em 13 de novembro, a Casa Branca confirmou o encontro para 19 de novembro, em Shenzhen, durante a cúpula da Apec, e o Kremlin confirmou a data. Trump quer falar de redução de arsenais e da guerra com o Irã; a Ucrânia fica de fora. Um funcionário americano disse não esperar acordo. O anúncio dividiu aliados: o premiê australiano, Anthony Albanese, disse que \"o diálogo é uma coisa boa\", enquanto Volodymyr Zelensky falou em \"Ialta 2.0\" e o chanceler alemão, Friedrich Merz, pediu \"sem surpresas\". Em 17 de novembro, em Manila, Trump se reuniu com os líderes de Índia, Japão e Austrália no Quad, que anunciou cooperação marítima e um fórum empresarial, sem citar a China."
+  "Em 13 de novembro, a Casa Branca confirmou o encontro para 19 de novembro, em Shenzhen, durante a cúpula da Apec, e o Kremlin confirmou a data. Trump quer falar de redução de arsenais e da guerra com o Irã; a Ucrânia fica de fora. Um funcionário americano disse não esperar acordo. O anúncio dividiu aliados: o premiê australiano, Anthony Albanese, disse que \"o diálogo é uma coisa boa\", enquanto Volodymyr Zelensky falou em \"Ialta 2.0\" e o chanceler alemão, Friedrich Merz, pediu \"sem surpresas\". Em 17 de novembro, em Manila, Trump se reuniu com os líderes de Índia, Japão e Austrália no Quad, que anunciou cooperação marítima e um fórum empresarial, sem citar a China. Em 18 de novembro, Xi recebeu Trump pessoalmente na pista do aeroporto de Shenzhen, gesto raro; Putin foi recebido por Cai Qi."
  ],
  "linha": [
-  {
-   "d": "Agosto de 2025",
-   "t": "Trump e Putin se encontram no Alasca, o sétimo encontro entre os dois, segundo a AP."
-  },
   {
    "d": "Fevereiro de 2026",
    "t": "Expira o Novo START, último tratado nuclear entre EUA e Rússia. Trump recusa estender por um ano e pede acordo com a China."
@@ -37,6 +33,10 @@
   {
    "d": "17 de novembro de 2026",
    "t": "Trump, Modi, Albanese e Takaichi se reúnem no Quad, em Manila, e anunciam cooperação em vigilância marítima, cabos e cibersegurança, segundo a Diya TV."
+  },
+  {
+   "d": "18 de novembro de 2026",
+   "t": "Xi recebe Trump na pista do aeroporto de Shenzhen, com abraço e hinos; Putin, que chegou antes, é recebido por Cai Qi, segundo a Fox News."
   },
   {
    "d": "19 de novembro de 2026",
@@ -146,6 +146,14 @@
   {
    "t": "Bombay Samachar: Modi no Quad",
    "u": "https://english.bombaysamachar.com/international/quad-meeting-manila-pm-modi-indo-pacific-priorities"
+  },
+  {
+   "t": "Fox News: Xi recebe Trump",
+   "u": "https://www.foxnews.com/politics/chinas-xi-surprises-trump-tarmac-reciprocating-gesture-shown-months-ago"
+  },
+  {
+   "t": "Newsweek: o gesto de Xi",
+   "u": "https://www.newsweek.com/xi-makes-unprecedented-gesture-trump-arrives-china-summit-12732265"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "titulo": "A vaga de Barroso no STF",
- "atualizado": "17 nov 2026",
+ "atualizado": "19 nov 2026",
  "selo": "Com ressalva",
  "frase": "O Supremo Tribunal Federal tem uma cadeira vazia desde a aposentadoria de Luís Roberto Barroso, em 2025. O Senado rejeitou o primeiro indicado de Lula, Jorge Messias, em abril de 2026, e a escolha segue em aberto.",
  "historia": [
@@ -8,7 +8,7 @@
   "A indicação parecia encaminhada quando Messias passou na Comissão de Constituição e Justiça do Senado por 16 a 11. Mas, em 29 de abril de 2026, o plenário o rejeitou por 42 a 34, segundo a TV Sim Brasil, que diz ter sido a primeira rejeição de um indicado ao Supremo sob a Constituição de 1988. A derrota abriu um impasse entre o Planalto e o Senado.",
   "Desde então, surgiram alternativas. Em outubro, quatro ministros do STF, Gilmar Mendes, Cristiano Zanin, Flávio Dino e Alexandre de Moraes, passaram a apoiar Rodrigo Pacheco, ex-presidente do Senado e hoje ministro do Tribunal de Contas da União, que também tem apoio de Davi Alcolumbre e Hugo Motta. Auxiliares de Lula discutem ainda indicar uma mulher; o presidente do STF, Edson Fachin, defende a escolha de uma mulher negra, algo que a Corte nunca teve.",
   "A escolha também tem efeito em outro tribunal: se Pacheco for para o Supremo, abre-se uma vaga no TCU, que também entra na negociação política. Cristiano Zanin, ministro do STF, é o porta-voz do grupo de ministros nas conversas com o Planalto, segundo a TV Sim Brasil.",
-  "Em novembro, Lula marcou uma conversa com os quatro ministros para depois da volta de viagem. As reportagens divergem sobre a preferência dele, e não houve anúncio oficial. O indicado precisará de pelo menos 41 dos 81 votos no Senado."
+  "Em novembro, Lula retomou a escolha e marcou conversas com ministros do STF e com Alcolumbre, que insiste em Pacheco. Uma regra do Senado de 2010 impede votar de novo, na mesma sessão legislativa, uma indicação rejeitada, segundo a Jovem Pan, o que adiaria uma nova votação de Messias para 2027. Não houve anúncio oficial. O indicado precisará de pelo menos 41 dos 81 votos no Senado."
  ],
  "linha": [
   {
@@ -34,6 +34,10 @@
   {
    "d": "16 de novembro de 2026",
    "t": "Lula retoma a escolha do indicado; o Planalto quer a votação na CCJ no início de dezembro. A CNN Brasil cita Messias, Pacheco, Paulo Gonet e Simone Tebet entre os nomes avaliados."
+  },
+  {
+   "d": "18 de novembro de 2026",
+   "t": "Lula deveria se reunir com Alcolumbre para tratar da vaga e do novo governo, segundo a Folha, citada pelo Brasil 247; não houve anúncio de resultado."
   },
   {
    "d": "Início de dezembro de 2026",
@@ -64,6 +68,10 @@
   {
    "t": "Comissão de Constituição e Justiça",
    "d": "Comissão do Senado que sabatina e vota primeiro os indicados ao STF, antes do plenário."
+  },
+  {
+   "t": "Sessão legislativa",
+   "d": "O ano de trabalho do Congresso, que vai de fevereiro a dezembro."
   }
  ],
  "quem": [
@@ -128,6 +136,18 @@
   {
    "t": "CNN Brasil: Lula retoma indicação",
    "u": "https://www.cnnbrasil.com.br/politica/lula-retoma-indicacao-ao-stf-e-sabatina-deve-acontecer-em-dezembro/"
+  },
+  {
+   "t": "Brasil 247: Lula e Alcolumbre",
+   "u": "https://www.brasil247.com/poder/lula-e-alcolumbre-discutem-indicacao-ao-stf-e-novo-governo/"
+  },
+  {
+   "t": "ICL Notícias: o encontro",
+   "u": "https://iclnoticias.com.br/lula-encontrar-alcolumbre-hoje-stf-governo/"
+  },
+  {
+   "t": "Jovem Pan: a regra do Senado",
+   "u": "https://jovempan.com.br/politica/lula-deve-indicar-messias-novamente-ao-stf-agora-com-apoio-de-alcolumbre/"
   }
  ]
 }
