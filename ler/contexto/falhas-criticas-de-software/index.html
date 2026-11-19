@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Falhas críticas em software usado no mundo todo · Contexto</title>
+<meta name="description" content="Alguns programas estão por trás de milhões de sistemas, como o Java. Quando aparece uma falha grave num deles, empresas e governos precisam atualizar tudo às…">
+<link rel="canonical" href="https://campos2602.github.io/contexto/ler/contexto/falhas-criticas-de-software/">
+<meta property="og:site_name" content="Contexto">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Falhas críticas em software usado no mundo todo · Contexto">
+<meta property="og:description" content="Alguns programas estão por trás de milhões de sistemas, como o Java. Quando aparece uma falha grave num deles, empresas e governos precisam atualizar tudo às…">
+<meta property="og:url" content="https://campos2602.github.io/contexto/ler/contexto/falhas-criticas-de-software/">
+<meta property="og:image" content="https://campos2602.github.io/contexto/icones/capa-compartilhamento.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="alternate" type="application/rss+xml" title="Contexto" href="/contexto/feed.xml">
+<link rel="icon" href="/contexto/icones/favicon-64.png">
+<link rel="apple-touch-icon" href="/contexto/icones/icone-180.png">
+<link rel="manifest" href="/contexto/manifest.webmanifest">
+<meta name="theme-color" content="#121821">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;600;700;800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<link rel="stylesheet" href="/contexto/ler/estilo.css">
+</head>
+<body>
+<header class="topo"><div class="topo-in">
+<a class="wm" href="/contexto/ler/" aria-label="Contexto, edição de hoje"><span class="a">con</span><span class="b">tex</span><span class="c">to</span></a>
+<nav class="menu" aria-label="Site"><a href="/contexto/ler/arquivo/">Arquivo</a><a class="assine" href="/contexto/assinar/">Assinar grátis</a></nav>
+</div></header>
+<main>
+<article class="folha pag" id="pag-ler"><span class="etq">Contexto</span><h1>Falhas críticas em software usado no mundo todo</h1><p class="fina">Alguns programas estão por trás de milhões de sistemas, como o Java. Quando aparece uma falha grave num deles, empresas e governos precisam atualizar tudo às pressas, antes que criminosos a explorem.</p><p class="meta"><span class="selo">Checada</span><span>Atualizado em 19 nov 2026</span></p><div class="acoes"><button class="btn cheio ouvir" type="button" data-ouvir="#pag-ler" data-titulo="Contexto: Falhas críticas em software usado no mundo todo">Ouvir o Contexto</button></div><h2>Como chegamos aqui</h2><p>Grande parte dos sistemas de bancos, empresas e governos roda sobre componentes de software compartilhados. O Java é um deles: está em servidores, aplicativos corporativos e ferramentas de desenvolvimento. Sua principal versão de código aberto, o OpenJDK, é distribuída por vários fornecedores, como Oracle, Amazon, Microsoft, Red Hat e Azul.</p><p>Quando um componente assim tem uma falha grave, o efeito se espalha. Em vez de corrigir um único programa, cada organização precisa descobrir onde aquele componente está, muitas vezes embutido em produtos de terceiros ou em contêineres, e atualizar tudo. Falhas que permitem execução remota de código, em que um invasor consegue rodar comandos no sistema de outra pessoa pela internet, são as mais perigosas.</p><p>Em novembro de 2026, pesquisadores da empresa de segurança Calif encontraram uma falha desse tipo no decodificador de Base64 da biblioteca padrão do Java e a chamaram de Java4Shell. Ela atinge versões do OpenJDK desde 2021, mas só em processadores x86-64 com o recurso AVX-512 VBMI, segundo a Semgrep e a Cloudflare. A Oracle publicou correções em 17 de novembro.</p><p>A lista de sistemas expostos mostra o alcance. Segundo a Semgrep, a Calif relatou exploração sem necessidade de login em ferramentas como Atlassian Confluence e Jira, JFrog Artifactory, Jenkins, Keycloak, PingFederate e algumas aplicações Spring Boot, e exploração com login em Apache Kafka, Elasticsearch e Gerrit. São programas usados por empresas para gerenciar projetos, guardar código, controlar acessos e processar dados, e a lista, diz a Semgrep, não é completa.</p><p>A resposta segue um roteiro conhecido: o fornecedor publica a correção, empresas de segurança criam regras de bloqueio e equipes de tecnologia correm para atualizar e reiniciar serviços. Até 17 de novembro, não havia sinais de exploração, segundo a Cloudflare. A Calif diz que vai publicar os detalhes técnicos depois da correção, o que costuma aumentar a pressão para atualizar.</p><h2>Linha do tempo</h2><ol class="tempo"><li><span class="d">2021</span><span>Sai o OpenJDK 17.0.6, primeira versão afetada pela Java4Shell, segundo a Semgrep.</span></li><li><span class="d">Novembro de 2026</span><span>A Calif encontra e relata a falha no decodificador de Base64 do Java.</span></li><li><span class="d">17 de novembro de 2026</span><span>A Oracle publica versões corrigidas do Java SE em sua atualização de novembro; a Semgrep divulga recomendações.</span></li><li><span class="d">17 de novembro de 2026</span><span>A Cloudflare diz não ver sinais de exploração; o registro oficial do CVE ainda não estava publicado.</span></li><li><span class="d">18 de novembro de 2026</span><span>A Cloudflare inclui seis regras de detecção da Java4Shell em seu firewall.</span></li><li><span class="d">Depois da correção</span><span>A Calif promete publicar os detalhes técnicos da falha.</span></li></ol><h2>Termos que você vai ver</h2><ul class="termos"><li><b>Java:</b> Linguagem e plataforma de programação usada em servidores e sistemas corporativos no mundo todo.</li><li><b>OpenJDK:</b> Versão de código aberto do Java, base das distribuições de vários fornecedores.</li><li><b>Execução remota de código:</b> Falha que permite a um invasor rodar comandos num sistema alheio pela internet.</li><li><b>CVE:</b> Código padrão que identifica uma vulnerabilidade de segurança conhecida.</li><li><b>CVSS:</b> Escala de 0 a 10 que mede a gravidade de uma falha; há versões diferentes da escala.</li><li><b>Base64:</b> Forma comum de transformar dados em texto para enviá-los pela internet.</li><li><b>AVX-512 VBMI:</b> Conjunto de instruções de alguns processadores x86-64; a Java4Shell só pode ser explorada em máquinas que o têm, segundo a Cloudflare.</li><li><b>Firewall de aplicação (WAF):</b> Filtro que bloqueia pedidos suspeitos antes que cheguem a um site ou sistema; serve como proteção extra enquanto a correção não é aplicada.</li></ul><h2>Quem é quem</h2><ul><li><b>Calif</b> empresa de segurança que encontrou a falha e a chamou de Java4Shell.</li><li><b>Oracle</b> principal mantenedora do Java, que publicou as correções.</li><li><b>Semgrep e Cloudflare</b> empresas de segurança que publicaram análises e recomendações.</li><li><b>Empresas e governos</b> precisam localizar e atualizar o Java em seus sistemas.</li></ul><h2>O que está em disputa</h2><ul><li><b>A gravidade</b> relatos iniciais dão nota 9,2 na escala CVSS 4.0; a Oracle, que usa a versão 3.1, dá 8,1 como nota mais alta da atualização. A Cloudflare diz que os números podem se referir a problemas diferentes.</li><li><b>Quem precisa agir</b> a falha só atinge certos processadores, mas a Semgrep recomenda atualizar mesmo quem não usa esse hardware.</li><li><b>Atualizar não basta</b> a Cloudflare lembra que o Java já em execução não muda com a atualização do pacote, e que os serviços precisam ser reiniciados; suas regras de firewall são medida compensatória, e não correção.</li></ul><h2>O que observar</h2><ul><li>Se a Java4Shell passa a ser explorada por criminosos.</li><li>A publicação dos detalhes técnicos pela Calif.</li><li>As versões corrigidas de outros fornecedores de Java.</li><li>Se fornecedores de produtos que embutem Java, como ferramentas de desenvolvimento e de login, publicam suas próprias correções.</li></ul><h2 data-nao-ler>Fontes</h2><ul class="fonte"><li><a href="https://semgrep.dev/blog/2026/java4shell-openjdk-base64-vulnerability/" target="_blank" rel="noopener">Semgrep: Java4Shell</a></li><li><a href="https://radar.cloudflare.com/zero-wire/java4shell" target="_blank" rel="noopener">Cloudflare Radar: Java4Shell</a></li></ul><div class="acoes"><button class="btn leve compartilhar" type="button" data-titulo="Falhas críticas em software usado no mundo todo" data-texto="Alguns programas estão por trás de milhões de sistemas, como o Java. Quando aparece uma falha grave num deles, empresas e governos precisam atualizar tudo às pressas, antes que criminosos a explorem." data-url="https://campos2602.github.io/contexto/ler/contexto/falhas-criticas-de-software/"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><path d="M12 3v13M7 8l5-5 5 5M5 14v5a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-5"/></svg>Compartilhar</button><button class="btn" type="button" data-avaliar="" data-alvo="cx-falhas-criticas-de-software" data-titulo="Falhas críticas em software usado no mundo todo">Achei tendencioso</button></div><p class="aviso">O Contexto explica do zero como chegamos até aqui e não traz fato novo. É escrito por IA e checado contra as fontes acima.</p></article><section class="assinar" data-origem="contexto">
+<h2>Entenda as notícias todo dia</h2>
+<p>Toda edição do Contexto traz o fato, por que importa e a fonte. Grátis.</p>
+<form class="f-assinar" novalidate>
+<label class="sr" for="em-contexto">Seu melhor e-mail</label>
+<input id="em-contexto" type="email" name="email" placeholder="Seu melhor e-mail" autocomplete="email" required>
+<button class="btn cheio" type="submit">Quero receber</button>
+</form>
+<p class="msg" aria-live="polite"></p>
+<p class="miudo">Usamos seu e-mail só para enviar o Contexto. <a href="/contexto/privacidade/">Privacidade</a></p>
+</section>
+</main>
+<footer class="rodape"><div class="rodape-in">
+<p><b>Contexto</b>: o que importa hoje e por quê, em 5 minutos. Mundo, Brasil e Inovação, sem torcida.</p>
+<p>Escrito por inteligência artificial, com checagem de fontes e Ouvidoria de neutralidade antes de sair. Erros são corrigidos em público.</p>
+<p><a href="/contexto/assinar/">Assinar</a> · <a href="/contexto/ler/arquivo/">Arquivo</a> · <a href="/contexto/feed.xml">RSS</a> · <a href="/contexto/privacidade/">Privacidade</a></p>
+</div></footer>
+<script>window.CONTEXTO = { site: "https://campos2602.github.io/contexto", base: "/contexto/", supabase: "https://kgowumosjfpqhmawuzjn.supabase.co", chave: "sb_publishable_dFuLZUEQXNN5p_ThuomTwA_ZcSCy0Gj", inscricoes: "https://zwadqiweqngchvcclvrm.supabase.co", chaveInscricoes: "sb_publishable_s0XTMEPiEFn9h1rkAnT03A_Bo0ibq50" };</script>
+<script src="/contexto/categorias.js" defer></script>
+<script src="/contexto/ler/leitor.js" defer></script>
+<script src="/contexto/ler/falado.js" defer></script>
+<script src="/contexto/ler/ouvir.js" defer></script>
+</body>
+</html>
