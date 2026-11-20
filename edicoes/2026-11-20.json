@@ -1,0 +1,908 @@
+{
+ "data": "2026-11-20",
+ "dia": "Sexta, 20 de novembro de 2026",
+ "leitura": "8 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje as regras do fim da escala 6x1, o dólar acima de R$ 5,93 e a reunião de Trump, Xi e Putin na China.",
+ "trinta": [
+  "Lula assinou o decreto do fim da escala 6x1: 42 horas a partir de 16 de dezembro.",
+  "O dólar subiu pela sexta vez seguida, a R$ 5,93.",
+  "Trump, Xi e Putin se reuniram sem acordo concreto."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "Define jornada, folgas e cálculo de horas de milhões de trabalhadores."
+  },
+  {
+   "id": "b2",
+   "porque": "Dólar mais caro encarece importados e combustíveis."
+  },
+  {
+   "id": "b3",
+   "porque": "Bancos e Correios fecham hoje; contas vencem na segunda."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Lula assina decreto com as regras do fim da escala 6x1",
+     "contexto": "fim-da-escala-6x1",
+     "texto": "Lula assinou na quinta (19), no Planalto, o Decreto 13.173/2026, que regulamenta o fim da escala 6x1, segundo o ConJur. A jornada cai para 42 horas semanais em 16 de dezembro, com duas folgas por semana, e para 40 horas em dezembro de 2027, sem corte de salário.",
+     "pq": "a mudança atinge 14,8 milhões de trabalhadores em escala 6x1 e outros 21,7 milhões em 5x2 com 44 horas, segundo o governo. O decreto mantém o salário mensal e muda o cálculo da hora, o que mexe em horas extras.",
+     "fontes": [
+      {
+       "t": "ConJur",
+       "u": "https://conjur.com.br/2026-nov-19/presidente-assina-decreto-que-regulamenta-o-fim-da-escala-6x1/"
+      },
+      {
+       "t": "Tribuna do Sertão, com Agência O Globo",
+       "u": "https://www.tribunadosertao.com.br/financas/2026/11/19/1025584-lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1"
+      }
+     ],
+     "completa": {
+      "fina": "Com salário de R$ 3 mil, a hora passa de R$ 13,64 para R$ 14,29 com 42 horas e R$ 15 com 40 horas, segundo o exemplo do governo.",
+      "atualizada": "20 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente Luiz Inácio Lula da Silva assinou na quinta-feira (19), no Palácio do Planalto, o Decreto 13.173/2026, que regulamenta a Emenda Constitucional 141/2026, segundo o ConJur, com base em informações da Presidência. O decreto entra em vigor na publicação, e a implantação segue o calendário da emenda: 42 horas semanais a partir de 16 de dezembro de 2026 e 40 horas a partir de 16 de dezembro de 2027, com dois dias de descanso por semana nas duas etapas.",
+      "blocos": [
+       {
+        "h": "O que o decreto define",
+        "li": [
+         {
+          "b": "Salário:",
+          "t": "o salário mensal se mantém. O divisor usado para calcular a hora passa a 210 com 42 horas e a 200 com 40 horas, valendo o acordo coletivo se for mais favorável. A mudança repercute em horas extras e adicional noturno."
+         },
+         {
+          "b": "Folgas:",
+          "t": "a regra são dois repousos remunerados por semana. Excepcionalmente, o trabalhador pode trabalhar no segundo dia de folga se ela for compensada no mesmo mês; o dia trabalhado é pago como hora extra. O texto diz que isso não autoriza manter a escala 6x1 de forma permanente."
+         },
+         {
+          "b": "Funcionamento:",
+          "t": "empresas podem continuar abertas todos os dias; muda só a organização das escalas."
+         },
+         {
+          "b": "Escalas especiais:",
+          "t": "turnos de revezamento podem ter horários próprios por negociação, e a escala 12x36 continua permitida, com média mensal dentro dos novos limites."
+         },
+         {
+          "b": "Setores:",
+          "t": "o Ministério do Trabalho vai editar normas para jornadas especiais, como marítimos e trabalhadores de plataformas de petróleo."
+         }
+        ]
+       },
+       {
+        "h": "O STF",
+        "p": [
+         "Em 12 de novembro, o ministro Flávio Dino permitiu, em decisão provisória, distribuir as 42 horas em cinco dias, com até 8 horas e 24 minutos por dia, quando não houver acordo coletivo até 15 de dezembro, segundo O Globo, reproduzido pela Tribuna do Sertão. A regra vale até 15 de dezembro de 2027. As ações são da CNC e da CNI, confederações do comércio e da indústria. Luiz Fux levou o caso ao plenário presencial, e Dino determinou o julgamento do mérito, ainda sem data."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "O Senado aprovou o fim da escala 6x1 em 14 de outubro, por 75 votos a 1, e a emenda foi promulgada em 16 de outubro. O decreto era esperado para 9 de novembro, mas foi adiado até a volta de Lula das viagens. O Ministério do Trabalho diz ter feito reuniões com mais de 70 setores."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Luiz Marinho, ministro do Trabalho:",
+          "t": "\"Caberá às partes buscar, na convenção coletiva, o arranjo mais adequado\", disse, segundo O Globo."
+         },
+         {
+          "b": "Ministério do Trabalho:",
+          "t": "diz que os pisos salariais serão preservados e que vai publicar orientações e perguntas e respostas."
+         },
+         {
+          "b": "Empresários e sindicatos:",
+          "t": "as reportagens não trazem reação ao decreto; CNC e CNI contestam regras da emenda no STF."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando o STF julga o mérito das ações.",
+         "As normas específicas para setores com jornadas especiais."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Negociações coletivas até 15 de dezembro.",
+         "Jornada de 42 horas a partir de 16 de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "ConJur: presidente assina decreto",
+        "u": "https://conjur.com.br/2026-nov-19/presidente-assina-decreto-que-regulamenta-o-fim-da-escala-6x1/"
+       },
+       {
+        "t": "Tribuna do Sertão, com Agência O Globo: as regras",
+        "u": "https://www.tribunadosertao.com.br/financas/2026/11/19/1025584-lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1"
+       },
+       {
+        "t": "Correio Braziliense: o que muda",
+        "u": "https://www.correiobraziliense.com.br/politica/2026/11/7541058-lula-assina-decreto-que-regulamenta-fim-da-escala-6x1-nesta-quinta-19.html"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "BC vende US$ 1 bilhão, mas dólar fecha a R$ 5,93",
+     "contexto": "dolar-bolsa-e-juros",
+     "texto": "O dólar fechou a R$ 5,935 na quinta (19), alta de 1,16% e sexta seguida, o maior valor desde abril de 2025, segundo a IstoÉ. O Banco Central vendeu US$ 1 bilhão das reservas num leilão extraordinário. O Ibovespa caiu 0,69%, a 166.376 pontos.",
+     "pq": "em novembro, a moeda já sobe mais de 9%, o que encarece importados e combustíveis. A estimativa de economia do ajuste fiscal em 2027 caiu de cerca de R$ 56 bilhões para R$ 50 bilhões depois das mudanças no Senado, segundo a IstoÉ.",
+     "fontes": [
+      {
+       "t": "IstoÉ",
+       "u": "https://istoe.com.br/dolar-hoje-19-novembro-2026-alta-593-banco-central"
+      },
+      {
+       "t": "Correio Braziliense",
+       "u": "https://www.correiobraziliense.com.br/economia/2026/11/7541539-dolar-fecha-em-alta-e-ibovespa-cai-apesar-de-acao-do-banco-central.html"
+      }
+     ],
+     "completa": {
+      "fina": "O Correio Braziliense registra fechamento de R$ 5,9366 e queda de 0,82% do Ibovespa, a 166.156 pontos.",
+      "atualizada": "20 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O dólar comercial fechou a R$ 5,9350 na quinta-feira (19), com alta de 1,16%, a sexta seguida, segundo a IstoÉ. É o maior fechamento desde abril de 2025. Na semana, a alta é de cerca de 5%, e em novembro, de mais de 9%. O Correio Braziliense registra R$ 5,9366. O Ibovespa caiu 0,69%, a 166.376 pontos, pela IstoÉ, ou 0,82%, a 166.156 pontos, pelo Correio.",
+      "blocos": [
+       {
+        "h": "O Banco Central",
+        "p": [
+         "O Banco Central fez um leilão extraordinário de dólar à vista entre 12h03 e 12h08 e vendeu US$ 1 bilhão das reservas, segundo a IstoÉ. A taxa de corte foi de R$ 5,86, com cinco propostas aceitas, segundo o Brasil Inovador. A cotação caiu logo depois, mas voltou a subir, e o alívio foi temporário, segundo a IstoÉ. Na véspera, o BC tinha feito leilões de linha, com compromisso de recompra."
+        ]
+       },
+       {
+        "h": "Os motivos citados",
+        "li": [
+         {
+          "b": "Contas públicas:",
+          "t": "a incerteza sobre o ajuste fiscal e a política econômica, segundo a IstoÉ."
+         },
+         {
+          "b": "Ajuste menor:",
+          "t": "com as mudanças no Senado, a economia estimada para 2027 caiu de cerca de R$ 56 bilhões para R$ 50 bilhões, segundo a IstoÉ e o Brasil Inovador. O texto vai à Câmara na próxima semana, onde ainda pode mudar antes da sanção."
+         },
+         {
+          "b": "Exterior:",
+          "t": "expectativa de juros altos por mais tempo nos EUA e cautela com o cenário externo."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "A alta começou depois do segundo turno, em 25 de outubro. No primeiro pregão após a reeleição de Lula, o dólar subiu mais de 8%. Em 16 de novembro fechou a R$ 5,77, em 18 de novembro a R$ 5,868, e agora passou de R$ 5,93. Até 18 de novembro, a alta desde o segundo turno era de 17,6%, segundo O Tempo."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Luiz Inácio Lula da Silva:",
+          "t": "reafirmou o compromisso com o equilíbrio das contas, disse que não pretende retirar direitos sociais para isso e que não tem pressa para anunciar a equipe ministerial, segundo a IstoÉ."
+         },
+         {
+          "b": "Rebecca Nossig, estrategista da Nomad:",
+          "t": "atribuiu a pressão ao risco fiscal, segundo o Brasil Inovador."
+         },
+         {
+          "b": "Banco Central:",
+          "t": "as reportagens não trazem declaração da instituição sobre o leilão."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o Banco Central fará novos leilões.",
+         "Quando Lula anuncia a nova equipe econômica."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Votação do ajuste fiscal na Câmara, prevista para a próxima semana."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "IstoÉ: dólar a R$ 5,93",
+        "u": "https://istoe.com.br/dolar-hoje-19-novembro-2026-alta-593-banco-central"
+       },
+       {
+        "t": "Correio Braziliense: dólar e Ibovespa",
+        "u": "https://www.correiobraziliense.com.br/economia/2026/11/7541539-dolar-fecha-em-alta-e-ibovespa-cai-apesar-de-acao-do-banco-central.html"
+       },
+       {
+        "t": "Brasil Inovador: o leilão do BC",
+        "u": "https://brasilinovador.com.br/ibovespa-recua-com-pressao-cambial-e-ajuste-fiscal-enquanto-estreia-da-anthropic-agita-wall-street/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Feriado da Consciência Negra fecha bancos e Correios nesta sexta",
+     "contexto": "dia-da-consciencia-negra",
+     "texto": "Esta sexta (20) é feriado nacional do Dia de Zumbi e da Consciência Negra. As agências bancárias não abrem, segundo a Febraban, e os Correios não têm atendimento presencial, segundo o Brasil de Fato. Pix, aplicativos e caixas eletrônicos funcionam.",
+     "pq": "contas que vencem hoje podem ser pagas sem juros nem multa na segunda (23), primeiro dia útil, segundo o Brasil de Fato. Comércio e shoppings abrem conforme acordos e horários de feriado de cada cidade.",
+     "fontes": [
+      {
+       "t": "Brasil de Fato",
+       "u": "https://www.brasildefato.com.br/2026/11/18/consciencia-negra-confira-o-que-abre-e-o-que-fecha-no-feriado-de-20-de-novembro/"
+      },
+      {
+       "t": "O Liberal",
+       "u": "https://www.oliberal.com/belem/o-que-abre-e-fecha-no-feriado-do-dia-da-consciencia-negra-veja-a-lista-1.1195737"
+      }
+     ],
+     "completa": {
+      "fina": "É o terceiro ano do 20 de novembro como feriado em todo o país, pela Lei 14.759, de 2023.",
+      "atualizada": "20 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Dia Nacional de Zumbi e da Consciência Negra é feriado nacional nesta sexta-feira (20), pela Lei 14.759, de 2023, sancionada pelo presidente Luiz Inácio Lula da Silva, segundo o Brasil de Fato. A data marca a morte de Zumbi dos Palmares, \"reconhecido como símbolo de resistência e de luta antirracista\", segundo O Liberal. Serviços como bancos, Correios e postos de atendimento do governo fecham; urgência e emergência funcionam normalmente.",
+      "blocos": [
+       {
+        "h": "O que abre e o que fecha",
+        "li": [
+         {
+          "b": "Bancos:",
+          "t": "agências sem atendimento presencial, segundo a Febraban. Aplicativos, internet banking e caixas eletrônicos funcionam, e o Pix opera 24 horas. Contas com vencimento hoje podem ser pagas na segunda (23) sem multa."
+         },
+         {
+          "b": "Correios:",
+          "t": "sem atendimento nas agências; voltam no sábado (21) onde abrem no fim de semana e na segunda (23) em todo o país."
+         },
+         {
+          "b": "INSS:",
+          "t": "perícias e atendimentos presenciais suspensos; o Meu INSS e a central 135 funcionam."
+         },
+         {
+          "b": "Saúde:",
+          "t": "prontos-socorros, UPAs, hospitais e Samu 192 funcionam 24 horas; unidades básicas fecham e voltam na segunda, segundo o Brasil de Fato. Em Belém, algumas UBSs atendem só urgência, segundo O Liberal."
+         },
+         {
+          "b": "Comércio:",
+          "t": "a abertura de lojas de rua depende de acordo com os sindicatos; supermercados funcionam conforme cada empresa."
+         },
+         {
+          "b": "Shoppings:",
+          "t": "horário de domingo e feriado. Em São Paulo, lojas das 14h às 20h, segundo o Brasil de Fato; em Belém, a maioria abre por volta das 11h ou 12h, segundo O Liberal."
+         },
+         {
+          "b": "Transporte:",
+          "t": "em São Paulo, metrô, trens e ônibus funcionam em horário de domingo, com reforço perto da Avenida Paulista por causa da Marcha da Consciência Negra."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Zumbi morreu em 20 de novembro de 1695, na Serra dos Dois Irmãos, em Alagoas; foi um dos últimos líderes do Quilombo dos Palmares, segundo o SBT News. Em 2011, a data foi oficializada como dia nacional, sem ser feriado. Até 2023, cerca de 1.260 cidades a adotavam como feriado, segundo a Fundação Palmares citada pelo SBT News. Naquele ano, a Lei 14.759 o estendeu a todo o país."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Febraban, federação dos bancos:",
+          "t": "orienta o uso dos canais digitais durante o feriado, segundo O Liberal."
+         },
+         {
+          "b": "Organizações do movimento negro:",
+          "t": "fazem a Marcha da Consciência Negra em São Paulo, segundo o Brasil de Fato; as reportagens não trazem declarações."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O horário de cada comércio local, que varia por cidade e acordo coletivo."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Bancos e Correios voltam ao normal na segunda (23)."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Brasil de Fato: o que abre e fecha",
+        "u": "https://www.brasildefato.com.br/2026/11/18/consciencia-negra-confira-o-que-abre-e-o-que-fecha-no-feriado-de-20-de-novembro/"
+       },
+       {
+        "t": "O Liberal: o feriado em Belém",
+        "u": "https://www.oliberal.com/belem/o-que-abre-e-fecha-no-feriado-do-dia-da-consciencia-negra-veja-a-lista-1.1195737"
+       },
+       {
+        "t": "SBT News, 2023: a história da data",
+        "u": "https://sbtnews.sbt.com.br/noticia/brasil/266035-consciencia-negra-o-que-abre-e-fecha-e-onde-e-feriado"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Trump, Xi e Putin dizem que guerra nuclear não tem vencedores",
+     "contexto": "armas-nucleares-eua-russia-china",
+     "texto": "Trump, Xi Jinping e Vladimir Putin fizeram em Shenzhen, na quinta (19), a primeira reunião a três, de cerca de uma hora e meia. A declaração conjunta diz que \"não há vencedores numa guerra nuclear\", segundo a CBS. Não houve acordo concreto sobre a Ucrânia.",
+     "pq": "EUA e Rússia têm mais de 5.000 ogivas cada, e a China, mais de 600, pelo Pentágono; o último tratado de limites acabou em fevereiro. Sem compromisso novo, a corrida por arsenais segue sem regras.",
+     "fontes": [
+      {
+       "t": "CBS News",
+       "u": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+      },
+      {
+       "t": "The Moscow Times, com Reuters",
+       "u": "https://www.themoscowtimes.com/2026/11/19/us-china-can-help-end-ukraine-war-trump-tells-xi-before-trilateral-with-putin-a94307"
+      }
+     ],
+     "completa": {
+      "fina": "Putin disse que não vai negociar sobre a Ucrânia depois dos ataques à ponte da Crimeia e propôs que os europeus vão a Moscou.",
+      "atualizada": "20 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Donald Trump, Xi Jinping e Vladimir Putin se reuniram na quinta-feira (19) na Kylin Villa, em Shenzhen, na China, por cerca de uma hora e meia, segundo a CBS News. Antes, Trump teve encontros separados com Putin e com Xi, este de cerca de uma hora. Ao fim, o Kremlin e a Casa Branca divulgaram uma declaração conjunta, segundo a CBS; o Moscow Times, com a Reuters, diz que o texto foi divulgado pela agência chinesa Xinhua e pelo Kremlin.",
+      "blocos": [
+       {
+        "h": "O que diz a declaração",
+        "li": [
+         {
+          "b": "Armas nucleares:",
+          "t": "os três reafirmam que \"não há vencedores numa guerra nuclear\" e que ela \"nunca deve ser iniciada\", segundo a CBS. O Kremlin diz que vai continuar o diálogo sobre redução de riscos nucleares."
+         },
+         {
+          "b": "ONU:",
+          "t": "defendem uma reforma das Nações Unidas."
+         },
+         {
+          "b": "Energia:",
+          "t": "falam em aumentar a produção de petróleo e gás \"em benefício de todos os países\", segundo a CBS; a Reuters cita derivados de petróleo."
+         },
+         {
+          "b": "Tribunais internacionais:",
+          "t": "defendem a imunidade de autoridades de Estado e dizem que tribunais como o Penal Internacional \"não devem abusar de seus poderes\"."
+         }
+        ]
+       },
+       {
+        "h": "O que ficou de fora",
+        "p": [
+         "A CBS avalia que a reunião produziu pouco de concreto. Sobre a Ucrânia, Putin disse que não vai negociar depois dos ataques à ponte da Crimeia e que discutir segurança \"sem os europeus é inútil\", propondo que eles vão a Moscou. Não houve anúncio sobre limites de arsenais. A trégua tarifária entre EUA e China vence em 10 de janeiro."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "O tratado New Start, último a limitar os arsenais de EUA e Rússia, expirou em fevereiro de 2026. Trump chegou a Shenzhen na quarta (18), recebido por Xi na pista do aeroporto, para a cúpula da Apec."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Donald Trump, presidente dos EUA:",
+          "t": "\"Temos uma ótima relação há muitos anos\", disse sobre Xi, segundo a CBS. À NBC, deu à reunião nota \"12 numa escala de zero a 10\"."
+         },
+         {
+          "b": "Xi Jinping, presidente da China:",
+          "t": "disse que \"quando as grandes potências vivem em harmonia, o mundo fica em paz\", segundo a CBS, e comparou o risco nuclear a uma espada de Dâmocles, segundo a Xinhua citada pela Reuters."
+         },
+         {
+          "b": "Vladimir Putin, presidente da Rússia:",
+          "t": "\"Não vamos negociar depois dos ataques à ponte da Crimeia\", segundo a Reuters."
+         },
+         {
+          "b": "Tim Kaine, senador democrata:",
+          "t": "disse que a cena \"revirou um pouco o estômago\", segundo a CBS."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se haverá negociação formal sobre arsenais nucleares.",
+         "Se os europeus aceitam o convite de Putin."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Entrevista de Trump à imprensa nesta sexta (20), ao meio-dia.",
+         "Fim da trégua tarifária EUA-China em 10 de janeiro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "CBS News: a reunião a três",
+        "u": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+       },
+       {
+        "t": "The Moscow Times, com Reuters: Trump e Xi",
+        "u": "https://www.themoscowtimes.com/2026/11/19/us-china-can-help-end-ukraine-war-trump-tells-xi-before-trilateral-with-putin-a94307"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "COP31 chega ao último dia com 21 temas sem acordo",
+     "contexto": "combustiveis-fosseis-cop",
+     "texto": "A conferência do clima da ONU em Antália, na Turquia, termina oficialmente nesta sexta (20) com 21 itens da pauta sem acordo até quarta, segundo o To Vima. O rascunho pede \"ação acelerada\" para abandonar os combustíveis fósseis, e a Arábia Saudita resiste, segundo relatos.",
+     "pq": "a decisão final define se a saída do petróleo, gás e carvão ganha prazo e se o dinheiro para adaptação ao clima triplica. É a continuação do roteiro lançado pelo Brasil na COP30.",
+     "fontes": [
+      {
+       "t": "To Vima",
+       "u": "https://www.tovima.com/climate/cop31-deep-divisions-remain-as-friday-deadline-nears/"
+      },
+      {
+       "t": "Al-Monitor, com Reuters",
+       "u": "https://www.al-monitor.com/originals/2026/11/first-draft-cop31-deal-signals-tough-negotiations-come"
+      },
+      {
+       "t": "Daily Sabah, com AFP",
+       "u": "https://www.dailysabah.com/business/energy/cop31-draft-calls-for-accelerated-action-to-phase-out-fossil-fuels/amp"
+      }
+     ],
+     "completa": {
+      "fina": "Prorrogações são comuns: a COP28 terminou um dia depois do previsto, e a COP29, dois, segundo o To Vima.",
+      "atualizada": "20 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A COP31, conferência do clima da ONU em Antália, na Turquia, aberta em 9 de novembro, tem encerramento previsto para esta sexta-feira (20). Até quarta (18), 21 itens da pauta seguiam sem acordo, segundo o jornal grego To Vima. A Turquia sedia o encontro e a Austrália, com o ministro Chris Bowen, conduz as negociações, numa presidência dividida.",
+      "blocos": [
+       {
+        "h": "O que diz o rascunho",
+        "p": [
+         "O primeiro rascunho, de 16 de novembro, tem 18 páginas e 144 parágrafos, segundo o To Vima. O parágrafo 66 \"pede ação acelerada para eliminar os combustíveis fósseis\". O texto também propõe que a eletricidade chegue a 35% da energia final consumida até 2035 e que o financiamento para adaptação triplique até 2035, para ao menos US$ 120 bilhões, segundo a AFP, no Daily Sabah."
+        ]
+       },
+       {
+        "h": "Onde está a disputa",
+        "li": [
+         {
+          "b": "Arábia Saudita:",
+          "t": "estaria bloqueando trechos sobre combustíveis fósseis e a meta de eletrificação, segundo o Financial Times citado pelo To Vima. O governo saudita nega."
+         },
+         {
+          "b": "Ciência do clima:",
+          "t": "China, Índia, Rússia, Arábia Saudita e Quênia querem mais tempo para a próxima avaliação do IPCC, o painel científico da ONU, o que pode adiá-la para 2029."
+         },
+         {
+          "b": "União Europeia:",
+          "t": "o comissário Wopke Hoekstra defende o sinal mais forte possível sobre fósseis, segundo o To Vima. O bloco quer que a decisão final mantenha a linguagem do rascunho."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Em 2023, na COP28, em Dubai, quase 200 países aprovaram a \"transição para longe dos combustíveis fósseis\". Na COP30, em Belém, o acordo final não citou os fósseis, e a presidência brasileira lançou por fora um roteiro, divulgado em 3 de novembro, com etapas até 2033."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Chris Bowen, ministro australiano:",
+          "t": "\"Vai ficar exatamente como no rascunho? Não. É apropriado que haja uma conversa sobre combustíveis fósseis no rascunho? Com certeza\", segundo a Reuters."
+         },
+         {
+          "b": "Murat Kurum, presidente da COP31:",
+          "t": "\"Indústria e tecnologia precisam ser parte da solução climática\", segundo a AFP."
+         },
+         {
+          "b": "Cosima Cassel, do centro de estudos E3G:",
+          "t": "disse que o teste é se a decisão final mantém os elementos centrais do rascunho."
+         },
+         {
+          "b": "Brasil:",
+          "t": "as reportagens não trazem posição brasileira na reta final."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o trecho sobre fósseis sobrevive na decisão final.",
+         "Se a conferência será prorrogada."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Plenária final, prevista para esta sexta (20) ou depois, em caso de prorrogação."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "To Vima: divisões no fim da COP31",
+        "u": "https://www.tovima.com/climate/cop31-deep-divisions-remain-as-friday-deadline-nears/"
+       },
+       {
+        "t": "Al-Monitor, com Reuters: o primeiro rascunho",
+        "u": "https://www.al-monitor.com/originals/2026/11/first-draft-cop31-deal-signals-tough-negotiations-come"
+       },
+       {
+        "t": "Daily Sabah, com AFP: o rascunho",
+        "u": "https://www.dailysabah.com/business/energy/cop31-draft-calls-for-accelerated-action-to-phase-out-fossil-fuels/amp"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Democrata Mary Peltola vence no Alasca e partido chega a 56 senadores",
+     "contexto": "eleicoes-eua-2026",
+     "texto": "A democrata Mary Peltola derrotou o senador republicano Dan Sullivan no Alasca, com 50,1% contra 45,8% dos votos, segundo o Anchorage Daily News. A agência AP declarou o resultado na terça (17), na última disputa do Senado a ser definida.",
+     "pq": "com a vitória, os democratas passam a ter 56 das 100 cadeiras, contra 47 antes da eleição, e viram nove cadeiras republicanas, o maior número desde 1958. O novo Senado toma posse em janeiro.",
+     "fontes": [
+      {
+       "t": "Anchorage Daily News",
+       "u": "https://www.adn.com/politics/2026/11/17/democrat-mary-peltola-wins-us-senate-race-in-alaska-beating-incumbent-republican-dan-sullivan/"
+      },
+      {
+       "t": "Alaska Public Media",
+       "u": "https://alaskapublic.org/news/politics/elections/2026-11-17/mary-peltola-wins-u-s-senate-seat-in-alaska"
+      },
+      {
+       "t": "Deseret News",
+       "u": "https://www.deseret.com/politics/2026/11/18/mary-peltola-flips-alaska-senate-seat/"
+      }
+     ],
+     "completa": {
+      "fina": "Peltola, de origem yup'ik, será a primeira nativa do Alasca no Senado, segundo a Alaska Public Media e o Deseret News.",
+      "atualizada": "20 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A democrata Mary Peltola venceu a eleição para o Senado no Alasca, realizada em 3 de novembro, contra o republicano Dan Sullivan, no cargo desde 2015. Com 290.003 cédulas apuradas, ela tinha 144.302 votos, ou 50,1%, contra 131.844, ou 45,8%, segundo o Anchorage Daily News. A AP declarou o resultado na noite de terça-feira (17), com cerca de 99% dos votos contados. A certificação estadual está prevista para 25 de novembro, segundo a Alaska Public Media.",
+      "blocos": [
+       {
+        "h": "Sem segunda contagem",
+        "p": [
+         "O Alasca usa voto ranqueado, em que o eleitor ordena candidatos. Como Peltola passou de 50% dos primeiros votos, não foi preciso redistribuir preferências, segundo a Alaska Public Media e o Deseret News. Outros dois candidatos somaram 3,8%: o republicano Gerald Heikes e um professor aposentado também chamado Dan Sullivan, sem partido."
+        ]
+       },
+       {
+        "h": "O caso do segundo Sullivan",
+        "p": [
+         "A campanha do senador e aliados dizem que a candidatura do segundo Dan Sullivan foi montada para confundir eleitores. O New York Times informou em 28 de outubro que a equipe de Peltola ajudou a recrutá-lo; ela nega. O caso é investigado pelo estado e pelo governo federal. Uma ação do Departamento de Justiça para impedir a certificação foi rejeitada por um juiz federal, e o governo recorre, segundo a Alaska Public Media."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Antes da eleição, os republicanos tinham 53 cadeiras e os democratas, 47. Peltola foi a única deputada federal do Alasca e a primeira nativa do estado no Congresso; perdeu a reeleição para a Câmara em 2024 para o republicano Nick Begich. No primeiro turno de agosto, teve 49,5%, contra 41,4% de Sullivan."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Mary Peltola, senadora eleita:",
+          "t": "\"Os alasquianos votaram por mudança\", disse em vídeo, segundo a Alaska Public Media. Sobre o segundo Sullivan, disse que não sabia nada dos outros candidatos."
+         },
+         {
+          "b": "Dan Sullivan, senador republicano:",
+          "t": "não comentou o resultado; antes, a campanha disse que esperaria \"até que todo voto legal seja contado e certificado\"."
+         },
+         {
+          "b": "Donald Trump, presidente dos EUA:",
+          "t": "chamou os candidatos extras de \"falsos\" e disse que Sullivan teria vencido somando os votos, segundo a Alaska Public Media."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se Sullivan vai contestar o resultado.",
+         "O desfecho das investigações sobre o segundo candidato."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Certificação do resultado em 25 de novembro.",
+         "Posse do novo Congresso em janeiro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Anchorage Daily News: a vitória de Peltola",
+        "u": "https://www.adn.com/politics/2026/11/17/democrat-mary-peltola-wins-us-senate-race-in-alaska-beating-incumbent-republican-dan-sullivan/"
+       },
+       {
+        "t": "Alaska Public Media: o resultado",
+        "u": "https://alaskapublic.org/news/politics/elections/2026-11-17/mary-peltola-wins-u-s-senate-seat-in-alaska"
+       },
+       {
+        "t": "Deseret News: a virada no Alasca",
+        "u": "https://www.deseret.com/politics/2026/11/18/mary-peltola-flips-alaska-senate-seat/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Anthropic estreia na Bolsa com a maior oferta de ações da história",
+     "contexto": "ipo-anthropic",
+     "texto": "A Anthropic, empresa que desenvolve o Claude, vendeu ações a US$ 83 e levantou cerca de US$ 79 bilhões, acima dos US$ 75 bilhões da SpaceX, segundo a Fortune. Na estreia na Nasdaq, na quinta (19), a ação abriu a US$ 111,50, alta de 34%.",
+     "pq": "pelo preço da oferta, a empresa vale US$ 1,5 trilhão, segunda maior estreia em valor, atrás da SpaceX. O resultado indica quanto investidores apostam em empresas de inteligência artificial que ainda dão prejuízo.",
+     "fontes": [
+      {
+       "t": "Anthropic",
+       "u": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+      },
+      {
+       "t": "Fortune",
+       "u": "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/"
+      },
+      {
+       "t": "Forbes",
+       "u": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-shares-pop-34-to-open-at-11150/"
+      }
+     ],
+     "completa": {
+      "fina": "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic. Esta nota segue as mesmas regras de checagem e neutralidade.",
+      "atualizada": "20 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Anthropic definiu na quarta-feira (18) o preço de sua oferta inicial de ações em US$ 83, acima da faixa de US$ 70 a US$ 78, e elevou a oferta de 825 milhões para 980 milhões de ações, segundo comunicado da empresa. Foram 956,4 milhões de ações novas e 23,6 milhões vendidas por acionistas. A negociação começou na quinta (19), na Nasdaq, com o código ANT. Goldman Sachs e Morgan Stanley coordenaram a oferta.",
+      "blocos": [
+       {
+        "h": "Os números da estreia",
+        "li": [
+         {
+          "b": "Captação:",
+          "t": "cerca de US$ 79 bilhões, ou US$ 81,4 bilhões com a venda de acionistas internos, contra US$ 75 bilhões da SpaceX, segundo a Fortune. É a maior oferta já feita em dinheiro levantado."
+         },
+         {
+          "b": "Valor:",
+          "t": "US$ 1,5 trilhão pelo preço da oferta, atrás do US$ 1,77 trilhão da SpaceX em junho, segundo a Fortune. Pelo preço de abertura, cerca de US$ 2 trilhões."
+         },
+         {
+          "b": "Abertura:",
+          "t": "US$ 111,50, alta de 34%. A Forbes registra no título fechamento a US$ 97, alta de mais de 17%."
+         },
+         {
+          "b": "Procura:",
+          "t": "pedidos de até sete vezes o número de ações, segundo a Bloomberg citada pela Fortune; cerca de 20% ficaram para pequenos investidores."
+         }
+        ]
+       },
+       {
+        "h": "Receita e prejuízo",
+        "p": [
+         "A empresa teve receita de US$ 16,96 bilhões no terceiro trimestre de 2026 e prejuízo operacional de US$ 567 milhões, segundo o prospecto revisado de 2 de novembro. No segundo trimestre, a receita foi de US$ 11,56 bilhões. A empresa gasta bilhões com computação para treinar e rodar seus modelos, segundo o prospecto."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "O prospecto foi publicado no fim de outubro. Em 10 de novembro, a versão revisada fixou a faixa de preço e informou que sete fornecedoras comprariam US$ 26 bilhões em ações sem voto. A oferta saiu acima da faixa e com mais ações que o previsto."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Anthropic:",
+          "t": "o comunicado informa preço, número de ações, código e coordenadores da oferta, sem projeções."
+         },
+         {
+          "b": "Investidores:",
+          "t": "parte deles disse ao Wall Street Journal, antes da oferta, que o valor poderia cair; a Fortune e a Forbes não trazem análise de risco detalhada."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se os bancos usam o lote extra de 147 milhões de ações.",
+         "Como a ação se comporta depois do primeiro dia."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Primeiro resultado trimestral como empresa de capital aberto, sem data divulgada."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Anthropic: preço da oferta",
+        "u": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+       },
+       {
+        "t": "Fortune: o primeiro dia",
+        "u": "https://fortune.com/2026/11/19/anthropic-ipo-first-day-trading-nasdaq-record-valuation/"
+       },
+       {
+        "t": "Forbes: abertura a US$ 111,50",
+        "u": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-shares-pop-34-to-open-at-11150/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Nvidia para de vender chips aprovados pelos EUA à China",
+     "contexto": "nvidia-china-chips",
+     "texto": "A Nvidia deixou de enviar à China os chips de inteligência artificial da geração Hopper, como o H200, mesmo com licença dos EUA, disse a presidente interina, Colette Kress, segundo a Reuters. No trimestre até 25 de outubro, a empresa vendeu US$ 2,4 bilhões desses chips ao país.",
+     "pq": "a venda do H200 era parte de um acordo negociado entre Washington e Pequim, e a interrupção põe esse arranjo em dúvida, segundo a Reuters. A previsão de receita de US$ 130 bilhões para o próximo trimestre já exclui a China.",
+     "fontes": [
+      {
+       "t": "TimesLIVE, com Reuters",
+       "u": "https://www.timeslive.co.za/news/sci-tech/2026-11-18-nvidia-stops-shipping-us-approved-ai-chips-to-china/"
+      },
+      {
+       "t": "Fox Business",
+       "u": "https://www.foxbusiness.com/fox-news-tech/nvidia-halts-china-ai-chip-shipments-despite-us-approval"
+      }
+     ],
+     "completa": {
+      "fina": "A empresa não explicou o motivo nem disse se a suspensão é permanente.",
+      "atualizada": "20 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Nvidia parou de enviar à China chips licenciados de data center da geração Hopper, incluindo o H200, disse a presidente interina e diretora financeira, Colette Kress, na teleconferência de resultados de terça-feira (17), segundo a Reuters e a Fox Business. \"Não estamos mais enviando produtos Hopper licenciados de data center para a China\", disse ela. No trimestre encerrado em 25 de outubro, a empresa vendeu US$ 2,4 bilhões desses produtos ao país.",
+      "blocos": [
+       {
+        "h": "O que se sabe do motivo",
+        "p": [
+         "A Nvidia não disse se a decisão vem de exigências de licença dos EUA, de restrições chinesas à importação ou de uma escolha comercial, segundo a Fox Business. A Reuters lembra que Pequim tem limitado a entrada do H200 para reduzir a dependência de tecnologia americana. Cerca de 600 mil chips H200 estariam guardados em Hong Kong à espera de liberação, segundo reportagens anteriores da agência."
+        ]
+       },
+       {
+        "h": "Os números da empresa",
+        "li": [
+         {
+          "b": "Trimestre:",
+          "t": "receita de quase US$ 116 bilhões, mais que o dobro de um ano antes; data centers somaram mais de US$ 107 bilhões, alta de 110%."
+         },
+         {
+          "b": "Previsão:",
+          "t": "cerca de US$ 130 bilhões no próximo trimestre, com margem de 3% para mais ou para menos, sem vendas de chips de IA à China."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Os EUA limitam a venda de chips avançados à China desde 2022. Em dezembro de 2025, Trump liberou o H200 para clientes chineses aprovados, com 25% da receita para o governo americano. Em janeiro de 2026, o Departamento de Comércio passou a analisar cada licença, e dez empresas chinesas, entre elas Alibaba, Tencent e ByteDance, foram aprovadas, segundo a Reuters. Jensen Huang deixou o comando da Nvidia em 12 de novembro. Em 16 de novembro, o Departamento de Comércio passou a exigir licença para vender chips avançados a cinco países, entre eles o Brasil, por risco de desvio para a China. A suspensão das vendas veio no dia seguinte, no primeiro balanço sem Huang."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Colette Kress, presidente interina da Nvidia:",
+          "t": "\"Nossa previsão não inclui nenhum produto Hopper licenciado de data center\", segundo a Fox Business."
+         },
+         {
+          "b": "Governo chinês:",
+          "t": "as reportagens não trazem declaração oficial."
+         },
+         {
+          "b": "Governo dos EUA:",
+          "t": "as reportagens não trazem reação à suspensão."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se as vendas serão retomadas.",
+         "O destino dos chips parados em Hong Kong."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Depoimento de Jensen Huang no Congresso dos EUA, em 1º de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "TimesLIVE, com Reuters: a suspensão",
+        "u": "https://www.timeslive.co.za/news/sci-tech/2026-11-18-nvidia-stops-shipping-us-approved-ai-chips-to-china/"
+       },
+       {
+        "t": "Fox Business: a fala de Kress",
+        "u": "https://www.foxbusiness.com/fox-news-tech/nvidia-halts-china-ai-chip-shipments-despite-us-approval"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "9%",
+  "texto": "é quanto o dólar já subiu em novembro, até quinta (19); na semana, a alta é de cerca de 5%.",
+  "fontes": [
+   {
+    "t": "IstoÉ",
+    "u": "https://istoe.com.br/dolar-hoje-19-novembro-2026-alta-593-banco-central"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "No Alasca, um professor aposentado chamado Dan Sullivan disputou o Senado contra o senador Dan Sullivan e teve 1,7% dos votos.",
+  "fontes": [
+   {
+    "t": "Anchorage Daily News",
+    "u": "https://www.adn.com/politics/2026/11/17/democrat-mary-peltola-wins-us-senate-race-in-alaska-beating-incumbent-republican-dan-sullivan/"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição traz a estreia da Anthropic na Bolsa, empresa que desenvolve o Claude, e cita a SpaceX como comparação; nenhuma concorrente da Anthropic é citada.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Governo, mercado, STF e confederações empresariais aparecem no Brasil; EUA, China e Rússia têm suas falas atribuídas na reunião a três. Ressalvas: a nota sobre a estreia da Anthropic trata da empresa que faz o Claude, por isso leva aviso de conflito e evita adjetivos, mas a ausência de vozes críticas detalhadas nas fontes abertas fica registrada; o preço de fechamento da ação vem só do título da Forbes. A nota da Nvidia usa reportagem de 18 de novembro, sobre fala de 17. O Número e o Fechar têm uma fonte cada.",
+  "pontos": [
+   "Brasil 1: as regras vêm do ConJur e de O Globo; a ausência de reação de empresários e sindicatos ao decreto está dita.",
+   "Brasil 2: a diferença de cotação entre IstoÉ e Correio está registrada, assim como a do Ibovespa.",
+   "Brasil 3: serviços de São Paulo e Belém vêm de fontes diferentes, e cada um está atribuído; a história da data vem de página de 2023, usada só para fatos históricos.",
+   "Mundo 1: a avaliação de que a reunião produziu pouco é atribuída à CBS; a diferença sobre petróleo e derivados entre CBS e Reuters está no texto.",
+   "Mundo 2: o bloqueio saudita é atribuído ao Financial Times, com a negativa de Riade; não há posição brasileira nas fontes.",
+   "Mundo 3: a acusação sobre o segundo Sullivan traz a negativa de Peltola e a fala de Trump.",
+   "Inovação 1: sem adjetivos sobre a Anthropic; prejuízo e dúvidas de investidores estão no texto.",
+   "Inovação 2: o motivo não informado pela Nvidia está dito, sem especulação."
+  ],
+  "equilibrio": "Governo Lula: 3 menções (neutras); STF: 2; mercado: 2; empresários: 1. EUA: 4; China: 2; Rússia: 1; Arábia Saudita: 1, com resposta. Anthropic: 1, com aviso de conflito; Nvidia: 1.",
+  "foraDaEdicao": [
+   "Investigação da PF sobre a rede Rockbridge e a eleição brasileira: ordem de outubro, sem fato novo checado.",
+   "Eleição de Matan Kahana para a presidência do Parlamento de Israel: uma fonte só.",
+   "Lançamento do Gemini 4 Neon, do Google, e produtos da OpenAI: só fontes das próprias empresas ou boletins secundários.",
+   "Esportes e demais categorias extras: nenhum fato novo checado em duas fontes com contexto pronto até o fechamento."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: o decreto da escala 6x1, pelo efeito direto na rotina de milhões de trabalhadores.",
+   "Essencial: decreto, dólar e o feriado de hoje, por afetarem o bolso e o dia do leitor.",
+   "Toda nota tem página de contexto; uma nova, sobre o Dia da Consciência Negra."
+  ]
+ },
+ "geradaEm": "2026-11-20T07:45:55Z"
+}

@@ -1,13 +1,9 @@
 {
  "titulo": "Dólar, Bolsa e juros: como o mercado reage a um susto",
- "atualizado": "19 nov 2026",
+ "atualizado": "20 nov 2026",
  "selo": "Checado",
  "frase": "Quando investidores mudam de ideia sobre o futuro da economia de um país, eles vendem ações e reais e cobram juros mais altos para emprestar dinheiro ao governo. O dólar, o Ibovespa e os juros futuros medem esses três movimentos.",
  "linha": [
-  {
-   "d": "3 de novembro de 2026",
-   "t": "Lula grava pronunciamento depois de reunião com os ministros da Fazenda e do Planejamento sobre ajustes de pelo menos R$ 39,8 bilhões no Orçamento de 2027, segundo o Estadão."
-  },
   {
    "d": "4 de novembro de 2026",
    "t": "O Copom mantém a Selic em 13,75%."
@@ -35,6 +31,10 @@
   {
    "d": "18 de novembro de 2026",
    "t": "O dólar sobe 1,48% e fecha a R$ 5,868, quinta alta seguida e maior valor desde 15 de abril de 2025; o Ibovespa cai 1,34%, a 167.537 pontos. O BC vende US$ 1 bilhão em leilões de linha, segundo a Agência Brasil."
+  },
+  {
+   "d": "19 de novembro de 2026",
+   "t": "O dólar sobe 1,16% e fecha a R$ 5,935, sexta alta seguida; o BC vende US$ 1 bilhão das reservas em leilão à vista, e o Ibovespa cai 0,69%, segundo a IstoÉ."
   }
  ],
  "termos": [
@@ -65,6 +65,10 @@
   {
    "t": "Dívida bruta",
    "d": "Tudo o que União, estados e municípios devem, sem descontar o que têm a receber. Em setembro de 2026, ficou em 82,9% do PIB, segundo o Banco Central."
+  },
+  {
+   "t": "Leilão à vista",
+   "d": "Venda definitiva de dólares das reservas pelo Banco Central, sem compromisso de recompra, para conter a alta da moeda."
   }
  ],
  "quem": [
@@ -112,9 +116,9 @@
   }
  ],
  "observar": [
-  "A votação do ajuste fiscal na Câmara.",
-  "Novas atuações do Banco Central no câmbio.",
-  "As novas medidas fiscais citadas pelo ministro Dario Durigan."
+  "A votação do ajuste fiscal na Câmara, prevista para a próxima semana.",
+  "Novos leilões do Banco Central.",
+  "O anúncio da equipe econômica do novo mandato de Lula."
  ],
  "fontes": [
   {
@@ -244,12 +248,20 @@
   {
    "t": "O Tempo: dólar supera R$ 5,80",
    "u": "https://www.otempo.com.br/economia/2026/11/18/dolar-dispara-e-supera-a-marca-de-r-5-80"
+  },
+  {
+   "t": "IstoÉ: dólar a R$ 5,93",
+   "u": "https://istoe.com.br/dolar-hoje-19-novembro-2026-alta-593-banco-central"
+  },
+  {
+   "t": "Correio Braziliense: dólar e Ibovespa",
+   "u": "https://www.correiobraziliense.com.br/economia/2026/11/7541539-dolar-fecha-em-alta-e-ibovespa-cai-apesar-de-acao-do-banco-central.html"
   }
  ],
  "historia": [
   "O dólar, a Bolsa e os juros futuros funcionam como um termômetro da confiança dos investidores no país. Quando eles temem pelas contas públicas, vendem ações e reais e cobram juros maiores para emprestar ao governo. Isso encarece importados, pressiona a inflação e dificulta a queda da Selic.",
   "O susto mais recente começou depois do segundo turno da eleição presidencial, em outubro de 2026. No primeiro pregão após a reeleição de Lula, em 26 de outubro, o dólar subiu mais de 8% e o Ibovespa caiu 13,88%. Analistas ouvidos pela imprensa atribuíram a reação à expectativa frustrada de troca de governo e à preocupação com a dívida, que chegou a 82,9% do PIB em setembro. Na semana, o Ibovespa caiu 18,12%, a pior desde março de 2020, e o dólar subiu 9,15%, a maior alta semanal desde 2008. Bancos estrangeiros se dividiram: o Wells Fargo chamou a reação de exagerada; Citi e BCA Research rebaixaram ativos brasileiros.",
   "O governo reagiu em etapas. O Copom manteve a Selic em 13,75% e interrompeu os cortes, citando a piora fiscal. Em 8 de novembro, Lula foi à TV dizer que a dívida e os juros o preocupam e prometeu preservar as regras fiscais. A Bolsa subiu 2,22% no pregão seguinte. Em 11 de novembro, o governo enviou um pacote de ajuste de até R$ 60 bilhões para 2027.",
-  "Mesmo assim, o dólar voltou a subir: chegou a R$ 5,65 em 12 de novembro, o maior valor em 17 meses, com dúvidas sobre o que o Congresso vai aprovar e juros mais altos nos EUA. Em 16 de novembro, fechou a R$ 5,77, o maior valor desde abril de 2025, e o Ibovespa caiu 1,83%, segundo O Tempo. Analistas citaram a dívida, a alta dos juros futuros e a queda das bolsas americanas; o vice-presidente Geraldo Alckmin chamou o movimento de oscilação sem razão. O próximo teste é a votação final do pacote no Senado e na Câmara. Em 18 de novembro, a moeda subiu pela quinta vez seguida e fechou a R$ 5,868, o maior valor desde 15 de abril de 2025, mesmo com leilões do Banco Central; a alta desde o segundo turno chegou a 17,6%, segundo O Tempo."
+  "Mesmo assim, o dólar voltou a subir: chegou a R$ 5,65 em 12 de novembro, o maior valor em 17 meses, com dúvidas sobre o que o Congresso vai aprovar e juros mais altos nos EUA. Em 16 de novembro, fechou a R$ 5,77, o maior valor desde abril de 2025, e o Ibovespa caiu 1,83%, segundo O Tempo. Analistas citaram a dívida, a alta dos juros futuros e a queda das bolsas americanas; o vice-presidente Geraldo Alckmin chamou o movimento de oscilação sem razão. O próximo teste é a votação final do pacote no Senado e na Câmara. Em 18 de novembro, a moeda subiu pela quinta vez seguida e fechou a R$ 5,868, o maior valor desde 15 de abril de 2025, mesmo com leilões do Banco Central; a alta desde o segundo turno chegou a 17,6%, segundo O Tempo. Em 19 de novembro, o dólar subiu pela sexta vez seguida e fechou a R$ 5,935, o maior valor desde abril de 2025, mesmo depois de o Banco Central vender US$ 1 bilhão das reservas num leilão à vista; em novembro, a alta passou de 9%, segundo a IstoÉ."
  ]
 }

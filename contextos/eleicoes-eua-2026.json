@@ -1,6 +1,6 @@
 {
  "titulo": "As eleições de meio de mandato nos Estados Unidos",
- "atualizado": "8 nov 2026",
+ "atualizado": "20 nov 2026",
  "selo": "Checado",
  "frase": "A cada quatro anos, no meio do mandato presidencial, os americanos renovam a Câmara inteira, um terço do Senado e muitos governos estaduais. O resultado define se o presidente governa com ou sem maioria no Congresso.",
  "linha": [
@@ -33,8 +33,8 @@
    "t": "Prazo de certificação do resultado no Mississippi, onde a diferença no Senado era de cerca de 1.100 votos. O estado não tem recontagem formal."
   },
   {
-   "d": "18 de novembro de 2026",
-   "t": "Fim do prazo para votos do exterior no Alasca. Se ninguém tiver 50%, a apuração com voto ranqueado não começa antes dessa data. Com 74% contados, Peltola tinha 48,17% e Sullivan, 47,88%, segundo a Newsweek."
+   "d": "17 de novembro de 2026",
+   "t": "A AP declara a vitória de Mary Peltola no Alasca, com 50,1% contra 45,8% de Dan Sullivan. Os democratas chegam a 56 cadeiras no Senado, segundo o Anchorage Daily News."
   }
  ],
  "termos": [
@@ -57,6 +57,10 @@
   {
    "t": "Virar uma cadeira",
    "d": "Quando um partido conquista um lugar que era do outro."
+  },
+  {
+   "t": "Voto ranqueado",
+   "d": "Sistema em que o eleitor ordena os candidatos; se ninguém passa de 50%, os votos dos últimos colocados são redistribuídos."
   }
  ],
  "quem": [
@@ -91,6 +95,10 @@
   {
    "b": "Stephen Miller",
    "t": "novo chefe de gabinete da Casa Branca a partir de 9 de novembro, no lugar de Susie Wiles."
+  },
+  {
+   "b": "Mary Peltola",
+   "t": "senadora eleita pelo Alasca, democrata, primeira nativa do estado no Senado."
   }
  ],
  "disputa": [
@@ -108,8 +116,8 @@
   }
  ],
  "observar": [
-  "O resultado no Alasca, depois de 18 de novembro.",
-  "A certificação no Mississippi, até 13 de novembro.",
+  "A certificação do resultado no Alasca, em 25 de novembro.",
+  "O resultado da disputa pela Câmara no Alasca, ainda em apuração.",
   "Como Stephen Miller vai conduzir a relação com o novo Congresso.",
   "A posse do novo Congresso, em janeiro."
  ],
@@ -169,6 +177,19 @@
   {
    "t": "Fox News: Trump nomeia Stephen Miller",
    "u": "https://www.foxnews.com/politics/trump-names-stephen-miller-new-white-house-chief-staff-replacing-susie-wiles"
+  },
+  {
+   "t": "Anchorage Daily News: Peltola vence",
+   "u": "https://www.adn.com/politics/2026/11/17/democrat-mary-peltola-wins-us-senate-race-in-alaska-beating-incumbent-republican-dan-sullivan/"
+  },
+  {
+   "t": "Alaska Public Media: o resultado",
+   "u": "https://alaskapublic.org/news/politics/elections/2026-11-17/mary-peltola-wins-u-s-senate-seat-in-alaska"
   }
+ ],
+ "historia": [
+  "Nos EUA, a eleição de meio de mandato acontece dois anos depois da presidencial e renova toda a Câmara, um terço do Senado e muitos governos estaduais. Em 3 de novembro de 2026, estavam em jogo 435 cadeiras da Câmara, 35 do Senado e 36 governos estaduais, no segundo mandato de Donald Trump.",
+  "Antes da votação, os republicanos tinham 53 das 100 cadeiras do Senado. Na noite da eleição, a AP projetou maioria democrata no Senado, e a CNN, na Câmara. Nos dias seguintes, o presidente da Câmara, Mike Johnson, disse que não vai disputar a liderança republicana, e Trump trocou a chefe de gabinete, Susie Wiles, por Stephen Miller. O Departamento de Justiça tentou travar resultados no Alasca antes da eleição, mas os tribunais rejeitaram o pedido.",
+  "O Alasca foi a última disputa do Senado a ser definida. A democrata Mary Peltola, ex-deputada federal e de origem yup'ik, enfrentou o senador republicano Dan Sullivan e um segundo candidato chamado Dan Sullivan, cuja candidatura é investigada. Em 17 de novembro, a AP declarou a vitória dela, com 50,1% contra 45,8%, sem necessidade de voto ranqueado. Os democratas chegaram a 56 cadeiras, com nove viradas, o maior número desde 1958, segundo o Anchorage Daily News."
  ]
 }

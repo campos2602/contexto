@@ -1,0 +1,108 @@
+{
+ "titulo": "Dia de Zumbi e da Consciência Negra",
+ "atualizado": "20 nov 2026",
+ "selo": "Checada",
+ "frase": "O 20 de novembro lembra a morte de Zumbi dos Palmares e a resistência da população negra à escravidão no Brasil. Desde 2023, é feriado nacional.",
+ "historia": [
+  "Zumbi foi um dos últimos líderes do Quilombo dos Palmares, comunidade formada por pessoas que fugiram da escravidão no período colonial, segundo o SBT News. Ele morreu em 20 de novembro de 1695, na Serra dos Dois Irmãos, segundo o SBT News. Com o tempo, passou a ser lembrado como \"símbolo de resistência e de luta antirracista\", nas palavras de O Liberal.",
+  "O reconhecimento oficial da data veio em etapas. Em 2003, uma lei federal levou o tema ao currículo escolar, segundo o SBT News. Em 2011, a presidente Dilma Rousseff oficializou o Dia Nacional de Zumbi e da Consciência Negra, mas sem torná-lo feriado, segundo o SBT News. Cada estado ou cidade decidia se parava.",
+  "Até 2023, cerca de 1.260 cidades adotavam o feriado, segundo a Fundação Palmares citada pelo SBT News. Estados como São Paulo, Rio de Janeiro, Alagoas, Amapá, Amazonas e Mato Grosso tinham a folga em todo o território; em outros, nenhum município parava. Naquele ano, o Congresso aprovou e o presidente Luiz Inácio Lula da Silva sancionou a Lei 14.759, que tornou a data feriado em todo o país, segundo o Brasil de Fato.",
+  "Em 2026, o feriado cai numa sexta-feira. As agências bancárias não abrem, segundo a Febraban, e contas com vencimento no dia podem ser pagas sem juros na segunda-feira (23). Os Correios não têm atendimento presencial, e o INSS suspende perícias, mantendo o Meu INSS e a central 135. Prontos-socorros, UPAs, hospitais e o Samu funcionam 24 horas, enquanto as unidades básicas de saúde fecham, segundo o Brasil de Fato.",
+  "O funcionamento do comércio varia. Em São Paulo, lojas de rua dependem de acordo com os sindicatos, shoppings abrem em horário de feriado e metrô, trens e ônibus rodam em horário de domingo, com reforço perto da Avenida Paulista por causa da Marcha da Consciência Negra, segundo o Brasil de Fato. Em Belém, supermercados funcionam conforme cada empresa, UPAs e hospitais municipais atendem 24 horas e a maioria das lojas de shopping abre por volta das 11h ou 12h, segundo O Liberal."
+ ],
+ "linha": [
+  {
+   "d": "1695",
+   "t": "Zumbi dos Palmares morre em 20 de novembro, na Serra dos Dois Irmãos, em Alagoas, segundo o SBT News."
+  },
+  {
+   "d": "2003",
+   "t": "Lei federal leva o tema ao currículo escolar, segundo o SBT News."
+  },
+  {
+   "d": "2011",
+   "t": "Dilma Rousseff oficializa o Dia Nacional de Zumbi e da Consciência Negra, sem feriado nacional."
+  },
+  {
+   "d": "Até 2023",
+   "t": "Cerca de 1.260 cidades adotam a data como feriado, segundo a Fundação Palmares."
+  },
+  {
+   "d": "2023",
+   "t": "Lula sanciona a Lei 14.759, que torna o 20 de novembro feriado nacional."
+  },
+  {
+   "d": "20 de novembro de 2026",
+   "t": "Feriado numa sexta-feira: bancos e Correios fechados, segundo a Febraban e o Brasil de Fato."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Quilombo",
+   "d": "Comunidade formada por pessoas escravizadas que fugiam e se organizavam de forma autônoma, longe do controle dos senhores de escravos."
+  },
+  {
+   "t": "Feriado nacional",
+   "d": "Dia de descanso remunerado definido por lei federal, válido em todo o país."
+  },
+  {
+   "t": "Ponto facultativo",
+   "d": "Dia em que o órgão público decide se funciona; não obriga o comércio nem as empresas a fechar."
+  },
+  {
+   "t": "Convenção coletiva",
+   "d": "Acordo entre sindicatos de patrões e de empregados que define, entre outras coisas, se o comércio abre nos feriados."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Zumbi dos Palmares",
+   "t": "líder do Quilombo dos Palmares, morto em 1695."
+  },
+  {
+   "b": "Fundação Palmares",
+   "t": "órgão federal ligado à cultura afro-brasileira, que contava as cidades com o feriado antes da lei nacional."
+  },
+  {
+   "b": "Febraban",
+   "t": "federação dos bancos, que informa o funcionamento das agências nos feriados."
+  },
+  {
+   "b": "Dilma Rousseff",
+   "t": "presidente que oficializou o dia nacional em 2011, sem feriado."
+  },
+  {
+   "b": "Luiz Inácio Lula da Silva",
+   "t": "presidente que sancionou em 2023 a lei do feriado nacional."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Antes da lei nacional",
+   "t": "a folga dependia de cada lugar: o Distrito Federal tinha ponto facultativo, e em estados como Acre, Ceará, Pará, Pernambuco, Rio Grande do Sul e Santa Catarina nenhum município parava, segundo o SBT News, em 2023."
+  },
+  {
+   "b": "Comércio",
+   "t": "a abertura de lojas no feriado segue convenções coletivas entre sindicatos, segundo o Brasil de Fato; as reportagens não trazem posição de entidades empresariais sobre 2026."
+  }
+ ],
+ "observar": [
+  "O funcionamento do comércio, que depende de acordos locais em cada cidade.",
+  "As marchas e atos da Consciência Negra em São Paulo e em outras capitais.",
+  "A volta dos serviços bancários e dos Correios na segunda (23)."
+ ],
+ "fontes": [
+  {
+   "t": "Brasil de Fato: o que abre e fecha",
+   "u": "https://www.brasildefato.com.br/2026/11/18/consciencia-negra-confira-o-que-abre-e-o-que-fecha-no-feriado-de-20-de-novembro/"
+  },
+  {
+   "t": "O Liberal: o feriado em Belém",
+   "u": "https://www.oliberal.com/belem/o-que-abre-e-fecha-no-feriado-do-dia-da-consciencia-negra-veja-a-lista-1.1195737"
+  },
+  {
+   "t": "SBT News, 2023: a história da data",
+   "u": "https://sbtnews.sbt.com.br/noticia/brasil/266035-consciencia-negra-o-que-abre-e-fecha-e-onde-e-feriado"
+  }
+ ]
+}

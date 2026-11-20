@@ -1,13 +1,9 @@
 {
  "titulo": "Nvidia, China e a disputa pelos chips de inteligência artificial",
- "atualizado": "18 nov 2026",
+ "atualizado": "20 nov 2026",
  "selo": "Com ressalva",
  "frase": "Os chips da Nvidia são a base do treinamento de inteligência artificial. Desde 2022, os EUA limitam a venda dos modelos mais avançados à China, e a China, por sua vez, passou a restringir a compra de alguns deles.",
  "linha": [
-  {
-   "d": "Início de 2026",
-   "t": "A alfândega chinesa passa a barrar o H200, apesar da aprovação americana, segundo as duas fontes."
-  },
   {
    "d": "Agosto de 2026",
    "t": "A Nvidia registra despesa de US$ 400 milhões com estoque de H200 e diz que Pequim restringiu as vendas, segundo o What Led To."
@@ -35,6 +31,10 @@
   {
    "d": "17 de novembro de 2026",
    "t": "A Nvidia fatura US$ 115,8 bilhões no trimestre, alta de 103%, e prevê US$ 130 bilhões no seguinte. O conselho cria comitê de segurança nacional e controle de exportações, segundo a Forbes."
+  },
+  {
+   "d": "17 e 18 de novembro de 2026",
+   "t": "Colette Kress diz que a Nvidia não envia mais chips Hopper licenciados à China; a previsão de receita exclui o país, segundo a Reuters e a Fox Business."
   }
  ],
  "termos": [
@@ -112,10 +112,10 @@
   }
  ],
  "observar": [
-  "Quem assume de forma definitiva o comando da Nvidia.",
+  "Se a Nvidia retoma as vendas de H200 à China.",
   "O depoimento de Jensen Huang no Congresso, em 1º de dezembro.",
   "A reação do governo brasileiro à regra de chips.",
-  "A investigação do Departamento de Justiça sobre a Megaspeed."
+  "Quem assume de forma definitiva o comando da Nvidia."
  ],
  "fontes": [
   {
@@ -177,12 +177,20 @@
   {
    "t": "TechCrunch: a previsão de receita",
    "u": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+  },
+  {
+   "t": "TimesLIVE, com Reuters: a suspensão",
+   "u": "https://www.timeslive.co.za/news/sci-tech/2026-11-18-nvidia-stops-shipping-us-approved-ai-chips-to-china/"
+  },
+  {
+   "t": "Fox Business: a fala de Kress",
+   "u": "https://www.foxbusiness.com/fox-news-tech/nvidia-halts-china-ai-chip-shipments-despite-us-approval"
   }
  ],
  "historia": [
   "Os chips da Nvidia, chamados GPUs, viraram a base do treinamento de sistemas de inteligência artificial. Por isso, o governo dos EUA passou a tratá-los como tecnologia estratégica e, desde 2022, limita a venda dos modelos mais avançados à China. A Nvidia chegou a criar versões menos potentes, como o H20, para continuar vendendo ao mercado chinês, mas em abril de 2025 também ele passou a exigir licença.",
   "A política oscilou. Em dezembro de 2025, Donald Trump disse que clientes chineses aprovados poderiam comprar o H200, mais avançado, com 25% da receita indo para o governo americano. Do outro lado, a alfândega chinesa passou a barrar o H200 no início de 2026, e Pequim orientou empresas a reduzir compras. Em agosto, a Nvidia registrou despesa de US$ 400 milhões com estoque parado.",
   "Ao mesmo tempo, empresas chinesas encontraram outro caminho: alugar capacidade em data centers fora da China, sobretudo no Sudeste Asiático. Em novembro de 2026, uma investigação do New York Times encontrou escritórios vazios em empresas chinesas autorizadas a montar servidores com o H200, e a Megaspeed, empresa de nuvem de Singapura, entrou no centro do caso. O conselho da Nvidia abriu investigação sobre Jensen Huang, que deixou o comando da empresa em 12 de novembro.",
-  "A resposta do governo veio em 16 de novembro: o Departamento de Comércio passou a exigir licença para exportar chips avançados a Brasil, Indonésia, Malásia, Singapura e Tailândia e para que data centers deem acesso remoto a empresas chinesas, segundo o Nextgov. O Brasil foi incluído por risco \"acima do normal\" de desvio, segundo relatos do texto citados pelo Rio Times. A regra fica aberta a comentários por 60 dias. No dia seguinte, a Nvidia divulgou receita trimestral de US$ 115,8 bilhões, alta de 103% em um ano, no primeiro balanço sob a presidente interina, Colette Kress; o conselho criou um comitê de supervisão de controle de exportações."
+  "A resposta do governo veio em 16 de novembro: o Departamento de Comércio passou a exigir licença para exportar chips avançados a Brasil, Indonésia, Malásia, Singapura e Tailândia e para que data centers deem acesso remoto a empresas chinesas, segundo o Nextgov. O Brasil foi incluído por risco \"acima do normal\" de desvio, segundo relatos do texto citados pelo Rio Times. A regra fica aberta a comentários por 60 dias. No dia seguinte, a Nvidia divulgou receita trimestral de US$ 115,8 bilhões, alta de 103% em um ano, no primeiro balanço sob a presidente interina, Colette Kress; o conselho criou um comitê de supervisão de controle de exportações. Na mesma teleconferência, a presidente interina, Colette Kress, disse que a empresa deixou de enviar à China chips Hopper licenciados, como o H200, depois de vender US$ 2,4 bilhões deles no trimestre, sem explicar o motivo, segundo a Reuters."
  ]
 }

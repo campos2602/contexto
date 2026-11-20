@@ -1,6 +1,6 @@
 {
  "titulo": "O fim da escala 6x1: o que muda na jornada de trabalho",
- "atualizado": "18 nov 2026",
+ "atualizado": "20 nov 2026",
  "selo": "Checado",
  "frase": "Uma emenda à Constituição reduz a jornada máxima de 44 para 42 horas semanais e torna obrigatórias duas folgas por semana a partir de 16 de dezembro de 2026. O governo prepara um decreto que define como as empresas podem organizar as escalas.",
  "linha": [
@@ -30,7 +30,7 @@
   },
   {
    "d": "19 de novembro de 2026",
-   "t": "Data prevista para a assinatura do decreto no Palácio do Planalto."
+   "t": "Lula assina o Decreto 13.173/2026: salário mantido, divisor de 210 horas e depois 200, folga extra só em caráter excepcional e compensada, segundo o ConJur."
   },
   {
    "d": "16 de dezembro de 2026",
@@ -61,6 +61,10 @@
   {
    "t": "Lei complementar",
    "d": "Lei que detalha a Constituição e exige maioria absoluta no Congresso. A líder do governo no Senado diz que a emenda permite usar uma para casos específicos."
+  },
+  {
+   "t": "Divisor",
+   "d": "O número de horas mensais usado para transformar o salário em valor por hora, base de horas extras e adicionais."
   }
  ],
  "quem": [
@@ -96,9 +100,9 @@
   }
  ],
  "observar": [
-  "O texto do decreto, a ser publicado na quinta (19).",
-  "O julgamento das ações no plenário do STF.",
-  "Os acordos coletivos, que precisam sair até 16 de dezembro."
+  "As normas do Ministério do Trabalho para marítimos e trabalhadores de plataformas.",
+  "O julgamento das ações da CNC e da CNI no plenário do STF.",
+  "Os acordos coletivos, que precisam sair até 15 de dezembro."
  ],
  "fontes": [
   {
@@ -144,12 +148,20 @@
   {
    "t": "Tribuna do Sertão, com Agência O Globo: o anúncio de Marinho",
    "u": "https://www.tribunadosertao.com.br/financas/2026/11/17/1024146-ministro-do-trabalho-anuncia-regulamentacao-da-nova-jornada-na-quinta-feira"
+  },
+  {
+   "t": "ConJur: decreto assinado",
+   "u": "https://conjur.com.br/2026-nov-19/presidente-assina-decreto-que-regulamenta-o-fim-da-escala-6x1/"
+  },
+  {
+   "t": "Tribuna do Sertão, com O Globo: as regras",
+   "u": "https://www.tribunadosertao.com.br/financas/2026/11/19/1025584-lula-assina-decreto-que-regulamenta-o-fim-da-escala-6x1"
   }
  ],
  "historia": [
   "Durante décadas, a Constituição permitiu jornadas de até 44 horas por semana. Com isso, a escala 6x1, de seis dias de trabalho para um de folga, virou regra em boa parte do comércio, dos supermercados, dos restaurantes e dos serviços. Quem trabalha nessa escala costuma ter só um dia livre por semana, nem sempre no fim de semana. Esse modelo virou alvo de uma campanha por mais tempo de descanso, que chegou ao Congresso na forma de proposta de emenda à Constituição.",
   "A mudança foi aprovada em 2026 e promulgada em 16 de outubro como a Emenda Constitucional 141. Ela reduz a jornada máxima para 42 horas na transição, garante duas folgas remuneradas por semana e prevê queda gradual até 40 horas, sem corte de salário. O começo foi marcado para 16 de dezembro de 2026. A emenda deixou para depois os detalhes de como cada setor deve se organizar, e é aí que está a disputa atual.",
   "O governo prometeu um decreto para regulamentar as escalas. O ministro do Trabalho, Luiz Marinho, chegou a anunciá-lo para 9 de novembro, mas o texto foi adiado. Enquanto isso, entidades empresariais, como a CNI e a CNC, pediram ao Supremo que adiasse o início da nova jornada, citando dificuldades de adaptação no comércio, na indústria e nos serviços. O ministro Flávio Dino negou o adiamento, mas permitiu jornadas de até 8h24 por dia durante um ano, para distribuir as 42 horas em cinco dias.",
-  "A decisão de Dino passou a ser votada no plenário virtual do STF e chegou a quatro votos a favor em 13 de novembro. No dia seguinte, o ministro Luiz Fux pediu destaque, e o caso foi para o plenário físico, ainda sem data. A liminar continua valendo, e a Câmara apoia a data de 16 de dezembro, mas contesta pontos como a jornada de 8h24 sem acordo coletivo. O resultado define como milhões de trabalhadores e empresas vão começar a nova jornada. Em 17 de novembro, o ministro do Trabalho, Luiz Marinho, anunciou que Lula assina o decreto em 19 de novembro, e Flávio Dino mandou as ações ao plenário presencial do STF, sem data; a liminar continua valendo."
+  "A decisão de Dino passou a ser votada no plenário virtual do STF e chegou a quatro votos a favor em 13 de novembro. No dia seguinte, o ministro Luiz Fux pediu destaque, e o caso foi para o plenário físico, ainda sem data. A liminar continua valendo, e a Câmara apoia a data de 16 de dezembro, mas contesta pontos como a jornada de 8h24 sem acordo coletivo. O resultado define como milhões de trabalhadores e empresas vão começar a nova jornada. Em 17 de novembro, o ministro do Trabalho, Luiz Marinho, anunciou que Lula assina o decreto em 19 de novembro, e Flávio Dino mandou as ações ao plenário presencial do STF, sem data; a liminar continua valendo. Em 19 de novembro, Lula assinou o Decreto 13.173/2026, que mantém o salário mensal, muda o divisor da hora para 210 e depois 200, permite trabalhar excepcionalmente no segundo dia de folga com compensação no mês e mantém a escala 12x36, segundo o ConJur."
  ]
 }
