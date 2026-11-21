@@ -1,6 +1,6 @@
 {
  "titulo": "Armas nucleares: EUA, Rússia e China sem tratado",
- "atualizado": "20 nov 2026",
+ "atualizado": "21 nov 2026",
  "selo": "Checado",
  "frase": "Desde fevereiro de 2026, quando expirou o Novo START, os dois maiores arsenais nucleares do mundo não têm limite. Trump quer um novo acordo que inclua a China e marcou uma reunião com Xi e Putin.",
  "historia": [
@@ -11,10 +11,6 @@
   "Na reunião de 19 de novembro, na Kylin Villa, em Shenzhen, os três líderes conversaram por cerca de uma hora e meia. A declaração conjunta reafirmou que \"não há vencedores numa guerra nuclear\", defendeu uma reforma da ONU e criticou tribunais internacionais, mas não trouxe limite de arsenais nem acordo sobre a Ucrânia, segundo a CBS News. Putin disse que não negocia depois dos ataques à ponte da Crimeia e propôs que os europeus vão a Moscou, segundo a Reuters."
  ],
  "linha": [
-  {
-   "d": "Fevereiro de 2026",
-   "t": "Expira o Novo START, último tratado nuclear entre EUA e Rússia. Trump recusa estender por um ano e pede acordo com a China."
-  },
   {
    "d": "13 de novembro de 2026",
    "t": "A Casa Branca confirma a reunião de Trump, Xi e Putin em Shenzhen, à margem da Apec."
@@ -42,6 +38,10 @@
   {
    "d": "19 de novembro de 2026",
    "t": "Trump, Xi e Putin se reúnem por cerca de uma hora e meia em Shenzhen. A declaração conjunta reafirma que guerra nuclear não tem vencedores, sem limites de arsenais, segundo a CBS News."
+  },
+  {
+   "d": "20 de novembro de 2026",
+   "t": "Na Casa Branca, Trump diz que a reunião a três foi sobre a Ucrânia e que combinou com Xi regras para a IA, sem detalhar, segundo a NPR e a CBS."
   }
  ],
  "termos": [
@@ -163,6 +163,14 @@
   {
    "t": "The Moscow Times, com Reuters",
    "u": "https://www.themoscowtimes.com/2026/11/19/us-china-can-help-end-ukraine-war-trump-tells-xi-before-trilateral-with-putin-a94307"
+  },
+  {
+   "t": "GPB, com NPR: a entrevista de Trump",
+   "u": "https://www.gpb.org/news/2026/11/20/trump-holds-press-conference-after-meeting-xi-and-putin"
+  },
+  {
+   "t": "CBS News: ao vivo",
+   "u": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
   }
  ]
 }

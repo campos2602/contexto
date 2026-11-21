@@ -1,6 +1,6 @@
 {
  "titulo": "Dia de Zumbi e da Consciência Negra",
- "atualizado": "20 nov 2026",
+ "atualizado": "21 nov 2026",
  "selo": "Checada",
  "frase": "O 20 de novembro lembra a morte de Zumbi dos Palmares e a resistência da população negra à escravidão no Brasil. Desde 2023, é feriado nacional.",
  "historia": [
@@ -34,6 +34,10 @@
   {
    "d": "20 de novembro de 2026",
    "t": "Feriado numa sexta-feira: bancos e Correios fechados, segundo a Febraban e o Brasil de Fato."
+  },
+  {
+   "d": "19 e 20 de novembro de 2026",
+   "t": "Marchas em Recife e Salvador pedem a PEC da Reparação e o fim da escala 6x1, segundo o Diario de Pernambuco e o Brasil de Fato."
   }
  ],
  "termos": [
@@ -87,9 +91,8 @@
   }
  ],
  "observar": [
-  "O funcionamento do comércio, que depende de acordos locais em cada cidade.",
-  "As marchas e atos da Consciência Negra em São Paulo e em outras capitais.",
-  "A volta dos serviços bancários e dos Correios na segunda (23)."
+  "Se a PEC da Reparação avança no novo Congresso.",
+  "O financiamento do Estatuto da Igualdade Racial."
  ],
  "fontes": [
   {
@@ -103,6 +106,14 @@
   {
    "t": "SBT News, 2023: a história da data",
    "u": "https://sbtnews.sbt.com.br/noticia/brasil/266035-consciencia-negra-o-que-abre-e-fecha-e-onde-e-feriado"
+  },
+  {
+   "t": "Diario de Pernambuco: a marcha em Recife",
+   "u": "https://www.diariodepernambuco.com.br/vida-urbana/2026/11/11729561-marcha-da-consciencia-negra-reune-militantes-e-politicos-no-recife-por-reparacao-historica.html"
+  },
+  {
+   "t": "Brasil de Fato: a 47ª marcha em Salvador",
+   "u": "https://www.brasildefato.com.br/2026/11/17/47a-marcha-da-consciencia-negra-ocupa-o-centro-de-salvador-nesta-sexta-20/"
   }
  ]
 }

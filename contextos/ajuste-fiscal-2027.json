@@ -1,13 +1,9 @@
 {
  "titulo": "Ajuste fiscal de 2027: o pacote para equilibrar as contas",
- "atualizado": "19 nov 2026",
+ "atualizado": "21 nov 2026",
  "selo": "Checado",
  "frase": "Depois da reeleição, com o dólar em alta e a dívida pública em crescimento, o governo Lula enviou ao Congresso em 11 de novembro de 2026 um projeto com cortes de gastos e de benefícios fiscais de R$ 50 bilhões a R$ 60 bilhões para cumprir a meta de 2027.",
  "linha": [
-  {
-   "d": "8 de novembro de 2026",
-   "t": "Em rede nacional, Lula diz que a dívida e os juros o preocupam e promete preservar as regras fiscais."
-  },
   {
    "d": "11 de novembro de 2026",
    "t": "O governo envia o projeto de lei complementar, protocolado por Jaques Wagner (PT-BA). O dólar cai a R$ 5,56."
@@ -31,6 +27,10 @@
   {
    "d": "18 de novembro de 2026",
    "t": "O Senado rejeita três destaques, fecha acordo sobre a Lei Kandir e aprova o texto final por 69 a 2. O projeto vai à Câmara, segundo a Agência Senado."
+  },
+  {
+   "d": "19 de novembro de 2026",
+   "t": "O relator na Câmara, Mauro Benevides Filho, mantém o texto do Senado, e Hugo Motta marca a votação para 23 de novembro, segundo a Gazeta do Povo e a CNN Brasil."
   },
   {
    "d": "2030",
@@ -96,9 +96,9 @@
   }
  ],
  "observar": [
-  "A votação na Câmara, prevista para 23 ou 24 de novembro, segundo o Mix Vale.",
-  "Se os deputados mudam o texto.",
-  "A reação do dólar e dos juros futuros."
+  "A votação no plenário da Câmara, na segunda (23).",
+  "Se os deputados aprovam destaques que mudem o texto e o devolvam ao Senado.",
+  "A sanção de Lula e a reação do dólar."
  ],
  "fontes": [
   {
@@ -156,12 +156,20 @@
   {
    "t": "Mix Vale: 69 a 2",
    "u": "https://www.mixvale.com.br/2026/11/18/senado-aprova-ajuste-fiscal-por-69-votos-a-2-e-envia-texto-a-camara/"
+  },
+  {
+   "t": "Gazeta do Povo: Motta agenda votação",
+   "u": "https://www.gazetadopovo.com.br/republica/motta-agenda-votacao-ajuste-fiscal-lula-camara-segunda-feira-23/"
+  },
+  {
+   "t": "Itatiaia, com CNN Brasil: relator mantém texto",
+   "u": "https://www.itatiaia.com.br/politica/ajuste-fiscal-camara-relator-mantem-texto-senado/"
   }
  ],
  "historia": [
   "Em 2023, o governo Lula trocou o teto de gastos pelo arcabouço fiscal: as despesas federais passaram a poder crescer acima da inflação, até 2,5% ao ano, conforme a arrecadação. A regra permitiu ampliar gastos, mas a dívida bruta continuou subindo e deve fechar 2026 em 83,6% do PIB, segundo o NeoFeed.",
   "A desconfiança cresceu depois da reeleição. No primeiro pregão após o segundo turno, em 26 de outubro de 2026, o dólar subiu mais de 8% e o Ibovespa caiu 13,88%. O Copom interrompeu os cortes de juros citando a piora fiscal, e Lula foi à TV em 8 de novembro para dizer que a dívida o preocupa e prometer preservar as regras.",
   "Em 11 de novembro, o governo mandou ao Congresso um projeto de lei complementar com cortes de gastos e de benefícios fiscais estimados entre R$ 50 bilhões e R$ 60 bilhões para 2027. O texto reduz de 2,5% para 2% o limite de alta real das despesas e aumenta o corte de incentivos a empresas. No dia seguinte, o Senado aprovou o texto-base por 45 a 31.",
-  "Em 17 de novembro, sem acordo, o presidente do Senado, Davi Alcolumbre, adiou a votação dos quatro destaques. No dia seguinte, o plenário rejeitou três, e o quarto, sobre a Lei Kandir, foi retirado depois de acordo que elevou o repasse anual aos estados de R$ 1 bilhão para R$ 2 bilhões. O texto final passou por 69 votos a 2 e seguiu para a Câmara, onde o relator é Mauro Benevides (União-CE). Mesmo com o pacote, as projeções citadas pelo NeoFeed indicam que a dívida só começa a cair em 2030."
+  "Em 17 de novembro, sem acordo, o presidente do Senado, Davi Alcolumbre, adiou a votação dos quatro destaques. No dia seguinte, o plenário rejeitou três, e o quarto, sobre a Lei Kandir, foi retirado depois de acordo que elevou o repasse anual aos estados de R$ 1 bilhão para R$ 2 bilhões. O texto final passou por 69 votos a 2 e seguiu para a Câmara, onde o relator é Mauro Benevides (União-CE). Mesmo com o pacote, as projeções citadas pelo NeoFeed indicam que a dívida só começa a cair em 2030. Na Câmara, o relator Mauro Benevides Filho (União-CE) apresentou em 19 de novembro parecer sem mudanças no texto do Senado, e Hugo Motta marcou a votação para 23 de novembro. O governo passou a estimar economia de R$ 45,1 bilhões a R$ 50,1 bilhões em 2027, segundo a CNN Brasil."
  ]
 }

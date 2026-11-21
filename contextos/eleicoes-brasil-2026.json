@@ -1,13 +1,9 @@
 {
  "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
- "atualizado": "16 nov 2026",
+ "atualizado": "21 nov 2026",
  "selo": "Checado",
  "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
  "linha": [
-  {
-   "d": "26 de outubro de 2026",
-   "t": "Flávio desiste da anulação e diz que vai pedir a cassação da chapa de Lula por abuso de poder. O PL reconhece o resultado."
-  },
   {
    "d": "4 e 5 de novembro de 2026",
    "t": "O presidente do PT, Edinho Silva, encarregado por Lula, pede a MDB, PSD, PSB e União Brasil propostas para os ministérios e uma estimativa dos votos que cada partido pode dar no Congresso, segundo a Folha."
@@ -27,6 +23,10 @@
   {
    "d": "15 de novembro de 2026",
    "t": "Alckmin diz que Lula começa a definir os ministérios ao voltar de viagem, entre 16 e 17 de novembro, segundo a CNN Brasil."
+  },
+  {
+   "d": "19 de novembro de 2026",
+   "t": "Lula anuncia um ministério para pessoas idosas; a Esplanada pode chegar a 40 pastas, segundo a Gazeta do Povo."
   },
   {
    "d": "5 e 6 de janeiro de 2027",
@@ -126,7 +126,7 @@
  "observar": [
   "A defesa de Lula e Alckmin no TSE na ação do Novo.",
   "A diplomação dos eleitos.",
-  "A votação da PEC da Segurança Pública e a medida provisória do novo ministério.",
+  "O nome, o orçamento e a data de criação do ministério dos idosos.",
   "Quantos ministérios cada partido vai receber na reforma ministerial."
  ],
  "fontes": [
@@ -221,12 +221,20 @@
   {
    "t": "BNews: declaração de Alckmin",
    "u": "https://www.bnews.com.br/noticias/politica/lula-deve-iniciar-definicao-dos-ministros-do-quarto-mandato-na-proxima-semana-diz-alckmin.html"
+  },
+  {
+   "t": "Gazeta do Povo: a maior Esplanada",
+   "u": "https://www.gazetadopovo.com.br/republica/lula-anuncia-ministerio-dos-idosos-e-caminha-para-a-maior-esplanada-da-historia/"
+  },
+  {
+   "t": "Diario de Pernambuco, com Agência Brasil",
+   "u": "https://www.diariodepernambuco.com.br/politica/2026/11/11729535-lula-diz-que-ira-criar-o-ministerio-das-pessoas-idosas.html"
   }
  ],
  "historia": [
   "Em 2026, o Brasil elegeu presidente, governadores, senadores e deputados. O presidente Luiz Inácio Lula da Silva (PT) foi reeleito no segundo turno, em 25 de outubro, para o quarto mandato. O senador Flávio Bolsonaro (PL), adversário no segundo turno, não reconheceu o resultado de início e disse que tentaria anular a eleição; no dia seguinte, desistiu da anulação e anunciou um pedido de cassação da chapa por abuso de poder, e o PL reconheceu o resultado.",
   "A disputa seguiu na Justiça Eleitoral. Em 5 de novembro, o corregedor-geral, Ricardo Villas Bôas Cueva, aceitou uma ação do partido Novo que acusa Lula e o vice, Geraldo Alckmin, de abuso de poder político; ele disse que aceitar a ação não significa reconhecer irregularidade.",
   "Ao mesmo tempo, começou a montagem do novo governo. O presidente do PT, Edinho Silva, pediu a MDB, PSD, PSB e União Brasil propostas para os ministérios e uma estimativa de votos no Congresso. Em 15 de novembro, Alckmin disse que Lula discute a formação dos ministérios ao voltar de viagem, começando pelas áreas econômica e social.",
-  "Por causa de uma emenda constitucional de 2021, as posses mudaram de data: o presidente toma posse em 5 de janeiro de 2027, os governadores no dia 6 e os parlamentares em 1º de fevereiro."
+  "Por causa de uma emenda constitucional de 2021, as posses mudaram de data: o presidente toma posse em 5 de janeiro de 2027, os governadores no dia 6 e os parlamentares em 1º de fevereiro. Em 19 de novembro, Lula anunciou que vai criar um ministério para pessoas idosas. Com a divisão prevista da Justiça, a Esplanada pode passar de 38 para 40 pastas, recorde, segundo a Gazeta do Povo. Lula disse que não tem pressa para escolher a equipe."
  ]
 }

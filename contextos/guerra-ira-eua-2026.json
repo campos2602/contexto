@@ -1,13 +1,9 @@
 {
  "titulo": "A guerra entre Estados Unidos e Irã em 2026",
- "atualizado": "19 nov 2026",
+ "atualizado": "21 nov 2026",
  "selo": "Checado",
  "frase": "Estados Unidos e Israel entraram em guerra com o Irã no fim de fevereiro de 2026. Desde então houve cessar-fogo, um acordo provisório que venceu sem renovação, bloqueio naval e ataques no Estreito de Ormuz, enquanto mediadores tentam um acordo.",
  "linha": [
-  {
-   "d": "7 de novembro de 2026",
-   "t": "Os EUA criam a Força-Tarefa Iron Gate para vigiar as fronteiras terrestres do Irã e o mar Cáspio. Um avião americano inutiliza o navio M/V Huda no Golfo de Omã, segundo a Fox News."
-  },
   {
    "d": "8 de novembro de 2026",
    "t": "Trump diz à CNN que novos ataques são \"altamente improváveis\" se as negociações avançarem. O chanceler Abbas Araghchi diz que a Casa Branca deve escolher entre as condições do Irã e a guerra, segundo o Israel Hayom."
@@ -35,6 +31,10 @@
   {
    "d": "17 e 18 de novembro de 2026",
    "t": "Os EUA atacam um local de lançamento de mísseis da Guarda Revolucionária em Qeshm; o Irã lança drones contra a base de Ali Al-Salem, no Kuwait, e contra o Bahrein. Sem danos confirmados, segundo a The War Zone."
+  },
+  {
+   "d": "19 e 20 de novembro de 2026",
+   "t": "Trump diz não ter pressa para decidir sobre o Irã, cita um boato de bomba suja sem provas e diz que faria a guerra de novo, segundo a Axios e a CBS."
   }
  ],
  "termos": [
@@ -102,7 +102,7 @@
  "observar": [
   "A resposta dos EUA às sete condições do Irã, enviadas via Catar.",
   "A situação no Estreito de Ormuz e o preço do petróleo.",
-  "O que Trump diz sobre o Irã na reunião com Xi e Putin, na quinta (19)."
+  "Uma decisão de Trump, prometida para depois do começo do ano."
  ],
  "fontes": [
   {
@@ -192,6 +192,14 @@
   {
    "t": "Fox News: Kuwait e Qeshm",
    "u": "https://www.foxnews.com/world/iran-targets-us-air-base-kuwait-us-defensive-strikes-criticism-gulf-states"
+  },
+  {
+   "t": "Breitbart, com Axios: sem pressa",
+   "u": "https://www.breitbart.com/politics/2026/11/20/trump-to-give-white-house-press-conference-friday-recapping-china-trip/"
+  },
+  {
+   "t": "CBS News: bomba suja",
+   "u": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
   }
  ],
  "historia": [

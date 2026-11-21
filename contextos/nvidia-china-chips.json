@@ -1,13 +1,9 @@
 {
  "titulo": "Nvidia, China e a disputa pelos chips de inteligência artificial",
- "atualizado": "20 nov 2026",
+ "atualizado": "21 nov 2026",
  "selo": "Com ressalva",
  "frase": "Os chips da Nvidia são a base do treinamento de inteligência artificial. Desde 2022, os EUA limitam a venda dos modelos mais avançados à China, e a China, por sua vez, passou a restringir a compra de alguns deles.",
  "linha": [
-  {
-   "d": "Agosto de 2026",
-   "t": "A Nvidia registra despesa de US$ 400 milhões com estoque de H200 e diz que Pequim restringiu as vendas, segundo o What Led To."
-  },
   {
    "d": "3 de novembro de 2026",
    "t": "O Financial Times informa que a Nvidia exige que parceiros de nuvem vendam pelo menos 51% dos serviços a clientes de fora da China."
@@ -35,6 +31,10 @@
   {
    "d": "17 e 18 de novembro de 2026",
    "t": "Colette Kress diz que a Nvidia não envia mais chips Hopper licenciados à China; a previsão de receita exclui o país, segundo a Reuters e a Fox Business."
+  },
+  {
+   "d": "19 de novembro de 2026",
+   "t": "Ações da AMD caem 8% depois de relatório da Hunterbrook, que aposta na queda, sobre firmware em servidores de uma empresa chinesa da lista negra; a AMD nega, segundo a Reuters."
   }
  ],
  "termos": [
@@ -113,8 +113,8 @@
  ],
  "observar": [
   "Se a Nvidia retoma as vendas de H200 à China.",
+  "Se o governo americano investiga o caso da AMD.",
   "O depoimento de Jensen Huang no Congresso, em 1º de dezembro.",
-  "A reação do governo brasileiro à regra de chips.",
   "Quem assume de forma definitiva o comando da Nvidia."
  ],
  "fontes": [
@@ -185,6 +185,14 @@
   {
    "t": "Fox Business: a fala de Kress",
    "u": "https://www.foxbusiness.com/fox-news-tech/nvidia-halts-china-ai-chip-shipments-despite-us-approval"
+  },
+  {
+   "t": "The Standard, com Reuters: AMD",
+   "u": "https://www.thestandard.com.hk/finance/article/349076/AMD-shares-slide-as-report-says-China-links-could-invite-US-scrutiny"
+  },
+  {
+   "t": "IBTimes: Hunterbrook",
+   "u": "https://www.ibtimes.com/amd-shares-fall-hunterbrook-china-export-risks-3809979"
   }
  ],
  "historia": [

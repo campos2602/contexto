@@ -1,16 +1,12 @@
 {
  "titulo": "O fim dos combustíveis fósseis nas conferências do clima",
- "atualizado": "20 nov 2026",
+ "atualizado": "21 nov 2026",
  "selo": "Checado",
  "frase": "Petróleo, gás e carvão são a maior fonte das emissões que aquecem o planeta. Desde 2023, as conferências do clima da ONU discutem como os países vão deixá-los, mas grandes produtores resistem a prazos e metas obrigatórias.",
  "linha": [
   {
    "d": "Novembro de 2025",
    "t": "Na COP30, em Belém, cerca de 80 países tentam incluir a transição nas negociações formais; produtores como Arábia Saudita e Rússia se opõem, e o acordo final não cita os combustíveis fósseis, segundo a AFP e a Climate Home News."
-  },
-  {
-   "d": "Fim da COP30",
-   "t": "A presidência brasileira lança, por fora das negociações, o trabalho de um roteiro para a transição."
   },
   {
    "d": "3 de novembro de 2026",
@@ -27,6 +23,10 @@
   {
    "d": "16 a 18 de novembro de 2026",
    "t": "Rascunho da COP31 pede \"ação acelerada\" para eliminar os fósseis; a dois dias do fim, 21 itens seguem sem acordo e a Arábia Saudita é apontada como resistência, segundo o To Vima."
+  },
+  {
+   "d": "19 a 21 de novembro de 2026",
+   "t": "Novo rascunho da COP31 retira as menções aos combustíveis fósseis; sem acordo, a conferência é prorrogada, segundo a AP e o Independent."
   },
   {
    "d": "Até 2028",
@@ -112,10 +112,10 @@
   }
  ],
  "observar": [
-  "Se o trecho sobre fósseis e a meta de eletrificação sobrevivem na decisão final.",
-  "Se a COP31 é prorrogada além de 20 de novembro.",
+  "Se os fósseis voltam ao texto final da COP31.",
+  "Se o Panamá e os pequenos países insulares bloqueiam o acordo.",
   "Se o Brasil publica o próprio plano nacional de transição.",
-  "Se o tema segue até o balanço global de 2028."
+  "A COP32, em Adis Abeba, em novembro de 2027."
  ],
  "fontes": [
   {
@@ -177,11 +177,23 @@
   {
    "t": "Daily Sabah, com AFP",
    "u": "https://www.dailysabah.com/business/energy/cop31-draft-calls-for-accelerated-action-to-phase-out-fossil-fuels/amp"
+  },
+  {
+   "t": "AP, via ClickOrlando: prorrogação",
+   "u": "https://www.clickorlando.com/news/world/2026/11/21/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming/"
+  },
+  {
+   "t": "PBS NewsHour, com AP",
+   "u": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal"
+  },
+  {
+   "t": "The Independent, via Yahoo",
+   "u": "https://uk.news.yahoo.com/cop31-heading-towards-overtime-thanks-125933417.html"
   }
  ],
  "historia": [
   "Petróleo, gás e carvão são a maior fonte das emissões que aquecem o planeta. Em 2023, na COP28, em Dubai, quando quase 200 países aprovaram a \"transição para longe dos combustíveis fósseis nos sistemas de energia\", segundo a AFP. O texto não fixou prazos nem metas obrigatórias.",
   "Em novembro de 2025, na COP30, em Belém, cerca de 80 países tentaram levar a transição às negociações formais. Produtores como Arábia Saudita e Rússia se opuseram, e o acordo final não citou os combustíveis fósseis, segundo a AFP e a Climate Home News. A presidência brasileira lançou então, por fora das negociações, o trabalho de um roteiro. Divulgado em 3 de novembro de 2026, ele tem 182 páginas e três etapas até 2033, com a principal redução da produção entre 2031 e 2033.",
-  "A COP31 começou em 9 de novembro de 2026, em Antália, na Turquia, com a Austrália conduzindo as negociações. O primeiro rascunho, de 16 de novembro, pede \"ação acelerada\" para eliminar os fósseis, propõe que a eletricidade chegue a 35% da energia final até 2035 e triplica o dinheiro para adaptação, segundo o To Vima e a AFP. A Arábia Saudita estaria bloqueando esses trechos, segundo o Financial Times; Riade nega. A dois dias do fim, 21 itens seguiam sem acordo."
+  "A COP31 começou em 9 de novembro de 2026, em Antália, na Turquia, com a Austrália conduzindo as negociações. O primeiro rascunho, de 16 de novembro, pede \"ação acelerada\" para eliminar os fósseis, propõe que a eletricidade chegue a 35% da energia final até 2035 e triplica o dinheiro para adaptação, segundo o To Vima e a AFP. A Arábia Saudita estaria bloqueando esses trechos, segundo o Financial Times; Riade nega. A dois dias do fim, 21 itens seguiam sem acordo. O rascunho de 19 de novembro retirou as menções aos fósseis e a meta de US$ 120 bilhões para adaptação, segundo o Independent, e a conferência entrou em prorrogação no dia 21, segundo a AP."
  ]
 }
