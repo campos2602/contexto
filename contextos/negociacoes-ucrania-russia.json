@@ -1,13 +1,9 @@
 {
  "titulo": "Guerra na Ucrânia: onde estão as negociações",
- "atualizado": "18 nov 2026",
+ "atualizado": "22 nov 2026",
  "selo": "Checado",
  "frase": "A Rússia invadiu a Ucrânia em fevereiro de 2022. Desde então, houve rodadas de conversa sem acordo de paz; uma nova rodada, com os EUA, está prevista para novembro de 2026.",
  "linha": [
-  {
-   "d": "29 de outubro de 2026",
-   "t": "Ataques russos matam ao menos 20 pessoas, 14 numa estação de trem em Dnipro. Segundo o Wall Street Journal, a Ucrânia suspendeu informalmente ataques a refinarias russas."
-  },
   {
    "d": "30 e 31 de outubro de 2026",
    "t": "Moradores de Oleshky saem da cidade ocupada durante uma trégua local; quatro aviões pousam em Gomel, em Belarus, a caminho da Ucrânia."
@@ -35,6 +31,10 @@
   {
    "d": "17 de novembro de 2026",
    "t": "Ataque ucraniano derruba um arco e um vão da pista da ponte de Kerch; a ferrovia volta a funcionar à tarde. Mísseis russos fecham as duas principais pontes de Kiev, segundo a AP."
+  },
+  {
+   "d": "19 de novembro de 2026",
+   "t": "Em Berlim, Kushner e Witkoff encontram Zelensky e europeus. Kushner diz que a Europa entra na próxima rodada, segundo a Fox News."
   }
  ],
  "termos": [
@@ -108,9 +108,9 @@
   }
  ],
  "observar": [
-  "A reunião de Witkoff e Kushner com ucranianos e europeus em Berlim, na quinta (19).",
-  "O que Trump, Putin e Xi dizem sobre a guerra em Shenzhen.",
-  "A data da próxima rodada de negociações.",
+  "A data e o local da reunião multilateral com os europeus.",
+  "Se o Kremlin confirma publicamente a presença europeia.",
+  "A troca de prisioneiros prevista para as próximas semanas.",
   "O prazo para reabrir a pista da ponte de Kerch."
  ],
  "fontes": [
@@ -193,12 +193,24 @@
   {
    "t": "Just Security: resumo de 17 de novembro",
    "u": "https://www.justsecurity.org/164914/early-edition-november-17-2026/"
+  },
+  {
+   "t": "Fox News: Kushner em Berlim",
+   "u": "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough"
+  },
+  {
+   "t": "UNN: a reunião em Berlim",
+   "u": "https://unn.ua/en/news/witkoff-and-kushner-traveled-to-berlin-for-talks-with-zelenskyy-and-european-leaders"
+  },
+  {
+   "t": "Hurriyet Daily News: Europa na próxima rodada",
+   "u": "https://www.hurriyetdailynews.com/europe-to-join-next-ukraine-talks-us-envoy-says-229340"
   }
  ],
  "historia": [
   "A Rússia invadiu a Ucrânia em grande escala em 24 de fevereiro de 2022, oito anos depois de anexar a Crimeia, em 2014. A anexação não é reconhecida pela maioria dos países. Desde a invasão, houve rodadas de conversa, trocas de prisioneiros e tréguas locais, mas nenhum acordo de paz.",
   "Em 2026, os EUA passaram a mediar conversas diretas. Em 10 e 11 de novembro, Rússia, Ucrânia e EUA se reuniram em Abu Dhabi, nas primeiras conversas a três desde fevereiro. Vladimir Medinsky chefiou a delegação russa, Rustem Umerov a ucraniana, e Steve Witkoff e Jared Kushner mediaram. Saiu um acordo de troca de prisioneiros em grande escala, sem número nem data, e nenhum avanço sobre território.",
   "Em 12 de novembro, Witkoff e Kushner passaram cerca de duas horas com Vladimir Putin no Kremlin e depois encontraram Volodymyr Zelensky em Dublin. Witkoff disse que os europeus estariam na próxima rodada; o Kremlin não confirmou, e o assessor Yuri Ushakov disse depois que a participação europeia depende de um \"sinal claro\" da Europa.",
-  "Os combates continuaram durante as conversas. Na madrugada de 17 de novembro, um ataque ucraniano com drones e mísseis derrubou um arco e um vão da parte rodoviária da ponte de Kerch, que liga a Rússia à Crimeia e simboliza a anexação. Na mesma noite, mísseis russos fecharam as duas principais pontes de Kiev. Trump diz que vai tratar da guerra com Putin e Xi Jinping em 19 de novembro."
+  "Os combates continuaram durante as conversas. Na madrugada de 17 de novembro, um ataque ucraniano com drones e mísseis derrubou um arco e um vão da parte rodoviária da ponte de Kerch, que liga a Rússia à Crimeia e simboliza a anexação. Na mesma noite, mísseis russos fecharam as duas principais pontes de Kiev. Trump diz que vai tratar da guerra com Putin e Xi Jinping em 19 de novembro. Em Berlim, em 19 de novembro, Kushner e Witkoff se reuniram com Zelensky e líderes europeus, e Kushner disse que Rússia e EUA aceitaram incluir a Europa na rodada seguinte, segundo a Fox News e a UNN. Não há data."
  ]
 }

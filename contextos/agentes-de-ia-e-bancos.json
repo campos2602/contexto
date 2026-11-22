@@ -1,0 +1,109 @@
+{
+ "titulo": "Agentes de IA e bancos: quem responde pelo erro",
+ "atualizado": "22 nov 2026",
+ "selo": "Checado",
+ "frase": "Grandes bancos dos EUA mudaram seus termos de uso entre outubro e novembro de 2026: clientes que dão a agentes de IA de outras empresas acesso às suas contas respondem pelo que esses programas fizerem, inclusive se forem invadidos, segundo o TechCrunch.",
+ "historia": [
+  "Agentes de inteligência artificial são programas que executam tarefas sozinhos em nome de uma pessoa, como pesquisar preços, reservar, comprar e pagar. Para agir numa conta bancária, muitos precisam das credenciais do cliente, como login e senha. O boletim The Neuron, de 19 de novembro, aponta que esses assistentes passam a ganhar capacidade de iniciar transações.",
+  "Os bancos reagiram mudando os contratos. JPMorgan Chase e Bank of America, os dois maiores do país, anunciaram políticas desse tipo em outubro, segundo o TechCrunch. Em novembro, vieram o Citi, terceiro maior banco comercial dos EUA, o PNC, oitavo maior, que mudou os termos em 18 de novembro, e o Citizens, que avisou clientes por e-mail.",
+  "As regras têm o mesmo núcleo: quem conectar a conta a um agente de terceiros responde pelas operações feitas por ele. Se a ferramenta vazar as credenciais ou for invadida, o cliente responde também pelo que os invasores fizerem. Os bancos dizem que não vão desfazer transações feitas por esses assistentes, intencionais ou não. No Citi, os agentes oferecidos pelo próprio banco ficam fora da regra.",
+  "A reportagem do TechCrunch diz que os bancos também veem os agentes de IA como ameaça competitiva, porque podem ficar entre o banco e o cliente. Empresas de tecnologia já oferecem produtos nessa área. A ferramenta de finanças pessoais lançada pela Anthropic no começo de novembro, por exemplo, é descrita como de leitura apenas: mostra informações, mas não move nem investe dinheiro.",
+  "O Contexto é escrito com o Claude, da Anthropic, uma das empresas citadas. Por isso, notas sobre esse tema trazem aviso de conflito de interesse."
+ ],
+ "linha": [
+  {
+   "d": "Outubro de 2026",
+   "t": "JPMorgan Chase e Bank of America anunciam que clientes respondem por agentes de IA de terceiros, segundo o TechCrunch."
+  },
+  {
+   "d": "Início de novembro de 2026",
+   "t": "A Anthropic lança uma ferramenta de finanças pessoais de leitura apenas, segundo o TechCrunch."
+  },
+  {
+   "d": "Novembro de 2026",
+   "t": "O Citizens avisa clientes por e-mail que eles respondem por tudo o que o assistente de IA fizer."
+  },
+  {
+   "d": "18 de novembro de 2026",
+   "t": "O PNC muda seus termos, e o TechCrunch noticia a atualização do contrato do Citi."
+  },
+  {
+   "d": "19 de novembro de 2026",
+   "t": "O boletim The Neuron destaca a mudança à medida que os agentes passam a fazer pagamentos."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Agente de IA",
+   "d": "Programa que usa um modelo de inteligência artificial para executar tarefas em várias etapas sem que a pessoa precise fazer cada passo."
+  },
+  {
+   "t": "Credenciais",
+   "d": "Dados de acesso a uma conta, como login, senha e códigos de confirmação. Compartilhá-los com um programa dá a ele o mesmo acesso do cliente."
+  },
+  {
+   "t": "Agente de terceiros",
+   "d": "Assistente oferecido por outra empresa, e não pelo próprio banco. É o caso que as novas regras deixam por conta do cliente. No Citi, quem usa os agentes do próprio banco não assume essa responsabilidade extra, segundo o TechCrunch."
+  },
+  {
+   "t": "Termos de uso",
+   "d": "Contrato que o cliente aceita para usar os serviços online do banco. Pode ser alterado pelo banco, que avisa os clientes."
+  },
+  {
+   "t": "Reversão de transação",
+   "d": "Quando o banco desfaz uma operação, por exemplo em caso de fraude. Os bancos dizem que não vão fazer isso para operações de agentes de terceiros."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Citi",
+   "t": "terceiro maior banco comercial dos EUA, que atualizou o contrato em novembro."
+  },
+  {
+   "b": "JPMorgan Chase e Bank of America",
+   "t": "os dois maiores bancos dos EUA, que mudaram as regras em outubro."
+  },
+  {
+   "b": "PNC e Citizens",
+   "t": "bancos regionais que adotaram regras parecidas em novembro."
+  },
+  {
+   "b": "Empresas de IA",
+   "t": "como Anthropic, Google e OpenAI, que desenvolvem modelos usados em agentes."
+  },
+  {
+   "b": "Clientes",
+   "t": "pessoas que usam assistentes para organizar ou movimentar dinheiro e que, pelas novas regras, ficam com o risco das operações feitas por agentes de outras empresas."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Bancos:",
+   "t": "dizem que querem que os clientes entendam os riscos de compartilhar credenciais e que não vão desfazer operações de agentes de terceiros, segundo o TechCrunch."
+  },
+  {
+   "b": "Empresas de IA:",
+   "t": "a reportagem não traz resposta delas; segundo o TechCrunch, os bancos as veem como concorrentes."
+  },
+  {
+   "b": "Clientes e reguladores:",
+   "t": "as reportagens lidas não trazem posição de órgãos de defesa do consumidor ou de reguladores americanos."
+  }
+ ],
+ "observar": [
+  "Se reguladores americanos se manifestam sobre as novas regras.",
+  "Se outros bancos, nos EUA e no Brasil, adotam termos parecidos.",
+  "Se empresas de IA passam a oferecer garantias para operações feitas por seus agentes.",
+  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, citada neste tema."
+ ],
+ "fontes": [
+  {
+   "t": "TechCrunch: bancos e agentes de IA",
+   "u": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+  },
+  {
+   "t": "The Neuron: o resumo de 19 de novembro",
+   "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-19-2026/"
+  }
+ ]
+}

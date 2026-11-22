@@ -1,17 +1,9 @@
 {
  "titulo": "Eleição em Israel: como se forma um governo",
- "atualizado": "11 nov 2026",
+ "atualizado": "22 nov 2026",
  "selo": "Checado",
  "frase": "Na eleição de 27 de outubro de 2026, o bloco de Benjamin Netanyahu ficou com 53 das 120 cadeiras, e a aliança de Gadi Eisenkot, com 48. Em 8 de novembro, o presidente Isaac Herzog deu a Eisenkot a primeira chance de formar governo.",
  "linha": [
-  {
-   "d": "4 e 5 de novembro de 2026",
-   "t": "O presidente Isaac Herzog ouve os partidos antes de escolher quem tentará formar governo."
-  },
-  {
-   "d": "4 de novembro de 2026",
-   "t": "Herzog recebe o resultado oficial e começa as consultas. Ra'am e Yisrael Beytenu indicam Eisenkot; Sionismo Religioso, Shas e Zehut indicam Netanyahu."
-  },
   {
    "d": "5 de novembro de 2026",
    "t": "Último dia de consultas, com Likud e Yashar."
@@ -35,6 +27,14 @@
   {
    "d": "10 de novembro de 2026",
    "t": "Posse dos 120 deputados. O bloco de Eisenkot indica Matan Kahana para presidir o Parlamento e apresenta projetos para revogar a reforma judicial, segundo a JTA e o Jerusalem Post."
+  },
+  {
+   "d": "15 de novembro de 2026",
+   "t": "Netanyahu e Eisenkot se reúnem; cada um diz que deveria ser o primeiro-ministro, segundo a Al Jazeera."
+  },
+  {
+   "d": "17 de novembro de 2026",
+   "t": "Matan Kahana, aliado de Eisenkot, é eleito presidente do Parlamento por 66 a 52, com votos de partidos árabes, segundo a Al Jazeera."
   }
  ],
  "termos": [
@@ -91,6 +91,10 @@
   {
    "b": "Isaac Herzog",
    "t": "presidente de Israel, que convida um deputado para formar governo."
+  },
+  {
+   "b": "Matan Kahana",
+   "t": "presidente do Parlamento desde 17 de novembro, aliado de Eisenkot."
   }
  ],
  "disputa": [
@@ -108,10 +112,10 @@
   }
  ],
  "observar": [
-  "A votação sobre a presidência do Parlamento, em até uma semana.",
+  "O fim da pausa sobre a reforma judicial, na segunda (23).",
   "Se Eisenkot fecha acordo com os partidos ultraortodoxos.",
   "Se alguém da oposição aceita o governo de união proposto por Netanyahu.",
-  "O fim do prazo de Eisenkot, no início de dezembro, sem contar a prorrogação."
+  "O fim do prazo de Eisenkot, por volta de 6 de dezembro, sem contar a prorrogação."
  ],
  "fontes": [
   {
@@ -201,6 +205,21 @@
   {
    "t": "The Jerusalem Post: Kahana indicado",
    "u": "https://www.jpost.com/israel-election-2026/article-914426"
+  },
+  {
+   "t": "Al Jazeera: Kahana eleito presidente do Parlamento",
+   "u": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker"
+  },
+  {
+   "t": "Ynet: o acordo sobre a reforma judicial",
+   "u": "https://www.ynetnews.com/article/b1jkmr5cge"
   }
+ ],
+ "historia": [
+  "Israel escolhe o Parlamento, o Knesset, de 120 cadeiras, por listas nacionais. Nenhum partido costuma ter maioria sozinho, e o governo depende de uma coalizão de ao menos 61 deputados. Depois da eleição, o presidente ouve os partidos e convida quem tem mais chance de reunir essa maioria, que não precisa ser o líder do partido mais votado.",
+  "Na eleição de 27 de outubro de 2026, o bloco de Benjamin Netanyahu ficou com 53 cadeiras e o de Gadi Eisenkot, ex-chefe do Estado-Maior, com 48. Os partidos árabes somaram 19, recorde, segundo a Al Jazeera. Nas consultas de 4 e 5 de novembro, Eisenkot recebeu 67 indicações, com apoio do Yisrael Beytenu e de partidos de liderança árabe, e Netanyahu, 46.",
+  "Em 8 de novembro, o presidente Isaac Herzog deu a Eisenkot a primeira chance de formar governo, com 28 dias e possível prorrogação de 14. Netanyahu, primeiro-ministro interino, propôs um governo de união liderado por ele. Os dois se reuniram em 15 de novembro, e cada um disse que deveria chefiar o governo, segundo a Al Jazeera.",
+  "A primeira disputa foi pela presidência do Parlamento, que controla a pauta. Em 17 de novembro, depois de cerca de sete horas de debate, Matan Kahana, aliado de Eisenkot, venceu o candidato do Likud, Ofir Katz, por 66 a 52, com votos de partidos árabes. Em troca da votação, o bloco de Eisenkot aceitou não apresentar projetos para revogar a reforma judicial até 23 de novembro, segundo o Ynet.",
+  "Eisenkot descarta governar com partidos árabes. Com os ultraortodoxos Shas e Judaísmo Unido da Torá, chegaria a 61 cadeiras, segundo a Al Jazeera. Se ninguém formar governo, o processo pode levar a nova eleição."
  ]
 }

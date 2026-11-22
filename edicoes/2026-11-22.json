@@ -1,0 +1,859 @@
+{
+ "data": "2026-11-22",
+ "dia": "Domingo, 22 de novembro de 2026",
+ "leitura": "8 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje o título brasileiro do Flamengo, a semana decisiva do ajuste fiscal na Câmara e o texto final da COP31, sem menção aos combustíveis fósseis.",
+ "trinta": [
+  "O Flamengo empatou com o Palmeiras e é campeão brasileiro.",
+  "A Câmara começa a votar o ajuste fiscal na segunda; precisa de 257 votos.",
+  "O texto final da COP31 não cita combustíveis fósseis."
+ ],
+ "essencial": [
+  {
+   "id": "b2",
+   "porque": "O texto define cortes e limites de gastos de 2027."
+  },
+  {
+   "id": "m1",
+   "porque": "O resultado define o ritmo global de saída do petróleo."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Flamengo empata com o Palmeiras e é campeão brasileiro pela décima vez",
+     "contexto": "brasileirao-2026",
+     "texto": "O Flamengo empatou por 1 a 1 com o Palmeiras no sábado (21), no Nubank Parque, em São Paulo, e conquistou o Campeonato Brasileiro de 2026 com duas rodadas de antecedência, segundo a ESPN. É o segundo título seguido e o décimo do clube.",
+     "pq": "com 80 pontos, contra 74 do Palmeiras, o Flamengo chega a cinco títulos na era dos pontos corridos, desde 2003, à frente de Palmeiras e Corinthians, com quatro cada, segundo a TV Sim Brasil.",
+     "fontes": [
+      {
+       "t": "ESPN",
+       "u": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17544359/flamengo-empata-palmeiras-e-campeao-brasileiro-no-nubank-parque"
+      },
+      {
+       "t": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/sp/sao-paulo/esportes/noticia/2026/11/22/flamengo-campeao-brasileiro-10a-vez-empate-palmeiras"
+      }
+     ],
+     "completa": {
+      "fina": "A contagem de títulos do Flamengo é discutida, sobretudo a de 1987; ESPN e TV Sim Brasil falam no décimo título.",
+      "atualizada": "22 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Palmeiras abriu o placar com Jhon Arias aos 11 minutos do primeiro tempo, e Samuel Lino empatou no segundo tempo, após passe de Bruno Henrique, segundo a ESPN e a TV Sim Brasil. A ESPN registra o gol aos 35 minutos, e a TV Sim Brasil, aos 30. Com o resultado, na 36ª rodada, o Flamengo chegou a 80 pontos, seis à frente do Palmeiras, e não pode mais ser alcançado.",
+      "blocos": [
+       {
+        "h": "Os números da campanha",
+        "li": [
+         {
+          "b": "Pontos:",
+          "t": "80 para o Flamengo e 74 para o Palmeiras, com duas rodadas a jogar, segundo a ESPN."
+         },
+         {
+          "b": "Vitórias:",
+          "t": "24 do Flamengo e 21 do Palmeiras."
+         },
+         {
+          "b": "Títulos:",
+          "t": "a ESPN lista conquistas em 1980, 1982, 1983, 1987, 1992, 2009, 2019, 2020, 2025 e 2026."
+         },
+         {
+          "b": "Pontos corridos:",
+          "t": "é o quinto título do Flamengo desde 2003, quando o campeonato passou a ter turno e returno sem mata-mata; Palmeiras e Corinthians têm quatro cada, segundo a TV Sim Brasil."
+         },
+         {
+          "b": "Prêmio:",
+          "t": "o campeão deve receber cerca de R$ 48 milhões, e o vice, cerca de R$ 45 milhões, pela estimativa do Diário do Pará antes do jogo."
+         }
+        ]
+       },
+       {
+        "h": "O técnico",
+        "p": [
+         "O português Leonardo Jardim assumiu no lugar de Filipe Luís, que foi para o Monaco, e tem 50 jogos no comando, com 74% de aproveitamento, segundo a TV Sim Brasil. A renovação do contrato para 2027 ainda será discutida. Ele disse que sabia que nunca substituiria o carinho da torcida pelo antigo treinador."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Antes da rodada de meio de semana, em 17 de novembro, o Flamengo tinha 76 pontos, e o Palmeiras, 73, com quatro rodadas a jogar, segundo o Diário do Pará. O Flamengo venceu o Athletico-PR de virada na quarta (18) e chegou ao jogo em São Paulo precisando de um empate. Flamengo e Palmeiras já estão entre os 11 brasileiros na Libertadores de 2027."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Leonardo Jardim, técnico do Flamengo:",
+          "t": "\"Eu sabia que eu nunca iria substituir o carinho que as pessoas tinham pelo antigo treinador\", segundo a TV Sim Brasil."
+         },
+         {
+          "b": "Palmeiras:",
+          "t": "as reportagens lidas não trazem declaração do clube após o jogo."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se Jardim renova para 2027.",
+         "O valor final da premiação, a ser confirmado pela CBF."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Flamengo x Coritiba em 29 de novembro e Flamengo x Chapecoense em 2 de dezembro, segundo a ESPN."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "ESPN: o título",
+        "u": "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17544359/flamengo-empata-palmeiras-e-campeao-brasileiro-no-nubank-parque"
+       },
+       {
+        "t": "TV Sim Brasil: o décimo título",
+        "u": "https://tvsimbrasil.com.br/sp/sao-paulo/esportes/noticia/2026/11/22/flamengo-campeao-brasileiro-10a-vez-empate-palmeiras"
+       },
+       {
+        "t": "Diário do Pará: os cenários e o prêmio",
+        "u": "https://diariodopara.com.br/bola/flamengo-pode-ser-campeao-neste-sabado-e-faturar-r-48-milhoes-veja-os-cenarios/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Ajuste fiscal precisa de 257 votos na Câmara a partir de segunda",
+     "contexto": "ajuste-fiscal-2027",
+     "texto": "A Câmara começa a discutir o ajuste fiscal na segunda (23), em sessão extraordinária, e a votação final deve ficar para terça (24), segundo O Tempo e a Times Brasil. Por ser lei complementar, o texto precisa de ao menos 257 votos, segundo o SBT News.",
+     "pq": "se passar sem mudanças, vai à sanção; se mudar, volta ao Senado. O governo quer manter o texto e faz corpo a corpo com bancadas, segundo a CNN Brasil, reproduzida pela Itatiaia.",
+     "fontes": [
+      {
+       "t": "O Tempo",
+       "u": "https://www.otempo.com.br/canal-o-tempo/programas/primeira-analise/2026/11/19/ajuste-fiscal-de-lula-chega-a-camara-votacao-deve-ocorrer-na-proxima-semana-primeira-analise"
+      },
+      {
+       "t": "Times Brasil",
+       "u": "https://timesbrasil.com.br/brasil/motta-convoca-sessao-extraordinaria-para-discutir-ajuste-fiscal/"
+      },
+      {
+       "t": "SBT News",
+       "u": "https://sbtnews.sbt.com.br/noticia/politica/apos-senado-ajuste-fiscal-depende-da-camara-e-de-lula"
+      },
+      {
+       "t": "Itatiaia, com CNN Brasil",
+       "u": "https://www.itatiaia.com.br/politica/governo-articula-manter-impacto-plano-moretti-camara/"
+      }
+     ],
+     "completa": {
+      "fina": "As estimativas de economia variam de R$ 45,1 bilhões a R$ 72 bilhões, conforme a fonte e o cálculo.",
+      "atualizada": "22 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente da Câmara, Hugo Motta (Republicanos-PB), convocou sessão extraordinária para segunda-feira (23) para iniciar a análise do projeto de lei complementar do ajuste fiscal, e a votação conclusiva deve ficar para terça-feira (24), segundo O Tempo. A sessão de segunda não garante a votação final no mesmo dia, segundo a Times Brasil. O texto precisa de pelo menos 257 votos favoráveis, a maioria absoluta dos 513 deputados, segundo o SBT News.",
+      "blocos": [
+       {
+        "h": "Quanto o ajuste economiza",
+        "li": [
+         {
+          "b": "Governo:",
+          "t": "o ministro do Planejamento, Bruno Moretti, prevê cerca de R$ 50 bilhões de melhora nas contas de 2027, segundo o SBT News; O Tempo cita a faixa de R$ 45,1 bilhões a R$ 50,1 bilhões."
+         },
+         {
+          "b": "Antes do Senado:",
+          "t": "a estimativa chegava a R$ 56,1 bilhões."
+         },
+         {
+          "b": "Relator:",
+          "t": "Mauro Benevides Filho (União-CE) considera a conta do governo conservadora e diz que o efeito pode chegar a R$ 72 bilhões com o texto mantido, segundo a CNN Brasil."
+         }
+        ]
+       },
+       {
+        "h": "Os pontos de atrito",
+        "p": [
+         "O principal alerta é o limite para compensar créditos tributários, que os bancos querem retirar, segundo a CNN Brasil. No Senado, um destaque do senador Alan Rick (Republicanos-AC) com esse objetivo foi derrotado. O relator conversou com PT, União Brasil, PSB e PSD, vai procurar MDB e PP e debater o parecer com a bancada do PL na segunda. O pacote recebe críticas da oposição e de parte da base do governo, segundo O Tempo."
+        ]
+       },
+       {
+        "h": "O que o Senado mudou",
+        "p": [
+         "O Senado reduziu de 2,5% para 2% o limite de crescimento real dos gastos em anos de contenção, manteve o teto de R$ 3 bilhões para compensações previdenciárias, dobrou para R$ 2 bilhões o piso anual da Lei Kandir e cortou de 120 para 60 dias o prazo para regulamentar os supersalários, segundo o SBT News."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "O governo enviou o projeto em 11 de novembro. O Senado aprovou o texto final em 18 de novembro, por 69 votos a 2. Na quinta (19), o relator na Câmara apresentou parecer sem mudanças. O dólar subiu seis pregões seguidos até 19 de novembro, quando fechou a R$ 5,93."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Hugo Motta, presidente da Câmara:",
+          "t": "defendeu, em Buenos Aires, um ajuste \"mais robusto\" que mantenha a proteção social, segundo a Times Brasil."
+         },
+         {
+          "b": "Governo:",
+          "t": "quer aprovar sem mudanças para evitar a volta ao Senado, segundo O Tempo."
+         },
+         {
+          "b": "Bancos:",
+          "t": "querem retirar o limite à compensação de créditos tributários, segundo a CNN Brasil."
+         },
+         {
+          "b": "Oposição:",
+          "t": "as reportagens não detalham a orientação do PL para a votação."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantos votos o governo tem.",
+         "Se haverá destaques aprovados no plenário."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Discussão na segunda (23) e votação prevista para terça (24)."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "O Tempo: votação na próxima semana",
+        "u": "https://www.otempo.com.br/canal-o-tempo/programas/primeira-analise/2026/11/19/ajuste-fiscal-de-lula-chega-a-camara-votacao-deve-ocorrer-na-proxima-semana-primeira-analise"
+       },
+       {
+        "t": "Times Brasil: sessão extraordinária",
+        "u": "https://timesbrasil.com.br/brasil/motta-convoca-sessao-extraordinaria-para-discutir-ajuste-fiscal/"
+       },
+       {
+        "t": "SBT News: 257 votos",
+        "u": "https://sbtnews.sbt.com.br/noticia/politica/apos-senado-ajuste-fiscal-depende-da-camara-e-de-lula"
+       },
+       {
+        "t": "Itatiaia, com CNN Brasil: créditos tributários",
+        "u": "https://www.itatiaia.com.br/politica/governo-articula-manter-impacto-plano-moretti-camara/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Com ressalva",
+     "titulo": "COP31 apresenta texto final sem citar combustíveis fósseis",
+     "contexto": "combustiveis-fosseis-cop",
+     "texto": "Depois de dois dias de prorrogação, a presidência da COP31, em Antália, apresentou no domingo (22) um texto final que não cita combustíveis fósseis, segundo a ABC australiana. A sessão de aprovação estava marcada para as 3h de Brasília; até o fechamento, não havia confirmação do resultado.",
+     "pq": "o texto se refere ao acordo de 2023 sobre deixar os fósseis, mas sem nomeá-los, e tira a meta de US$ 120 bilhões para adaptação. Também saiu a menção ao roteiro brasileiro de transição, segundo o Health Policy Watch.",
+     "fontes": [
+      {
+       "t": "ABC News, Austrália",
+       "u": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330"
+      },
+      {
+       "t": "RTÉ, com Reuters",
+       "u": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/"
+      },
+      {
+       "t": "Health Policy Watch",
+       "u": "https://healthpolicy-watch.news/cop31-draft-deal-drops-fossil-fuels-references-as-final-session-goes-into-overtime/"
+      }
+     ],
+     "completa": {
+      "fina": "A nota leva selo de ressalva porque a aprovação formal ainda não estava confirmada no fechamento.",
+      "atualizada": "22 nov 2026, 5h",
+      "selo": "Com ressalva",
+      "fato": "A presidência turca da COP31 divulgou na madrugada de domingo (22), horário de Antália, uma proposta de texto final. As delegações tinham até as 3h GMT, meia-noite em Brasília, para apresentar objeções, e a sessão de aprovação foi marcada para as 6h GMT, 3h em Brasília, segundo a ABC News australiana e a Reuters. Até o fechamento desta edição, não havia notícia do resultado.",
+      "blocos": [
+       {
+        "h": "O que está no texto",
+        "li": [
+         {
+          "b": "Fósseis:",
+          "t": "não há menção a combustíveis fósseis; o texto alude ao acordo de 2023 sobre a transição, sem nomeá-los, segundo a ABC. A versão anterior falava só em \"transição global irreversível para baixas emissões\", segundo o Health Policy Watch."
+         },
+         {
+          "b": "Brasil:",
+          "t": "saiu a frase que saudava o roteiro brasileiro de transição para longe dos fósseis, que constava no primeiro rascunho."
+         },
+         {
+          "b": "Adaptação:",
+          "t": "o texto pede ao menos triplicar o dinheiro até 2035, sem valor, e cria um roteiro de Antália a Adis Abeba, sede da COP32. As necessidades de adaptação são de US$ 305 bilhões por ano, diz o próprio texto."
+         },
+         {
+          "b": "Eletrificação e captura de carbono:",
+          "t": "a meta de 35% de eletricidade no consumo final até 2035 vira opção de cooperação, e o texto pede acelerar a captura e o armazenamento de carbono."
+         }
+        ]
+       },
+       {
+        "h": "Quem resistiu",
+        "p": [
+         "Países da União Europeia e o Panamá tentaram recolocar o termo combustíveis fósseis no texto, segundo o Health Policy Watch. O Panamá ameaçou bloquear o acordo. Países produtores de petróleo, não nomeados pela publicação, retiraram o termo na primeira revisão. Só uma COP terminou sem acordo até hoje, segundo a ABC."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Na COP28, em 2023, quase 200 países aprovaram a transição para longe dos fósseis. Na COP30, em Belém, o texto final não os citou, e o Brasil lançou um roteiro por fora das negociações. O primeiro rascunho da COP31, de 16 de novembro, pedia \"ação acelerada\" para eliminá-los; o de 19 de novembro retirou as menções."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Murat Kurum, presidente da COP31:",
+          "t": "\"Acreditamos ter apresentado um texto com o qual todas as partes podem concordar\", segundo a Reuters."
+         },
+         {
+          "b": "Juan Carlos Navarro, ministro do Ambiente do Panamá:",
+          "t": "\"Esta COP foi sequestrada pelo petróleo\", segundo o Health Policy Watch."
+         },
+         {
+          "b": "Carsten Schneider, ministro do Ambiente da Alemanha:",
+          "t": "disse que alguns evitam a expressão porque \"ganham muito dinheiro com isso\"."
+         },
+         {
+          "b": "Mohamed Adow, da Power Shift Africa:",
+          "t": "\"Se esta versão do texto ficar, será uma COP fantasma\"."
+         },
+         {
+          "b": "Brasil:",
+          "t": "as reportagens não trazem posição do governo brasileiro."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o texto foi aprovado e se houve objeções.",
+         "Se a menção ao roteiro brasileiro volta."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Resultado da sessão de aprovação deste domingo (22).",
+         "COP32 em Adis Abeba, na Etiópia, em novembro de 2027."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "ABC News, Austrália: o texto final",
+        "u": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330"
+       },
+       {
+        "t": "RTÉ, com Reuters: perto do acordo",
+        "u": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/"
+       },
+       {
+        "t": "Health Policy Watch: o que saiu do texto",
+        "u": "https://healthpolicy-watch.news/cop31-draft-deal-drops-fossil-fuels-references-as-final-session-goes-into-overtime/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "EUA dizem que Europa entra nas próximas negociações sobre a Ucrânia",
+     "contexto": "negociacoes-ucrania-russia",
+     "texto": "Em Berlim, na quinta (19), o enviado americano Jared Kushner disse que Rússia e EUA aceitaram incluir a Europa na próxima rodada sobre a Ucrânia, segundo a Fox News. Zelensky pediu que a primeira reunião multilateral seja marcada \"o quanto antes\". Não há data.",
+     "pq": "a entrada da Europa era pedido da Ucrânia e dos europeus. Putin, porém, recusou tropas estrangeiras e diz que a única linha aceitável é \"a fronteira do Estado\", segundo o Hurriyet.",
+     "fontes": [
+      {
+       "t": "Fox News",
+       "u": "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough"
+      },
+      {
+       "t": "UNN",
+       "u": "https://unn.ua/en/news/witkoff-and-kushner-traveled-to-berlin-for-talks-with-zelenskyy-and-european-leaders"
+      },
+      {
+       "t": "Hurriyet Daily News",
+       "u": "https://www.hurriyetdailynews.com/europe-to-join-next-ukraine-talks-us-envoy-says-229340"
+      }
+     ],
+     "completa": {
+      "fina": "O Kremlin não confirmou publicamente que aceita os europeus na mesa, segundo o Hurriyet.",
+      "atualizada": "22 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Os enviados americanos Jared Kushner e Steve Witkoff se reuniram na quinta-feira (19), em Berlim, com Volodymyr Zelensky e líderes europeus da chamada Coalizão dos Dispostos, grupo que discute garantias de segurança para a Ucrânia, segundo a Fox News e a agência ucraniana UNN. Kushner disse que Moscou e o governo Trump concordaram com um formato multilateral que inclua a Europa.",
+      "blocos": [
+       {
+        "h": "O que ficou combinado",
+        "li": [
+         {
+          "b": "Formato:",
+          "t": "a próxima rodada deve incluir os europeus, segundo Kushner. Um funcionário da União Europeia disse que a reunião \"será marcada em breve\", segundo o Hurriyet."
+         },
+         {
+          "b": "Pauta:",
+          "t": "definir uma posição comum sobre os elementos de uma paz duradoura e preparar a agenda da próxima rodada, segundo a UNN."
+         },
+         {
+          "b": "Prisioneiros:",
+          "t": "milhares de prisioneiros de guerra devem voltar para casa nas próximas semanas, segundo a Fox News."
+         }
+        ]
+       },
+       {
+        "h": "A posição de Putin",
+        "p": [
+         "Depois de mais de quatro horas de conversa com Kushner e Witkoff no Kremlin, em 12 de novembro, Putin manteve a exigência de controlar partes da Ucrânia, recusou tropas estrangeiras de paz e zonas desmilitarizadas, segundo o Hurriyet. Disse que eventuais tropas estrangeiras seriam \"alvo legítimo\". Em Shenzhen, em 19 de novembro, disse que não negociaria depois dos ataques à ponte da Crimeia."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Os EUA mediam conversas entre Rússia e Ucrânia ao longo de 2026, com rodadas em Abu Dhabi e visitas a Moscou e Kiev. Em 12 de novembro, Kushner escreveu que os dois lados aceitaram ampliar a rodada seguinte aos europeus. Na entrevista de 20 de novembro, Trump disse que a reunião com Xi e Putin foi \"principalmente sobre a Ucrânia\"."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Volodymyr Zelensky, presidente da Ucrânia:",
+          "t": "\"Contamos com o lado americano para ajudar a organizar a primeira reunião multilateral\", segundo a Fox News."
+         },
+         {
+          "b": "Jared Kushner, enviado dos EUA:",
+          "t": "\"Diferenças significativas permanecem, mas estamos animados com o progresso\", segundo o Hurriyet."
+         },
+         {
+          "b": "Vladimir Putin, presidente da Rússia:",
+          "t": "\"Para nós, só há uma linha de demarcação: a fronteira do Estado\", segundo o Hurriyet."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "A data e o local da reunião multilateral.",
+         "Se a Rússia confirma publicamente a presença europeia.",
+         "Quais países europeus vão participar e se a Coalizão dos Dispostos terá representação própria.",
+         "Se a troca de prisioneiros anunciada pela Fox News acontece antes da nova rodada."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Anúncio do calendário da próxima rodada, prometido por Kushner \"em breve\"."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Fox News: Berlim",
+        "u": "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough"
+       },
+       {
+        "t": "UNN: a viagem a Berlim",
+        "u": "https://unn.ua/en/news/witkoff-and-kushner-traveled-to-berlin-for-talks-with-zelenskyy-and-european-leaders"
+       },
+       {
+        "t": "Hurriyet Daily News: Europa na mesa",
+        "u": "https://www.hurriyetdailynews.com/europe-to-join-next-ukraine-talks-us-envoy-says-229340"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Oposição a Netanyahu assume a presidência do Parlamento de Israel",
+     "contexto": "eleicao-israel-2026",
+     "texto": "Matan Kahana, aliado de Gadi Eisenkot, foi eleito presidente do Parlamento de Israel com 66 votos, contra 52 do candidato do Likud, Ofir Katz, com apoio de partidos árabes, segundo a AP, via Al Jazeera. A partir de segunda (23), o bloco pode votar projetos contra a reforma judicial.",
+     "pq": "o presidente do Parlamento controla a pauta e pode acelerar ou adiar votações. Ainda não há governo: Eisenkot tem até o início de dezembro para formá-lo, com possível prorrogação.",
+     "fontes": [
+      {
+       "t": "Al Jazeera, com AFP e AP",
+       "u": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker"
+      },
+      {
+       "t": "Ynet",
+       "u": "https://www.ynetnews.com/article/b1jkmr5cge"
+      }
+     ],
+     "completa": {
+      "fina": "O bloco de Eisenkot aceitou não votar a revogação da reforma judicial até segunda (23), segundo o Ynet.",
+      "atualizada": "22 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Parlamento de Israel elegeu em 17 de novembro Matan Kahana, aliado de Gadi Eisenkot, como presidente da casa, com 66 dos 120 votos, depois de cerca de sete horas de debate, segundo a AFP e a AP, publicadas pela Al Jazeera. O candidato do Likud, partido de Benjamin Netanyahu, Ofir Katz, teve 52. Votaram em Kahana o bloco de Eisenkot e as listas de partidos árabes.",
+      "blocos": [
+       {
+        "h": "O acordo e o prazo",
+        "p": [
+         "Em troca de a votação acontecer, o bloco de Eisenkot aceitou não apresentar projetos para revogar a reforma judicial até segunda-feira (23), segundo o Ynet. O Likud tentava adiar a troca enquanto discutia um governo de união. Netanyahu e Eisenkot se reuniram em 15 de novembro, e cada um disse que deveria ser o primeiro-ministro, segundo a Al Jazeera."
+        ]
+       },
+       {
+        "h": "A conta das cadeiras",
+        "li": [
+         {
+          "b": "Blocos:",
+          "t": "48 cadeiras para o bloco de Eisenkot, 53 para o de Netanyahu e 19 para partidos árabes, recorde, segundo a Al Jazeera. Nenhum lado tem maioria de 61."
+         },
+         {
+          "b": "Mandato:",
+          "t": "Eisenkot recebeu 67 indicações e tem 28 dias desde 8 de novembro, mais 14 de possível prorrogação, para formar governo."
+         },
+         {
+          "b": "Restrição:",
+          "t": "Eisenkot descarta governar com partidos árabes; com os ultraortodoxos Shas e Judaísmo Unido da Torá, chegaria a 61."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Na eleição de 2026, nenhum bloco obteve maioria. O presidente Isaac Herzog ouviu os partidos e, em 8 de novembro, deu a Eisenkot a primeira chance de formar governo. Netanyahu propôs um governo de união liderado por ele. Os deputados tomaram posse em 10 de novembro, quando o bloco de Eisenkot indicou Kahana."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Matan Kahana, novo presidente do Parlamento:",
+          "t": "\"Serei presidente do Parlamento para todos, independentemente de raça, religião ou gênero\", segundo a Al Jazeera."
+         },
+         {
+          "b": "Benjamin Netanyahu, primeiro-ministro interino:",
+          "t": "\"O resultado da eleição não foi o que eu queria\", segundo o Ynet, e insistiu num governo de união com os ultraortodoxos."
+         },
+         {
+          "b": "Ofir Katz, do Likud:",
+          "t": "disse que não deixaria a presidência ser manchada por \"votos de apoiadores do terror\", segundo o Ynet."
+         },
+         {
+          "b": "Gadi Eisenkot:",
+          "t": "chamou a indicação de \"um passo democrático apropriado\"."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se Eisenkot fecha acordo com os ultraortodoxos.",
+         "Se o bloco leva a voto a revogação da reforma judicial."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Fim da pausa sobre a reforma judicial na segunda (23).",
+         "Prazo de Eisenkot por volta de 6 de dezembro, sem contar a prorrogação."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Al Jazeera, com AFP e AP: Kahana eleito",
+        "u": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker"
+       },
+       {
+        "t": "Ynet: 66 votos",
+        "u": "https://www.ynetnews.com/article/b1jkmr5cge"
+       },
+       {
+        "t": "Al Jazeera: o mandato de Eisenkot",
+        "u": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Bancos dos EUA dizem que cliente responde por agente de IA",
+     "contexto": "agentes-de-ia-e-bancos",
+     "texto": "O Citi mudou seus termos nesta semana: quem der acesso à conta a agentes de IA de outras empresas responde pelo que eles fizerem, inclusive se forem hackeados, segundo o TechCrunch. JPMorgan, Bank of America, PNC e Citizens adotaram regras parecidas.",
+     "pq": "assistentes de IA começam a fazer pagamentos e transferências em nome das pessoas. Os bancos dizem que não vão reverter operações feitas por esses programas, e o risco fica com o cliente.",
+     "fontes": [
+      {
+       "t": "TechCrunch",
+       "u": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+      },
+      {
+       "t": "The Neuron",
+       "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-19-2026/"
+      }
+     ],
+     "completa": {
+      "fina": "Aviso de conflito de interesse: a reportagem cita uma ferramenta de finanças da Anthropic, empresa que desenvolve o Claude, usado pelo Contexto.",
+      "atualizada": "22 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Citibank, terceiro maior banco comercial dos EUA, atualizou nesta semana o contrato de uso online: clientes que derem acesso à conta a agentes de inteligência artificial de terceiros são responsáveis pelas atividades desses agentes, segundo o TechCrunch, em reportagem de 18 de novembro. Se a ferramenta vazar as credenciais ou for invadida, o cliente responde pelo que os invasores fizerem.",
+      "blocos": [
+       {
+        "h": "Quem mudou as regras",
+        "li": [
+         {
+          "b": "JPMorgan e Bank of America:",
+          "t": "os dois maiores bancos anunciaram políticas parecidas em outubro, segundo o TechCrunch."
+         },
+         {
+          "b": "PNC:",
+          "t": "oitavo maior banco, mudou os termos em 18 de novembro."
+         },
+         {
+          "b": "Citizens:",
+          "t": "mandou e-mail a clientes dizendo que eles respondem por tudo o que o assistente de IA fizer."
+         },
+         {
+          "b": "Exceção:",
+          "t": "no Citi, agentes oferecidos pelo próprio banco podem ser usados sem essa responsabilidade extra."
+         }
+        ]
+       },
+       {
+        "h": "O que muda para o cliente",
+        "li": [
+         {
+          "b": "Responsabilidade:",
+          "t": "quem conectar a conta a um agente de outra empresa responde pelas operações que ele fizer, segundo o TechCrunch."
+         },
+         {
+          "b": "Invasão:",
+          "t": "se a ferramenta for invadida ou vazar a senha, o cliente responde também pelo que os invasores fizerem."
+         },
+         {
+          "b": "Reversão:",
+          "t": "os bancos dizem que não vão desfazer essas transações, mesmo as feitas por engano."
+         },
+         {
+          "b": "Agentes do banco:",
+          "t": "no Citi, os assistentes oferecidos pelo próprio banco ficam fora da regra."
+         }
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "Os bancos dizem que não vão desfazer transações, intencionais ou não, feitas por assistentes automáticos, segundo o TechCrunch. A reportagem diz que os bancos também veem os agentes de IA como ameaça competitiva. A ferramenta de finanças pessoais lançada pela Anthropic no começo de novembro é descrita como de leitura apenas: não move nem investe dinheiro."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Empresas de tecnologia passaram a oferecer agentes, programas que executam tarefas sozinhos, como reservar, comprar e pagar. O boletim The Neuron, de 19 de novembro, aponta que a mudança ocorre à medida que esses assistentes ganham capacidade de iniciar transações."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Citi, por um porta-voz:",
+          "t": "\"Queremos que os clientes entendam os riscos de compartilhar credenciais bancárias\", segundo o TechCrunch."
+         },
+         {
+          "b": "Reguladores e defesa do consumidor:",
+          "t": "a reportagem não traz posição."
+         },
+         {
+          "b": "Empresas de IA:",
+          "t": "a reportagem não traz resposta."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se reguladores americanos vão se manifestar.",
+         "Se bancos brasileiros adotam regras semelhantes.",
+         "Como os bancos vão identificar quando uma operação foi feita por um agente de terceiros."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Os novos termos valem para contas pessoais nesses bancos."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "TechCrunch: bancos e agentes de IA",
+        "u": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+       },
+       {
+        "t": "The Neuron: resumo de 19 de novembro",
+        "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-19-2026/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Google lança Gemini 4 Neon, quarto modelo da série em sete semanas",
+     "contexto": "modelos-de-ia-de-fronteira",
+     "texto": "O Google lançou em 18 de novembro o Gemini 4 Neon, modelo intermediário entre o Carbon e o Hydrogen, a US$ 3 por milhão de palavras-código de entrada e US$ 15 de saída, segundo a empresa. É o quarto Gemini 4 em cerca de sete semanas, segundo a Latent Space.",
+     "pq": "o ritmo de lançamentos obriga empresas que usam esses sistemas a trocar e testar modelos com frequência. Aviso de conflito: o Google concorre com a Anthropic, que faz o Claude, usado pelo Contexto.",
+     "fontes": [
+      {
+       "t": "Google",
+       "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+      },
+      {
+       "t": "Latent Space",
+       "u": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/"
+      }
+     ],
+     "completa": {
+      "fina": "Aviso de conflito de interesse: a nota cita o Claude Fable 5.2, da Anthropic, empresa que desenvolve o Claude usado pelo Contexto, como concorrente do Neon.",
+      "atualizada": "22 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Google lançou na quarta-feira (18) o Gemini 4 Neon, voltado a programação, trabalho com documentos e ciência, segundo publicação de Koray Kavukcuoglu, vice-presidente do Google DeepMind. O modelo aceita até 1 milhão de tokens, as unidades de texto que os sistemas processam, e custa US$ 3 por milhão de tokens de entrada, US$ 0,15 em entrada repetida e US$ 15 por milhão de saída.",
+      "blocos": [
+       {
+        "h": "Os resultados divulgados",
+        "li": [
+         {
+          "b": "Índice da Artificial Analysis:",
+          "t": "61 pontos no modo de esforço máximo, terceiro lugar geral, segundo o Google; no modo alto, empata com o Carbon, com 60, segundo a Latent Space."
+         },
+         {
+          "b": "Índice da Vals:",
+          "t": "70,9%, segundo lugar, cerca de 0,4 ponto atrás do Claude Fable 5.2, da Anthropic, com menos da metade do custo por tarefa, segundo a Latent Space."
+         },
+         {
+          "b": "Custo:",
+          "t": "32% menos por tarefa que o Carbon no modo alto, segundo o Google."
+         }
+        ]
+       },
+       {
+        "h": "As ressalvas",
+        "p": [
+         "A maior parte dos resultados foi escolhida e divulgada pelo próprio Google. A Latent Space cita testes independentes: num deles, com 13 sessões, o modelo registrou 57 erros de capacidade e quatro execuções travadas. Em migração de código, a Vals registrou desempenho abaixo do Carbon e do Hydrogen, sem divulgar a nota. Índices como esses comparam modelos em tarefas padronizadas e não dizem, sozinhos, como cada um se sai no trabalho de uma empresa."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "O Google lançou o Gemini 4 Argon em outubro, o Carbon em 28 de outubro e o Hydrogen em 12 de novembro. O Argon foi aposentado, segundo a Latent Space. O preço do Carbon para desenvolvedores deve dobrar em 30 de novembro."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Koray Kavukcuoglu, do Google DeepMind:",
+          "t": "diz que o Neon foi treinado para \"concluir trabalho de várias etapas sem atalhos\" nem resultados inventados."
+         },
+         {
+          "b": "swyx, autor da Latent Space:",
+          "t": "\"O Neon tecnicamente supera o Carbon em algumas medidas, apesar de ser menor\"."
+         },
+         {
+          "b": "Concorrentes:",
+          "t": "as publicações não trazem resposta de OpenAI ou Anthropic."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como o modelo se sai em avaliações independentes completas.",
+         "Se o preço muda depois do lançamento, como no caso do Carbon."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O Neon está na API paga do Gemini e no aplicativo para assinantes Pro e Ultra.",
+         "O preço do Carbon para desenvolvedores deve dobrar em 30 de novembro, segundo a Latent Space."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Google: Gemini 4 Neon",
+        "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+       },
+       {
+        "t": "Latent Space: a recepção",
+        "u": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "US$ 305 bilhões",
+  "texto": "é quanto os países pobres precisam por ano para se adaptar à mudança do clima, diz o texto da COP31, que não fixa valor a pagar.",
+  "fontes": [
+   {
+    "t": "Health Policy Watch",
+    "u": "https://healthpolicy-watch.news/cop31-draft-deal-drops-fossil-fuels-references-as-final-session-goes-into-overtime/"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "O Flamengo gastou R$ 667,7 milhões em reforços em 2026, recorde de gastos anuais com elenco, segundo legenda do Diário do Pará.",
+  "fontes": [
+   {
+    "t": "Diário do Pará",
+    "u": "https://diariodopara.com.br/bola/flamengo-pode-ser-campeao-neste-sabado-e-faturar-r-48-milhoes-veja-os-cenarios/"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição cita o Google, que concorre com a Anthropic, compara o Gemini 4 Neon ao Claude Fable 5.2 e menciona uma ferramenta de finanças da Anthropic.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho, com ressalvas de domingo. O Brasil tem só duas notas: não houve terceiro fato novo checado em duas fontes no fim de semana. A nota da COP31 leva selo \"Com ressalva\", porque a aprovação formal do texto não estava confirmada no fechamento. As notas sobre Ucrânia e Israel tratam de fatos de 17 a 19 de novembro, com desdobramentos previstos para esta semana. Na nota do Gemini, a comparação com o Claude é atribuída à Latent Space e vem com aviso de conflito.",
+  "pontos": [
+   "Brasil 1: o minuto do gol de empate diverge entre ESPN e TV Sim Brasil, e as duas versões estão no texto; o prêmio é estimativa anterior ao jogo.",
+   "Brasil 2: as estimativas de economia vão de R$ 45,1 bilhões a R$ 72 bilhões, e cada uma está atribuída.",
+   "Mundo 1: a nota diz que não havia confirmação da aprovação; o bloqueio é atribuído a países produtores não nomeados.",
+   "Mundo 2: a duração da reunião no Kremlin é atribuída ao Hurriyet; a falta de confirmação russa sobre os europeus está dita.",
+   "Mundo 3: a fala de Katz sobre \"apoiadores do terror\" está entre aspas e atribuída.",
+   "Inovação 1: a falta de posição de reguladores e de empresas de IA está registrada.",
+   "Inovação 2: os resultados do Google estão marcados como divulgados pela própria empresa, com ressalvas de testes independentes."
+  ],
+  "equilibrio": "Governo Lula: 1 menção (neutra); Câmara: 2; oposição: 1. Mundo: União Europeia e Panamá: 1; EUA: 2; Rússia: 1; Ucrânia: 1; Israel, governo e oposição: 1 cada. Google: 1; Anthropic: 2, com aviso de conflito; bancos: 1.",
+  "foraDaEdicao": [
+   "Resultado da plenária final da COP31: não confirmado até o fechamento.",
+   "Terceira nota de Brasil: nenhum fato novo do fim de semana checado em duas fontes com contexto pronto.",
+   "Ação da Califórnia contra a OpenAI: aberta em 16 de novembro, já registrada no contexto de modelos de IA."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: o título do Flamengo, fato de maior alcance do fim de semana; o ajuste fiscal fica no Essencial.",
+   "Brasil com duas notas, abaixo do padrão, por falta de fatos checados; registrado no parecer.",
+   "Duas páginas de contexto novas: Brasileirão 2026 e agentes de IA nos bancos."
+  ]
+ },
+ "geradaEm": "2026-11-22T07:41:51Z"
+}

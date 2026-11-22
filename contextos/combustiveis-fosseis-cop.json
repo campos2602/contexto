@@ -1,13 +1,9 @@
 {
  "titulo": "O fim dos combustíveis fósseis nas conferências do clima",
- "atualizado": "21 nov 2026",
+ "atualizado": "22 nov 2026",
  "selo": "Checado",
  "frase": "Petróleo, gás e carvão são a maior fonte das emissões que aquecem o planeta. Desde 2023, as conferências do clima da ONU discutem como os países vão deixá-los, mas grandes produtores resistem a prazos e metas obrigatórias.",
  "linha": [
-  {
-   "d": "Novembro de 2025",
-   "t": "Na COP30, em Belém, cerca de 80 países tentam incluir a transição nas negociações formais; produtores como Arábia Saudita e Rússia se opõem, e o acordo final não cita os combustíveis fósseis, segundo a AFP e a Climate Home News."
-  },
   {
    "d": "3 de novembro de 2026",
    "t": "A presidência da COP30 divulga o roteiro, de 182 páginas, com três etapas até 2033, e um plano para acabar com o desmatamento até 2030."
@@ -27,6 +23,10 @@
   {
    "d": "19 a 21 de novembro de 2026",
    "t": "Novo rascunho da COP31 retira as menções aos combustíveis fósseis; sem acordo, a conferência é prorrogada, segundo a AP e o Independent."
+  },
+  {
+   "d": "22 de novembro de 2026",
+   "t": "A presidência da COP31 apresenta o texto final sem citar combustíveis fósseis; a sessão de aprovação foi marcada para as 3h de Brasília, segundo a ABC."
   },
   {
    "d": "Até 2028",
@@ -112,8 +112,8 @@
   }
  ],
  "observar": [
-  "Se os fósseis voltam ao texto final da COP31.",
-  "Se o Panamá e os pequenos países insulares bloqueiam o acordo.",
+  "Se o texto final da COP31 foi aprovado sem objeções.",
+  "Se a União Europeia e o Panamá aceitam o acordo sem os fósseis.",
   "Se o Brasil publica o próprio plano nacional de transição.",
   "A COP32, em Adis Abeba, em novembro de 2027."
  ],
@@ -189,11 +189,23 @@
   {
    "t": "The Independent, via Yahoo",
    "u": "https://uk.news.yahoo.com/cop31-heading-towards-overtime-thanks-125933417.html"
+  },
+  {
+   "t": "ABC: o texto final sem os fósseis",
+   "u": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330"
+  },
+  {
+   "t": "Health Policy Watch: o rascunho e a prorrogação",
+   "u": "https://healthpolicy-watch.news/cop31-draft-deal-drops-fossil-fuels-references-as-final-session-goes-into-overtime/"
+  },
+  {
+   "t": "RTÉ: a COP31 na Turquia",
+   "u": "https://www.rte.ie/news/world/2026/1122/1600166-cop31-turkey/"
   }
  ],
  "historia": [
   "Petróleo, gás e carvão são a maior fonte das emissões que aquecem o planeta. Em 2023, na COP28, em Dubai, quando quase 200 países aprovaram a \"transição para longe dos combustíveis fósseis nos sistemas de energia\", segundo a AFP. O texto não fixou prazos nem metas obrigatórias.",
   "Em novembro de 2025, na COP30, em Belém, cerca de 80 países tentaram levar a transição às negociações formais. Produtores como Arábia Saudita e Rússia se opuseram, e o acordo final não citou os combustíveis fósseis, segundo a AFP e a Climate Home News. A presidência brasileira lançou então, por fora das negociações, o trabalho de um roteiro. Divulgado em 3 de novembro de 2026, ele tem 182 páginas e três etapas até 2033, com a principal redução da produção entre 2031 e 2033.",
-  "A COP31 começou em 9 de novembro de 2026, em Antália, na Turquia, com a Austrália conduzindo as negociações. O primeiro rascunho, de 16 de novembro, pede \"ação acelerada\" para eliminar os fósseis, propõe que a eletricidade chegue a 35% da energia final até 2035 e triplica o dinheiro para adaptação, segundo o To Vima e a AFP. A Arábia Saudita estaria bloqueando esses trechos, segundo o Financial Times; Riade nega. A dois dias do fim, 21 itens seguiam sem acordo. O rascunho de 19 de novembro retirou as menções aos fósseis e a meta de US$ 120 bilhões para adaptação, segundo o Independent, e a conferência entrou em prorrogação no dia 21, segundo a AP."
+  "A COP31 começou em 9 de novembro de 2026, em Antália, na Turquia, com a Austrália conduzindo as negociações. O primeiro rascunho, de 16 de novembro, pede \"ação acelerada\" para eliminar os fósseis, propõe que a eletricidade chegue a 35% da energia final até 2035 e triplica o dinheiro para adaptação, segundo o To Vima e a AFP. A Arábia Saudita estaria bloqueando esses trechos, segundo o Financial Times; Riade nega. A dois dias do fim, 21 itens seguiam sem acordo. O rascunho de 19 de novembro retirou as menções aos fósseis e a meta de US$ 120 bilhões para adaptação, segundo o Independent, e a conferência entrou em prorrogação no dia 21, segundo a AP. No domingo (22), a presidência turca apresentou um texto final que não cita combustíveis fósseis e retira a menção ao roteiro brasileiro, segundo a ABC australiana e o Health Policy Watch. União Europeia e Panamá tentaram recolocar o termo."
  ]
 }
