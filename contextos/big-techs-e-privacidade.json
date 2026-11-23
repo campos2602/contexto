@@ -1,13 +1,13 @@
 {
  "titulo": "Big techs e privacidade: as multas na Europa",
- "atualizado": "15 nov 2026",
+ "atualizado": "23 nov 2026",
  "selo": "Checado",
  "frase": "Na União Europeia, reguladores nacionais podem multar empresas que usam dados pessoais sem consentimento. Em novembro de 2026, a Itália multou a Meta em 805 milhões de euros por acesso a fotos do celular.",
  "historia": [
   "Aplicativos de celular podem pedir acesso à galeria de fotos para funções simples, como publicar uma imagem. O problema começa quando esse acesso é usado para outra coisa sem que o usuário saiba. Na Europa, as regras de proteção de dados exigem consentimento específico e informação clara sobre o uso, e cada país tem uma autoridade para fiscalizar.",
   "Em 2023, a Meta lançou no Facebook para Android um recurso que sugeria fotos e vídeos da galeria do celular como ideias de publicação enquanto o usuário navegava, segundo a agência italiana Ansa. Em 2025, a autoridade de proteção de dados da Itália, o Garante, abriu uma investigação sobre o recurso.",
   "Em 14 de novembro de 2026, o Garante concluiu que o aplicativo acessou fotos, vídeos e metadados de usuários italianos sem consentimento específico e sem informação adequada. Multou a Meta em 805 milhões de euros, cerca de 0,47% da receita global da empresa, e deu 60 dias para desligar o recurso por padrão, segundo a Agência Brasil.",
-  "A decisão foi anunciada pelo próprio Garante e noticiada pela Reuters, de Milão, e pela Ansa. Em dólares, a multa equivale a cerca de US$ 887 milhões. A Meta não comentou de imediato quando procurada pela Reuters. O caso chama atenção porque não trata do que o usuário publica na rede social, mas de arquivos guardados no próprio celular, que o aplicativo lia para sugerir publicações.",
+  "A decisão foi anunciada pelo próprio Garante e noticiada pela Reuters, de Milão, e pela Ansa. Em dólares, a multa equivale a cerca de US$ 887 milhões. A Meta não comentou de imediato quando procurada pela Reuters. O caso chama atenção porque não trata do que o usuário publica na rede social, mas de arquivos guardados no próprio celular, que o aplicativo lia para sugerir publicações. Em 20 de novembro, o Signal anunciou que vai bloquear capturas de tela no Android e no iOS para impedir que assistentes como a Siri e o Gemini leiam as conversas, segundo o TechCrunch e o BleepingComputer.",
   "A investigação não tratou do uso das imagens para treinar inteligência artificial, o que a Meta nega fazer. O Garante pode analisar à parte um recurso de 2026 que processa a galeria na nuvem. Segundo a Ansa, a empresa prepara recurso."
  ],
  "linha": [
@@ -26,6 +26,10 @@
   {
    "d": "14 de novembro de 2026",
    "t": "O Garante multa a Meta em 805 milhões de euros e dá 60 dias para mudar o recurso."
+  },
+  {
+   "d": "20 de novembro de 2026",
+   "t": "O Signal anuncia bloqueio de capturas de tela no celular contra assistentes de IA dos sistemas, segundo o TechCrunch."
   },
   {
    "d": "Janeiro de 2027",
@@ -104,6 +108,14 @@
   {
    "t": "Ansa: multa de 805 milhões",
    "u": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
+  },
+  {
+   "t": "TechCrunch: o Signal e as capturas de tela",
+   "u": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+  },
+  {
+   "t": "BleepingComputer: Siri e Gemini",
+   "u": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
   }
  ]
 }

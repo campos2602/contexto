@@ -1,8 +1,8 @@
 {
  "titulo": "Temporais e tornados no Sul e no Sudeste em novembro de 2026",
- "atualizado": "8 nov 2026",
+ "atualizado": "23 nov 2026",
  "selo": "Checado",
- "frase": "Desde 1º de novembro, temporais atingem o Sul e o Sudeste. Em Santa Catarina, a primeira onda atingiu 109 cidades, com tornados e duas mortes; uma nova chuva forte no sábado (7) deixou 218 desabrigados.",
+ "frase": "Desde 1º de novembro, temporais atingem o Sul e o Sudeste. Em 20 de novembro, uma tempestade com granizo atingiu quase todas as casas de Tupanciretã (RS), e o governo federal reconheceu calamidade pública.",
  "linha": [
   {
    "d": "1º de novembro de 2026",
@@ -25,12 +25,16 @@
    "t": "Santa Catarina chega a 109 municípios atingidos, 32 em situação de emergência e duas mortes, em Rio Negrinho e Xanxerê. O estado distribui mais de 56 mil itens, segundo a Defesa Civil."
   },
   {
-   "d": "8 de novembro de 2026",
-   "t": "A temperatura deve começar a cair em São Paulo, segundo a TV Sim Brasil."
-  },
-  {
    "d": "7 de novembro de 2026",
    "t": "Nova chuva forte em Santa Catarina deixa 218 desabrigados e 44 desalojados, com 768 casas danificadas em 40 municípios. Rio do Sul tem 147 desabrigados; Agronômica e Bocaina do Sul decretam emergência, segundo o ND Mais."
+  },
+  {
+   "d": "11 de novembro de 2026",
+   "t": "O governo federal anuncia R$ 1,7 bilhão para enfrentar os efeitos do El Niño, segundo o Rondoniaovivo."
+  },
+  {
+   "d": "20 a 22 de novembro de 2026",
+   "t": "Granizo atinge 8 mil das 8,6 mil casas de Tupanciretã (RS). O governo reconhece calamidade e aprova R$ 4,7 milhões, segundo a CNN Brasil."
   }
  ],
  "termos": [
@@ -79,6 +83,10 @@
   {
    "b": "Voe Xap",
    "t": "concessionária do aeroporto de Chapecó, que suspendeu as operações."
+  },
+  {
+   "b": "Ministério da Integração e do Desenvolvimento Regional",
+   "t": "reconhece calamidades e libera ajuda federal; o ministro é Waldez Góes."
   }
  ],
  "disputa": [
@@ -96,10 +104,9 @@
   }
  ],
  "observar": [
-  "O balanço da chuva de sábado (7) em Santa Catarina.",
-  "O nível do rio Itajaí-Açu em Rio do Sul e Blumenau.",
-  "Novos decretos de emergência.",
-  "A reabertura do aeroporto de Chapecó."
+  "A reconstrução em Tupanciretã e a volta do hospital municipal.",
+  "Novos balanços da Defesa Civil do RS.",
+  "O uso dos R$ 1,7 bilhão contra os efeitos do El Niño."
  ],
  "fontes": [
   {
@@ -129,6 +136,24 @@
   {
    "t": "NSC Total: bairros alagados e alertas de enchente",
    "u": "https://www.nsctotal.com.br/tempo/fotos-cidades-de-sc-tem-bairros-alagados-carros-destruidos-e-alertas-de-enchente-apos-chuvas-severas"
+  },
+  {
+   "t": "Agenda do Poder, com Agência Brasil: calamidade em Tupanciretã",
+   "u": "https://agendadopoder.com.br/calamidade-tupancireta-temporal-governo-federal/"
+  },
+  {
+   "t": "Juruá 24 Horas, com CNN Brasil: R$ 4,7 milhões",
+   "u": "https://jurua24horas.com/noticia/governo-federal-anuncia-envio-de-r-47-milhoes-a-tupancireta-rs"
+  },
+  {
+   "t": "Rondoniaovivo: R$ 1,7 bilhão contra o El Niño",
+   "u": "https://www.rondoniaovivo.com/noticia/geral/2026/11/22/emergencia-climatica-governo-anuncia-r-17-bi-para-enfrentar-el-nino-e-porto-velho-recebe-r-33-mi.html"
   }
+ ],
+ "historia": [
+  "Novembro de 2026 começou com uma sequência de temporais no Sul e no Sudeste. As chuvas no Rio Grande do Sul começaram no domingo, 1º de novembro, e até o dia 5 tinham atingido 102 cidades, com cerca de 47 mil pessoas afetadas, segundo a TV Sim Brasil.",
+  "Em Santa Catarina, a Defesa Civil confirmou tornados em Chapecó e Xanxerê em 4 de novembro, com rajada de 126 km/h medida pelo Inmet. O aeroporto de Chapecó teve estruturas arrancadas e suspendeu as operações. Em 5 de novembro, o estado somava 109 municípios atingidos e duas mortes, e uma nova chuva forte no sábado, dia 7, deixou 218 desabrigados.",
+  "Em 11 de novembro, o governo federal anunciou R$ 1,7 bilhão para prevenção e resposta aos efeitos do El Niño de 2026 e 2027, que tende a trazer chuva acima da média ao Sul e estiagem ao Norte, segundo o Rondoniaovivo.",
+  "Na madrugada de 20 de novembro, uma tempestade com granizo atingiu Tupanciretã, no centro do Rio Grande do Sul. Cerca de 8 mil das 8,6 mil casas foram atingidas, segundo a prefeitura. O governo federal reconheceu a calamidade no dia 21 e aprovou R$ 4,7 milhões em ajuda no dia 22. No estado, a Defesa Civil contabilizava cinco mortes e 265 feridos em 39 municípios, segundo a CNN Brasil."
  ]
 }

@@ -1,13 +1,9 @@
 {
  "titulo": "Guerra na Ucrânia: onde estão as negociações",
- "atualizado": "22 nov 2026",
+ "atualizado": "23 nov 2026",
  "selo": "Checado",
  "frase": "A Rússia invadiu a Ucrânia em fevereiro de 2022. Desde então, houve rodadas de conversa sem acordo de paz; uma nova rodada, com os EUA, está prevista para novembro de 2026.",
  "linha": [
-  {
-   "d": "30 e 31 de outubro de 2026",
-   "t": "Moradores de Oleshky saem da cidade ocupada durante uma trégua local; quatro aviões pousam em Gomel, em Belarus, a caminho da Ucrânia."
-  },
   {
    "d": "6 de novembro de 2026",
    "t": "Putin confirma nova rodada entre Rússia, EUA e Ucrânia em Abu Dhabi a partir de terça (10). Vladimir Medinsky chefia a delegação russa; Witkoff cita garantias de segurança, redução das hostilidades e questões humanitárias."
@@ -35,6 +31,10 @@
   {
    "d": "19 de novembro de 2026",
    "t": "Em Berlim, Kushner e Witkoff encontram Zelensky e europeus. Kushner diz que a Europa entra na próxima rodada, segundo a Fox News."
+  },
+  {
+   "d": "21 de novembro de 2026",
+   "t": "Drones atingem o cargueiro russo Sparta II no Golfo da Finlândia; a Finlândia restringe voos e navegação, segundo o Kyiv Independent."
   }
  ],
  "termos": [
@@ -110,8 +110,8 @@
  "observar": [
   "A data e o local da reunião multilateral com os europeus.",
   "Se o Kremlin confirma publicamente a presença europeia.",
-  "A troca de prisioneiros prevista para as próximas semanas.",
-  "O prazo para reabrir a pista da ponte de Kerch."
+  "A reação russa ao ataque no Golfo da Finlândia.",
+  "A troca de prisioneiros prevista para as próximas semanas."
  ],
  "fontes": [
   {
@@ -205,12 +205,16 @@
   {
    "t": "Hurriyet Daily News: Europa na próxima rodada",
    "u": "https://www.hurriyetdailynews.com/europe-to-join-next-ukraine-talks-us-envoy-says-229340"
+  },
+  {
+   "t": "Kyiv Independent: o ataque ao Sparta II",
+   "u": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/"
   }
  ],
  "historia": [
   "A Rússia invadiu a Ucrânia em grande escala em 24 de fevereiro de 2022, oito anos depois de anexar a Crimeia, em 2014. A anexação não é reconhecida pela maioria dos países. Desde a invasão, houve rodadas de conversa, trocas de prisioneiros e tréguas locais, mas nenhum acordo de paz.",
   "Em 2026, os EUA passaram a mediar conversas diretas. Em 10 e 11 de novembro, Rússia, Ucrânia e EUA se reuniram em Abu Dhabi, nas primeiras conversas a três desde fevereiro. Vladimir Medinsky chefiou a delegação russa, Rustem Umerov a ucraniana, e Steve Witkoff e Jared Kushner mediaram. Saiu um acordo de troca de prisioneiros em grande escala, sem número nem data, e nenhum avanço sobre território.",
   "Em 12 de novembro, Witkoff e Kushner passaram cerca de duas horas com Vladimir Putin no Kremlin e depois encontraram Volodymyr Zelensky em Dublin. Witkoff disse que os europeus estariam na próxima rodada; o Kremlin não confirmou, e o assessor Yuri Ushakov disse depois que a participação europeia depende de um \"sinal claro\" da Europa.",
-  "Os combates continuaram durante as conversas. Na madrugada de 17 de novembro, um ataque ucraniano com drones e mísseis derrubou um arco e um vão da parte rodoviária da ponte de Kerch, que liga a Rússia à Crimeia e simboliza a anexação. Na mesma noite, mísseis russos fecharam as duas principais pontes de Kiev. Trump diz que vai tratar da guerra com Putin e Xi Jinping em 19 de novembro. Em Berlim, em 19 de novembro, Kushner e Witkoff se reuniram com Zelensky e líderes europeus, e Kushner disse que Rússia e EUA aceitaram incluir a Europa na rodada seguinte, segundo a Fox News e a UNN. Não há data."
+  "Os combates continuaram durante as conversas. Na madrugada de 17 de novembro, um ataque ucraniano com drones e mísseis derrubou um arco e um vão da parte rodoviária da ponte de Kerch, que liga a Rússia à Crimeia e simboliza a anexação. Na mesma noite, mísseis russos fecharam as duas principais pontes de Kiev. Trump diz que vai tratar da guerra com Putin e Xi Jinping em 19 de novembro. Em Berlim, em 19 de novembro, Kushner e Witkoff se reuniram com Zelensky e líderes europeus, e Kushner disse que Rússia e EUA aceitaram incluir a Europa na rodada seguinte, segundo a Fox News e a UNN. Não há data. Em 21 de novembro, drones atingiram o cargueiro russo Sparta II no Golfo da Finlândia; militares finlandeses apontaram a Ucrânia como provável responsável, segundo o Kyiv Independent."
  ]
 }

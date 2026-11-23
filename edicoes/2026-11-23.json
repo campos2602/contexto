@@ -1,0 +1,959 @@
+{
+ "data": "2026-11-23",
+ "dia": "Segunda, 23 de novembro de 2026",
+ "leitura": "9 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje o fim da COP31 sem o acordo principal, a votação do ajuste fiscal prevista para esta segunda na Câmara e a calamidade em Tupanciretã, no Rio Grande do Sul.",
+ "trinta": [
+  "A COP31 terminou sem aprovar o texto principal, que não citava fósseis.",
+  "A Câmara deve votar o ajuste fiscal nesta segunda.",
+  "Tupanciretã (RS) teve 8 mil de 8,6 mil casas atingidas por granizo."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "O texto define limites de gastos e cortes de benefícios nas contas de 2027."
+  },
+  {
+   "id": "m1",
+   "porque": "A conferência do clima terminou sem compromisso coletivo novo sobre fósseis e adaptação."
+  },
+  {
+   "id": "b2",
+   "porque": "Quase toda a cidade foi atingida, e a ajuda federal começa a chegar."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Câmara pode votar o ajuste fiscal nesta segunda, com texto do Senado",
+     "contexto": "ajuste-fiscal-2027",
+     "texto": "A Câmara deve votar nesta segunda (23) o projeto de ajuste fiscal, segundo o Jornal Opção e o PB Agora, com informações do G1. O relator, Mauro Benevides (União-CE), manteve o texto do Senado; sem mudanças, o projeto segue para a sanção de Lula.",
+     "pq": "o governo estima impacto de R$ 50 bilhões nas contas de 2027. O texto limita a 2% o crescimento real dos gastos em anos de contenção e corta 10% de benefícios a setores, segundo o Jornal Opção.",
+     "fontes": [
+      {
+       "t": "Jornal Opção",
+       "u": "https://www.jornalopcao.com.br/politica/congresso-acelera-analise-de-ajuste-fiscal-que-preve-impacto-de-r-50-bilhoes-nas-contas-publicas-898987/"
+      },
+      {
+       "t": "PB Agora, com G1",
+       "u": "https://www.pbagora.com.br/noticia/politica/hugo-motta-decide-acelerar-votacao-e-camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda/"
+      },
+      {
+       "t": "TMC",
+       "u": "https://tmc.com.br/politica/benevides-ajuste-fiscal-camara-votacao-segunda/"
+      }
+     ],
+     "completa": {
+      "fina": "Reportagens da semana passada previam a votação final para terça (24); as de domingo indicam a segunda.",
+      "atualizada": "23 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O presidente da Câmara, Hugo Motta (Republicanos-PB), antecipou a votação do projeto de lei complementar do ajuste fiscal para esta segunda-feira (23), segundo o PB Agora, com informações do G1. A Câmara costuma não votar às segundas. O relator, Mauro Benevides (União-CE), apresentou parecer em 19 de novembro sem mudar o texto aprovado pelo Senado, segundo a TMC, que prevê a votação para a noite.",
+      "blocos": [
+       {
+        "h": "O que está no texto",
+        "li": [
+         {
+          "b": "Gastos:",
+          "t": "limite de 2% para o crescimento real das despesas em anos com contingenciamento, segundo o Jornal Opção."
+         },
+         {
+          "b": "Benefícios a setores:",
+          "t": "redução linear de 10%."
+         },
+         {
+          "b": "Créditos tributários:",
+          "t": "o Executivo pode limitar o uso de créditos para pagar tributos federais, com percentuais conforme o valor. Foram R$ 200,1 bilhões usados de janeiro a setembro de 2026, segundo a Receita Federal, citada pelo Jornal Opção."
+         },
+         {
+          "b": "Impacto:",
+          "t": "R$ 50 bilhões em 2027, pela estimativa do relator no Senado, Eduardo Braga (MDB-AM), segundo o PB Agora."
+         }
+        ]
+       },
+       {
+        "h": "Quantos votos são precisos",
+        "p": [
+         "Por ser lei complementar, o projeto precisa de ao menos 257 votos dos 513 deputados, segundo o SBT News. As reportagens lidas não informam quantos votos o governo calcula ter. Segundo a TMC, o relator percorreu as bancadas e segue negociando para garantir os votos necessários."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "O governo enviou o projeto em 11 de novembro, e o Senado o aprovou em 18 de novembro, por 69 votos a 2. Se a Câmara mudar o texto, ele volta ao Senado, o que o governo quer evitar. Na semana passada, a previsão era de discussão na segunda e votação final na terça (24)."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Lula, presidente:",
+          "t": "disse no sábado (21) que a proposta não deve ser tratada como uma reforma fiscal e criticou setores do mercado financeiro, segundo o Jornal Opção."
+         },
+         {
+          "b": "Mauro Benevides, relator:",
+          "t": "afirma que a aprovação rápida deve passar um sinal positivo sobre a economia, segundo o PB Agora e a TMC."
+         },
+         {
+          "b": "Indústria:",
+          "t": "CNI, Fiesp e Fiemg avaliam que as empresas vão absorver parcela significativa dos efeitos, segundo o Jornal Opção."
+         },
+         {
+          "b": "Oposição:",
+          "t": "as reportagens lidas não trazem a orientação do PL para a votação."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quantos votos o governo tem.",
+         "Se algum destaque muda o texto e o devolve ao Senado."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Votação no plenário nesta segunda (23).",
+         "Se aprovado sem mudanças, o texto vai à sanção de Lula."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Jornal Opção",
+        "u": "https://www.jornalopcao.com.br/politica/congresso-acelera-analise-de-ajuste-fiscal-que-preve-impacto-de-r-50-bilhoes-nas-contas-publicas-898987/"
+       },
+       {
+        "t": "PB Agora, com G1",
+        "u": "https://www.pbagora.com.br/noticia/politica/hugo-motta-decide-acelerar-votacao-e-camara-deve-votar-projeto-de-ajuste-fiscal-nesta-segunda/"
+       },
+       {
+        "t": "TMC",
+        "u": "https://tmc.com.br/politica/benevides-ajuste-fiscal-camara-votacao-segunda/"
+       },
+       {
+        "t": "SBT News",
+        "u": "https://sbtnews.sbt.com.br/noticia/politica/apos-senado-ajuste-fiscal-depende-da-camara-e-de-lula"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Governo reconhece calamidade em Tupanciretã, no RS, após tempestade com granizo",
+     "contexto": "temporais-no-sul-e-sudeste",
+     "texto": "O governo federal reconheceu no sábado (21) a calamidade pública em Tupanciretã (RS), atingida por tempestade com granizo na madrugada de sexta (20), e aprovou no domingo (22) R$ 4,7 milhões em ajuda humanitária, segundo textos da Agência Brasil e da CNN Brasil.",
+     "pq": "segundo a prefeitura, 8 mil das 8,6 mil casas da cidade foram atingidas. No estado, a Defesa Civil contabiliza cinco mortes e 265 feridos em 39 municípios nos últimos dias, segundo a CNN Brasil.",
+     "fontes": [
+      {
+       "t": "Agenda do Poder, com Agência Brasil",
+       "u": "https://agendadopoder.com.br/calamidade-tupancireta-temporal-governo-federal/"
+      },
+      {
+       "t": "Juruá 24 Horas, com CNN Brasil",
+       "u": "https://jurua24horas.com/noticia/governo-federal-anuncia-envio-de-r-47-milhoes-a-tupancireta-rs"
+      }
+     ],
+     "completa": {
+      "fina": "Os números de desalojados variam entre as fontes: 19.780 na cidade, pela Agência Brasil, e 19.854 no estado, pela CNN Brasil.",
+      "atualizada": "23 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A tempestade com granizo atingiu Tupanciretã, no centro do Rio Grande do Sul, na madrugada de sexta-feira (20). A Secretaria Nacional de Defesa Civil reconheceu a calamidade pública no sábado (21), em edição extra do Diário Oficial da União, e o Ministério da Integração aprovou no domingo (22) R$ 4,7 milhões para ajuda humanitária, segundo a CNN Brasil.",
+      "blocos": [
+       {
+        "h": "Os estragos",
+        "li": [
+         {
+          "b": "Casas:",
+          "t": "cerca de 8 mil das 8,6 mil residências foram destruídas, destelhadas ou derrubadas, segundo a prefeitura, citada pela CNN Brasil."
+         },
+         {
+          "b": "População:",
+          "t": "a Defesa Civil estima que cerca de 99% dos pouco mais de 20 mil moradores foram afetados, segundo a Agência Brasil."
+         },
+         {
+          "b": "Serviços:",
+          "t": "ginásio, escolas e o hospital municipal foram atingidos; pacientes foram levados para Santa Maria e Júlio de Castilhos."
+         },
+         {
+          "b": "Vítimas:",
+          "t": "no estado, cinco mortes e 265 feridos, segundo a Defesa Civil gaúcha. Entre os mortos está uma criança atingida pela queda de um muro no Assentamento Santa Rosa, em Tupanciretã."
+         }
+        ]
+       },
+       {
+        "h": "A ajuda anunciada",
+        "li": [
+         {
+          "b": "Governo federal:",
+          "t": "R$ 4,7 milhões para cestas básicas, kits de limpeza e higiene, colchões, aluguel de veículos e combustível, segundo a CNN Brasil."
+         },
+         {
+          "b": "Governo do RS:",
+          "t": "R$ 2 milhões para auxílio imediato e uma nova edição do programa Volta por Cima, com pagamento único de R$ 2,5 mil a famílias pobres com casa atingida, num total de R$ 5 milhões, segundo a Agência Brasil."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Desde 1º de novembro, temporais atingem o Sul e o Sudeste, com tornados em Santa Catarina e chuvas em mais de cem cidades gaúchas. Em 11 de novembro, o governo federal anunciou R$ 1,7 bilhão para prevenção e resposta aos efeitos do El Niño, que tende a trazer chuva acima da média ao Sul, segundo o Rondoniaovivo."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Waldez Góes, ministro da Integração:",
+          "t": "visitou a cidade no sábado e disse que o governo federal vai atuar com a prefeitura e o estado na reconstrução, segundo a Agência Brasil."
+         },
+         {
+          "b": "Eduardo Leite, governador do RS:",
+          "t": "determinou a mobilização da Defesa Civil, dos Bombeiros e da Brigada Militar."
+         },
+         {
+          "b": "Moradores:",
+          "t": "as reportagens lidas não trazem relatos de moradores."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O custo total da reconstrução.",
+         "Quando o hospital municipal volta a funcionar."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Distribuição da ajuda federal e dos três planos de trabalho: ajuda humanitária, telhas e limpeza urbana.",
+         "Novos balanços da Defesa Civil do RS."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agenda do Poder, com Agência Brasil",
+        "u": "https://agendadopoder.com.br/calamidade-tupancireta-temporal-governo-federal/"
+       },
+       {
+        "t": "Juruá 24 Horas, com CNN Brasil",
+        "u": "https://jurua24horas.com/noticia/governo-federal-anuncia-envio-de-r-47-milhoes-a-tupancireta-rs"
+       },
+       {
+        "t": "Rondoniaovivo",
+        "u": "https://www.rondoniaovivo.com/noticia/geral/2026/11/22/emergencia-climatica-governo-anuncia-r-17-bi-para-enfrentar-el-nino-e-porto-velho-recebe-r-33-mi.html"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b3",
+     "selo": "Checada",
+     "titulo": "Chanceler da Argentina diz que situações puseram em dúvida a eleição brasileira",
+     "contexto": "eleicoes-brasil-2026",
+     "texto": "O ministro das Relações Exteriores da Argentina, Pablo Quirno, disse no sábado (21), ao canal Eltrece, que \"houve situações\" no processo eleitoral brasileiro que \"colocaram em dúvida todo o cenário\", segundo O Antagonista e o Agora Litoral. Ele não disse quais.",
+     "pq": "Quirno explicava por que Javier Milei não cumprimentou Lula. É o único líder sul-americano que não o fez, segundo o Agora Litoral. O Brasil está sem embaixador em Buenos Aires desde agosto, segundo a Agência Brasil.",
+     "fontes": [
+      {
+       "t": "O Antagonista",
+       "u": "https://oantagonista.com.br/mundo/chanceler-de-milei-questiona-legitimidade-da-vitoria-de-lula/"
+      },
+      {
+       "t": "Agora Litoral",
+       "u": "https://agoralitoral.com.br/2026/11/23/chanceler-argentino-questiona-eleicoes-do-brasil-e-justifica-silencio-de-milei/"
+      },
+      {
+       "t": "Diário do Centro do Mundo",
+       "u": "https://www.diariodocentrodomundo.com.br/chanceler-argentino-questiona-eleicao-lula-sem-evidencias"
+      }
+     ],
+     "completa": {
+      "fina": "Até o fechamento, as reportagens lidas não traziam resposta do Itamaraty à entrevista.",
+      "atualizada": "23 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Em entrevista ao canal argentino Eltrece, no sábado (21), o chanceler Pablo Quirno foi perguntado por que o presidente Javier Milei não cumprimentou Lula pela vitória na eleição. Respondeu que \"houve situações, dentro do processo eleitoral que, de certa forma, colocaram em dúvida todo o cenário\", segundo O Antagonista e o Agora Litoral. Não deu detalhes sobre quais seriam.",
+      "blocos": [
+       {
+        "h": "O que ele disse",
+        "li": [
+         {
+          "b": "Sobre o resultado:",
+          "t": "\"Quem reconhece o resultado da eleição é o próprio Tribunal Eleitoral brasileiro\", e dizer sim ou não \"não altera o resultado de forma alguma\"."
+         },
+         {
+          "b": "Quem cumprimentou:",
+          "t": "segundo O Antagonista, Milei e Donald Trump não cumprimentaram Lula, ao contrário de outros presidentes da região, como José Antonio Kast, do Chile, e Daniel Noboa, do Equador."
+         },
+         {
+          "b": "Sobre a diplomacia:",
+          "t": "disse que seria \"bem-vindo\" se Brasília revertesse a convocação do embaixador brasileiro e que o comércio não foi afetado, segundo o Agora Litoral."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Em julho, Milei fez críticas a Lula e ao ministro Alexandre de Moraes num evento do PL, segundo o Agora Litoral. Em 26 de julho, o Itamaraty chamou de volta a Brasília o embaixador Julio Bitelli, e desde agosto o Brasil não tem embaixador na Argentina, segundo a Agência Brasil.",
+         "Em 20 de outubro, o Itamaraty classificou uma publicação de Milei como \"nova e inaceitável tentativa de ingerência externa no processo democrático brasileiro\". Milei tinha escrito que esperava que o último truque de campanha não incluísse \"roubar a eleição\". Em 27 de outubro, o porta-voz argentino disse: \"Por enquanto, não há nenhum comunicado que vamos fazer\". Perguntado sobre uma possível retaliação por episódios de 2023, chamou o caso de \"antecedente e nada mais\", segundo o Agora Litoral."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Pablo Quirno, chanceler da Argentina:",
+          "t": "diz que a Argentina não precisa validar o resultado, que cabe à Justiça Eleitoral brasileira."
+         },
+         {
+          "b": "Kassio Nunes Marques, presidente do TSE:",
+          "t": "disse logo após a votação que as eleições \"transcorreram dentro da mais absoluta normalidade\", segundo o Agora Litoral."
+         },
+         {
+          "b": "Itamaraty:",
+          "t": "em outubro, disse que o voto eletrônico \"é comprovadamente seguro\", segundo a Agência Brasil; as reportagens lidas não trazem reação à fala de sábado."
+         },
+         {
+          "b": "Diário do Centro do Mundo:",
+          "t": "descreve a fala como questionamento \"sem apresentar evidências\"."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o governo brasileiro vai responder oficialmente.",
+         "Se Milei vai cumprimentar Lula antes da posse."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A diplomação dos eleitos pelo TSE.",
+         "A posse do presidente, em 5 de janeiro de 2027."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "O Antagonista",
+        "u": "https://oantagonista.com.br/mundo/chanceler-de-milei-questiona-legitimidade-da-vitoria-de-lula/"
+       },
+       {
+        "t": "Agora Litoral",
+        "u": "https://agoralitoral.com.br/2026/11/23/chanceler-argentino-questiona-eleicoes-do-brasil-e-justifica-silencio-de-milei/"
+       },
+       {
+        "t": "Diário do Centro do Mundo",
+        "u": "https://www.diariodocentrodomundo.com.br/chanceler-argentino-questiona-eleicao-lula-sem-evidencias"
+       },
+       {
+        "t": "Agência Brasil: a nota do Itamaraty em outubro",
+        "u": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/itamaraty-acusa-milei-de-tentar-interferir-na-eleicao-brasileira"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "COP31 termina sem aprovar o acordo principal após objeções sobre fósseis",
+     "contexto": "combustiveis-fosseis-cop",
+     "texto": "A conferência do clima da ONU em Antália, na Turquia, terminou no domingo (22) sem aprovar a decisão principal, segundo a ABC News. União Europeia, Reino Unido, Noruega, Panamá, Belize, Ilhas Marshall e Vanuatu se opuseram ao texto, que não citava combustíveis fósseis.",
+     "pq": "as decisões da COP exigem consenso. Sem o texto principal, a conferência não deixa compromisso coletivo novo sobre fósseis nem sobre o dinheiro para adaptação. A próxima tentativa é a COP32, em Adis Abeba, de 8 a 19 de novembro de 2027, segundo a ABC News.",
+     "fontes": [
+      {
+       "t": "ABC News",
+       "u": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179"
+      },
+      {
+       "t": "Business Standard, com AP",
+       "u": "https://www.business-standard.com/amp/world-news/turkiye-s-final-draft-at-un-climate-talks-doesn-t-mention-fossil-fuels-126112200350_1.html"
+      }
+     ],
+     "completa": {
+      "fina": "Itens técnicos da pauta foram aprovados; o que caiu foi a decisão de cobertura, o texto político da conferência.",
+      "atualizada": "23 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A COP31, marcada para 9 a 20 de novembro, entrou em dois dias de prorrogação e terminou no domingo (22) sem acordo sobre a decisão de cobertura, segundo a ABC News. O presidente da conferência, Murat Kurum, ministro do Ambiente da Turquia, reconheceu na sessão final que não haveria acordo oficial. As negociações passaram quase 40 horas do prazo, segundo a AP.",
+      "blocos": [
+       {
+        "h": "O que estava no texto rejeitado",
+        "li": [
+         {
+          "b": "Fósseis:",
+          "t": "o texto de dez páginas citava o acordo de Dubai, de 2023, mas as palavras fóssil, petróleo, carvão ou eliminação não apareciam, segundo a AP."
+         },
+         {
+          "b": "Adaptação:",
+          "t": "o texto dizia que os países concordavam em discutir caminhos para triplicar o financiamento de adaptação até 2035; a meta de US$ 120 bilhões, de um rascunho anterior, tinha saído, segundo a ABC News."
+         },
+         {
+          "b": "Energia:",
+          "t": "pedia elevar a eletricidade para 35% do consumo final até 2035, ante cerca de 21%, segundo a AP, e meta de capturar e armazenar 1 bilhão de toneladas de carbono."
+         }
+        ]
+       },
+       {
+        "h": "Quem se opôs e quem apoiou",
+        "p": [
+         "Opuseram-se União Europeia, Reino Unido, Belize, Ilhas Marshall, Noruega, Panamá e Vanuatu, segundo a ABC News. A China disse apoiar o texto e pediu \"o compromisso necessário\". Gana tinha ressalvas, mas apoiaria. A Arábia Saudita defendeu o trecho sobre captura de carbono. Ao menos 75 países aderiram a um compromisso voluntário, fora do texto, de chegar a 35% de eletricidade até 2035."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Na COP28, em 2023, quase 200 países aprovaram a transição para longe dos combustíveis fósseis. Na COP30, em Belém, o texto final não os citou. Em Antália, o primeiro rascunho falava em transição imediata; a menção caiu na segunda versão, após objeções de países produtores de petróleo, segundo a ABC News, citando o Guardian."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Darragh O'Brien, ministro do Clima da Irlanda, pela União Europeia:",
+          "t": "\"A União Europeia e seus Estados-membros se opõem a esta decisão de cobertura\", segundo a ABC News."
+         },
+         {
+          "b": "Murat Kurum, presidente da COP31:",
+          "t": "\"Fizemos o nosso melhor\" e \"este texto não foi imposto a ninguém\"."
+         },
+         {
+          "b": "Sara Shaw, da 350.org:",
+          "t": "\"Este texto não é um plano climático. É uma licença para continuar poluindo\"."
+         },
+         {
+          "b": "Ani Dasgupta, presidente do World Resources Institute:",
+          "t": "chamou o resultado de \"fracasso de liderança política, não do Acordo de Paris\"."
+         },
+         {
+          "b": "Brasil:",
+          "t": "as reportagens lidas não trazem posição do governo brasileiro."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O que acontece com o roteiro de adaptação de Antália a Adis Abeba, que estava no texto rejeitado.",
+         "Se haverá sessão extra em 2027 antes da COP32."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "COP32 em Adis Abeba, na Etiópia, de 8 a 19 de novembro de 2027."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "ABC News",
+        "u": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179"
+       },
+       {
+        "t": "Business Standard, com AP",
+        "u": "https://www.business-standard.com/amp/world-news/turkiye-s-final-draft-at-un-climate-talks-doesn-t-mention-fossil-fuels-126112200350_1.html"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Netanyahu e Eisenkot terminam conversa sobre governo de união sem acordo",
+     "contexto": "eleicao-israel-2026",
+     "texto": "Equipes do Likud, de Benjamin Netanyahu, e do Yashar, de Gadi Eisenkot, conversaram por mais de quatro horas no domingo (22), em Herzliya, sobre um governo de união e terminaram sem acordo nos temas principais, segundo o Ynet. Devem se reunir de novo nesta semana.",
+     "pq": "Eisenkot tem até 6 de dezembro, prorrogável até 20, para formar governo. Se as conversas com o Likud e com os ultraortodoxos falharem, ele diz que pedirá ao Parlamento um governo de emergência, minoritário, segundo o Ynet.",
+     "fontes": [
+      {
+       "t": "Ynet",
+       "u": "https://www.ynetnews.com/article/rke0yyzkxl"
+      },
+      {
+       "t": "Arutz Sheva",
+       "u": "https://www.israelnationalnews.com/news/436853"
+      },
+      {
+       "t": "JNS",
+       "u": "https://www.jns.org/news/israel-news/likud-yashar-fail-to-reach-agreement-in-four-hour-coalition-talks"
+      }
+     ],
+     "completa": {
+      "fina": "O rodízio no cargo de primeiro-ministro não foi discutido, segundo o Ynet e a Arutz Sheva.",
+      "atualizada": "23 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Pelo Likud, participaram o deputado Ofir Katz e o advogado Michael Rabilo; pelo Yashar, o deputado Chili Tropper e os assessores Yoav Horowitz e Guy Gutman, num hotel em Herzliya, no domingo (22), segundo o Ynet. Os temas foram a comissão de inquérito sobre o 7 de Outubro, a reforma judicial e o alistamento de ultraortodoxos, segundo o JNS.",
+      "blocos": [
+       {
+        "h": "Onde houve acordo e onde não",
+        "li": [
+         {
+          "b": "Itamar Ben-Gvir:",
+          "t": "o Yashar exige que ele fique fora de um governo de união; o Likud recusou, segundo o Ynet."
+         },
+         {
+          "b": "Reforma judicial:",
+          "t": "discutida só em termos gerais. O Likud pediu que o bloco de Eisenkot suspenda os projetos em tramitação; o Yashar recusou."
+         },
+         {
+          "b": "Pontos comuns:",
+          "t": "os dois lados concordaram que Israel é o Estado-nação do povo judeu e que não haverá Estado palestino."
+         },
+         {
+          "b": "Comissão do 7 de Outubro:",
+          "t": "concordaram em apresentar um modelo se avançarem, mas divergem sobre quem nomeia os integrantes."
+         },
+         {
+          "b": "Ultraortodoxos:",
+          "t": "o Likud quer os partidos ultraortodoxos na mesa."
+         }
+        ]
+       },
+       {
+        "h": "A outra negociação",
+        "p": [
+         "Eisenkot também negocia com o Judaísmo Unido da Torá, e não com o Shas, segundo a Arutz Sheva, citando o Canal 12. Uma proposta anterior, que isentava estudantes religiosos em número equivalente a 3% dos convocados de cada ano, foi rejeitada pelos rabinos Landau e Hirsch. Eisenkot deve apresentar nesta semana uma versão revista. Integrantes do Degel Hatorah disseram que houve avanço, mas que o acordo está \"longe\"."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Na eleição de 27 de outubro, nenhum bloco obteve maioria de 61 cadeiras. Em 8 de novembro, o presidente Isaac Herzog deu a Eisenkot a primeira chance de formar governo. Em 17 de novembro, um aliado dele, Matan Kahana, foi eleito presidente do Parlamento com votos de partidos árabes."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Benjamin Netanyahu, primeiro-ministro interino:",
+          "t": "logo após a reunião, criticou os deputados árabes Ahmad Tibi e Mansour Abbas e pediu que nenhum governo dependa deles, segundo o Ynet."
+         },
+         {
+          "b": "Gadi Eisenkot, do Yashar:",
+          "t": "anunciou na sexta (20) que, se as duas negociações falharem, pedirá ao Parlamento um governo de emergência, que dependeria de Ra'am e Lista Conjunta não votarem contra."
+         },
+         {
+          "b": "Likud:",
+          "t": "disse que vai \"pensar fora da caixa\" sobre a comissão de inquérito, mas que ela deve ser criada em acordo, segundo o Ynet."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se Eisenkot fecha acordo com o Judaísmo Unido da Torá.",
+         "Se um governo minoritário teria os votos para passar."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Nova reunião entre Likud e Yashar nesta semana.",
+         "Prazo de Eisenkot em 6 de dezembro, com possível prorrogação até 20; se ele falhar, o processo volta a Herzog."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Ynet",
+        "u": "https://www.ynetnews.com/article/rke0yyzkxl"
+       },
+       {
+        "t": "Arutz Sheva",
+        "u": "https://www.israelnationalnews.com/news/436853"
+       },
+       {
+        "t": "JNS",
+        "u": "https://www.jns.org/news/israel-news/likud-yashar-fail-to-reach-agreement-in-four-hour-coalition-talks"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m3",
+     "selo": "Checada",
+     "titulo": "Drones atingem navio russo no Golfo da Finlândia, perto da costa finlandesa",
+     "contexto": "negociacoes-ucrania-russia",
+     "texto": "O cargueiro russo Sparta II, sob sanções dos EUA e da Ucrânia, pegou fogo depois de ser atingido por drones no sábado (21), no Golfo da Finlândia, segundo o Kyiv Independent. A tripulação deixou o navio em botes, sem feridos. Militares finlandeses apontam a Ucrânia como provável responsável.",
+     "pq": "o ataque leva a guerra para perto de um país da Otan. A Finlândia restringiu voos e navegação no leste do golfo, e o primeiro-ministro Petteri Orpo disse que a guerra se espalha para áreas vizinhas, segundo o Kyiv Independent e o Morning Star.",
+     "fontes": [
+      {
+       "t": "Kyiv Independent",
+       "u": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/"
+      },
+      {
+       "t": "Morning Star",
+       "u": "https://morningstaronline.co.uk/article/world-brief-64"
+      }
+     ],
+     "completa": {
+      "fina": "A Ucrânia não assumiu o ataque; a reportagem não traz posição oficial da Rússia.",
+      "atualizada": "23 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Sparta II, operado pela Oboronlogistika, empresa ligada ao Ministério da Defesa russo, foi atingido por drones na manhã de sábado (21), segundo o Ministério da Defesa da Finlândia, citado pelo Kyiv Independent. O navio ia para Kaliningrado, segundo o Morning Star. A tripulação foi levada a outro cargueiro, e não houve feridos, segundo a emissora finlandesa Yle.",
+      "blocos": [
+       {
+        "h": "Os detalhes",
+        "li": [
+         {
+          "b": "Local:",
+          "t": "o Ministério da Defesa finlandês fala em águas internacionais a oeste da ilha de Suursaari; o comandante da Guarda de Fronteira, Ilja Iljin, diz que o navio foi atingido em águas russas e derivou até águas finlandesas, perto de Loviisa."
+         },
+         {
+          "b": "Incêndio:",
+          "t": "seguia na noite de sábado, com risco de novas explosões e de afundamento. Apagar pode levar \"dias ou até semanas\", segundo Iljin."
+         },
+         {
+          "b": "Carga:",
+          "t": "não foi identificada; equipamento militar é possível, mas não confirmado."
+         },
+         {
+          "b": "Resgate:",
+          "t": "o navio russo Murman ajudou a combater o fogo a pedido da Finlândia."
+         }
+        ]
+       },
+       {
+        "h": "A reação da Finlândia",
+        "p": [
+         "O governo avisou os aliados e criou restrições temporárias à aviação e à navegação no leste do golfo, segundo o Kyiv Independent. Horas depois, um helicóptero, que se suspeita ser russo, entrou até 4,1 quilômetros no espaço aéreo finlandês perto de Loviisa. O ministro da Defesa, Antti Häkkänen, disse que o voo pode estar ligado ao resgate. Não foi detectado dano ambiental."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Os ataques de longo alcance dos dois lados continuam enquanto os EUA tentam organizar uma rodada de negociação com os europeus. Na sexta (20), mísseis russos atingiram Kryvyi Rih, cidade natal de Zelensky, e mataram um menino de 7 anos e um paramédico de 20, com 52 feridos, segundo o Kyiv Independent; o Morning Star fala em 60 feridos."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Aki-Mauri Huhtinen, porta-voz das Forças Armadas da Finlândia:",
+          "t": "disse que a Ucrânia é a provável responsável, segundo a Reuters, citada pelo Kyiv Independent."
+         },
+         {
+          "b": "Petteri Orpo, primeiro-ministro da Finlândia:",
+          "t": "\"A Ucrânia tem o direito de lutar contra o agressor\"."
+         },
+         {
+          "b": "Vladyslav Vlasiuk, conselheiro de Zelensky para sanções:",
+          "t": "\"Sim, uma grande coincidência, não?\", e disse suspeitar que este não será o único nem o último caso."
+         },
+         {
+          "b": "Rússia:",
+          "t": "a reportagem não traz posição oficial."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem lançou os drones.",
+         "O que o navio transportava e se ele afunda."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Tentativa de rebocar o navio para a área de resgate russa.",
+         "Investigação finlandesa sobre o voo do helicóptero."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Kyiv Independent: o ataque ao Sparta II",
+        "u": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/"
+       },
+       {
+        "t": "Kyiv Independent: o ataque a Kryvyi Rih",
+        "u": "https://kyivindependent.com/russian-ballistic-missile-strikes-on-kryvyi-rih-kill-7-year-old-paramedic-injure-42-others-in-double-tap-attack/"
+       },
+       {
+        "t": "Morning Star",
+        "u": "https://morningstaronline.co.uk/article/world-brief-64"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Signal bloqueia capturas de tela no celular para barrar assistentes de IA",
+     "contexto": "big-techs-e-privacidade",
+     "texto": "O Signal anunciou que vai bloquear capturas de tela de conversas no Android e no iOS, para impedir que assistentes de IA embutidos nos sistemas, como a Siri e o Gemini, leiam as mensagens, segundo o TechCrunch e o BleepingComputer.",
+     "pq": "a presidente do Signal, Meredith Whittaker, diz que sistemas com agentes de IA são uma \"ameaça existencial\" à privacidade. Aviso de conflito: o Google, dono do Gemini, concorre com a Anthropic, que faz o Claude, usado pelo Contexto.",
+     "fontes": [
+      {
+       "t": "TechCrunch",
+       "u": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+      },
+      {
+       "t": "BleepingComputer",
+       "u": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
+      }
+     ],
+     "completa": {
+      "fina": "Aviso de conflito de interesse: a nota cita o Gemini, do Google, concorrente da Anthropic, que desenvolve o Claude usado pelo Contexto.",
+      "atualizada": "23 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Signal, aplicativo de mensagens criptografadas, anunciou na sexta-feira (20) que vai restringir capturas de tela no Android e no iOS, como já faz no Windows, segundo o TechCrunch. O objetivo é impedir que assistentes de IA dos próprios sistemas operacionais leiam as conversas na tela, segundo o BleepingComputer, que cita a Siri, da Apple, e o Gemini, do Google.",
+      "blocos": [
+       {
+        "h": "O que muda",
+        "li": [
+         {
+          "b": "iPhone:",
+          "t": "no iOS 27, o Signal bloqueia a leitura da tela pela Siri e as capturas de tela das conversas, \"mesmo para fins legítimos\", segundo o BleepingComputer."
+         },
+         {
+          "b": "Android:",
+          "t": "o aplicativo liga sozinho a função Segurança de Tela quando detecta um assistente tentando ler a tela."
+         },
+         {
+          "b": "Mac:",
+          "t": "o Signal diz que ainda não consegue bloquear capturas e recomenda incluir o aplicativo na lista de exclusões da Siri no macOS 27."
+         },
+         {
+          "b": "Opção:",
+          "t": "o usuário pode desligar a proteção, o que, segundo Whittaker, quebra as garantias de privacidade do Signal, segundo o TechCrunch."
+         }
+        ]
+       },
+       {
+        "h": "Por que o Signal fez isso",
+        "p": [
+         "Segundo Whittaker, recursos de IA dos sistemas podem capturar o conteúdo das conversas fora do controle do aplicativo, expondo todos os participantes, e não só quem usa o assistente. Ela chamou a medida de solução \"incompleta\", porque não cobre outras formas de agentes de IA chegarem aos dados dos aplicativos, segundo o TechCrunch."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Em maio de 2025, o Signal passou a bloquear no Windows 11 as capturas do Recall, função da Microsoft que fotografa a tela periodicamente, segundo o BleepingComputer. Agora, o BleepingComputer cita a função de leitura de tela da Siri e o Gemini Intelligence, do Google, como os recursos que motivaram a mudança nos celulares."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Meredith Whittaker, presidente do Signal:",
+          "t": "diz que Windows, Android, macOS e iOS \"estão minando a capacidade do Signal de garantir a privacidade de forma independente\", segundo o TechCrunch."
+         },
+         {
+          "b": "Signal:",
+          "t": "pede que Apple, Google e Microsoft documentem como seus sistemas acessam os aplicativos e deem aos desenvolvedores uma forma clara de ficar de fora."
+         },
+         {
+          "b": "Apple e Google:",
+          "t": "as reportagens não trazem resposta das empresas."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se Apple e Google vão oferecer aos aplicativos uma forma oficial de bloquear seus assistentes.",
+         "Se outros aplicativos de mensagens vão adotar bloqueio parecido."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A proteção é ativada automaticamente quando possível; no iPhone, o usuário pode conferir a opção em Configurações, Segurança do aplicativo."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "TechCrunch",
+        "u": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+       },
+       {
+        "t": "BleepingComputer",
+        "u": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "OpenRouter corta três fornecedores de IA após pesquisa achar invasões",
+     "contexto": "falhas-criticas-de-software",
+     "texto": "O OpenRouter, serviço que distribui pedidos a vários modelos de IA, retirou três fornecedores e tirou 125 conexões do modo sem retenção de dados no domingo (22), depois que a empresa de segurança Dragos achou invasores lendo pedidos de usuários, segundo o The Hacker News e o The Decoder.",
+     "pq": "empresas enviam a esses serviços textos com dados internos e até senhas. A pesquisa mostrou que uma opção de privacidade não protege se o fornecedor já foi invadido, e quem usou os serviços afetados deve trocar senhas e chaves.",
+     "fontes": [
+      {
+       "t": "The Hacker News",
+       "u": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"
+      },
+      {
+       "t": "The Decoder",
+       "u": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
+      },
+      {
+       "t": "Unite.AI",
+       "u": "https://www.unite.ai/openrouter-cuts-three-providers-after-ai-prompt-exposure-findings/"
+      }
+     ],
+     "completa": {
+      "fina": "A Dragos não divulgou os nomes dos fornecedores invadidos, e o OpenRouter não confirmou se são os mesmos que retirou.",
+      "atualizada": "23 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "De julho a novembro de 2026, a Dragos enviou cerca de 2 milhões de pedidos a serviços de IA com links únicos e credenciais falsas, as chamadas iscas, e observou quem as usava, segundo o The Hacker News. Como cada isca só aparecia num pedido, qualquer uso indicava que alguém tinha lido aquele texto. Três fornecedores estavam invadidos e não sabiam.",
+      "blocos": [
+       {
+        "h": "O que a pesquisa achou",
+        "li": [
+         {
+          "b": "Chaves roubadas:",
+          "t": "cerca de duzentas chaves falsas da Amazon Web Services, enviadas no fim de outubro, foram copiadas e usadas em dezenas de milhares de chamadas para explorar contas, segundo o The Hacker News."
+         },
+         {
+          "b": "Revendedores:",
+          "t": "vendedores ofereciam modelos pelo menor preço com registro dos pedidos ligado; uma pessoa na França tentou usar senhas tiradas dos textos para entrar em servidores."
+         },
+         {
+          "b": "Laboratório chinês:",
+          "t": "um laboratório de IA da China, não nomeado, acessou os links secretos de mais da metade dos pedidos enviados a seus modelos, inclusive por meio de revendedores americanos, segundo o The Hacker News e o Unite.AI."
+         }
+        ]
+       },
+       {
+        "h": "O que o OpenRouter fez",
+        "p": [
+         "Retirou três fornecedores, tirou 125 conexões do modo de retenção zero de dados, avisou os clientes que podem ter sido afetados e disse que seus próprios sistemas não foram invadidos, segundo o The Hacker News e o The Decoder. As conexões só voltam ao modo depois de novas garantias e verificações. Fornecedores como Phala, Together AI e Novita publicaram avisos próprios sobre incidentes."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Serviços como o OpenRouter repassam cada pedido a um entre vários fornecedores que rodam o mesmo modelo, e o cliente nem sempre sabe onde seu texto é processado. Um roteador mandava parte do tráfego a um mercado de revenda sem avisar os clientes e diz ter parado, segundo o The Hacker News. A Phala informou que pedidos enviados pelo OpenRouter de 21 de outubro a 8 de novembro devem ser tratados como expostos, segundo o Unite.AI."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "HD Moore, diretor de pesquisa da Dragos:",
+          "t": "\"Uma opção de privacidade não ajuda quando o invasor já está lá dentro\", segundo o The Hacker News."
+         },
+         {
+          "b": "OpenRouter:",
+          "t": "diz que não houve invasão do próprio serviço e que vai adotar testes parecidos de forma contínua."
+         },
+         {
+          "b": "Fornecedores:",
+          "t": "Phala, Together AI e Novita descreveram falhas diferentes em seus avisos."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quais são os três fornecedores invadidos.",
+         "Quantos clientes tiveram dados lidos."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Quem usou os fornecedores afetados nos períodos indicados deve trocar senhas e chaves, recomendam as publicações.",
+         "Os especialistas sugerem escolher o fornecedor diretamente e não enviar credenciais em pedidos."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "The Hacker News",
+        "u": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"
+       },
+       {
+        "t": "The Decoder",
+        "u": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/"
+       },
+       {
+        "t": "Unite.AI",
+        "u": "https://www.unite.ai/openrouter-cuts-three-providers-after-ai-prompt-exposure-findings/"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "R$ 200,1 bilhões",
+  "texto": "em créditos tributários foram usados para pagar tributos federais de janeiro a setembro de 2026, segundo a Receita, citada pelo Jornal Opção. O ajuste permite limitar esse uso.",
+  "fontes": [
+   {
+    "t": "Jornal Opção",
+    "u": "https://www.jornalopcao.com.br/politica/congresso-acelera-analise-de-ajuste-fiscal-que-preve-impacto-de-r-50-bilhoes-nas-contas-publicas-898987/"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "A Câmara marcou votação para uma segunda-feira, o que é pouco comum no calendário da Casa, segundo o Jornal Opção. Esta redação, feita por IA, também trabalha às segundas.",
+  "fontes": [
+   {
+    "t": "Jornal Opção",
+    "u": "https://www.jornalopcao.com.br/politica/congresso-acelera-analise-de-ajuste-fiscal-que-preve-impacto-de-r-50-bilhoes-nas-contas-publicas-898987/"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição cita o Gemini, do Google, empresa que concorre com a Anthropic.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "sem ressalvas graves",
+  "resumo": "A edição passa no teste do espelho. Na nota sobre o chanceler argentino, a fala de Quirno está entre aspas e na voz dele, ao lado da posição do TSE e do Itamaraty; a leitura \"sem evidências\" fica atribuída ao Diário do Centro do Mundo. Na COP31, os países que se opuseram e os que apoiaram o texto aparecem com espaço parecido. Em Israel, cada lado aparece na própria voz.",
+  "pontos": [
+   "Brasil 1: a mudança de data da votação, de terça para segunda, está explicada; o impacto de R$ 50 bilhões é atribuído ao relator no Senado.",
+   "Brasil 2: os números de desalojados divergem entre Agência Brasil e CNN Brasil, e as duas versões estão na nota.",
+   "Brasil 3: \"questiona\" foi trocado por \"diz\" no título; a fala está entre aspas.",
+   "Mundo 1: a lista de países contrários e os apoios de China e Gana estão atribuídos à ABC News.",
+   "Mundo 2: a crítica de Netanyahu a deputados árabes é descrita com verbo neutro.",
+   "Mundo 3: a autoria do ataque é atribuída aos militares finlandeses; a Ucrânia não assumiu, e isso está dito. A divergência de feridos em Kryvyi Rih está registrada.",
+   "Inovação 1: a falta de resposta de Apple e Google está registrada, com aviso de conflito.",
+   "Inovação 2: os nomes dos fornecedores invadidos não foram divulgados, e a nota não os atribui."
+  ],
+  "equilibrio": "Governo Lula: 2 menções (neutras); oposição: 1 (sem posição nas fontes); governo do RS: 1. Argentina: 1, com resposta do TSE e do Itamaraty. Mundo: União Europeia e países contrários: 1; China e apoiadores: 1; Likud e Yashar: 1 cada; Finlândia, Ucrânia e Rússia: 1 cada. Google: 1, com aviso de conflito; Apple: 1.",
+  "foraDaEdicao": [
+   "Categorias extras: sem tempo para checar duas fontes e contexto antes das 5h30.",
+   "Renúncia do ministro da Educação da Coreia do Sul após escândalo de cola com IA: a reportagem principal não abriu, e a data da renúncia não foi confirmada em segunda fonte.",
+   "Captura do chefe de cartel \"El Chapo Isidro\" no México: sem contexto pronto a tempo.",
+   "Investigações sobre a Nvidia e a saída de Jensen Huang: fontes não checadas a tempo."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: o fim da COP31 sem acordo, fato com consequência global; o ajuste fiscal abre o Essencial por afetar as contas de 2027.",
+   "Essencial com três notas: ajuste fiscal, COP31 e Tupanciretã, pelo critério de impacto direto no dinheiro e na segurança das pessoas.",
+   "Contexto do temporal no Sul ganhou a história em prosa que faltava."
+  ]
+ },
+ "geradaEm": "2026-11-23T07:43:33Z"
+}
