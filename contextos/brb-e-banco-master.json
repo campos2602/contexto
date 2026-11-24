@@ -1,0 +1,119 @@
+{
+ "titulo": "O BRB e o caso Banco Master",
+ "atualizado": "24 nov 2026",
+ "selo": "Checado",
+ "frase": "O BRB, banco controlado pelo governo do Distrito Federal, injetou R$ 16,7 bilhões no Banco Master, de Daniel Vorcaro, segundo a Polícia Federal. O caso levou à prisão do ex-presidente do BRB, a um pedido de socorro ao STF e à suspensão do registro do banco na CVM.",
+ "historia": [
+  "O BRB é o banco público do Distrito Federal, com ações negociadas na bolsa sob os códigos BSLI3 e BSLI4. Em março de 2025, o banco anunciou a intenção de comprar parte do Banco Master, instituição privada controlada pelo empresário Daniel Vorcaro: 49% das ações ordinárias e 100% das preferenciais, segundo a Agência Brasil.",
+  "Segundo a Polícia Federal, citada pelo Brado Jornal, o BRB injetou R$ 16,7 bilhões no Master, dos quais ao menos R$ 12,2 bilhões têm indícios de irregularidade. O Banco Central liquidou instituições do conglomerado Master, e a Polícia Federal passou a investigar as operações na Operação Compliance Zero. O ex-presidente do BRB Paulo Henrique Costa foi preso em abril de 2026, e 15 pessoas foram indiciadas, segundo o Brado.",
+  "Para cobrir possíveis perdas, o BRB provisionou R$ 8,8 bilhões, segundo o SouBrasília. Em maio de 2026, o governo do Distrito Federal pediu ao STF aval para um empréstimo de R$ 6,6 bilhões do Fundo Garantidor de Créditos, com garantia da União, para reforçar o capital do banco. Não havia decisão definitiva até novembro, segundo a Agência Brasil.",
+  "Enquanto isso, o banco deixou de publicar balanços. O último foi o do primeiro semestre de 2025, divulgado em agosto daquele ano; o de 2025 inteiro, previsto para março de 2026, não saiu. Em 23 de novembro de 2026, a CVM suspendeu o registro de companhia aberta do BRB, e as ações deixaram de ser negociadas até a regularização. Na sexta anterior, os papéis valiam R$ 1,89 e R$ 1,95, com queda de quase 75% em um ano, segundo a Agência Brasil."
+ ],
+ "linha": [
+  {
+   "d": "Março de 2025",
+   "t": "O BRB anuncia a intenção de comprar 49% das ações ordinárias e 100% das preferenciais do Banco Master, segundo a Agência Brasil."
+  },
+  {
+   "d": "Agosto de 2025",
+   "t": "O BRB publica o balanço do primeiro semestre de 2025, o último divulgado até novembro de 2026."
+  },
+  {
+   "d": "Março de 2026",
+   "t": "Vence o prazo do balanço de 2025, que não é publicado, segundo a Agência Brasil."
+  },
+  {
+   "d": "Abril de 2026",
+   "t": "O ex-presidente do BRB Paulo Henrique Costa é preso na investigação da Polícia Federal, segundo o Brado Jornal."
+  },
+  {
+   "d": "Maio de 2026",
+   "t": "O governo do Distrito Federal pede ao STF aval para um empréstimo de R$ 6,6 bilhões do FGC, com garantia da União."
+  },
+  {
+   "d": "23 de novembro de 2026",
+   "t": "A CVM suspende o registro de companhia aberta do BRB por falta de balanços há mais de 12 meses, segundo o SouBrasília."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Registro de companhia aberta",
+   "d": "autorização da CVM para que uma empresa tenha ações negociadas em bolsa ou balcão; exige a divulgação periódica de balanços."
+  },
+  {
+   "t": "CVM",
+   "d": "Comissão de Valores Mobiliários, órgão federal que regula e fiscaliza o mercado de capitais."
+  },
+  {
+   "t": "Liquidação extrajudicial",
+   "d": "medida do Banco Central que encerra as atividades de uma instituição financeira e põe um liquidante no comando para apurar e pagar credores."
+  },
+  {
+   "t": "Provisão",
+   "d": "valor que o banco separa no balanço para cobrir perdas que considera prováveis."
+  },
+  {
+   "t": "FGC",
+   "d": "Fundo Garantidor de Créditos, entidade privada mantida pelos bancos que protege depósitos até um limite e pode emprestar a instituições associadas."
+  }
+ ],
+ "quem": [
+  {
+   "b": "BRB",
+   "t": "banco controlado pelo governo do Distrito Federal, que diz seguir funcionando e se considera \"potencialmente lesado\" pela crise do Master."
+  },
+  {
+   "b": "Daniel Vorcaro",
+   "t": "controlador do Banco Master."
+  },
+  {
+   "b": "Paulo Henrique Costa",
+   "t": "ex-presidente do BRB, preso em abril de 2026."
+  },
+  {
+   "b": "Governo do Distrito Federal",
+   "t": "controlador do BRB, que pediu ao STF aval para o empréstimo do FGC."
+  },
+  {
+   "b": "Polícia Federal",
+   "t": "conduz a Operação Compliance Zero, que investiga as operações entre o BRB e o Master."
+  },
+  {
+   "b": "CVM",
+   "t": "suspendeu o registro do banco em 23 de novembro."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "BRB:",
+   "t": "diz que permanece \"em pleno funcionamento\" e que é \"instituição afetada\" pela crise do Master, segundo a Agência Brasil."
+  },
+  {
+   "b": "Polícia Federal:",
+   "t": "aponta indícios de irregularidade em ao menos R$ 12,2 bilhões dos R$ 16,7 bilhões injetados no Master, segundo o Brado Jornal."
+  },
+  {
+   "b": "CVM:",
+   "t": "diz que a suspensão não afasta a responsabilidade de controladores e administradores por infrações anteriores, segundo o SouBrasília."
+  }
+ ],
+ "observar": [
+  "Quando o BRB publica o balanço de 2025 e pede a volta do registro.",
+  "Se o STF autoriza o empréstimo de R$ 6,6 bilhões do FGC.",
+  "O andamento da Operação Compliance Zero e das ações contra os indiciados."
+ ],
+ "fontes": [
+  {
+   "t": "Agência Brasil: CVM suspende registro do BRB",
+   "u": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/brb-diz-que-banco-segue-funcionando-apos-suspensao-da-cvm"
+  },
+  {
+   "t": "SouBrasília: suspensão do BRB",
+   "u": "https://soubrasilia.com/cvm-suspende-registro-brb-acoes-bsli3-bsli4-sem-negociacao-b3/"
+  },
+  {
+   "t": "Brado Jornal: a investigação da PF",
+   "u": "https://www.bradojornal.com/noticias/brasil/2026/11/23/cvm-suspende-registro-do-brb-por-falta-de-balancos-e-impede-negociacao-de-acoes/"
+  }
+ ]
+}

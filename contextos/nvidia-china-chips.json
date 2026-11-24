@@ -1,13 +1,9 @@
 {
  "titulo": "Nvidia, China e a disputa pelos chips de inteligência artificial",
- "atualizado": "21 nov 2026",
+ "atualizado": "24 nov 2026",
  "selo": "Com ressalva",
  "frase": "Os chips da Nvidia são a base do treinamento de inteligência artificial. Desde 2022, os EUA limitam a venda dos modelos mais avançados à China, e a China, por sua vez, passou a restringir a compra de alguns deles.",
  "linha": [
-  {
-   "d": "3 de novembro de 2026",
-   "t": "O Financial Times informa que a Nvidia exige que parceiros de nuvem vendam pelo menos 51% dos serviços a clientes de fora da China."
-  },
   {
    "d": "7 de novembro de 2026",
    "t": "Investigação do New York Times encontra escritórios vazios em duas empresas chinesas, New Matrix e Maginfra, autorizadas a montar servidores com chips H200. Ambas têm ligações com empresas sob sanção dos EUA, segundo o Wccftech e o RuntimeWire."
@@ -35,6 +31,10 @@
   {
    "d": "19 de novembro de 2026",
    "t": "Ações da AMD caem 8% depois de relatório da Hunterbrook, que aposta na queda, sobre firmware em servidores de uma empresa chinesa da lista negra; a AMD nega, segundo a Reuters."
+  },
+  {
+   "d": "23 de novembro de 2026",
+   "t": "O conselho da Nvidia devolve a Jensen Huang o comando da empresa; Colette Kress volta a ser só diretora financeira, segundo a Nvidia."
   }
  ],
  "termos": [
@@ -112,10 +112,10 @@
   }
  ],
  "observar": [
-  "Se a Nvidia retoma as vendas de H200 à China.",
-  "Se o governo americano investiga o caso da AMD.",
-  "O depoimento de Jensen Huang no Congresso, em 1º de dezembro.",
-  "Quem assume de forma definitiva o comando da Nvidia."
+  "O depoimento de Jensen Huang e Tim Teter no Congresso, em 1º e 2 de dezembro.",
+  "O resultado da investigação do comitê de conselheiros independentes.",
+  "Quem será o novo diretor de conformidade da Nvidia.",
+  "Se a Nvidia retoma as vendas de H200 à China."
  ],
  "fontes": [
   {
@@ -193,12 +193,20 @@
   {
    "t": "IBTimes: Hunterbrook",
    "u": "https://www.ibtimes.com/amd-shares-fall-hunterbrook-china-export-risks-3809979"
+  },
+  {
+   "t": "Nvidia: a volta de Huang",
+   "u": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+  },
+  {
+   "t": "NPR: o conselho não pretendia trazer Huang de volta",
+   "u": "https://www.gpb.org/news/2026/11/17/nvidia-board-says-it-does-not-intend-reinstate-jensen-huang-ceo"
   }
  ],
  "historia": [
   "Os chips da Nvidia, chamados GPUs, viraram a base do treinamento de sistemas de inteligência artificial. Por isso, o governo dos EUA passou a tratá-los como tecnologia estratégica e, desde 2022, limita a venda dos modelos mais avançados à China. A Nvidia chegou a criar versões menos potentes, como o H20, para continuar vendendo ao mercado chinês, mas em abril de 2025 também ele passou a exigir licença.",
   "A política oscilou. Em dezembro de 2025, Donald Trump disse que clientes chineses aprovados poderiam comprar o H200, mais avançado, com 25% da receita indo para o governo americano. Do outro lado, a alfândega chinesa passou a barrar o H200 no início de 2026, e Pequim orientou empresas a reduzir compras. Em agosto, a Nvidia registrou despesa de US$ 400 milhões com estoque parado.",
   "Ao mesmo tempo, empresas chinesas encontraram outro caminho: alugar capacidade em data centers fora da China, sobretudo no Sudeste Asiático. Em novembro de 2026, uma investigação do New York Times encontrou escritórios vazios em empresas chinesas autorizadas a montar servidores com o H200, e a Megaspeed, empresa de nuvem de Singapura, entrou no centro do caso. O conselho da Nvidia abriu investigação sobre Jensen Huang, que deixou o comando da empresa em 12 de novembro.",
-  "A resposta do governo veio em 16 de novembro: o Departamento de Comércio passou a exigir licença para exportar chips avançados a Brasil, Indonésia, Malásia, Singapura e Tailândia e para que data centers deem acesso remoto a empresas chinesas, segundo o Nextgov. O Brasil foi incluído por risco \"acima do normal\" de desvio, segundo relatos do texto citados pelo Rio Times. A regra fica aberta a comentários por 60 dias. No dia seguinte, a Nvidia divulgou receita trimestral de US$ 115,8 bilhões, alta de 103% em um ano, no primeiro balanço sob a presidente interina, Colette Kress; o conselho criou um comitê de supervisão de controle de exportações. Na mesma teleconferência, a presidente interina, Colette Kress, disse que a empresa deixou de enviar à China chips Hopper licenciados, como o H200, depois de vender US$ 2,4 bilhões deles no trimestre, sem explicar o motivo, segundo a Reuters."
+  "A resposta do governo veio em 16 de novembro: o Departamento de Comércio passou a exigir licença para exportar chips avançados a Brasil, Indonésia, Malásia, Singapura e Tailândia e para que data centers deem acesso remoto a empresas chinesas, segundo o Nextgov. O Brasil foi incluído por risco \"acima do normal\" de desvio, segundo relatos do texto citados pelo Rio Times. A regra fica aberta a comentários por 60 dias. No dia seguinte, a Nvidia divulgou receita trimestral de US$ 115,8 bilhões, alta de 103% em um ano, no primeiro balanço sob a presidente interina, Colette Kress; o conselho criou um comitê de supervisão de controle de exportações. Na mesma teleconferência, a presidente interina, Colette Kress, disse que a empresa deixou de enviar à China chips Hopper licenciados, como o H200, depois de vender US$ 2,4 bilhões deles no trimestre, sem explicar o motivo, segundo a Reuters. Em 23 de novembro, o conselho decidiu por unanimidade devolver a Huang os cargos de presidente-executivo e conselheiro, depois de receber informações de \"altos escalões do governo dos EUA\"; a investigação interna continua, segundo a Nvidia."
  ]
 }

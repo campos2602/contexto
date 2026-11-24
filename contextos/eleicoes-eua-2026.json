@@ -1,13 +1,9 @@
 {
  "titulo": "As eleições de meio de mandato nos Estados Unidos",
- "atualizado": "20 nov 2026",
+ "atualizado": "24 nov 2026",
  "selo": "Checado",
  "frase": "A cada quatro anos, no meio do mandato presidencial, os americanos renovam a Câmara inteira, um terço do Senado e muitos governos estaduais. O resultado define se o presidente governa com ou sem maioria no Congresso.",
  "linha": [
-  {
-   "d": "3 de novembro de 2026",
-   "t": "Dia da eleição: 435 cadeiras da Câmara, 35 do Senado e 36 governos estaduais em disputa."
-  },
   {
    "d": "Noite de 3 de novembro",
    "t": "A AP projeta a maioria democrata no Senado e a CNN, na Câmara."
@@ -35,6 +31,10 @@
   {
    "d": "17 de novembro de 2026",
    "t": "A AP declara a vitória de Mary Peltola no Alasca, com 50,1% contra 45,8% de Dan Sullivan. Os democratas chegam a 56 cadeiras no Senado, segundo o Anchorage Daily News."
+  },
+  {
+   "d": "23 de novembro de 2026",
+   "t": "Chuck Hubbard derrota Virginia Foxx na Carolina do Norte, e os democratas chegam a ao menos 259 deputados, segundo o Democracy Now."
   }
  ],
  "termos": [
@@ -116,9 +116,9 @@
   }
  ],
  "observar": [
+  "As três disputas para a Câmara ainda sem resultado.",
+  "Se Virginia Foxx pede recontagem.",
   "A certificação do resultado no Alasca, em 25 de novembro.",
-  "O resultado da disputa pela Câmara no Alasca, ainda em apuração.",
-  "Como Stephen Miller vai conduzir a relação com o novo Congresso.",
   "A posse do novo Congresso, em janeiro."
  ],
  "fontes": [
@@ -185,11 +185,20 @@
   {
    "t": "Alaska Public Media: o resultado",
    "u": "https://alaskapublic.org/news/politics/elections/2026-11-17/mary-peltola-wins-u-s-senate-seat-in-alaska"
+  },
+  {
+   "t": "Democracy Now: maioria democrata chega a 259",
+   "u": "https://www.democracynow.org/2026/11/23/headlines/democrats_house_majority_swells_to_259_as_chuck_hubbard_defeats_11_term_gop_rep_virginia_foxx"
+  },
+  {
+   "t": "NC Newsline: Hubbard amplia vantagem sobre Foxx",
+   "u": "https://ncnewsline.com/?p=196026"
   }
  ],
  "historia": [
   "Nos EUA, a eleição de meio de mandato acontece dois anos depois da presidencial e renova toda a Câmara, um terço do Senado e muitos governos estaduais. Em 3 de novembro de 2026, estavam em jogo 435 cadeiras da Câmara, 35 do Senado e 36 governos estaduais, no segundo mandato de Donald Trump.",
   "Antes da votação, os republicanos tinham 53 das 100 cadeiras do Senado. Na noite da eleição, a AP projetou maioria democrata no Senado, e a CNN, na Câmara. Nos dias seguintes, o presidente da Câmara, Mike Johnson, disse que não vai disputar a liderança republicana, e Trump trocou a chefe de gabinete, Susie Wiles, por Stephen Miller. O Departamento de Justiça tentou travar resultados no Alasca antes da eleição, mas os tribunais rejeitaram o pedido.",
-  "O Alasca foi a última disputa do Senado a ser definida. A democrata Mary Peltola, ex-deputada federal e de origem yup'ik, enfrentou o senador republicano Dan Sullivan e um segundo candidato chamado Dan Sullivan, cuja candidatura é investigada. Em 17 de novembro, a AP declarou a vitória dela, com 50,1% contra 45,8%, sem necessidade de voto ranqueado. Os democratas chegaram a 56 cadeiras, com nove viradas, o maior número desde 1958, segundo o Anchorage Daily News."
+  "O Alasca foi a última disputa do Senado a ser definida. A democrata Mary Peltola, ex-deputada federal e de origem yup'ik, enfrentou o senador republicano Dan Sullivan e um segundo candidato chamado Dan Sullivan, cuja candidatura é investigada. Em 17 de novembro, a AP declarou a vitória dela, com 50,1% contra 45,8%, sem necessidade de voto ranqueado. Os democratas chegaram a 56 cadeiras, com nove viradas, o maior número desde 1958, segundo o Anchorage Daily News.",
+  "A apuração de disputas apertadas seguiu por semanas. Em 23 de novembro, o democrata Chuck Hubbard foi declarado vencedor no 5º distrito da Carolina do Norte contra a republicana Virginia Foxx, que estava no 11º mandato. A vantagem dele, de 99 votos na noite da eleição, subiu para 335 com votos provisórios e cédulas corrigidas, segundo o NC Newsline. Com o resultado, os democratas chegam a ao menos 259 das 435 cadeiras, a maior bancada desde a eleição de 1992, e três disputas seguem sem definição, segundo o Democracy Now."
  ]
 }
