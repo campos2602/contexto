@@ -1,13 +1,9 @@
 {
  "titulo": "Ajuste fiscal de 2027: o pacote para equilibrar as contas",
- "atualizado": "24 nov 2026",
+ "atualizado": "25 nov 2026",
  "selo": "Checado",
  "frase": "Depois da reeleição, com o dólar em alta e a dívida pública em crescimento, o governo Lula enviou ao Congresso em 11 de novembro de 2026 um projeto com cortes de gastos e de benefícios fiscais de R$ 50 bilhões a R$ 60 bilhões para cumprir a meta de 2027.",
  "linha": [
-  {
-   "d": "12 de novembro de 2026",
-   "t": "O Senado aprova o texto-base por 45 a 31, depois de aprovar a urgência por 40 a 38. Os destaques ficam para terça (17), segundo a Agência Brasil. O dólar fecha a R$ 5,65, o maior valor em 17 meses."
-  },
   {
    "d": "13 de novembro de 2026",
    "t": "Hugo Motta sinaliza que a Câmara pode votar o ajuste na semana seguinte, depois dos destaques no Senado, segundo o Metrópoles."
@@ -31,6 +27,10 @@
   {
    "d": "23 de novembro de 2026",
    "t": "A Câmara aprova o ajuste por 353 votos a 128, sem mudar o texto do Senado; o projeto vai à sanção, segundo o Metrópoles e a Jovem Pan."
+  },
+  {
+   "d": "24 de novembro de 2026",
+   "t": "Lula sanciona a Lei Complementar 239/2026, que já entra em vigor; parte das medidas vale a partir de 2027, segundo o Congresso em Foco."
   },
   {
    "d": "2030",
@@ -96,8 +96,8 @@
   }
  ],
  "observar": [
-  "Se Lula veta algum trecho, no prazo de 15 dias úteis.",
-  "O tamanho do contingenciamento a ser anunciado pelo Ministério do Planejamento.",
+  "O tamanho do contingenciamento no relatório bimestral de 2026.",
+  "A votação da regulamentação dos supersalários em até 60 dias.",
   "Os percentuais de limite ao uso de créditos tributários, a serem definidos pelo Executivo."
  ],
  "fontes": [
@@ -196,12 +196,20 @@
   {
    "t": "Jovem Pan: como votaram os partidos",
    "u": "https://jovempan.com.br/politica/como-votou-cada-partido-em-votacao-que-aprovou-texto-base-do-ajuste-fiscal-na-camara/"
+  },
+  {
+   "t": "Congresso em Foco: Lula sanciona o ajuste",
+   "u": "https://www.congressoemfoco.com.br/noticia/131836/lula-sanciona-ajuste-fiscal-veja-o-que-muda-e-a-integra-da-nova-lei"
+  },
+  {
+   "t": "Agência Brasil: a sanção",
+   "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso"
   }
  ],
  "historia": [
   "Em 2023, o governo Lula trocou o teto de gastos pelo arcabouço fiscal: as despesas federais passaram a poder crescer acima da inflação, até 2,5% ao ano, conforme a arrecadação. A regra permitiu ampliar gastos, mas a dívida bruta continuou subindo e deve fechar 2026 em 83,6% do PIB, segundo o NeoFeed.",
   "A desconfiança cresceu depois da reeleição. No primeiro pregão após o segundo turno, em 26 de outubro de 2026, o dólar subiu mais de 8% e o Ibovespa caiu 13,88%. O Copom interrompeu os cortes de juros citando a piora fiscal, e Lula foi à TV em 8 de novembro para dizer que a dívida o preocupa e prometer preservar as regras.",
   "Em 11 de novembro, o governo mandou ao Congresso um projeto de lei complementar com cortes de gastos e de benefícios fiscais estimados entre R$ 50 bilhões e R$ 60 bilhões para 2027. O texto reduz de 2,5% para 2% o limite de alta real das despesas e aumenta o corte de incentivos a empresas. No dia seguinte, o Senado aprovou o texto-base por 45 a 31.",
-  "Em 17 de novembro, sem acordo, o presidente do Senado, Davi Alcolumbre, adiou a votação dos quatro destaques. No dia seguinte, o plenário rejeitou três, e o quarto, sobre a Lei Kandir, foi retirado depois de acordo que elevou o repasse anual aos estados de R$ 1 bilhão para R$ 2 bilhões. O texto final passou por 69 votos a 2 e seguiu para a Câmara, onde o relator é Mauro Benevides (União-CE). Mesmo com o pacote, as projeções citadas pelo NeoFeed indicam que a dívida só começa a cair em 2030. Na Câmara, o relator Mauro Benevides Filho (União-CE) apresentou em 19 de novembro parecer sem mudanças no texto do Senado, e Hugo Motta marcou a votação para 23 de novembro. O governo passou a estimar economia de R$ 45,1 bilhões a R$ 50,1 bilhões em 2027, segundo a CNN Brasil. A discussão no plenário da Câmara foi marcada para segunda-feira (23), em sessão extraordinária, com votação final prevista para terça (24), segundo O Tempo e a Times Brasil. Por ser lei complementar, o texto precisa de ao menos 257 votos, segundo o SBT News. No domingo (22), reportagens indicaram que o presidente da Câmara, Hugo Motta, antecipou a votação para a própria segunda-feira, algo pouco comum na Casa, segundo o Jornal Opção e o PB Agora. Em 23 de novembro, a Câmara aprovou o texto por 353 votos a 128, com cinco abstenções, sem mudanças em relação ao Senado, e o projeto seguiu para a sanção de Lula, segundo o Metrópoles e a Agenda do Poder."
+  "Em 17 de novembro, sem acordo, o presidente do Senado, Davi Alcolumbre, adiou a votação dos quatro destaques. No dia seguinte, o plenário rejeitou três, e o quarto, sobre a Lei Kandir, foi retirado depois de acordo que elevou o repasse anual aos estados de R$ 1 bilhão para R$ 2 bilhões. O texto final passou por 69 votos a 2 e seguiu para a Câmara, onde o relator é Mauro Benevides (União-CE). Mesmo com o pacote, as projeções citadas pelo NeoFeed indicam que a dívida só começa a cair em 2030. Na Câmara, o relator Mauro Benevides Filho (União-CE) apresentou em 19 de novembro parecer sem mudanças no texto do Senado, e Hugo Motta marcou a votação para 23 de novembro. O governo passou a estimar economia de R$ 45,1 bilhões a R$ 50,1 bilhões em 2027, segundo a CNN Brasil. A discussão no plenário da Câmara foi marcada para segunda-feira (23), em sessão extraordinária, com votação final prevista para terça (24), segundo O Tempo e a Times Brasil. Por ser lei complementar, o texto precisa de ao menos 257 votos, segundo o SBT News. No domingo (22), reportagens indicaram que o presidente da Câmara, Hugo Motta, antecipou a votação para a própria segunda-feira, algo pouco comum na Casa, segundo o Jornal Opção e o PB Agora. Em 23 de novembro, a Câmara aprovou o texto por 353 votos a 128, com cinco abstenções, sem mudanças em relação ao Senado, e o projeto seguiu para a sanção de Lula, segundo o Metrópoles e a Agenda do Poder. Lula sancionou a lei em 24 de novembro."
  ]
 }

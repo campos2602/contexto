@@ -1,0 +1,132 @@
+{
+ "titulo": "Música gerada por IA nas plataformas de streaming",
+ "atualizado": "25 nov 2026",
+ "selo": "Checado",
+ "frase": "Ferramentas como o Suno criam músicas inteiras a partir de comandos de texto, e as faixas chegam aos serviços de streaming aos milhares por dia. As plataformas passaram a marcar, esconder, deixar de pagar e, no caso do Tidal, apagar essas músicas.",
+ "historia": [
+  "Com ferramentas de IA generativa, qualquer pessoa pode criar uma faixa completa e enviá-la a serviços de streaming por meio de distribuidoras. O volume cresceu rápido. O Deezer disse em abril de 2026 receber perto de 75 mil faixas feitas inteiramente por IA por dia, mais de 44% das músicas novas, e que até 85% das reproduções dessas faixas em 2025 foram fraudulentas, segundo o Music Business Worldwide.",
+  "As plataformas reagiram de formas diferentes. O Deezer foi o primeiro a detectar e marcar essas faixas e as tira das recomendações. O Spotify passou a identificar faixas de IA e filtrar spam em setembro de 2025 e diz ter removido mais de 75 milhões de faixas consideradas spam em um ano. O Apple Music adotou etiquetas em março de 2026, e o Qobuz tira esse conteúdo das recomendações, segundo o TechCrunch e o Music Business Worldwide.",
+  "Em 29 de junho de 2026, o Tidal anunciou que faixas feitas inteiramente por IA deixariam de gerar direitos autorais e vendas diretas, ganhariam um selo e que imitações de artistas seriam retiradas, com parte das regras em vigor em 15 de julho, segundo o TechCrunch e o Music Business Worldwide. A empresa também passou a cobrar das distribuidoras que identifiquem o conteúdo de IA antes do envio.",
+  "Em 24 de novembro, o Tidal foi além e anunciou que vai remover essas faixas do catálogo a partir de 9 de dezembro. Segundo os números da empresa, 6% do catálogo, cerca de 27 milhões de faixas, tem o selo de IA, 94% delas atribuídas ao Suno, e 96% não tiveram reproduções em 90 dias, segundo o Digital Trends."
+ ],
+ "linha": [
+  {
+   "d": "Setembro de 2025",
+   "t": "O Spotify muda as regras para identificar faixas de IA e filtrar spam, segundo o TechCrunch."
+  },
+  {
+   "d": "Março de 2026",
+   "t": "O Apple Music adota etiquetas de transparência para faixas de IA."
+  },
+  {
+   "d": "Abril de 2026",
+   "t": "O Deezer diz receber perto de 75 mil faixas feitas só por IA por dia, segundo o Music Business Worldwide."
+  },
+  {
+   "d": "29 de junho de 2026",
+   "t": "O Tidal anuncia que faixas feitas só por IA deixam de gerar direitos autorais, segundo o TechCrunch."
+  },
+  {
+   "d": "15 de julho de 2026",
+   "t": "Entram em vigor o selo de IA do Tidal e a retirada de imitações de artistas."
+  },
+  {
+   "d": "24 de novembro de 2026",
+   "t": "O Tidal anuncia que vai apagar do catálogo as faixas feitas só por IA, segundo o Digital Trends."
+  },
+  {
+   "d": "9 de dezembro de 2026",
+   "t": "Começa a remoção das faixas no Tidal."
+  }
+ ],
+ "termos": [
+  {
+   "t": "IA generativa",
+   "d": "sistemas que criam textos, imagens ou sons novos a partir de exemplos e comandos."
+  },
+  {
+   "t": "Distribuidora",
+   "d": "empresa que leva as faixas de artistas e gravadoras aos serviços de streaming."
+  },
+  {
+   "t": "Direitos autorais",
+   "d": "valores pagos a quem detém os direitos de uma música a cada reprodução."
+  },
+  {
+   "t": "Selo de IA",
+   "d": "marca que o serviço põe em faixas que considera feitas inteiramente por inteligência artificial."
+  },
+  {
+   "t": "Streaming fraudulento",
+   "d": "reproduções feitas por robôs para inflar audiência e receber pagamentos."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Tidal",
+   "t": "serviço de música de alta fidelidade lançado em 2015, menor que Spotify, Apple Music e Deezer, segundo o The Next Web."
+  },
+  {
+   "b": "Deezer",
+   "t": "serviço de streaming que oferece sua tecnologia de detecção a concorrentes."
+  },
+  {
+   "b": "Spotify",
+   "t": "serviço de streaming que marca faixas de IA quando o artista informa o uso."
+  },
+  {
+   "b": "Apple Music",
+   "t": "usa etiquetas desde março de 2026 e depende de gravadoras e distribuidoras para declarar o uso de IA, segundo o Music Business Worldwide."
+  },
+  {
+   "b": "Qobuz",
+   "t": "anunciou em fevereiro de 2026 sistema próprio de detecção, que marca faixas de IA e retira imitações."
+  },
+  {
+   "b": "Suno",
+   "t": "ferramenta de geração de músicas a que o Tidal atribui 94% das faixas com o selo de IA."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Tidal:",
+   "t": "diz que muitos usuários não querem ser expostos a música feita inteiramente por IA, segundo Tony Gervino, vice-presidente da empresa, citado pelo TechCrunch."
+  },
+  {
+   "b": "Debate sobre licenças:",
+   "t": "o próprio Tidal reconhece a discussão sobre se músicas feitas com modelos licenciados de forma justa deveriam gerar direitos, segundo o Music Business Worldwide."
+  },
+  {
+   "b": "Suno:",
+   "t": "as reportagens lidas não trazem posição da empresa sobre a remoção."
+  }
+ ],
+ "observar": [
+  "A remoção no Tidal a partir de 9 de dezembro.",
+  "Se outros serviços passam a apagar faixas feitas só por IA.",
+  "Como as plataformas tratam músicas feitas em parte com IA.",
+  "Se as distribuidoras passam a declarar o uso de IA antes do envio das faixas."
+ ],
+ "fontes": [
+  {
+   "t": "Digital Trends: a remoção no Tidal",
+   "u": "https://www.digitaltrends.com/movies/tidal-to-enforce-a-platform-wide-ban-on-ai-generated-music-starting-next-month/"
+  },
+  {
+   "t": "TechCrunch: a regra de junho",
+   "u": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+  },
+  {
+   "t": "The Next Web: a regra de junho",
+   "u": "https://thenextweb.com/news/tidal-ai-music-demonetization-badge-impersonation-removal"
+  },
+  {
+   "t": "Music Business Worldwide: a regra de junho",
+   "u": "https://www.musicbusinessworldwide.com/tidal-to-tag-fully-ai-generated-music-and-block-it-from-earning-royalties/"
+  },
+  {
+   "t": "Techloy: a remoção no Tidal",
+   "u": "https://www.techloy.com/brief/tidal-bans-ai-music-tracks-from-its-platform-15d9tpx/"
+  }
+ ]
+}

@@ -1,0 +1,765 @@
+{
+ "data": "2026-11-25",
+ "dia": "Quarta, 25 de novembro de 2026",
+ "leitura": "7 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje a sanção do ajuste fiscal, a operação da PF contra lavagem com criptomoedas, o primeiro acordo de coalizão de Eisenkot em Israel e o primeiro estrangeiro na estação espacial chinesa.",
+ "trinta": [
+  "Lula sancionou o ajuste fiscal, que já está em vigor.",
+  "A PF fez três operações contra lavagem de dinheiro de fraudes com criptomoedas.",
+  "Eisenkot e Lieberman vão assinar o primeiro acordo de coalizão em Israel."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "A lei já vale e muda as regras de gastos e benefícios tributários a partir de 2027."
+  },
+  {
+   "id": "m1",
+   "porque": "Primeiro passo de Eisenkot para formar governo antes do prazo de 6 de dezembro."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Lula sanciona ajuste fiscal um dia depois da aprovação na Câmara",
+     "contexto": "ajuste-fiscal-2027",
+     "texto": "Lula sancionou na terça (24) a lei do ajuste fiscal, a Lei Complementar 239/2026, publicada em edição extra do Diário Oficial, segundo o Congresso em Foco. As reportagens da Agência Brasil, do Congresso em Foco e da Jovem Pan não mencionam vetos.",
+     "pq": "a lei já vale e permite tirar até R$ 10,5 bilhões em subsídio ao diesel da meta fiscal de 2026, o que reduz o bloqueio de gastos deste ano, segundo o Congresso em Foco. As novas regras de gastos valem a partir de 2027.",
+     "fontes": [
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso"
+      },
+      {
+       "t": "Congresso em Foco",
+       "u": "https://www.congressoemfoco.com.br/noticia/131836/lula-sanciona-ajuste-fiscal-veja-o-que-muda-e-a-integra-da-nova-lei"
+      },
+      {
+       "t": "Jovem Pan",
+       "u": "https://jovempan.com.br/politica/lula-sanciona-ajuste-fiscal-apos-aprovacao-no-cogresso/"
+      }
+     ],
+     "completa": {
+      "fina": "O governo estima melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado das contas de 2027, segundo a Agência Brasil e a Jovem Pan.",
+      "atualizada": "25 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Lula sancionou o projeto de lei complementar 299/2026 menos de 24 horas depois de a Câmara concluir a votação, segundo o Congresso em Foco. A lei foi publicada em edição extra do Diário Oficial da União e já está em vigor, mas parte das medidas só vale a partir de 2027. A estimativa citada pela Agência Brasil é de superávit de cerca de R$ 18,7 bilhões no ano que vem.",
+      "blocos": [
+       {
+        "h": "O que muda",
+        "li": [
+         {
+          "b": "Gastos:",
+          "t": "o limite de crescimento real das despesas cai de 2,5% para 2% nos anos com medidas de contenção, a partir de 2027."
+         },
+         {
+          "b": "Benefícios tributários:",
+          "t": "o corte de benefícios federais sobe de 10% para 20%, com exceções previstas em lei, a partir de janeiro ou março de 2027, conforme o tributo, segundo o Congresso em Foco."
+         },
+         {
+          "b": "Exceções:",
+          "t": "benefícios para tecnologia da informação, semicondutores e compra de veículos por pessoas com deficiência ou autistas ficam fora do corte, por emenda da senadora Damares Alves (Republicanos-DF), segundo a Jovem Pan."
+         },
+         {
+          "b": "Bloqueios:",
+          "t": "o governo pode contingenciar despesas mesmo quando o resultado estiver dentro da margem de tolerância da meta."
+         },
+         {
+          "b": "Supersalários:",
+          "t": "o Congresso tem 60 dias para votar a regulamentação de pagamentos acima do teto."
+         }
+        ]
+       },
+       {
+        "h": "O efeito neste ano",
+        "p": [
+         "A contenção de despesas no Orçamento de 2026 era de R$ 16,1 bilhões, sendo R$ 2,4 bilhões em bloqueio e R$ 13,6 bilhões em contingenciamento, segundo O Globo, reproduzido pela Tribuna do Sertão. A meta de 2026 é um superávit de 0,25% do PIB, ou R$ 34,3 bilhões. Com a retirada do subsídio ao diesel da conta, a necessidade de novo contingenciamento no relatório bimestral, previsto para terça, fica menor, segundo o Congresso em Foco. O número final do relatório não estava nas páginas lidas."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "O projeto foi apresentado em 11 de novembro pelo líder do governo no Senado, Jaques Wagner (PT-BA), com relatoria de Eduardo Braga (MDB-AM). O Senado concluiu a votação em 18 de novembro. Na Câmara, o texto teve 353 votos a favor, 128 contra e cinco abstenções, e todas as emendas foram rejeitadas, o que levou o projeto direto à sanção, segundo o Congresso em Foco."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Randolfe Rodrigues (PT-AP), líder do governo no Congresso:",
+          "t": "disse que o ajuste abre espaço para promessas de campanha, como a tarifa zero no fim de semana e o Farmácia Popular, segundo a Jovem Pan."
+         },
+         {
+          "b": "Bruno Moretti, ministro do Planejamento:",
+          "t": "disse que o pacote combina receitas e racionalização de despesas, incluindo os supersalários."
+         },
+         {
+          "b": "Oposição:",
+          "t": "o PL votou contra na Câmara; as reportagens sobre a sanção não trazem fala de seus líderes."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O tamanho do novo contingenciamento de 2026.",
+         "Os percentuais de limite ao uso de créditos tributários, que serão definidos pelo Executivo."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Relatório bimestral de receitas e despesas de 2026.",
+         "Votação da regulamentação dos supersalários em até 60 dias.",
+         "Corte de benefícios tributários a partir de 2027."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Agência Brasil",
+        "u": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-sanciona-ajuste-fiscal-aprovado-no-congresso"
+       },
+       {
+        "t": "Congresso em Foco",
+        "u": "https://www.congressoemfoco.com.br/noticia/131836/lula-sanciona-ajuste-fiscal-veja-o-que-muda-e-a-integra-da-nova-lei"
+       },
+       {
+        "t": "Jovem Pan",
+        "u": "https://jovempan.com.br/politica/lula-sanciona-ajuste-fiscal-apos-aprovacao-no-cogresso/"
+       },
+       {
+        "t": "Tribuna do Sertão, com O Globo",
+        "u": "https://www.tribunadosertao.com.br/financas/2026/11/24/1028799-governo-deve-anunciar-contencao-de-despesas-no-orcamento-mesmo-apos-aprovacao-de-ajuste-fiscal"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "PF faz três operações contra lavagem de R$ 4,3 bilhões com criptomoedas",
+     "contexto": "proibicao-das-bets",
+     "texto": "A Polícia Federal cumpriu na terça (24) 72 mandados em cinco estados e no Distrito Federal contra grupos suspeitos de lavar dinheiro de fraudes com apostas on-line e falsas vagas de emprego no exterior, segundo a TV Sim Brasil e o Mix Vale.",
+     "pq": "os grupos movimentaram R$ 4,3 bilhões, segundo o Mix Vale e O Observador, e a Justiça mandou bloquear até esse valor. A investigação rastreia o uso de criptomoedas para tirar do país dinheiro de vítimas.",
+     "fontes": [
+      {
+       "t": "TV Sim Brasil",
+       "u": "https://tvsimbrasil.com.br/brasil/noticias/noticia/2026/11/24/pf-bloqueia-4-3-bi-golpes-criptomoedas"
+      },
+      {
+       "t": "Mix Vale",
+       "u": "https://www.mixvale.com.br/2026/11/24/pf-deflagra-tres-operacoes-contra-lavagem-de-dinheiro-em-cinco-estados-e-no-df/"
+      },
+      {
+       "t": "O Observador",
+       "u": "https://www.oobservador.com/2026/11/pf-deflagra-tres-operacoes-contra.html"
+      }
+     ],
+     "completa": {
+      "fina": "A PF não divulgou os nomes dos alvos nem dos dois presos temporários, segundo a TV Sim Brasil.",
+      "atualizada": "25 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Cerca de 130 policiais federais cumpriram 72 mandados de busca e apreensão, incluindo dois de prisão temporária, nas operações Narco Azimut III, Narco Oriente e Narco Alicerce, segundo a TV Sim Brasil, que cita nota da PF divulgada pela Agência Gov. Os crimes investigados são lavagem de dinheiro, associação criminosa e evasão de divisas.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Narco Azimut III:",
+          "t": "bloqueio de até R$ 1,1 bilhão."
+         },
+         {
+          "b": "Narco Oriente:",
+          "t": "bloqueio de até R$ 3,2 bilhões."
+         },
+         {
+          "b": "Narco Alicerce:",
+          "t": "bloqueio de bens, sobretudo imóveis de alto padrão, sem valor divulgado."
+         },
+         {
+          "b": "Divergência:",
+          "t": "a TV Sim Brasil trata os R$ 4,3 bilhões como valor bloqueado; o Mix Vale e O Observador, como valor movimentado pelos grupos."
+         }
+        ]
+       },
+       {
+        "h": "Onde",
+        "p": [
+         "Houve mandados em São Paulo, Guarulhos, Itatiba, Avaré, Mongaguá, Jundiaí, Sorocaba, São Bernardo do Campo, Piedade e Charqueada, em São Paulo; em Foz do Iguaçu (PR), Recife (PE), Cidade Ocidental (GO), Porto Alegre (RS) e Brasília. Foram apreendidos veículos, dinheiro, documentos e equipamentos eletrônicos, segundo a TV Sim Brasil."
+        ]
+       },
+       {
+        "h": "Como funcionavam as fraudes",
+        "p": [
+         "Nas apostas, as vítimas não conseguiam sacar e eram levadas a fazer novos depósitos para \"liberar prêmios\". Nas falsas vagas no exterior, os grupos cobravam valores antecipados, segundo O Observador, que reproduz a CartaCapital. Segundo o mesmo texto, a investigação é do Grupo Especial de Investigações Sensíveis da PF em São Paulo, os mandados foram expedidos pela 5ª Vara Federal de Santos, e a Narco Oriente seria liderada principalmente por chineses."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "As operações são desdobramentos de investigações anteriores. A primeira Narco Azimut, em janeiro de 2026, apurou lavagem de mais de R$ 39 milhões, e a segunda, em março, bloqueou R$ 934 milhões e prendeu sete pessoas, segundo o Mix Vale. As apostas de quota fixa foram proibidas por medida provisória em setembro, e o tema está no STF e no Congresso."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Polícia Federal:",
+          "t": "diz que as investigações seguem para identificar todos os envolvidos e a estrutura financeira, com foco no fluxo de criptoativos entre empresas de fachada, segundo a TV Sim Brasil."
+         },
+         {
+          "b": "Investigados:",
+          "t": "os nomes não foram divulgados, e as reportagens não trazem manifestação de defesas."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem são os alvos.",
+         "Quanto foi efetivamente bloqueado.",
+         "Quantas vítimas perderam dinheiro."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Análise do material apreendido.",
+         "Os dois presos temporários ficam à disposição da Justiça Federal."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "TV Sim Brasil",
+        "u": "https://tvsimbrasil.com.br/brasil/noticias/noticia/2026/11/24/pf-bloqueia-4-3-bi-golpes-criptomoedas"
+       },
+       {
+        "t": "Mix Vale",
+        "u": "https://www.mixvale.com.br/2026/11/24/pf-deflagra-tres-operacoes-contra-lavagem-de-dinheiro-em-cinco-estados-e-no-df/"
+       },
+       {
+        "t": "O Observador, com CartaCapital",
+        "u": "https://www.oobservador.com/2026/11/pf-deflagra-tres-operacoes-contra.html"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Eisenkot fecha o primeiro acordo de coalizão em Israel, com Lieberman",
+     "contexto": "eleicao-israel-2026",
+     "texto": "O partido Yashar, de Gadi Eisenkot, e o Israel Nossa Casa, de Avigdor Lieberman, concordaram na terça (24) em assinar um acordo de coalizão, segundo a Reuters e o JFeed. É a primeira aliança formal desde a eleição de 27 de outubro.",
+     "pq": "Eisenkot tem até 6 de dezembro para formar governo. Os dois partidos somam 28 das 120 cadeiras, segundo a Reuters. No mesmo dia, os Democratas, de Yair Golan, suspenderam as conversas com o Yashar.",
+     "fontes": [
+      {
+       "t": "Reuters, via Forth",
+       "u": "https://www.forth.news/articles/ChNYNwhw2z7Hvsj378pu1"
+      },
+      {
+       "t": "JFeed",
+       "u": "https://www.jfeed.com/news-israel/eisenkot-liberman-coalition-agreement"
+      },
+      {
+       "t": "The Jerusalem Post",
+       "u": "https://www.jpost.com/israel-election-2026/2026-11-24/live-updates-915910"
+      }
+     ],
+     "completa": {
+      "fina": "Os termos do acordo e a divisão de ministérios não foram divulgados, segundo o JFeed.",
+      "atualizada": "25 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Eisenkot e Lieberman concordaram na noite de terça em assinar o acordo entre os dois partidos, segundo nota do Yashar citada pelo JFeed. O presidente Isaac Herzog deu a Eisenkot a tarefa de formar o governo, enquanto Benjamin Netanyahu segue como primeiro-ministro interino, segundo a Reuters.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Blocos:",
+          "t": "o grupo do Likud tem 53 das 120 cadeiras; Eisenkot e parceiros, 48; os partidos árabes, 19, segundo a Reuters."
+         },
+         {
+          "b": "Partidos:",
+          "t": "o Yashar elegeu 21 deputados, e o Israel Nossa Casa, 7. Os Democratas têm 8."
+         },
+         {
+          "b": "Prazo:",
+          "t": "Eisenkot tem 28 dias, até 6 de dezembro, e pode pedir mais 14. Sem governo, haverá nova eleição no ano que vem."
+         }
+        ]
+       },
+       {
+        "h": "As outras conversas",
+        "p": [
+         "O Yashar negocia com o Judaísmo Unido da Torá um rascunho sobre o serviço militar: fim das cotas de alistamento, estudantes da Torá em tempo integral sem sanções, convocação dos que não estudam e brigadas ultraortodoxas supervisionadas, segundo o JFeed. Uma fonte do partido disse que o texto foi \"além das expectativas\". Com o Likud, há entendimentos preliminares sobre um comitê ministerial para mudanças no Judiciário e sobre afastar o primeiro-ministro por incapacidade apenas por motivo médico."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "A eleição foi em 27 de outubro, e o novo Parlamento tomou posse em 10 de novembro. Likud e Yashar também conversam sobre um governo de união, sem acordo até agora. Na terça, os Democratas encerraram as negociações citando impasse sobre um governo de mudança, segundo o JFeed."
+        ]
+       },
+       {
+        "h": "Outros movimentos",
+        "p": [
+         "Na terça, o Parlamento aprovou quatro comissões especiais, sobre crime na comunidade árabe, processos ligados ao 7 de outubro, igualdade social e desenvolvimento regional, segundo o Jerusalem Post. Eisenkot também se reuniu com o chefe do Shin Bet, David Zini, segundo o jornal."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Avigdor Lieberman:",
+          "t": "\"A única opção é um governo com o Shas e o Judaísmo Unido da Torá\" e \"qualquer outro governo é uma ilusão\", segundo o JFeed."
+         },
+         {
+          "b": "Naftali Bennett, do B'Yachad:",
+          "t": "\"O bloco da mudança não entregou nas eleições.\""
+         },
+         {
+          "b": "Yair Golan, dos Democratas:",
+          "t": "citou as conversas do Likud sobre um comitê para o Judiciário ao deixar as negociações."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Que ministérios o Israel Nossa Casa recebe.",
+         "Se os ultraortodoxos aceitam entrar no governo."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Assinatura formal do acordo.",
+         "Negociações com o Judaísmo Unido da Torá e com o Likud até 6 de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Reuters, via Forth",
+        "u": "https://www.forth.news/articles/ChNYNwhw2z7Hvsj378pu1"
+       },
+       {
+        "t": "JFeed",
+        "u": "https://www.jfeed.com/news-israel/eisenkot-liberman-coalition-agreement"
+       },
+       {
+        "t": "The Jerusalem Post: atualizações de 24 de novembro",
+        "u": "https://www.jpost.com/israel-election-2026/2026-11-24/live-updates-915910"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "China leva o primeiro astronauta estrangeiro à sua estação espacial",
+     "contexto": "estacao-espacial-chinesa",
+     "texto": "A nave Shenzhou-24 decolou às 8h18 de quarta (25) em Pequim, 21h18 de terça em Brasília, com dois chineses e o paquistanês Muhammad Zeeshan Ali, primeiro estrangeiro a visitar a estação Tiangong, segundo a Reuters e o Space.com.",
+     "pq": "é a primeira vez que a China leva um estrangeiro ao espaço, segundo o Space.com, fruto de um acordo com o Paquistão de 2025. A estação internacional liderada pela Nasa pode ser aposentada até 2030, segundo a Reuters.",
+     "fontes": [
+      {
+       "t": "Reuters, via Forth",
+       "u": "https://www.forth.news/articles/ChNhuo3wm5U3CQENBXr6N"
+      },
+      {
+       "t": "Space.com",
+       "u": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station"
+      },
+      {
+       "t": "Dawn",
+       "u": "https://www.dawn.com/news/2046714/carrying-hopes-of-250m-people-zeeshan-ali-to-be-first-pakistani-astronaut-in-space-aboard-chinas-shenzhou-24"
+      }
+     ],
+     "completa": {
+      "fina": "Ali deve ficar cerca de uma semana na estação e fazer perto de 90 experimentos, segundo a agência espacial tripulada da China, citada pelo Dawn.",
+      "atualizada": "25 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O foguete Longa Marcha 2F partiu do Centro de Lançamento de Satélites de Jiuquan com o comandante Tang Hongbo, Wu Yi e Muhammad Zeeshan Ali, de 40 anos, piloto e especialista de carga útil, segundo a Reuters. É o 18º voo tripulado da China e a 12ª missão com astronautas à Tiangong, segundo o Space.com.",
+      "blocos": [
+       {
+        "h": "A tripulação",
+        "li": [
+         {
+          "b": "Tang Hongbo:",
+          "t": "comandante; segundo a agência Xinhua, citada pelo Space.com, é a primeira pessoa a visitar a Tiangong três vezes."
+         },
+         {
+          "b": "Wu Yi:",
+          "t": "faz o primeiro voo espacial. O Space.com e a Reuters o descrevem como engenheiro de voo; o Dawn, como piloto da missão."
+         },
+         {
+          "b": "Muhammad Zeeshan Ali:",
+          "t": "primeiro paquistanês a chegar à órbita; treinou sete meses em Pequim, com aulas de chinês, caligrafia e tênis de mesa, segundo a Reuters."
+         }
+        ]
+       },
+       {
+        "h": "Quanto tempo ficam",
+        "p": [
+         "Tang e Wu devem passar cerca de seis meses na estação. Ali volta em cerca de uma semana com Zhang Zhiyuan e Lai Ka-ying, da Shenzhou-23. Zhu Yangzhu fica a bordo até a volta da Shenzhou-24, o que deve completar um ano em órbita, a primeira permanência desse tamanho para a China, segundo o Space.com e o Dawn."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "China e Paquistão assinaram em fevereiro de 2025, em Islamabad, um acordo de cooperação para levar um astronauta paquistanês à estação, segundo o Space.com. A seleção passou por triagem, avaliação e escolha final, segundo a CGTN. Dois pilotos militares, Ali e Khurram Daud, treinaram em Pequim, escolhidos entre cerca de 20 finalistas, segundo o Space.com. Quatro experimentos paquistaneses foram selecionados entre mais de 300 propostas, segundo a agência espacial do Paquistão, citada pelo site. A tripulação foi anunciada na segunda (23) à noite, pelo horário de Brasília."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Muhammad Zeeshan Ali:",
+          "t": "\"Não estou voando por mim. Levo o nome do Paquistão nos ombros\", disse na terça, segundo a Reuters; e \"esta missão não é uma linha de chegada, é uma plataforma de lançamento\", segundo o Dawn."
+         },
+         {
+          "b": "Zhang Jingbo, porta-voz da agência espacial tripulada da China:",
+          "t": "confirmou que Ali será o primeiro estrangeiro a visitar a estação, segundo o Dawn."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quais experimentos Ali vai conduzir.",
+         "Quando a China leva o próximo astronauta estrangeiro."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Acoplagem à Tiangong e troca de tripulação.",
+         "Volta de Ali com a tripulação da Shenzhou-23."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Reuters, via Forth",
+        "u": "https://www.forth.news/articles/ChNhuo3wm5U3CQENBXr6N"
+       },
+       {
+        "t": "Space.com: o lançamento",
+        "u": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station"
+       },
+       {
+        "t": "Dawn",
+        "u": "https://www.dawn.com/news/2046714/carrying-hopes-of-250m-people-zeeshan-ali-to-be-first-pakistani-astronaut-in-space-aboard-chinas-shenzhou-24"
+       },
+       {
+        "t": "Space.com: os candidatos",
+        "u": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-set-to-become-1st-international-visitor-to-chinas-tiangong-space-station-this-month"
+       },
+       {
+        "t": "CGTN",
+        "u": "https://news.cgtn.com/news/2026-11-07/First-foreign-astronaut-set-to-visit-China-s-space-station-1RS6aTZm5he/p.html"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Huang diz a funcionários da Nvidia que violou o código de conduta",
+     "contexto": "nvidia-china-chips",
+     "texto": "Na primeira reunião geral desde a volta ao comando, na terça (24), Jensen Huang disse ter violado partes do código de conduta da Nvidia e cometido \"erros terríveis\", segundo fonte ouvida pela Reuters. Disse também que faz terapia, segundo a Reuters e manchetes reunidas pelo Techmeme.",
+     "pq": "Huang negou que a volta tenha sido fruto de pressão de Trump sobre o conselho. As ações da Nvidia caíram 5,9% na terça, e investigações do FBI, do Departamento de Justiça e da SEC seguem, segundo a Reuters.",
+     "fontes": [
+      {
+       "t": "Reuters, via Forth",
+       "u": "https://www.forth.news/articles/ChNmixoE9CWMNeUNUisoB"
+      },
+      {
+       "t": "Techmeme",
+       "u": "https://www.techmeme.com/index.php"
+      }
+     ],
+     "completa": {
+      "fina": "Huang deve depor em audiência pública no Senado dos EUA em 3 de dezembro, segundo a Reuters.",
+      "atualizada": "25 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A reunião durou cerca de uma hora, na sede da empresa em Santa Clara, na Califórnia, um dia depois de o conselho devolver a Huang o cargo de presidente-executivo, segundo a Reuters. Huang disse que não era aceitável ter violado aspectos do código e que o conselho avaliou os fatos e recebeu garantias de que não havia ameaça à segurança nacional.",
+      "blocos": [
+       {
+        "h": "O que Huang disse",
+        "li": [
+         {
+          "b": "Pressão política:",
+          "t": "negou que a volta tenha vindo de pressão de Trump sobre o conselho, segundo a Reuters."
+         },
+         {
+          "b": "Chefe abusivo:",
+          "t": "pediu desculpas, mas discordou de reportagens que o descreveram assim, segundo o New York Times, citado pela Reuters."
+         },
+         {
+          "b": "Sucessão:",
+          "t": "disse que a Nvidia não precisa de um plano de sucessão, por causa de seu modelo de negócios, segundo a CNBC, em manchete reunida pelo Techmeme."
+         }
+        ]
+       },
+       {
+        "h": "O que disse Trump",
+        "p": [
+         "Em entrevista ao New York Post, Trump disse que daria um perdão a Huang se fosse necessário, mas que acha que ele ficará bem sem isso, segundo a Reuters. Trump também disse estar aberto a uma participação do governo americano na Nvidia e que \"provavelmente não é tarde demais\", segundo o Techmeme."
+        ]
+       },
+       {
+        "h": "O mercado",
+        "p": [
+         "As ações subiram na segunda com a volta de Huang e fecharam a terça em queda de 5,9%. Estão quase 31% abaixo do recorde de 6 de outubro, e a Nvidia voltou a ser a segunda maior empresa do mundo em valor, atrás da Apple, segundo a Reuters."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Huang deixou o cargo em 12 de novembro, depois de revelações sobre casos extraconjugais, um deles com uma mulher apontada como espiã chinesa, segundo a Reuters. Em 23 de novembro, o conselho o reconduziu e disse ter recebido informações do governo americano de que a volta não traz risco à segurança nacional."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Dan Sheehan, da Telos Wealth Advisors:",
+          "t": "\"A recondução levanta tantas perguntas quanto responde\", segundo a Reuters."
+         },
+         {
+          "b": "Peter Andersen, da Andersen Capital Management:",
+          "t": "chama a decisão do conselho de risco ético e legal."
+         },
+         {
+          "b": "Parlamentares:",
+          "t": "deputados e senadores dos dois partidos criticaram a decisão, segundo a Reuters."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O resultado das investigações do FBI, do Departamento de Justiça e da SEC.",
+         "O resultado da apuração interna do conselho.",
+         "Se Huang vai responder a todas as perguntas no Congresso."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Audiência no Senado em 3 de dezembro, segundo a Reuters."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Reuters, via Forth",
+        "u": "https://www.forth.news/articles/ChNmixoE9CWMNeUNUisoB"
+       },
+       {
+        "t": "Techmeme",
+        "u": "https://www.techmeme.com/index.php"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Tidal vai apagar do catálogo as músicas feitas só por IA",
+     "contexto": "musica-gerada-por-ia",
+     "texto": "O serviço de streaming Tidal vai começar a remover em 9 de dezembro as faixas geradas inteiramente por inteligência artificial, segundo o Digital Trends e o Techloy. Uma publicação citada pelo Digital Trends fala em 29 milhões de músicas apagadas.",
+     "pq": "o Tidal diz que 43% das faixas enviadas nos últimos 90 dias receberam o selo de IA e que 96% das faixas com o selo não tiveram nenhuma reprodução no período, segundo o Digital Trends.",
+     "fontes": [
+      {
+       "t": "Digital Trends",
+       "u": "https://www.digitaltrends.com/movies/tidal-to-enforce-a-platform-wide-ban-on-ai-generated-music-starting-next-month/"
+      },
+      {
+       "t": "Techloy",
+       "u": "https://www.techloy.com/brief/tidal-bans-ai-music-tracks-from-its-platform-15d9tpx/"
+      }
+     ],
+     "completa": {
+      "fina": "A remoção começa em 9 de dezembro, e o catálogo deve estar livre dessas faixas no começo do ano, segundo a publicação citada pelo Digital Trends.",
+      "atualizada": "25 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Tidal, serviço de música de alta fidelidade lançado em 2015, vai retirar faixas quando o distribuidor informar que a gravação foi feita só com ferramentas de IA generativa, ou quando seus sistemas de detecção a identificarem assim, segundo o Digital Trends. Desde meados de 2026, essas faixas já recebiam um selo e não geravam direitos autorais, segundo o Digital Trends.",
+      "blocos": [
+       {
+        "h": "Os números do Tidal",
+        "li": [
+         {
+          "b": "Catálogo:",
+          "t": "6% das faixas têm o selo de IA, cerca de 27 milhões, segundo o Digital Trends."
+         },
+         {
+          "b": "Envios:",
+          "t": "43% das faixas enviadas nos últimos 90 dias receberam o selo."
+         },
+         {
+          "b": "Origem:",
+          "t": "94% das faixas com o selo são atribuídas ao Suno, ferramenta de geração de música."
+         },
+         {
+          "b": "Audiência:",
+          "t": "96% das faixas com o selo não tiveram reproduções em 90 dias."
+         },
+         {
+          "b": "Imitação:",
+          "t": "cerca de 66 mil faixas foram retiradas automaticamente por suspeita de imitar outros artistas."
+         }
+        ]
+       },
+       {
+        "h": "Os números em disputa",
+        "p": [
+         "A publicação citada pelo Digital Trends fala em 29 milhões de músicas apagadas e em 80 mil a 85 mil faixas recusadas por dia. O próprio Tidal dá cerca de 27 milhões de faixas com o selo. O Techloy, que resume reportagens do The Verge e do Digital Trends, traz as duas contas e atribui a escala a Robert Andersen, responsável por música no Tidal; o Digital Trends não cita esse nome."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Em junho de 2026, o Tidal passou a marcar as faixas feitas inteiramente por IA e a bloqueá-las do pagamento de direitos. A nova regra vai além e retira as faixas do catálogo. Os distribuidores passam a ter mais cobrança sobre como marcam o que enviam, segundo o Digital Trends."
+        ]
+       },
+       {
+        "h": "O que fazem os concorrentes",
+        "p": [
+         "O Deezer diz receber cerca de 75 mil faixas feitas inteiramente por IA por dia, mais de 44% das músicas novas, e as tira das recomendações, segundo o The Next Web e o Music Business Worldwide. O Spotify passou a identificar faixas de IA em setembro de 2025, e o Apple Music adotou etiquetas em março de 2026, segundo o TechCrunch."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Publicação citada pelo Digital Trends:",
+          "t": "\"Em 9 de dezembro, vamos começar a remover todas as faixas inteiramente geradas por IA do nosso catálogo.\""
+         },
+         {
+          "b": "Suno:",
+          "t": "as reportagens lidas não trazem posição da empresa."
+         },
+         {
+          "b": "Artistas e gravadoras:",
+          "t": "as reportagens lidas não trazem reações."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como o Tidal trata faixas feitas em parte com IA.",
+         "Se outros serviços seguem o mesmo caminho."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Remoção a partir de 9 de dezembro, ao longo das semanas seguintes."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Digital Trends",
+        "u": "https://www.digitaltrends.com/movies/tidal-to-enforce-a-platform-wide-ban-on-ai-generated-music-starting-next-month/"
+       },
+       {
+        "t": "Techloy",
+        "u": "https://www.techloy.com/brief/tidal-bans-ai-music-tracks-from-its-platform-15d9tpx/"
+       },
+       {
+        "t": "TechCrunch: a regra de junho",
+        "u": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+       },
+       {
+        "t": "The Next Web: a regra de junho",
+        "u": "https://thenextweb.com/news/tidal-ai-music-demonetization-badge-impersonation-removal"
+       },
+       {
+        "t": "Music Business Worldwide",
+        "u": "https://www.musicbusinessworldwide.com/tidal-to-tag-fully-ai-generated-music-and-block-it-from-earning-royalties/"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "US$ 650 milhões",
+  "texto": "é o novo fundo da Kaszek para startups de IA; a gestora diz que é o maior já levantado para a América Latina, segundo o The Next Web.",
+  "fontes": [
+   {
+    "t": "The Next Web",
+    "u": "https://thenextweb.com/news/kaszek-650m-fund-latin-america-ai-startups"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "O Senado aprovou na terça (24) o Plano Nacional de Cultura até 2036, com um eixo para proteger autores e artistas no ambiente digital e diante da IA, segundo o Atlas Público. Esta redação, também feita por IA, tomou nota.",
+  "fontes": [
+   {
+    "t": "Atlas Público",
+    "u": "https://atlaspublico.com.br/senado/noticias/senado-aprova-plano-nacional-de-cultura-para-2026-2036-104834"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho, com pauta curta. Brasil e Mundo saem de novo com duas notas cada, abaixo do padrão de três, porque vários fatos de terça só tinham uma fonte aberta. Na nota do ajuste, governo e oposição aparecem; a falta de falas da oposição sobre a sanção está dita. Nas notas da PF e do Tidal, as divergências de números entre as fontes estão expostas.",
+  "pontos": [
+   "Brasil 1: a ausência de vetos é descrita como o que as reportagens dizem, não como fato confirmado no Diário Oficial.",
+   "Brasil 2: nenhum alvo é nomeado; o nome de um artista citado por uma única fonte ficou de fora. A divergência entre valor bloqueado e movimentado está dita.",
+   "Mundo 1: as falas de Lieberman, Bennett e Golan aparecem; os termos do acordo não foram divulgados, e isso está dito.",
+   "Mundo 2: a divergência sobre a função de Wu Yi está exposta.",
+   "Inovação 1: o conteúdo da reunião vem de uma fonte da Reuters e de manchetes reunidas pelo Techmeme; a atribuição está em cada frase. A ligação com uma suposta espiã é atribuída à Reuters.",
+   "Inovação 2: as contas de 27 e 29 milhões de faixas aparecem lado a lado, com a origem de cada uma."
+  ],
+  "equilibrio": "Governo Lula: 2 menções (neutras); oposição: 1. Mundo: Eisenkot, Lieberman, Bennett e Golan com fala ou posição; Likud citado sem fala. Inovação: Nvidia e Huang com críticos de mercado e de parlamentares; Tidal sem resposta da Suno, dito no texto.",
+  "foraDaEdicao": [
+   "Categorias extras: sem tempo para duas fontes e contexto em cada uma.",
+   "Ucrânia diz que o ataque na Líbia foi legítima defesa: só a Reuters entre as páginas abertas.",
+   "EUA engavetam propostas de negócios com a Rússia: só a Reuters, citando o Financial Times.",
+   "Senado aprova crime de tráfico de animais silvestres: só uma fonte aberta com o resultado do plenário.",
+   "Alerta da Otan sobre satélite nuclear russo: só um resumo de agregador foi aberto.",
+   "Fundo da Kaszek: usado no Número do dia, com uma fonte."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: a sanção do ajuste fiscal, que já está em vigor.",
+   "Essencial com o ajuste e o acordo em Israel, pelo efeito nas contas e no prazo para formar governo.",
+   "Brasil e Mundo com duas notas por falta de segunda fonte em outros fatos; registrado no parecer.",
+   "Novos contextos: Estação espacial chinesa e Música gerada por IA."
+  ]
+ },
+ "geradaEm": "2026-11-25T07:45:00Z"
+}

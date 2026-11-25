@@ -1,13 +1,9 @@
 {
  "titulo": "A proibição das bets: da regulação à medida provisória",
- "atualizado": "4 nov 2026",
+ "atualizado": "25 nov 2026",
  "selo": "Checado",
  "frase": "O Brasil liberou as apostas esportivas de quota fixa em 2018 e regulamentou o setor em 2023. Em setembro de 2026, o governo proibiu essas apostas por medida provisória, e agora o Supremo e o Congresso decidem se a proibição fica.",
  "linha": [
-  {
-   "d": "2018",
-   "t": "A Lei 13.756 autoriza as apostas de quota fixa no país, segundo o portal de notícias do STF."
-  },
   {
    "d": "2023",
    "t": "A Lei 14.790 regulamenta as bets, com regras para empresas e licenças."
@@ -35,6 +31,10 @@
   {
    "d": "23 de novembro de 2026",
    "t": "Termina o primeiro prazo de 60 dias da medida no Congresso, que pode ser prorrogado."
+  },
+  {
+   "d": "24 de novembro de 2026",
+   "t": "A PF faz três operações contra lavagem, com criptomoedas, de R$ 4,3 bilhões ligados a fraudes com apostas e falsas vagas de emprego, segundo o Mix Vale."
   }
  ],
  "termos": [
@@ -61,6 +61,10 @@
   {
    "t": "Relator",
    "d": "O ministro responsável por conduzir o processo e propor a decisão. Nas ações sobre bets, é Luiz Fux."
+  },
+  {
+   "t": "Evasão de divisas",
+   "d": "crime de enviar dinheiro ao exterior sem declarar às autoridades."
   }
  ],
  "quem": [
@@ -103,7 +107,7 @@
   "Quando e como Fux decide sobre as ações.",
   "Se o Congresso vota, muda ou deixa a medida perder a validade.",
   "O que acontece com os contratos de patrocínio dos clubes.",
-  "Como o governo vai tratar as empresas que pagaram licenças."
+  "O avanço das investigações da PF sobre fraudes com apostas."
  ],
  "fontes": [
   {
@@ -113,6 +117,19 @@
   {
    "t": "The Rio Times: resumo de 4 de novembro",
    "u": "https://www.riotimesonline.com/the-big-read-brazil-4-november-2026"
+  },
+  {
+   "t": "TV Sim Brasil: PF bloqueia R$ 4,3 bilhões",
+   "u": "https://tvsimbrasil.com.br/brasil/noticias/noticia/2026/11/24/pf-bloqueia-4-3-bi-golpes-criptomoedas"
+  },
+  {
+   "t": "Mix Vale: três operações da PF",
+   "u": "https://www.mixvale.com.br/2026/11/24/pf-deflagra-tres-operacoes-contra-lavagem-de-dinheiro-em-cinco-estados-e-no-df/"
   }
+ ],
+ "historia": [
+  "As apostas esportivas de quota fixa foram autorizadas no Brasil pela Lei 13.756, de 2018, e regulamentadas pela Lei 14.790, de 2023, com regras para empresas e licenças. Em 2024, chegaram ao STF ações contra a lei, e o ministro Luiz Fux, relator, fez uma audiência pública com mais de 50 participantes.",
+  "Em 25 de setembro de 2026, o governo Lula publicou a Medida Provisória 1.394, que proíbe essas apostas. Novas ações chegaram ao STF, e uma segunda audiência pública, em 3 de novembro, ouviu o governo, que defende a proibição pelos danos à saúde e às famílias, e clubes de futebol, que pedem transição e proteção de contratos de patrocínio. A medida passou a trancar a pauta do Congresso em 9 de novembro, e o primeiro prazo de 60 dias terminou em 23 de novembro.",
+  "As apostas on-line também aparecem em investigações policiais. Em 24 de novembro, a Polícia Federal fez três operações contra grupos suspeitos de lavar, com criptomoedas, dinheiro de fraudes com apostas e falsas vagas de emprego no exterior. Os grupos movimentaram R$ 4,3 bilhões, segundo o Mix Vale e O Observador; nas apostas, as vítimas não conseguiam sacar e eram levadas a fazer novos depósitos para \"liberar prêmios\", segundo O Observador."
  ]
 }
