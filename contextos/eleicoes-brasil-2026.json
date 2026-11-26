@@ -1,13 +1,9 @@
 {
  "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
- "atualizado": "23 nov 2026",
+ "atualizado": "26 nov 2026",
  "selo": "Checado",
  "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
  "linha": [
-  {
-   "d": "5 de novembro de 2026",
-   "t": "O corregedor-geral da Justiça Eleitoral, Ricardo Villas Bôas Cueva, aceita ação do Novo que acusa Lula e Alckmin de abuso de poder político. O Novo pede cassação e inelegibilidade; o corregedor diz que aceitar a ação não é reconhecer irregularidade."
-  },
   {
    "d": "8 de novembro de 2026",
    "t": "No primeiro pronunciamento depois da reeleição, Lula promete medida provisória para criar o Ministério da Segurança Pública depois da aprovação da PEC da Segurança e pede \"com urgência uma reforma política e do Judiciário\"."
@@ -27,6 +23,10 @@
   {
    "d": "21 de novembro de 2026",
    "t": "O chanceler argentino, Pablo Quirno, diz que situações puseram em dúvida a eleição; Milei segue sem cumprimentar Lula, segundo o Agora Litoral."
+  },
+  {
+   "d": "25 de novembro de 2026",
+   "t": "Lula recebe Dino e Tarso Genro para discutir o novo Ministério da Segurança Pública, a ser criado por medida provisória, segundo o Metrópoles."
   },
   {
    "d": "5 e 6 de janeiro de 2027",
@@ -124,9 +124,9 @@
   }
  ],
  "observar": [
-  "A defesa de Lula e Alckmin no TSE na ação do Novo.",
-  "A diplomação dos eleitos.",
-  "Se o Itamaraty responde à fala do chanceler argentino.",
+  "Quem vai comandar o Ministério da Segurança Pública.",
+  "A promulgação da PEC da Segurança Pública.",
+  "A indicação de Lula para a vaga no STF.",
   "Quantos ministérios cada partido vai receber na reforma ministerial."
  ],
  "fontes": [
@@ -237,12 +237,20 @@
   {
    "t": "Agora Litoral: o silêncio de Milei",
    "u": "https://agoralitoral.com.br/2026/11/23/chanceler-argentino-questiona-eleicoes-do-brasil-e-justifica-silencio-de-milei/"
+  },
+  {
+   "t": "Metrópoles: Lula recebe ex-ministros da Justiça",
+   "u": "https://www.metropoles.com/brasil/lula-se-reune-com-ex-ministros-da-justica-para-debater-formacao-de-governo"
+  },
+  {
+   "t": "CNN Brasil: Dino e Tarso Genro no Alvorada",
+   "u": "https://www.cnnbrasil.com.br/politica/antes-de-criar-novo-ministerio-lula-recebe-dino-e-ex-ministro-da-justica/"
   }
  ],
  "historia": [
   "Em 2026, o Brasil elegeu presidente, governadores, senadores e deputados. O presidente Luiz Inácio Lula da Silva (PT) foi reeleito no segundo turno, em 25 de outubro, para o quarto mandato. O senador Flávio Bolsonaro (PL), adversário no segundo turno, não reconheceu o resultado de início e disse que tentaria anular a eleição; no dia seguinte, desistiu da anulação e anunciou um pedido de cassação da chapa por abuso de poder, e o PL reconheceu o resultado.",
   "A disputa seguiu na Justiça Eleitoral. Em 5 de novembro, o corregedor-geral, Ricardo Villas Bôas Cueva, aceitou uma ação do partido Novo que acusa Lula e o vice, Geraldo Alckmin, de abuso de poder político; ele disse que aceitar a ação não significa reconhecer irregularidade.",
   "Ao mesmo tempo, começou a montagem do novo governo. O presidente do PT, Edinho Silva, pediu a MDB, PSD, PSB e União Brasil propostas para os ministérios e uma estimativa de votos no Congresso. Em 15 de novembro, Alckmin disse que Lula discute a formação dos ministérios ao voltar de viagem, começando pelas áreas econômica e social.",
-  "Por causa de uma emenda constitucional de 2021, as posses mudaram de data: o presidente toma posse em 5 de janeiro de 2027, os governadores no dia 6 e os parlamentares em 1º de fevereiro. Em 19 de novembro, Lula anunciou que vai criar um ministério para pessoas idosas. Com a divisão prevista da Justiça, a Esplanada pode passar de 38 para 40 pastas, recorde, segundo a Gazeta do Povo. Lula disse que não tem pressa para escolher a equipe. Em 21 de novembro, o chanceler argentino, Pablo Quirno, disse que \"houve situações\" que \"colocaram em dúvida todo o cenário\" eleitoral, sem dizer quais, ao explicar por que Milei não cumprimentou Lula, segundo O Antagonista."
+  "Por causa de uma emenda constitucional de 2021, as posses mudaram de data: o presidente toma posse em 5 de janeiro de 2027, os governadores no dia 6 e os parlamentares em 1º de fevereiro. Em 19 de novembro, Lula anunciou que vai criar um ministério para pessoas idosas. Com a divisão prevista da Justiça, a Esplanada pode passar de 38 para 40 pastas, recorde, segundo a Gazeta do Povo. Lula disse que não tem pressa para escolher a equipe. Em 21 de novembro, o chanceler argentino, Pablo Quirno, disse que \"houve situações\" que \"colocaram em dúvida todo o cenário\" eleitoral, sem dizer quais, ao explicar por que Milei não cumprimentou Lula, segundo O Antagonista. Em 25 de novembro, Lula recebeu Flávio Dino e Tarso Genro para discutir a formação do governo e a criação do Ministério da Segurança Pública, que deve ser anunciado até 5 de dezembro, segundo o Metrópoles."
  ]
 }

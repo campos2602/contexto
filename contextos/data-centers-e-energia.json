@@ -1,13 +1,9 @@
 {
  "titulo": "Data centers de inteligência artificial e a conta de luz",
- "atualizado": "8 nov 2026",
+ "atualizado": "26 nov 2026",
  "selo": "Checado",
- "frase": "Os data centers que treinam e rodam inteligência artificial consomem tanta energia quanto cidades inteiras. Nos EUA, a alta das contas de luz levou distribuidoras, governos e empresas a discutir quem paga a nova infraestrutura. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, concorrente da OpenAI.",
+ "frase": "Os data centers que treinam e rodam inteligência artificial consomem tanta energia quanto cidades inteiras. Nos EUA, a alta das contas de luz levou distribuidoras, governos e empresas a discutir quem paga a nova infraestrutura. Em novembro de 2026, os EUA aprovaram uma rede de satélites da SpaceX para levar data centers à órbita. Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, concorrente da OpenAI e da xAI, da SpaceX.",
  "linha": [
-  {
-   "d": "Julho de 2025",
-   "t": "A comissão aprova o congelamento da tarifa básica da Georgia Power, segundo o Atlanta News First."
-  },
   {
    "d": "22 de julho de 2026",
    "t": "A Georgia Power anuncia que vai atender o campus da OpenAI em Effingham, de cerca de 3.200 MW, com contrato de 25 anos e corte de até 1.000 MW nos picos."
@@ -27,6 +23,10 @@
   {
    "d": "6 de novembro de 2026",
    "t": "Ativistas ocupam a obra de um data center da Microsoft em Amsterdã; a polícia detém de 150 a 200 pessoas. Atos se espalham por 15 países europeus."
+  },
+  {
+   "d": "25 de novembro de 2026",
+   "t": "A FCC aprova a Starmind, rede de até 1 milhão de satélites da SpaceX para data centers em órbita, segundo o TechCrunch."
   },
   {
    "d": "2028",
@@ -57,6 +57,10 @@
   {
    "t": "Distribuidora",
    "d": "Empresa que entrega a energia aos consumidores. Na Geórgia, a Georgia Power."
+  },
+  {
+   "t": "Data center em órbita",
+   "d": "satélite com chips e painéis solares que processa dados no espaço e os transmite por laser ou rádio."
   }
  ],
  "quem": [
@@ -75,6 +79,14 @@
   {
    "b": "Southern Environmental Law Center",
    "t": "organização ambiental que acompanha os contratos."
+  },
+  {
+   "b": "SpaceX",
+   "t": "empresa de Elon Musk, dona da Starlink e da xAI, que vai montar a rede Starmind."
+  },
+  {
+   "b": "FCC",
+   "t": "Comissão Federal de Comunicações dos EUA, que autoriza redes de satélites; é presidida por Brendan Carr."
   }
  ],
  "disputa": [
@@ -102,8 +114,8 @@
  "observar": [
   "Novos protestos contra data centers na Europa.",
   "Que regras o novo Congresso dos EUA vai propor para data centers.",
-  "O efeito real nas contas de luz da Geórgia a partir de 2029.",
-  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, que concorre com a OpenAI e a Microsoft."
+  "As decisões da FCC sobre os pedidos da Starcloud e da Blue Origin.",
+  "Aviso de conflito de interesse: o Contexto é escrito com o Claude, da Anthropic, que concorre com a OpenAI, a Microsoft e a xAI."
  ],
  "fontes": [
   {
@@ -137,6 +149,19 @@
   {
    "t": "AP, via ABC News: protestos se espalham pela Europa",
    "u": "https://abcnews.com/International/wireStory/protesters-break-microsoft-data-center-site-amsterdam-europes-137915154"
+  },
+  {
+   "t": "TechCrunch: a FCC aprova a Starmind",
+   "u": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+  },
+  {
+   "t": "Via Satellite: as condições da Starmind",
+   "u": "https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/"
   }
+ ],
+ "historia": [
+  "Os data centers que treinam e rodam inteligência artificial consomem tanta energia quanto cidades inteiras. Nos EUA, a alta das contas de luz levou distribuidoras, governos e empresas a discutir quem paga a nova infraestrutura. Na Geórgia, a comissão estadual congelou em julho de 2025 a tarifa básica da Georgia Power e, em agosto de 2026, aprovou o contrato da distribuidora com o campus da OpenAI em Effingham, de cerca de 3.200 MW, segundo o Atlanta News First.",
+  "O tema chegou à política e ao mercado. Em 5 de novembro de 2026, depois da vitória democrata no Congresso, a Nasdaq caiu 5,52%, e analistas ligaram a queda ao temor de regras mais duras para data centers, segundo a Fox Business. Em 6 de novembro, ativistas ocuparam a obra de um data center da Microsoft em Amsterdã, e protestos se espalharam por 15 países europeus, segundo a AP.",
+  "Uma das apostas para fugir da disputa por energia e terreno é levar o processamento ao espaço. Em 25 de novembro de 2026, a Comissão Federal de Comunicações dos EUA aprovou a Starmind, rede de até 1 milhão de satélites da SpaceX para processar dados em órbita, a primeira aprovação desse tipo, segundo a Via Satellite. Para o TechCrunch, custo, resfriamento e financiamento dos chips ainda são obstáculos."
  ]
 }

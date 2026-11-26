@@ -1,13 +1,9 @@
 {
  "titulo": "Nvidia, China e a disputa pelos chips de inteligência artificial",
- "atualizado": "25 nov 2026",
+ "atualizado": "26 nov 2026",
  "selo": "Com ressalva",
  "frase": "Os chips da Nvidia são a base do treinamento de inteligência artificial. Desde 2022, os EUA limitam a venda dos modelos mais avançados à China, e a China, por sua vez, passou a restringir a compra de alguns deles.",
  "linha": [
-  {
-   "d": "8 e 9 de novembro de 2026",
-   "t": "O conselho da Nvidia abre investigação para saber se Jensen Huang foi alvo de operação de inteligência chinesa. As ações caem 5,14% na segunda (9). A China chama a acusação de \"infundada\", segundo a Al Jazeera e a Fox Business."
-  },
   {
    "d": "12 de novembro de 2026",
    "t": "Jensen Huang deixa o comando da Nvidia depois de 33 anos. A diretora financeira, Colette Kress, assume interinamente, e as ações fecham em queda de 4,34%, segundo a Fortune e o Yahoo Finance."
@@ -35,6 +31,10 @@
   {
    "d": "24 de novembro de 2026",
    "t": "Huang diz a funcionários que violou o código de conduta; as ações caem 5,9%, segundo a Reuters."
+  },
+  {
+   "d": "25 de novembro de 2026",
+   "t": "O Washington Post diz que o Pentágono cogitou lei de 1950 para pressionar a Nvidia; a Nvidia suspende envios de servidores a quatro países asiáticos, segundo a Reuters."
   }
  ],
  "termos": [
@@ -113,7 +113,7 @@
  ],
  "observar": [
   "Os depoimentos de Huang no Congresso, incluindo a audiência no Senado em 3 de dezembro.",
-  "As investigações do FBI, do Departamento de Justiça e da SEC.",
+  "Se a Nvidia retoma os envios de servidores ao Sudeste Asiático.",
   "O resultado da investigação do comitê de conselheiros independentes.",
   "Se o governo americano busca uma participação na Nvidia."
  ],
@@ -205,12 +205,20 @@
   {
    "t": "Reuters, via Forth: Huang e o código de conduta",
    "u": "https://www.forth.news/articles/ChNmixoE9CWMNeUNUisoB"
+  },
+  {
+   "t": "Raw Story: o Pentágono e a Nvidia",
+   "u": "https://www.rawstory.com/pentagon-nvidia/"
+  },
+  {
+   "t": "Reuters, via Forth: servidores no Sudeste Asiático",
+   "u": "https://www.forth.news/articles/ChR5wCMVs7XoNVDDx5ZxC"
   }
  ],
  "historia": [
   "Os chips da Nvidia, chamados GPUs, viraram a base do treinamento de sistemas de inteligência artificial. Por isso, o governo dos EUA passou a tratá-los como tecnologia estratégica e, desde 2022, limita a venda dos modelos mais avançados à China. A Nvidia chegou a criar versões menos potentes, como o H20, para continuar vendendo ao mercado chinês, mas em abril de 2025 também ele passou a exigir licença.",
   "A política oscilou. Em dezembro de 2025, Donald Trump disse que clientes chineses aprovados poderiam comprar o H200, mais avançado, com 25% da receita indo para o governo americano. Do outro lado, a alfândega chinesa passou a barrar o H200 no início de 2026, e Pequim orientou empresas a reduzir compras. Em agosto, a Nvidia registrou despesa de US$ 400 milhões com estoque parado.",
   "Ao mesmo tempo, empresas chinesas encontraram outro caminho: alugar capacidade em data centers fora da China, sobretudo no Sudeste Asiático. Em novembro de 2026, uma investigação do New York Times encontrou escritórios vazios em empresas chinesas autorizadas a montar servidores com o H200, e a Megaspeed, empresa de nuvem de Singapura, entrou no centro do caso. O conselho da Nvidia abriu investigação sobre Jensen Huang, que deixou o comando da empresa em 12 de novembro.",
-  "A resposta do governo veio em 16 de novembro: o Departamento de Comércio passou a exigir licença para exportar chips avançados a Brasil, Indonésia, Malásia, Singapura e Tailândia e para que data centers deem acesso remoto a empresas chinesas, segundo o Nextgov. O Brasil foi incluído por risco \"acima do normal\" de desvio, segundo relatos do texto citados pelo Rio Times. A regra fica aberta a comentários por 60 dias. No dia seguinte, a Nvidia divulgou receita trimestral de US$ 115,8 bilhões, alta de 103% em um ano, no primeiro balanço sob a presidente interina, Colette Kress; o conselho criou um comitê de supervisão de controle de exportações. Na mesma teleconferência, a presidente interina, Colette Kress, disse que a empresa deixou de enviar à China chips Hopper licenciados, como o H200, depois de vender US$ 2,4 bilhões deles no trimestre, sem explicar o motivo, segundo a Reuters. Em 23 de novembro, o conselho decidiu por unanimidade devolver a Huang os cargos de presidente-executivo e conselheiro, depois de receber informações de \"altos escalões do governo dos EUA\"; a investigação interna continua, segundo a Nvidia. No dia seguinte, em reunião com funcionários, Huang disse ter violado partes do código de conduta e negou que a volta tenha vindo de pressão de Trump, segundo a Reuters."
+  "A resposta do governo veio em 16 de novembro: o Departamento de Comércio passou a exigir licença para exportar chips avançados a Brasil, Indonésia, Malásia, Singapura e Tailândia e para que data centers deem acesso remoto a empresas chinesas, segundo o Nextgov. O Brasil foi incluído por risco \"acima do normal\" de desvio, segundo relatos do texto citados pelo Rio Times. A regra fica aberta a comentários por 60 dias. No dia seguinte, a Nvidia divulgou receita trimestral de US$ 115,8 bilhões, alta de 103% em um ano, no primeiro balanço sob a presidente interina, Colette Kress; o conselho criou um comitê de supervisão de controle de exportações. Na mesma teleconferência, a presidente interina, Colette Kress, disse que a empresa deixou de enviar à China chips Hopper licenciados, como o H200, depois de vender US$ 2,4 bilhões deles no trimestre, sem explicar o motivo, segundo a Reuters. Em 23 de novembro, o conselho decidiu por unanimidade devolver a Huang os cargos de presidente-executivo e conselheiro, depois de receber informações de \"altos escalões do governo dos EUA\"; a investigação interna continua, segundo a Nvidia. No dia seguinte, em reunião com funcionários, Huang disse ter violado partes do código de conduta e negou que a volta tenha vindo de pressão de Trump, segundo a Reuters. Em 25 de novembro, reportagens disseram que o Pentágono cogitou usar a Lei de Produção de Defesa para pressionar o conselho; o Pentágono negou."
  ]
 }

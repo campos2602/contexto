@@ -1,0 +1,811 @@
+{
+ "data": "2026-11-26",
+ "dia": "Quinta, 26 de novembro de 2026",
+ "leitura": "7 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje a proposta dos EUA de tarifar aviões e açúcar brasileiros, os preparativos do Ministério da Segurança Pública, a recomendação dos juízes no julgamento de Netanyahu e o novo ataque russo a Kiev.",
+ "trinta": [
+  "Os EUA propõem tarifa sobre aviões e açúcar do Brasil; o governo diz que não cederá.",
+  "Juízes recomendam retirar a acusação de suborno contra Netanyahu.",
+  "Mísseis russos atingem um shopping em Kiev."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "Pode atingir a Embraer e o açúcar, e reabre a disputa comercial com os EUA."
+  },
+  {
+   "id": "m1",
+   "porque": "Enfraquece a acusação mais grave contra o premiê interino de Israel."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "EUA propõem tarifar aviões e açúcar brasileiros; governo diz que não cederá",
+     "contexto": "tarifas-eua-brasil",
+     "texto": "O escritório de comércio dos EUA propôs na quarta (25) tarifa adicional de 10% sobre aviões brasileiros prontos e taxas de US$ 0,44 a US$ 0,60 por quilo de açúcar, segundo o Seu Dinheiro e o NDMais. O governo Lula disse que \"não cederá\".",
+     "pq": "os aviões estavam fora da tarifa de 25% imposta em julho, e o Brasil é o principal fornecedor de aviões regionais aos EUA, segundo o órgão. As ações da Embraer caíram de 5% a quase 10% no dia.",
+     "fontes": [
+      {
+       "t": "Seu Dinheiro, com Estadão Conteúdo",
+       "u": "https://www.seudinheiro.com/2026/internacional/eua-propoem-tarifa-adicional-sobre-acucar-brasileiro-e-sobretaxa-de-10-para-aeronaves-pads/"
+      },
+      {
+       "t": "NDMais",
+       "u": "https://ndmais.com.br/economia/trump-tarifas-dos-eua-sobre-o-brasil-10-aeronaves-acucar-secao-301/"
+      },
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/mundo/proposta-dos-eua-por-novas-tarifas-amplia-tensao-comercial-com-o-brasil"
+      },
+      {
+       "t": "Diário do Grande ABC",
+       "u": "https://www.dgabc.com.br/Noticia/4370775/governo-lula-reage-e-promete-nao-ceder-a-novas-tarifas-sobre-avioes-e-acucar"
+      }
+     ],
+     "completa": {
+      "fina": "É uma proposta: o escritório recebe comentários até 30 de dezembro e faz audiência pública em 14 de janeiro de 2027, segundo o NDMais e o Seu Dinheiro.",
+      "atualizada": "26 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Escritório do Representante de Comércio dos EUA, chefiado por Jamieson Greer, propôs mudar a ação aberta contra o Brasil com base na Seção 301 da Lei de Comércio de 1974. A mudança acaba com a isenção dos aviões prontos e troca a tarifa sobre o açúcar fora da cota por valores fixos por quilo, segundo o Seu Dinheiro, que reproduz o Estadão Conteúdo.",
+      "blocos": [
+       {
+        "h": "O que está na proposta",
+        "li": [
+         {
+          "b": "Aviões:",
+          "t": "tarifa adicional de 10% sobre aeronaves prontas, o que pode atingir a Embraer."
+         },
+         {
+          "b": "Açúcar:",
+          "t": "US$ 0,44 por quilo de açúcar bruto de cana e US$ 0,60 por quilo de açúcar de beterraba ou refinado, em vez dos 25% atuais fora da cota."
+         },
+         {
+          "b": "Desvio:",
+          "t": "a taxa sobre o açúcar valeria para qualquer origem, para evitar que o produto brasileiro entre por outros países, segundo o NDMais."
+         },
+         {
+          "b": "Prazos:",
+          "t": "pedidos para falar na audiência até 7 de dezembro, comentários escritos até 30 de dezembro e audiência em 14 de janeiro de 2027."
+         }
+        ]
+       },
+       {
+        "h": "Os motivos dados pelos EUA",
+        "p": [
+         "\"Após mais de um ano de negociações, o Brasil não apresentou nenhum progresso significativo\", diz o escritório, segundo o Metrópoles. Greer disse que as conversas estão paradas desde 20 de julho e citou os preparativos do Brasil para contramedidas pela Lei de Reciprocidade Econômica e o pedido de painel na OMC, segundo o Seu Dinheiro. A investigação também trata do Pix, que os EUA dizem prejudicar empresas de cartão de crédito, do desmatamento ilegal, do comércio digital, de propriedade intelectual e do etanol, segundo o NDMais. O Brasil rejeita essas acusações."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Em 15 de julho de 2026, o escritório impôs tarifa de 25% sobre produtos brasileiros, a partir de 22 de julho, com isenção para aviação civil, petróleo, carne bovina e café, segundo a Agência Brasil. O Brasil levou o caso à OMC, e os EUA bloquearam na terça (24) o primeiro pedido de painel, segundo o NDMais e o Blog do Magno, que cita o g1."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Governo brasileiro, em nota da Secom:",
+          "t": "\"O Brasil não cederá a esse tipo de ameaça\" e a decisão é \"uma ação inaceitável dentro do processo negociador bilateral em curso\", segundo o Diário do Grande ABC."
+         },
+         {
+          "b": "Embraer:",
+          "t": "diz que avalia o anúncio e defende o sistema de tarifa zero da indústria aeroespacial mundial, em vigor desde os anos 1980, segundo o NDMais."
+         },
+         {
+          "b": "Itamaraty:",
+          "t": "diz que vai avaliar os impactos."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se o Brasil aplica medidas de reciprocidade.",
+         "Se os EUA enviam o documento com suas exigências, que o Brasil diz aguardar, segundo o Metrópoles."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Consulta pública até 30 de dezembro e audiência em 14 de janeiro.",
+         "O Brasil pode reapresentar o pedido de painel na OMC."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Seu Dinheiro, com Estadão Conteúdo",
+        "u": "https://www.seudinheiro.com/2026/internacional/eua-propoem-tarifa-adicional-sobre-acucar-brasileiro-e-sobretaxa-de-10-para-aeronaves-pads/"
+       },
+       {
+        "t": "NDMais",
+        "u": "https://ndmais.com.br/economia/trump-tarifas-dos-eua-sobre-o-brasil-10-aeronaves-acucar-secao-301/"
+       },
+       {
+        "t": "Metrópoles",
+        "u": "https://www.metropoles.com/mundo/proposta-dos-eua-por-novas-tarifas-amplia-tensao-comercial-com-o-brasil"
+       },
+       {
+        "t": "Diário do Grande ABC",
+        "u": "https://www.dgabc.com.br/Noticia/4370775/governo-lula-reage-e-promete-nao-ceder-a-novas-tarifas-sobre-avioes-e-acucar"
+       },
+       {
+        "t": "Blog do Magno, com g1",
+        "u": "https://blogdomagno.com.br/camara-aprova-marco-legal-das-escolas-de-tempo-integral-no-pais/"
+       },
+       {
+        "t": "Agência Brasil: a tarifa de julho",
+        "u": "https://agenciabrasil.ebc.com.br/en/economia/noticia/2026-07/aircraft-oil-coffee-beef-exempt-tariffs-imposed-us"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Lula recebe Dino e ex-ministros antes de criar Ministério da Segurança Pública",
+     "contexto": "eleicoes-brasil-2026",
+     "texto": "Lula se reuniu na quarta (25), no Palácio da Alvorada, com o ministro do STF Flávio Dino e o ex-ministro Tarso Genro, ambos ex-titulares da Justiça, para discutir a nova pasta e a formação do governo, segundo o Metrópoles e a CNN Brasil.",
+     "pq": "o ministério será criado por medida provisória após a promulgação da PEC da Segurança Pública, e Lula deve anunciá-lo até 5 de dezembro, segundo coluna citada pelo Metrópoles. Nenhuma decisão foi divulgada.",
+     "fontes": [
+      {
+       "t": "Metrópoles",
+       "u": "https://www.metropoles.com/brasil/lula-se-reune-com-ex-ministros-da-justica-para-debater-formacao-de-governo"
+      },
+      {
+       "t": "CNN Brasil",
+       "u": "https://www.cnnbrasil.com.br/politica/antes-de-criar-novo-ministerio-lula-recebe-dino-e-ex-ministro-da-justica/"
+      },
+      {
+       "t": "InfoMoney, com Estadão Conteúdo",
+       "u": "https://www.infomoney.com.br/politica/lula-tem-reunioes-com-ministro-da-justica-e-com-ministra-da-casa-civil-nesta-quarta/"
+      }
+     ],
+     "completa": {
+      "fina": "O encontro com Dino e Tarso Genro ficou fora da agenda oficial do presidente, segundo a CNN Brasil.",
+      "atualizada": "26 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A reunião, na manhã de quarta, tratou da formação do novo governo em meio à criação do Ministério da Segurança Pública, segundo o Metrópoles. Lula condicionava a nova pasta à aprovação da PEC da Segurança Pública, aprovada pelo Congresso no começo de novembro e à espera de promulgação. A criação será formalizada por medida provisória.",
+      "blocos": [
+       {
+        "h": "Quem estava",
+        "li": [
+         {
+          "b": "Flávio Dino:",
+          "t": "ministro do STF e ministro da Justiça de 2023 a 2024."
+         },
+         {
+          "b": "Tarso Genro:",
+          "t": "ministro da Justiça no segundo mandato de Lula, de 2007 a 2010."
+         },
+         {
+          "b": "Geraldo Alckmin:",
+          "t": "vice-presidente."
+         },
+         {
+          "b": "Wellington César Lima e Silva:",
+          "t": "atual ministro da Justiça e Segurança Pública."
+         },
+         {
+          "b": "Miriam Belchior:",
+          "t": "ministra da Casa Civil."
+         }
+        ]
+       },
+       {
+        "h": "Os nomes citados para a pasta",
+        "li": [
+         {
+          "b": "Chico Lucas:",
+          "t": "secretário nacional de Segurança Pública."
+         },
+         {
+          "b": "Lincoln Gakiya:",
+          "t": "promotor de Justiça."
+         },
+         {
+          "b": "Rui Costa:",
+          "t": "senador eleito e ex-ministro da Casa Civil."
+         },
+         {
+          "b": "Fonte:",
+          "t": "os nomes são os citados pelo Metrópoles; o governo não confirmou nenhum."
+         }
+        ]
+       },
+       {
+        "h": "Outras decisões na mesa",
+        "p": [
+         "Segundo a CNN Brasil, o encontro ocorre também no contexto da próxima indicação de Lula para a vaga aberta no STF. Lula deve reunir ainda a equipe econômica para definir o escopo de novas medidas de ajuste fiscal, que entrariam numa proposta de emenda à Constituição a ser enviada ao Congresso, segundo o InfoMoney, com base na agenda do ministro do Planejamento, Bruno Moretti."
+        ]
+       },
+       {
+        "h": "A agenda oficial do dia",
+        "p": [
+         "Segundo o InfoMoney, Lula teve despachos às 9h30 com o chefe do gabinete pessoal, Oswaldo Malatesta; às 10h30 com o ministro da Justiça; às 14h40 com o secretário especial para Assuntos Jurídicos da Casa Civil, Marcelo Weic; e às 15h com a ministra da Casa Civil. O encontro com Dino e Tarso Genro não constava dessa agenda, segundo a CNN Brasil, que publicou a informação em reportagem ainda em atualização no início da tarde."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Planalto:",
+          "t": "não divulgou decisões depois do encontro, segundo o Metrópoles e a CNN Brasil."
+         },
+         {
+          "b": "Oposição:",
+          "t": "as reportagens lidas não trazem reação de parlamentares."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem vai comandar o novo ministério.",
+         "Que órgãos saem do Ministério da Justiça para a nova pasta.",
+         "Quando a PEC da Segurança Pública será promulgada.",
+         "Se a indicação para a vaga no STF sai antes do anúncio do ministério."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Promulgação da PEC e edição da medida provisória.",
+         "Anúncio do ministério, previsto até 5 de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Metrópoles",
+        "u": "https://www.metropoles.com/brasil/lula-se-reune-com-ex-ministros-da-justica-para-debater-formacao-de-governo"
+       },
+       {
+        "t": "CNN Brasil",
+        "u": "https://www.cnnbrasil.com.br/politica/antes-de-criar-novo-ministerio-lula-recebe-dino-e-ex-ministro-da-justica/"
+       },
+       {
+        "t": "InfoMoney, com Estadão Conteúdo",
+        "u": "https://www.infomoney.com.br/politica/lula-tem-reunioes-com-ministro-da-justica-e-com-ministra-da-casa-civil-nesta-quarta/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "Juízes recomendam retirar a acusação mais grave contra Netanyahu",
+     "contexto": "eleicao-israel-2026",
+     "texto": "Os juízes do julgamento de Benjamin Netanyahu recomendaram na quarta (25) que a Procuradoria retire o Caso 4000, o único com acusação de suborno, e reavalie o Caso 2000, segundo a Reuters, o Globes e o Times of Israel.",
+     "pq": "a decisão cabe à procuradora-geral, Gali Baharav-Miara. Netanyahu, réu desde 2019 e premiê interino, chamou a recomendação de \"raio de luz para a verdade e a justiça\", segundo a Reuters.",
+     "fontes": [
+      {
+       "t": "Reuters, via Forth",
+       "u": "https://www.forth.news/articles/ChQGGuzE84MPNU95yErKC"
+      },
+      {
+       "t": "Globes",
+       "u": "https://en.globes.co.il/en/article-judges-propose-dropping-two-of-three-cases-against-netanyahu-1001564925"
+      },
+      {
+       "t": "Times of Israel",
+       "u": "https://www.timesofisrael.com/liveblog_entry/court-recommends-dropping-or-reconsidering-2-out-of-3-cases-against-netanyahu-in-severe-blow-to-prosecution/"
+      },
+      {
+       "t": "JTA",
+       "u": "https://www.jta.org/2026/11/25/israel/what-are-the-criminal-cases-against-netanyahu-now-coming-into-question"
+      }
+     ],
+     "completa": {
+      "fina": "O tribunal disse que a recomendação não é uma decisão, segundo a Reuters.",
+      "atualizada": "26 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A juíza Rivka Friedman-Feldman, que preside o caso no Tribunal Distrital de Jerusalém, disse que \"as chances de condenação são baixas o bastante para justificar uma reavaliação\" do Caso 4000, segundo o Globes. A procuradora-geral foi à audiência por ordem dos juízes. Netanyahu nega todas as acusações e se declarou inocente.",
+      "blocos": [
+       {
+        "h": "Os três casos",
+        "li": [
+         {
+          "b": "Caso 4000:",
+          "t": "a acusação diz que Netanyahu deu à Bezeq favores regulatórios de cerca de 1,8 bilhão de shekels, uns US$ 500 milhões, em troca de cobertura favorável num site de Shaul Elovitch, segundo a Reuters. Os juízes recomendam retirar."
+         },
+         {
+          "b": "Caso 2000:",
+          "t": "trata de suposto acordo com Arnon Mozes, dono do Yedioth Ahronoth. \"Duvidamos que a acusação configure crime\", disseram os juízes, segundo o Globes."
+         },
+         {
+          "b": "Caso 1000:",
+          "t": "trata de presentes de cerca de 690 mil shekels, uns US$ 204 mil, segundo a JTA. Os juízes propõem buscar um acordo: \"Aqui podemos trabalhar por uma solução\"."
+         }
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Os juízes já tinham recomendado retirar a acusação de suborno em junho de 2023 e em junho de 2026, segundo o Globes. Em setembro, disseram que, depois do depoimento de Netanyahu, a posição seguia a mesma. O premiê já terminou de depor. A recomendação chega enquanto Netanyahu, interino, disputa com Gadi Eisenkot a formação do próximo governo, segundo a JTA."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Benjamin Netanyahu:",
+          "t": "falou no Parlamento em \"dez anos de investigações absurdas\", segundo a JTA."
+         },
+         {
+          "b": "Gali Baharav-Miara, procuradora-geral:",
+          "t": "disse que há duas formas de concluir o caso, \"um veredicto ou um acordo adequado\", e que vai analisar cada observação do tribunal com os promotores."
+         },
+         {
+          "b": "Amit Hadad, advogado de Netanyahu:",
+          "t": "\"Acreditamos que o caminho certo é a mediação aqui no tribunal, não com o presidente\", segundo o Globes."
+         },
+         {
+          "b": "Oposição:",
+          "t": "as reportagens lidas não trazem fala de líderes da oposição."
+         }
+        ]
+       },
+       {
+        "h": "As divergências",
+        "p": [
+         "O Globes e o Times of Israel descrevem a recomendação do Caso 4000 como retirar a acusação; a JTA diz que a juíza pediu que a Procuradoria considere retirá-la. Segundo o Times of Israel, o tribunal e a procuradora-geral se opuseram à proposta de Hadad de uma reunião imediata para encerrar todo o caso."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a Procuradoria aceita as recomendações.",
+         "Se haverá acordo no Caso 1000."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Análise das recomendações pela procuradora-geral e pelos promotores.",
+         "No Caso 2000, a Procuradoria pode apresentar novos argumentos antes de uma decisão, segundo o Globes."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Reuters, via Forth",
+        "u": "https://www.forth.news/articles/ChQGGuzE84MPNU95yErKC"
+       },
+       {
+        "t": "Globes",
+        "u": "https://en.globes.co.il/en/article-judges-propose-dropping-two-of-three-cases-against-netanyahu-1001564925"
+       },
+       {
+        "t": "Times of Israel",
+        "u": "https://www.timesofisrael.com/liveblog_entry/court-recommends-dropping-or-reconsidering-2-out-of-3-cases-against-netanyahu-in-severe-blow-to-prosecution/"
+       },
+       {
+        "t": "JTA",
+        "u": "https://www.jta.org/2026/11/25/israel/what-are-the-criminal-cases-against-netanyahu-now-coming-into-question"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Rússia ataca Kiev com mísseis balísticos e atinge um shopping",
+     "contexto": "negociacoes-ucrania-russia",
+     "texto": "Mísseis balísticos russos atingiram na noite de quarta (25) o distrito de Desnianskyi, em Kiev, incluindo um shopping e uma área industrial, segundo a Ukrinform e o LB.ua. A administração militar da cidade contou sete feridos, segundo o boletim The Wire Tap.",
+     "pq": "no mesmo dia, Trump e o secretário-geral da Otan, Mark Rutte, disseram em nota conjunta que a Rússia deve evitar ações que ampliem a guerra, segundo a Reuters. Os europeus pedem lugar nas negociações.",
+     "fontes": [
+      {
+       "t": "Ukrinform",
+       "u": "https://www.ukrinform.net/rubric-ato/4188681-kyiv-under-ballistic-missile-attack-strikes-reported-in-industrial-area.html"
+      },
+      {
+       "t": "LB.ua",
+       "u": "https://en.lb.ua/news/2026/11/25/51520_russians_strike_kyiv_ballistic.html"
+      },
+      {
+       "t": "The Wire Tap",
+       "u": "https://thechrissampson.substack.com/p/ukraine-daily-november-26-2026-kyiv"
+      },
+      {
+       "t": "Reuters, via Forth",
+       "u": "https://www.forth.news/articles/ChQuG1V97xnnRM15vkUWY"
+      }
+     ],
+     "completa": {
+      "fina": "As reportagens lidas não trazem posição da Rússia sobre o ataque.",
+      "atualizada": "26 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "As explosões começaram por volta das 22h45 no horário de Kiev, e um segundo ataque ocorreu perto das 23h36, segundo o LB.ua. O prefeito Vitali Klitschko disse que \"a cidade está sob ataque de mísseis balísticos\", segundo a Ukrinform. Foram atingidos um prédio numa área industrial, outro prédio não residencial e um shopping.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Feridos:",
+          "t": "a Ukrinform falava em um hospitalizado às 23h28; o LB.ua, em três feridos às 23h42; pela manhã, a administração militar contava sete feridos, três hospitalizados e dois em estado grave, segundo o The Wire Tap."
+         },
+         {
+          "b": "Drones:",
+          "t": "a Força Aérea disse que a Rússia lançou 113 drones na madrugada de quinta, e 87 foram derrubados ou neutralizados, segundo o mesmo boletim."
+         },
+         {
+          "b": "Kharkiv:",
+          "t": "um drone atingiu um prédio residencial, e o prefeito Ihor Terekhov falou em dois mortos, segundo o The Wire Tap."
+         },
+         {
+          "b": "Novos lançamentos:",
+          "t": "canais de monitoramento citados pelo UNN falavam em cerca de 40 mísseis preparados para novo ataque; o site diz que a informação não foi confirmada."
+         }
+        ]
+       },
+       {
+        "h": "A nota de Trump e Rutte",
+        "p": [
+         "Depois de uma reunião na Flórida, Trump e Rutte disseram ter discutido \"a importância de a Rússia evitar quaisquer ações que, intencionalmente ou não, ampliem a guerra\" e de uma solução pacífica \"o mais rápido possível\", segundo a Reuters. Também falaram da guerra no Irã, sem detalhes, e do aumento de gastos militares. Na semana anterior, Trump se reuniu com Putin e Xi Jinping na Ásia, o que gerou críticas de democratas e aliados europeus."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Os EUA tentam marcar uma rodada de negociação com a participação europeia, e Zelensky diz que a Europa precisa estar incluída. Segundo o Financial Times, citado pela Reuters, o governo Trump engavetou a ideia de usar acordos de negócios em energia e aviação para atrair a Rússia, depois de pouco interesse do Kremlin."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Vitali Klitschko, prefeito de Kiev:",
+          "t": "pediu que moradores ficassem nos abrigos."
+         },
+         {
+          "b": "Mark Rutte, secretário-geral da Otan:",
+          "t": "disse que encontros de Trump com líderes de potências nucleares são normais, segundo a Reuters."
+         },
+         {
+          "b": "Rússia:",
+          "t": "as reportagens lidas não trazem posição oficial."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "O nome do shopping atingido; o The Wire Tap cita relatos preliminares.",
+         "A data da próxima rodada de negociação."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Balanço final de feridos em Kiev e Kharkiv.",
+         "Negociação sobre a participação europeia nas conversas de paz."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Ukrinform",
+        "u": "https://www.ukrinform.net/rubric-ato/4188681-kyiv-under-ballistic-missile-attack-strikes-reported-in-industrial-area.html"
+       },
+       {
+        "t": "LB.ua",
+        "u": "https://en.lb.ua/news/2026/11/25/51520_russians_strike_kyiv_ballistic.html"
+       },
+       {
+        "t": "The Wire Tap",
+        "u": "https://thechrissampson.substack.com/p/ukraine-daily-november-26-2026-kyiv"
+       },
+       {
+        "t": "Reuters, via Forth: a nota de Trump e Rutte",
+        "u": "https://www.forth.news/articles/ChQuG1V97xnnRM15vkUWY"
+       },
+       {
+        "t": "Reuters, via Forth: os acordos de negócios",
+        "u": "https://www.forth.news/articles/ChP5eL48Ca7nDyubkMbBK"
+       },
+       {
+        "t": "UNN",
+        "u": "https://unn.ua/en/news/russians-attacked-kyiv-with-ballistic-missiles-a-shopping-center-and-other-buildings-were-hit"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "FCC libera SpaceX para até 1 milhão de satélites de data center",
+     "contexto": "data-centers-e-energia",
+     "texto": "A Comissão Federal de Comunicações dos EUA aprovou na quarta (25), com condições, a Starmind, rede de até 1 milhão de satélites da SpaceX para processar dados de IA em órbita, segundo o TechCrunch, o Space.com e a Via Satellite.",
+     "pq": "é a primeira aprovação de uma rede de data centers em órbita, segundo a Via Satellite. Amazon, Viasat e a Sociedade Astronômica Americana se opuseram. Aviso de conflito: a SpaceX é dona da xAI, que concorre com a Anthropic, que faz o Claude, usado pelo Contexto.",
+     "fontes": [
+      {
+       "t": "TechCrunch",
+       "u": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+      },
+      {
+       "t": "Space.com",
+       "u": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites"
+      },
+      {
+       "t": "Via Satellite",
+       "u": "https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/"
+      }
+     ],
+     "completa": {
+      "fina": "Aviso de conflito: a SpaceX é dona da xAI, que concorre com a Anthropic, que faz o Claude, usado pelo Contexto.",
+      "atualizada": "26 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Os satélites ficariam entre 500 e 1.002 quilômetros de altitude e se comunicariam principalmente por laser, inclusive com a rede Starlink, segundo o TechCrunch. A SpaceX pediu a autorização no fim de janeiro de 2026, na época em que comprou a xAI, segundo a Via Satellite. Cada satélite teria capacidade média de 175 kW de processamento.",
+      "blocos": [
+       {
+        "h": "As condições",
+        "li": [
+         {
+          "b": "Prazos:",
+          "t": "um primeiro satélite em órbita até 25 de novembro de 2033; 10% da rede até 2035, metade até 2038 e o restante até 2040, segundo a Via Satellite."
+         },
+         {
+          "b": "Lixo espacial:",
+          "t": "a FCC ainda não aprovou os planos da SpaceX para satélites acima de 600 quilômetros; a empresa pediu dispensa da regra que exige reentrada em até cinco anos após o fim da missão, segundo o TechCrunch."
+         },
+         {
+          "b": "Ambiente:",
+          "t": "não haverá nova revisão ambiental, segundo a Via Satellite."
+         }
+        ]
+       },
+       {
+        "h": "As objeções",
+        "p": [
+         "A Amazon disse que o pedido era \"uma ambição elevada, e não um plano real\", segundo o TechCrunch. As objeções trataram de lixo espacial, congestionamento, interferência de rádio e efeitos ambientais. A FCC disse que dúvidas sobre viabilidade estão fora de sua competência, que não limita o número de satélites em órbitas parecidas e que os temores sobre reentrada na atmosfera são \"especulativos\", segundo a Via Satellite. A Secure World Foundation pediu autorização em fases."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "A Starmind é a primeira rede desse tipo aprovada pela FCC, que analisa pedidos da Starcloud, de 88 mil satélites, e da Blue Origin, de 51,6 mil. A SpaceX planeja começar os lançamentos em 2027 com a Starship, segundo o Space.com. Para o TechCrunch, a aprovação não significa que data centers em órbita estejam próximos, por causa de custo, resfriamento e financiamento dos chips."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Brendan Carr, presidente da FCC:",
+          "t": "\"Esta ação abre uma nova fronteira ousada para a infraestrutura de computação\" necessária à liderança americana."
+         },
+         {
+          "b": "Elon Musk, dono da SpaceX:",
+          "t": "\"Isto será um grande ativo para os EUA e o mundo\", escreveu no X."
+         },
+         {
+          "b": "Amazon:",
+          "t": "disse que a proposta \"traz riscos reais\"."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quanto custaria a rede.",
+         "Se a FCC aprova a dispensa da regra de reentrada.",
+         "Quando a SpaceX lança o primeiro satélite da rede."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Decisões da FCC sobre os pedidos da Starcloud e da Blue Origin.",
+         "Primeiros lançamentos previstos para 2027."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "TechCrunch",
+        "u": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+       },
+       {
+        "t": "Space.com",
+        "u": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites"
+       },
+       {
+        "t": "Via Satellite",
+        "u": "https://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-million-satellite-orbital-data-center-constellation/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Pentágono cogitou lei de guerra para pressionar Nvidia pela volta de Huang",
+     "contexto": "nvidia-china-chips",
+     "texto": "Pete Hegseth e seu vice, Steve Feinberg, discutiram usar a Lei de Produção de Defesa, de 1950, para pressionar o conselho da Nvidia a reconduzir Jensen Huang, segundo o Washington Post, citado pelo Raw Story. O Pentágono nega.",
+     "pq": "o governo também não investigou Huang formalmente antes de dar garantias à empresa, segundo o PC Gamer. E a Nvidia mandou parceiros pararem de enviar servidores a quatro países do Sudeste Asiático, segundo o Financial Times, citado pela Reuters.",
+     "fontes": [
+      {
+       "t": "Raw Story",
+       "u": "https://www.rawstory.com/pentagon-nvidia/"
+      },
+      {
+       "t": "PC Gamer",
+       "u": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/"
+      },
+      {
+       "t": "Reuters, via Forth",
+       "u": "https://www.forth.news/articles/ChR5wCMVs7XoNVDDx5ZxC"
+      }
+     ],
+     "completa": {
+      "fina": "Huang deve depor no Senado dos EUA em 3 de dezembro.",
+      "atualizada": "26 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Segundo três pessoas ouvidas pelo Washington Post, a conversa ocorreu no fim de semana, antes do anúncio da volta de Huang na segunda (23), e incluiu o chefe de tecnologia do Pentágono, Emil Michael. O jornal diz que a lei não dá meio claro de nomear um presidente-executivo, mas poderia servir de aviso, segundo o Raw Story.",
+      "blocos": [
+       {
+        "h": "O que se sabe",
+        "li": [
+         {
+          "b": "A ideia:",
+          "t": "um funcionário do governo disse que a lei poderia ser usada para forçar a Nvidia a passar mais produção a projetos militares, segundo o Raw Story."
+         },
+         {
+          "b": "A decisão:",
+          "t": "Trump e o vice JD Vance concluíram que Huang tinha de voltar, e Trump pediu a Vance que intermediasse; não se sabe se a ideia chegou a eles."
+         },
+         {
+          "b": "Investigação:",
+          "t": "Trump deu à Nvidia garantias de que Huang não era ameaça à segurança nacional sem investigação formal, segundo o PC Gamer."
+         }
+        ]
+       },
+       {
+        "h": "Os servidores no Sudeste Asiático",
+        "p": [
+         "A Nvidia pediu a parceiros como Dell e Supermicro que parem de enviar a Malásia, Singapura, Tailândia e Indonésia servidores com seus chips, segundo o Financial Times, citado pela Reuters. Regras americanas em vigor desde a semana passada exigem licença para esses envios, para fechar rotas usadas por empresas chinesas. Não está claro se a suspensão é temporária."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Huang deixou o cargo em 12 de novembro, depois de reportagens sobre um caso com uma mulher apontada como espiã chinesa, que trabalhou na Megaspeed, de Singapura, empresa investigada por possível desvio de chips para a China, segundo a Reuters. O conselho o reconduziu em 23 de novembro."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Pentágono:",
+          "t": "\"As conversas descritas nunca aconteceram\", disse um funcionário, segundo o Raw Story."
+         },
+         {
+          "b": "Todd Blanche, procurador-geral dos EUA:",
+          "t": "\"O que significa se Huang foi investigado? Por quê?\", disse a jornalistas, segundo o PC Gamer."
+         },
+         {
+          "b": "Chuck Schumer, líder da minoria no Senado:",
+          "t": "disse que Huang enviou chips avançados à China em violação às leis de exportação."
+         },
+         {
+          "b": "Bill Greenwalt, do American Enterprise Institute:",
+          "t": "disse que controles de exportação seriam ferramenta melhor."
+         },
+         {
+          "b": "Pete Harrell, da Universidade Georgetown:",
+          "t": "disse que a ideia mostra que o governo poderia interferir em empresas privadas, segundo o Raw Story."
+         },
+         {
+          "b": "Investidores:",
+          "t": "Balaji Srinivasan e Shervin Pishevar defenderam que a Nvidia é assunto de segurança nacional."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Se a ideia foi formalmente apresentada.",
+         "Quanto tempo dura a suspensão dos envios."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Depoimentos de Huang no Congresso no início de dezembro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Raw Story, com Washington Post",
+        "u": "https://www.rawstory.com/pentagon-nvidia/"
+       },
+       {
+        "t": "PC Gamer",
+        "u": "https://www.pcgamer.com/software/ai/trump-admin-didnt-investigate-jensen-huang-before-pushing-nvidia-to-bring-him-back-what-does-that-mean-had-huang-been-investigated-for-what/"
+       },
+       {
+        "t": "Reuters, via Forth: servidores no Sudeste Asiático",
+        "u": "https://www.forth.news/articles/ChR5wCMVs7XoNVDDx5ZxC"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "80 a 120",
+  "texto": "é a estimativa de ogivas nucleares da Coreia do Norte citada pelo ministro da Defesa sul-coreano; Kim Jong Un pediu mais armas nucleares táticas, segundo a Reuters.",
+  "fontes": [
+   {
+    "t": "Reuters, via Forth",
+    "u": "https://www.forth.news/articles/ChQRRevu5DUDLj5HEvwpc"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "Guardas-parque do Amapá encontraram Janarino Ferreira dos Santos, de 74 anos e com Alzheimer, após 11 dias perdido na floresta, comendo frutas, segundo a Reuters. Ele deve ficar mais três dias no hospital.",
+  "fontes": [
+   {
+    "t": "Reuters, via Forth",
+    "u": "https://www.forth.news/articles/ChQMcVWi5v1jKEq2DrEDg"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito de interesse: esta edição cita a SpaceX, dona da xAI, que concorre com a Anthropic.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Brasil e Mundo saem de novo com duas notas cada, abaixo do padrão de três, porque outros fatos de quarta só tinham uma fonte aberta. Nas notas das tarifas e de Netanyahu, os dois lados aparecem com fala própria. Na nota do Pentágono, a negativa oficial aparece logo no texto curto.",
+  "pontos": [
+   "Brasil 1: está claro que é proposta, com prazos de consulta; a queda das ações da Embraer aparece como faixa entre duas fontes.",
+   "Brasil 2: os nomes cotados para o ministério são atribuídos ao Metrópoles, sem confirmação do governo.",
+   "Mundo 1: a divergência entre retirar e considerar retirar a acusação está exposta.",
+   "Mundo 2: os números de feridos aparecem com a hora de cada fonte; os mortos de Kharkiv vêm de um só boletim e estão atribuídos.",
+   "Inovação 1: aviso de conflito pela xAI, da SpaceX; a ressalva do TechCrunch sobre viabilidade aparece.",
+   "Inovação 2: a informação do Washington Post chega por outro site e está atribuída assim; a negativa do Pentágono está no texto curto."
+  ],
+  "equilibrio": "Governo Lula: 2 menções (neutras); EUA e Embraer com fala própria. Mundo: Netanyahu, a procuradora-geral e a defesa com fala; Rússia sem posição nas fontes, dito no texto. Inovação: FCC, Musk e Amazon com fala; Pentágono, Blanche e Schumer com fala.",
+  "foraDaEdicao": [
+   "Categorias extras: sem tempo para duas fontes e contexto em cada uma.",
+   "Câmara aprova marco da educação em tempo integral: as duas fontes divergem sobre o dia da votação.",
+   "Câmara proíbe acordo de não persecução penal em crimes de racismo: só uma fonte aberta.",
+   "Kim Jong Un pede mais armas nucleares táticas: só a Reuters; usado no Número do dia.",
+   "Dados enviados à chinesa MiniMax acessados por terceiros: só a Reuters.",
+   "Jornalista japonês preso na Rússia: só a Reuters com o fato novo."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: a proposta de tarifa dos EUA, pelo efeito sobre exportações brasileiras.",
+   "Essencial com as tarifas e o julgamento de Netanyahu.",
+   "Brasil e Mundo com duas notas por falta de segunda fonte em outros fatos; registrado no parecer.",
+   "Novo contexto: Tarifas dos EUA sobre o Brasil."
+  ]
+ },
+ "geradaEm": "2026-11-26T07:45:31Z"
+}

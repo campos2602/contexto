@@ -1,13 +1,9 @@
 {
  "titulo": "Guerra na Ucrânia: onde estão as negociações",
- "atualizado": "24 nov 2026",
+ "atualizado": "26 nov 2026",
  "selo": "Checado",
  "frase": "A Rússia invadiu a Ucrânia em fevereiro de 2022. Desde então, houve rodadas de conversa sem acordo de paz; uma nova rodada, com os EUA, está prevista para novembro de 2026.",
  "linha": [
-  {
-   "d": "10 de novembro de 2026",
-   "t": "Começam em Abu Dhabi dois dias de conversas entre Rússia, Ucrânia e EUA, as primeiras a três desde fevereiro. Medinsky chefia a delegação russa, Umerov a ucraniana, e Kushner e Witkoff mediam, segundo a AP."
-  },
   {
    "d": "10 de novembro de 2026, primeiro dia",
    "t": "Quatro horas de conversas em Abu Dhabi. Zelensky as chama de \"construtivas\"; troca de prisioneiros e garantias de segurança entram na pauta, segundo a AP."
@@ -35,6 +31,10 @@
   {
    "d": "22 de novembro de 2026",
    "t": "A corveta russa Merkury é atingida em Benghazi, na Líbia; Zelensky diz que um drone marítimo ucraniano afundou o navio, segundo o Democracy Now."
+  },
+  {
+   "d": "25 de novembro de 2026",
+   "t": "Trump e Rutte pedem que a Rússia não amplie a guerra; mísseis russos atingem um shopping e uma área industrial em Kiev, segundo a Ukrinform."
   }
  ],
  "termos": [
@@ -109,8 +109,8 @@
  ],
  "observar": [
   "A data e o local da reunião multilateral com os europeus.",
-  "A reação russa aos ataques no Golfo da Finlândia e na Líbia.",
-  "Se a Líbia restringe o uso de seus portos por navios russos.",
+  "Se os EUA retomam a ideia de acordos de negócios com a Rússia.",
+  "Novos ataques de longo alcance dos dois lados.",
   "A troca de prisioneiros prevista para as próximas semanas."
  ],
  "fontes": [
@@ -217,12 +217,20 @@
   {
    "t": "Democracy Now: navio russo afundado na Líbia",
    "u": "https://www.democracynow.org/2026/11/23/headlines/ukraine_sinks_russian_warship_docked_in_libya_as_russian_strikes_kill_civilians"
+  },
+  {
+   "t": "Reuters, via Forth: a nota de Trump e Rutte",
+   "u": "https://www.forth.news/articles/ChQuG1V97xnnRM15vkUWY"
+  },
+  {
+   "t": "Ukrinform: ataque a Kiev",
+   "u": "https://www.ukrinform.net/rubric-ato/4188681-kyiv-under-ballistic-missile-attack-strikes-reported-in-industrial-area.html"
   }
  ],
  "historia": [
   "A Rússia invadiu a Ucrânia em grande escala em 24 de fevereiro de 2022, oito anos depois de anexar a Crimeia, em 2014. A anexação não é reconhecida pela maioria dos países. Desde a invasão, houve rodadas de conversa, trocas de prisioneiros e tréguas locais, mas nenhum acordo de paz.",
   "Em 2026, os EUA passaram a mediar conversas diretas. Em 10 e 11 de novembro, Rússia, Ucrânia e EUA se reuniram em Abu Dhabi, nas primeiras conversas a três desde fevereiro. Vladimir Medinsky chefiou a delegação russa, Rustem Umerov a ucraniana, e Steve Witkoff e Jared Kushner mediaram. Saiu um acordo de troca de prisioneiros em grande escala, sem número nem data, e nenhum avanço sobre território.",
   "Em 12 de novembro, Witkoff e Kushner passaram cerca de duas horas com Vladimir Putin no Kremlin e depois encontraram Volodymyr Zelensky em Dublin. Witkoff disse que os europeus estariam na próxima rodada; o Kremlin não confirmou, e o assessor Yuri Ushakov disse depois que a participação europeia depende de um \"sinal claro\" da Europa.",
-  "Os combates continuaram durante as conversas. Na madrugada de 17 de novembro, um ataque ucraniano com drones e mísseis derrubou um arco e um vão da parte rodoviária da ponte de Kerch, que liga a Rússia à Crimeia e simboliza a anexação. Na mesma noite, mísseis russos fecharam as duas principais pontes de Kiev. Trump diz que vai tratar da guerra com Putin e Xi Jinping em 19 de novembro. Em Berlim, em 19 de novembro, Kushner e Witkoff se reuniram com Zelensky e líderes europeus, e Kushner disse que Rússia e EUA aceitaram incluir a Europa na rodada seguinte, segundo a Fox News e a UNN. Não há data. Em 21 de novembro, drones atingiram o cargueiro russo Sparta II no Golfo da Finlândia; militares finlandeses apontaram a Ucrânia como provável responsável, segundo o Kyiv Independent. Em 22 de novembro, a corveta russa Merkury foi atingida no porto de Benghazi, na Líbia; Zelensky disse que um drone marítimo ucraniano afundou o navio, segundo o Democracy Now e o Il Sole 24 Ore."
+  "Os combates continuaram durante as conversas. Na madrugada de 17 de novembro, um ataque ucraniano com drones e mísseis derrubou um arco e um vão da parte rodoviária da ponte de Kerch, que liga a Rússia à Crimeia e simboliza a anexação. Na mesma noite, mísseis russos fecharam as duas principais pontes de Kiev. Trump diz que vai tratar da guerra com Putin e Xi Jinping em 19 de novembro. Em Berlim, em 19 de novembro, Kushner e Witkoff se reuniram com Zelensky e líderes europeus, e Kushner disse que Rússia e EUA aceitaram incluir a Europa na rodada seguinte, segundo a Fox News e a UNN. Não há data. Em 21 de novembro, drones atingiram o cargueiro russo Sparta II no Golfo da Finlândia; militares finlandeses apontaram a Ucrânia como provável responsável, segundo o Kyiv Independent. Em 22 de novembro, a corveta russa Merkury foi atingida no porto de Benghazi, na Líbia; Zelensky disse que um drone marítimo ucraniano afundou o navio, segundo o Democracy Now e o Il Sole 24 Ore. Em 25 de novembro, Trump e o secretário-geral da Otan, Mark Rutte, pediram que a Rússia evite ampliar a guerra; na mesma noite, mísseis balísticos russos atingiram um shopping em Kiev, segundo a Reuters e a Ukrinform."
  ]
 }

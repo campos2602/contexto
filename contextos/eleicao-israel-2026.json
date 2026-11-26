@@ -1,13 +1,9 @@
 {
  "titulo": "Eleição em Israel: como se forma um governo",
- "atualizado": "25 nov 2026",
+ "atualizado": "26 nov 2026",
  "selo": "Checado",
  "frase": "Na eleição de 27 de outubro de 2026, o bloco de Benjamin Netanyahu ficou com 53 das 120 cadeiras, e a aliança de Gadi Eisenkot, com 48. Em 8 de novembro, o presidente Isaac Herzog deu a Eisenkot a primeira chance de formar governo.",
  "linha": [
-  {
-   "d": "7 de novembro de 2026",
-   "t": "Herzog anuncia que Eisenkot terá a primeira chance de formar governo, segundo a Al Jazeera."
-  },
   {
    "d": "8 de novembro de 2026",
    "t": "Em cerimônia em Jerusalém, Herzog entrega a tarefa a Eisenkot, que tem 28 dias, prorrogáveis por 14. Netanyahu pede governo de \"unidade nacional\", segundo a AP."
@@ -35,6 +31,10 @@
   {
    "d": "24 de novembro de 2026",
    "t": "Yashar e Israel Nossa Casa concordam em assinar um acordo de coalizão; os Democratas suspendem as conversas, segundo a Reuters."
+  },
+  {
+   "d": "25 de novembro de 2026",
+   "t": "Juízes recomendam retirar o Caso 4000 contra Netanyahu e reavaliar o Caso 2000; a procuradora-geral vai analisar, segundo a Reuters."
   }
  ],
  "termos": [
@@ -113,7 +113,7 @@
  ],
  "observar": [
   "A assinatura formal do acordo com o Israel Nossa Casa.",
-  "Se Eisenkot fecha acordo com o Judaísmo Unido da Torá.",
+  "Se a Procuradoria aceita as recomendações no julgamento de Netanyahu.",
   "As conversas com o Likud sobre um governo de união.",
   "O prazo de Eisenkot, em 6 de dezembro, prorrogável por 14 dias."
  ],
@@ -229,6 +229,14 @@
   {
    "t": "JFeed: Eisenkot e Liberman",
    "u": "https://www.jfeed.com/news-israel/eisenkot-liberman-coalition-agreement"
+  },
+  {
+   "t": "Reuters, via Forth: juízes e o Caso 4000",
+   "u": "https://www.forth.news/articles/ChQGGuzE84MPNU95yErKC"
+  },
+  {
+   "t": "Globes: juízes propõem retirar dois casos",
+   "u": "https://en.globes.co.il/en/article-judges-propose-dropping-two-of-three-cases-against-netanyahu-1001564925"
   }
  ],
  "historia": [
@@ -236,6 +244,6 @@
   "Na eleição de 27 de outubro de 2026, o bloco de Benjamin Netanyahu ficou com 53 cadeiras e o de Gadi Eisenkot, ex-chefe do Estado-Maior, com 48. Os partidos árabes somaram 19, recorde, segundo a Al Jazeera. Nas consultas de 4 e 5 de novembro, Eisenkot recebeu 67 indicações, com apoio do Yisrael Beytenu e de partidos de liderança árabe, e Netanyahu, 46.",
   "Em 8 de novembro, o presidente Isaac Herzog deu a Eisenkot a primeira chance de formar governo, com 28 dias e possível prorrogação de 14. Netanyahu, primeiro-ministro interino, propôs um governo de união liderado por ele. Os dois se reuniram em 15 de novembro, e cada um disse que deveria chefiar o governo, segundo a Al Jazeera.",
   "A primeira disputa foi pela presidência do Parlamento, que controla a pauta. Em 17 de novembro, depois de cerca de sete horas de debate, Matan Kahana, aliado de Eisenkot, venceu o candidato do Likud, Ofir Katz, por 66 a 52, com votos de partidos árabes. Em troca da votação, o bloco de Eisenkot aceitou não apresentar projetos para revogar a reforma judicial até 23 de novembro, segundo o Ynet.",
-  "Eisenkot descarta governar com partidos árabes. Com os ultraortodoxos Shas e Judaísmo Unido da Torá, chegaria a 61 cadeiras, segundo a Al Jazeera. Em 22 de novembro, Likud e Yashar conversaram por mais de quatro horas sobre um governo de união, sem acordo, segundo o Ynet. Eisenkot diz que, se falhar, pedirá ao Parlamento um governo de emergência, minoritário. Em 24 de novembro, Eisenkot e Avigdor Lieberman, do Israel Nossa Casa, concordaram em assinar o primeiro acordo de coalizão, e os Democratas, de Yair Golan, deixaram as negociações, segundo a Reuters e o JFeed."
+  "Eisenkot descarta governar com partidos árabes. Com os ultraortodoxos Shas e Judaísmo Unido da Torá, chegaria a 61 cadeiras, segundo a Al Jazeera. Em 22 de novembro, Likud e Yashar conversaram por mais de quatro horas sobre um governo de união, sem acordo, segundo o Ynet. Eisenkot diz que, se falhar, pedirá ao Parlamento um governo de emergência, minoritário. Em 24 de novembro, Eisenkot e Avigdor Lieberman, do Israel Nossa Casa, concordaram em assinar o primeiro acordo de coalizão, e os Democratas, de Yair Golan, deixaram as negociações, segundo a Reuters e o JFeed. Em 25 de novembro, os juízes do julgamento de Netanyahu recomendaram retirar a acusação de suborno do Caso 4000 e reavaliar o Caso 2000, segundo a Reuters e o Globes."
  ]
 }
