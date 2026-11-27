@@ -1,8 +1,8 @@
 {
  "titulo": "Ebola: o surto de 2026 na África",
- "atualizado": "28 out 2026",
+ "atualizado": "27 nov 2026",
  "selo": "Checado",
- "frase": "O ebola é uma doença grave causada por vírus, transmitida pelo contato com sangue e fluidos de pessoas infectadas. O surto de 2026 começou no Congo e chegou a Uganda, Quênia e Nigéria por viajantes.",
+ "frase": "O ebola é uma doença grave causada por vírus, transmitida pelo contato com sangue e fluidos de pessoas infectadas. O surto de 2026 começou no leste do Congo, passou de 12 mil casos em novembro e chegou a Uganda, Quênia e Nigéria por viajantes.",
  "linha": [
   {
    "d": "15 de maio de 2026",
@@ -31,6 +31,10 @@
   {
    "d": "27 de outubro de 2026",
    "t": "O Congo passa de 10 mil casos e 4.800 mortes, segundo números reunidos pelo boletim Foreign Exchanges."
+  },
+  {
+   "d": "26 de novembro de 2026",
+   "t": "O Congo passa de 12 mil casos e 5.900 mortes; combates em Ituri forçam a retirada de equipes de saúde, segundo a Al Jazeera e a AP."
   }
  ],
  "termos": [
@@ -49,6 +53,18 @@
   {
    "t": "Emergência de saúde pública de importância internacional",
    "d": "Alerta máximo da OMS, que pede coordenação entre países."
+  },
+  {
+   "t": "Ituri",
+   "d": "província do nordeste do Congo onde o surto foi declarado e onde há combates entre o Exército e grupos armados."
+  },
+  {
+   "t": "Bunia",
+   "d": "capital de Ituri e centro da resposta ao surto, para onde foram levadas as equipes retiradas."
+  },
+  {
+   "t": "Taxa de letalidade",
+   "d": "proporção de infectados que morrem. No surto do Congo, quase metade dos casos confirmados terminou em morte, segundo a AP."
   }
  ],
  "quem": [
@@ -67,6 +83,14 @@
   {
    "b": "ECDC",
    "t": "que avalia o risco para a Europa."
+  },
+  {
+   "b": "Catherine Smallwood",
+   "t": "gerente da OMS para o ebola, que relatou a retirada de equipes em Ituri."
+  },
+  {
+   "b": "Convenção pela Revolução Popular (CRP)",
+   "t": "grupo armado que enfrenta o Exército congolês em Ituri."
   }
  ],
  "disputa": [
@@ -77,11 +101,16 @@
   {
    "b": "O ECDC",
    "t": "não recomenda restrições de viagem e defende triagem na saída das áreas afetadas."
+  },
+  {
+   "b": "A OMS",
+   "t": "diz, pela gerente Catherine Smallwood, que os combates bloquearam o acesso a comunidades e interromperam o acompanhamento de contatos."
   }
  ],
  "observar": [
-  "O fim dos 21 dias de acompanhamento dos contatos na Nigéria e no Quênia.",
-  "Os boletins semanais do Congo, epicentro do surto.",
+  "Os boletins do governo congolês e da OMS.",
+  "Os combates perto de Bunia, centro da resposta.",
+  "Se o número de mortes passa o do surto da África Ocidental, de cerca de 11 mil.",
   "Novos casos ligados a viagens."
  ],
  "fontes": [
@@ -100,6 +129,20 @@
   {
    "t": "Foreign Exchanges: resumo de 27 out",
    "u": "https://foreignexchanges.news/p/world-roundup-october-27-2026"
+  },
+  {
+   "t": "Al Jazeera: ebola passa de 12 mil casos",
+   "u": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east"
+  },
+  {
+   "t": "AP: ebola chega a 12 mil casos",
+   "u": "https://www.santafenewmexican.com/ap/international/ebola-outbreak-in-congo-reaches-12-000-cases-as-violence-forces-some-responders-to-evacuate/article_6d39b1ac-fabe-5747-bf71-ff0016c235c8.html"
   }
+ ],
+ "historia": [
+  "O surto foi declarado em meados de maio de 2026 na província de Ituri, no leste do Congo, segundo a Al Jazeera. Ele é causado pelo vírus Bundibugyo, um tipo raro de ebola para o qual não há vacina nem tratamento aprovados. Em 15 de maio, Uganda registrou os primeiros casos no país, segundo o ECDC, e declarou o surto encerrado em 27 de agosto, depois de 20 casos e duas mortes, segundo a OMS.",
+  "Em outubro, o vírus chegou mais longe por viajantes. Os primeiros pacientes do Quênia e da Nigéria passaram pelo aeroporto de Entebbe, em Uganda, segundo o Africa CDC. Uganda endureceu as regras de viagem, e a paciente da Nigéria foi levada para tratamento na Suíça. No fim de outubro, o Congo tinha passado de 10 mil casos e 4.800 mortes, segundo números reunidos pelo boletim Foreign Exchanges.",
+  "Em 26 de novembro, os dados do governo congolês chegaram a 12.021 casos confirmados e 5.904 mortes, em 8 das 26 províncias, segundo a Al Jazeera. É o mais mortal dos 17 surtos de ebola do país e o de crescimento mais rápido já registrado, segundo a AP, que diz que ele caminha para superar as 11 mil mortes do surto da África Ocidental de 2014 a 2016.",
+  "A resposta esbarra em combates. Em Ituri, o Exército congolês enfrenta a Convenção pela Revolução Popular, grupo fundado por Thomas Lubanga, condenado pelo Tribunal Penal Internacional em 2012. Os combates chegaram a cerca de 24 quilômetros de Bunia, centro da resposta, e obrigaram a retirada de equipes, segundo a AP. Estradas ruins e a desconfiança de moradores também atrapalham, segundo a mesma agência."
  ]
 }

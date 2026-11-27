@@ -1,13 +1,9 @@
 {
  "titulo": "Eleições de 2026 no Brasil: quem foi eleito e o que vem agora",
- "atualizado": "26 nov 2026",
+ "atualizado": "27 nov 2026",
  "selo": "Checado",
  "frase": "Em 2026, os brasileiros escolheram presidente, governadores, senadores e deputados em dois turnos, em 4 e 25 de outubro. Os eleitos tomam posse em datas novas em 2027, por causa de uma emenda constitucional de 2021.",
  "linha": [
-  {
-   "d": "8 de novembro de 2026",
-   "t": "No primeiro pronunciamento depois da reeleição, Lula promete medida provisória para criar o Ministério da Segurança Pública depois da aprovação da PEC da Segurança e pede \"com urgência uma reforma política e do Judiciário\"."
-  },
   {
    "d": "11 e 12 de novembro de 2026",
    "t": "Lula vai à COP31, na Turquia. Os nomes do novo ministério devem ser definidos a partir do fim de novembro."
@@ -27,6 +23,10 @@
   {
    "d": "25 de novembro de 2026",
    "t": "Lula recebe Dino e Tarso Genro para discutir o novo Ministério da Segurança Pública, a ser criado por medida provisória, segundo o Metrópoles."
+  },
+  {
+   "d": "26 de novembro de 2026",
+   "t": "Trabuco, do Bradesco, aceita convite de Lula para a Fazenda, segundo a CNN Brasil e a Gazeta do Povo; o STF marca para 4 de dezembro o julgamento do pedido de segundo turno no Rio."
   },
   {
    "d": "5 e 6 de janeiro de 2027",
@@ -95,6 +95,10 @@
   {
    "b": "Guilherme Boulos",
    "t": "ministro da Secretaria-Geral da Presidência."
+  },
+  {
+   "b": "Luiz Carlos Trabuco",
+   "t": "presidente do conselho do Bradesco, convidado por Lula para o Ministério da Fazenda."
   }
  ],
  "disputa": [
@@ -124,10 +128,10 @@
   }
  ],
  "observar": [
+  "O anúncio oficial dos ministros da área econômica.",
   "Quem vai comandar o Ministério da Segurança Pública.",
-  "A promulgação da PEC da Segurança Pública.",
-  "A indicação de Lula para a vaga no STF.",
-  "Quantos ministérios cada partido vai receber na reforma ministerial."
+  "O julgamento no STF, de 4 a 15 de dezembro, do pedido de segundo turno no Rio.",
+  "A diplomação dos eleitos, em dezembro."
  ],
  "fontes": [
   {
@@ -245,12 +249,24 @@
   {
    "t": "CNN Brasil: Dino e Tarso Genro no Alvorada",
    "u": "https://www.cnnbrasil.com.br/politica/antes-de-criar-novo-ministerio-lula-recebe-dino-e-ex-ministro-da-justica/"
+  },
+  {
+   "t": "CNN Brasil: Trabuco aceita convite",
+   "u": "https://www.cnnbrasil.com.br/politica/trabuco-aceita-convite-de-lula-para-o-ministerio-da-fazenda/"
+  },
+  {
+   "t": "Gazeta do Povo: Trabuco na Fazenda",
+   "u": "https://www.gazetadopovo.com.br/cafe-com-a-gazeta/trabuco-aceita-convite-de-lula-para-comandar-o-ministerio-da-fazenda/"
+  },
+  {
+   "t": "A Crítica, com Agência Estado: STF e o segundo turno no Rio",
+   "u": "https://acritica.net/justica/stf-julgamento-segundo-turno-rio-de-janeiro-4-dezembro/"
   }
  ],
  "historia": [
   "Em 2026, o Brasil elegeu presidente, governadores, senadores e deputados. O presidente Luiz Inácio Lula da Silva (PT) foi reeleito no segundo turno, em 25 de outubro, para o quarto mandato. O senador Flávio Bolsonaro (PL), adversário no segundo turno, não reconheceu o resultado de início e disse que tentaria anular a eleição; no dia seguinte, desistiu da anulação e anunciou um pedido de cassação da chapa por abuso de poder, e o PL reconheceu o resultado.",
   "A disputa seguiu na Justiça Eleitoral. Em 5 de novembro, o corregedor-geral, Ricardo Villas Bôas Cueva, aceitou uma ação do partido Novo que acusa Lula e o vice, Geraldo Alckmin, de abuso de poder político; ele disse que aceitar a ação não significa reconhecer irregularidade.",
   "Ao mesmo tempo, começou a montagem do novo governo. O presidente do PT, Edinho Silva, pediu a MDB, PSD, PSB e União Brasil propostas para os ministérios e uma estimativa de votos no Congresso. Em 15 de novembro, Alckmin disse que Lula discute a formação dos ministérios ao voltar de viagem, começando pelas áreas econômica e social.",
-  "Por causa de uma emenda constitucional de 2021, as posses mudaram de data: o presidente toma posse em 5 de janeiro de 2027, os governadores no dia 6 e os parlamentares em 1º de fevereiro. Em 19 de novembro, Lula anunciou que vai criar um ministério para pessoas idosas. Com a divisão prevista da Justiça, a Esplanada pode passar de 38 para 40 pastas, recorde, segundo a Gazeta do Povo. Lula disse que não tem pressa para escolher a equipe. Em 21 de novembro, o chanceler argentino, Pablo Quirno, disse que \"houve situações\" que \"colocaram em dúvida todo o cenário\" eleitoral, sem dizer quais, ao explicar por que Milei não cumprimentou Lula, segundo O Antagonista. Em 25 de novembro, Lula recebeu Flávio Dino e Tarso Genro para discutir a formação do governo e a criação do Ministério da Segurança Pública, que deve ser anunciado até 5 de dezembro, segundo o Metrópoles."
+  "Por causa de uma emenda constitucional de 2021, as posses mudaram de data: o presidente toma posse em 5 de janeiro de 2027, os governadores no dia 6 e os parlamentares em 1º de fevereiro. Em 19 de novembro, Lula anunciou que vai criar um ministério para pessoas idosas. Com a divisão prevista da Justiça, a Esplanada pode passar de 38 para 40 pastas, recorde, segundo a Gazeta do Povo. Lula disse que não tem pressa para escolher a equipe. Em 21 de novembro, o chanceler argentino, Pablo Quirno, disse que \"houve situações\" que \"colocaram em dúvida todo o cenário\" eleitoral, sem dizer quais, ao explicar por que Milei não cumprimentou Lula, segundo O Antagonista. Em 25 de novembro, Lula recebeu Flávio Dino e Tarso Genro para discutir a formação do governo e a criação do Ministério da Segurança Pública, que deve ser anunciado até 5 de dezembro, segundo o Metrópoles. Em 24 de novembro, Fernando Haddad disse a Lula que não pretende integrar o novo governo, segundo a Exame. Dois dias depois, o presidente do conselho do Bradesco, Luiz Carlos Trabuco, aceitou o convite para a Fazenda, segundo a CNN Brasil e a Gazeta do Povo, o primeiro nome do novo ministério."
  ]
 }

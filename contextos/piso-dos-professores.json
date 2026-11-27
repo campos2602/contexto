@@ -1,0 +1,123 @@
+{
+ "titulo": "O piso salarial dos professores",
+ "atualizado": "27 nov 2026",
+ "selo": "Checado",
+ "frase": "O piso é o menor salário que um professor da rede pública de educação básica pode receber por 40 horas semanais. Foi criado por lei em 2008, é atualizado todo ano pelo MEC e, em 2026, é de R$ 5.130,63. Em novembro, o STF decidiu que estados e municípios são obrigados a pagá-lo.",
+ "historia": [
+  "A Constituição prevê um piso salarial nacional para os profissionais da educação escolar pública. Ele foi regulamentado pela Lei 11.738, de 2008, que fixou um valor mínimo para professores do magistério público da educação básica com jornada de 40 horas semanais e mandou atualizá-lo todo ano, segundo a Agência Brasil. O reajuste é definido por ato do Ministério da Educação, e em 2026 o valor chegou a R$ 5.130,63.",
+  "Desde a criação, muitos estados e municípios dizem não ter dinheiro para pagar o piso integral, segundo a Agência Brasil. Parte do valor é coberta pelo Fundeb, fundo que reúne recursos de impostos e recebe complementação da União; estados e municípios pagam a diferença. Em 2026, uma nova lei, a 15.437, criou outro sistema de atualização do piso, segundo o Migalhas.",
+  "A disputa chegou ao Supremo por dois casos de São Paulo. Uma professora municipal de Riolândia recebia menos que o piso atualizado pelo MEC. Uma professora aposentada da rede estadual obteve na Justiça o reajuste em cascata, que leva o aumento do piso a todos os níveis da carreira. O governo paulista recorreu dizendo que a lei de 2008 fixa só um mínimo para o salário inicial, segundo o Jornal Opinião. O relator do caso estadual, Cristiano Zanin, votou por proibir o reajuste em cascata pela Justiça; Dias Toffoli abriu divergência, e Gilmar Mendes pediu vista em maio e devolveu o caso em outubro.",
+  "Em 26 de novembro de 2026, o plenário decidiu que estados, DF e municípios devem seguir o piso atualizado pelo governo federal, mesmo sem lei local, e que um juiz pode mandar pagar se o salário inicial não for ajustado até o fim do ano, segundo o STF. O efeito cascata ficou a cargo das leis de cada governo. Gilmar citou estimativas de impacto de bilhões de reais para São Paulo e Rio de Janeiro e disse que o fim do aumento da complementação federal ao Fundeb ameaça o equilíbrio das contas a partir de 2027, segundo o Migalhas."
+ ],
+ "linha": [
+  {
+   "d": "2008",
+   "t": "A Lei 11.738 cria o piso salarial nacional dos professores da educação básica."
+  },
+  {
+   "d": "2026",
+   "t": "O piso chega a R$ 5.130,63 por 40 horas semanais, e a Lei 15.437 cria nova forma de atualização."
+  },
+  {
+   "d": "Maio de 2026",
+   "t": "Gilmar Mendes pede vista no julgamento sobre o piso no STF, segundo o Jornal Opinião."
+  },
+  {
+   "d": "Outubro de 2026",
+   "t": "Gilmar devolve o caso para julgamento."
+  },
+  {
+   "d": "26 de novembro de 2026",
+   "t": "O STF decide que estados e municípios devem pagar o piso atualizado mesmo sem lei local; o reajuste da carreira depende de cada governo."
+  }
+ ],
+ "termos": [
+  {
+   "t": "Piso salarial",
+   "d": "menor valor que pode ser pago a um profissional por uma jornada definida. No caso dos professores, vale para 40 horas semanais."
+  },
+  {
+   "t": "Vencimento inicial",
+   "d": "salário básico do primeiro nível da carreira, sem gratificações. É sobre ele que o piso vale, segundo o STF."
+  },
+  {
+   "t": "Efeito cascata",
+   "d": "repasse do reajuste do piso a todos os níveis da carreira, mantendo a diferença entre eles. O STF deixou a decisão para cada governo."
+  },
+  {
+   "t": "Repercussão geral",
+   "d": "mecanismo que faz uma decisão do STF valer para todos os processos parecidos no país."
+  },
+  {
+   "t": "Fundeb",
+   "d": "Fundo de Manutenção e Desenvolvimento da Educação Básica, que reúne impostos de estados e municípios e recebe complementação da União."
+  },
+  {
+   "t": "Pedido de vista",
+   "d": "pedido de um ministro por mais tempo para analisar o caso, que suspende o julgamento."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Dias Toffoli",
+   "t": "ministro do STF, relator do caso de Riolândia, cujo voto prevaleceu."
+  },
+  {
+   "b": "Cristiano Zanin",
+   "t": "ministro do STF, relator do caso estadual de São Paulo, vencido."
+  },
+  {
+   "b": "Gilmar Mendes",
+   "t": "ministro do STF que propôs suspender os processos por 24 meses e ficou vencido."
+  },
+  {
+   "b": "Governo de São Paulo",
+   "t": "autor do recurso que contestava o reajuste em cascata."
+  },
+  {
+   "b": "Ministério da Educação",
+   "t": "responsável pela atualização anual do piso."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Estados e municípios",
+   "t": "dizem não ter recursos para pagar o piso integral, segundo a Agência Brasil."
+  },
+  {
+   "b": "Alexandre de Moraes",
+   "t": "chamou o piso de \"mecanismo de valorização profissional\" que existe desde 2008."
+  },
+  {
+   "b": "Gilmar Mendes",
+   "t": "concordou com a obrigação, mas alertou para o peso nas contas e propôs mais prazo."
+  }
+ ],
+ "observar": [
+  "A publicação da decisão do STF, que abre o prazo de 24 meses sugerido para as leis de carreira.",
+  "O próximo reajuste do piso pelo MEC.",
+  "Ações de professores para cobrar o piso na Justiça."
+ ],
+ "fontes": [
+  {
+   "t": "STF: decisão sobre o piso",
+   "u": "https://noticias.stf.jus.br/postsnoticias/estados-e-municipios-devem-observar-piso-salarial-nacional-de-professores-da-educacao-basica-decide-stf/"
+  },
+  {
+   "t": "Migalhas: tese e votos",
+   "u": "https://www.migalhas.com.br/quentes/469265/stf-estados-e-municipios-devem-aplicar-piso-salarial-a-professores"
+  },
+  {
+   "t": "Correio do Estado, com Agência Brasil",
+   "u": "https://correiodoestado.com.br/cidades/2026/11/27/stf-estados-e-municipios-sao-obrigados-a-pagar-piso-dos-professores.html"
+  },
+  {
+   "t": "Jornal Opinião: votos antes da decisão",
+   "u": "https://jornalopiniao.net/stf-julgamento-piso-salarial-professores/"
+  },
+  {
+   "t": "STF: pauta de 26 de novembro",
+   "u": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-26-3/"
+  }
+ ]
+}

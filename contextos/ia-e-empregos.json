@@ -1,0 +1,120 @@
+{
+ "titulo": "A inteligência artificial e os cortes de emprego",
+ "atualizado": "27 nov 2026",
+ "selo": "Checado",
+ "frase": "Empresas de tecnologia estão cortando vagas enquanto reorganizam produtos e equipes em torno da inteligência artificial. Em novembro de 2026, a alemã SAP, maior empresa de tecnologia da Europa, passou a estudar o corte de pelo menos 10 mil empregos.",
+ "historia": [
+  "Com a inteligência artificial generativa, empresas de software passaram a redesenhar produtos e equipes. Elas dizem que a IA muda o tipo de trabalho de que precisam, e parte delas corta vagas em áreas como engenharia, produto e vendas ao mesmo tempo em que contrata em outras.",
+  "A alemã SAP, maior empresa de tecnologia da Europa segundo o Gulf News, é um dos casos mais conhecidos. Em janeiro de 2024, anunciou uma reestruturação que mirava cerca de 8 mil vagas e chegou a algo entre 9 mil e 10 mil, concluída no início de 2025 a um custo de cerca de 3,1 bilhões de euros, segundo o CTech. A maior parte saiu por desligamentos voluntários e requalificação, segundo o Gulf News. Mesmo assim, o quadro cresceu: a empresa terminou 2025 com 111.397 funcionários.",
+  "Em 26 de novembro de 2026, a Bloomberg informou que a SAP estuda cortar pelo menos 10 mil vagas, ao menos 9% do quadro, segundo o CTech e o Gulf News. O presidente-executivo, Christian Klein, quer uma empresa \"AI-first\", e todos os departamentos foram chamados a apontar onde reduzir. O plano não está fechado. Na Alemanha, um acordo de outubro garante proteção de emprego até o fim de 2028. A receita da empresa segue em alta: passou de 10 bilhões de euros no terceiro trimestre de 2026.",
+  "A reorganização também mexe no comando. A diretoria executiva da SAP foi reorganizada duas vezes em 2026, e dois dos seis integrantes saem em março: o chefe de produto, Muhammad Alam, cujo contrato termina, e o chefe de vendas, Thomas Saueressig, que vai presidir o Ionos Group, segundo o Gulf News. A empresa diz que revisa sua organização continuamente e não confirmou o plano. O tamanho final do corte depende das conversas com os representantes dos funcionários, e a experiência de 2024 mostra que cortes anunciados podem conviver com um quadro que continua a crescer em outras áreas."
+ ],
+ "linha": [
+  {
+   "d": "Janeiro de 2024",
+   "t": "A SAP anuncia reestruturação para cerca de 8 mil vagas, ampliada depois para 9 mil a 10 mil."
+  },
+  {
+   "d": "Início de 2025",
+   "t": "A SAP conclui a reestruturação, a um custo de cerca de 3,1 bilhões de euros, segundo o CTech."
+  },
+  {
+   "d": "Fim de 2025",
+   "t": "A SAP tem 111.397 funcionários, mais que no ano anterior."
+  },
+  {
+   "d": "Outubro de 2026",
+   "t": "Acordo na Alemanha estende a proteção de emprego na SAP até o fim de 2028."
+  },
+  {
+   "d": "Terceiro trimestre de 2026",
+   "t": "A receita da SAP passa de 10 bilhões de euros num trimestre pela primeira vez, alta de 13%, segundo o CTech."
+  },
+  {
+   "d": "26 de novembro de 2026",
+   "t": "A SAP estuda cortar pelo menos 10 mil vagas, segundo a Bloomberg, citada pelo CTech e pelo Gulf News."
+  }
+ ],
+ "termos": [
+  {
+   "t": "AI-first",
+   "d": "expressão em inglês para uma empresa que põe a inteligência artificial no centro dos produtos e da organização."
+  },
+  {
+   "t": "Reestruturação",
+   "d": "reorganização de uma empresa que pode incluir cortes de vagas, fechamento de áreas e mudança de funções."
+  },
+  {
+   "t": "Requalificação",
+   "d": "treinamento de funcionários para novas funções dentro da empresa."
+  },
+  {
+   "t": "Desligamento voluntário",
+   "d": "programa em que o funcionário aceita sair em troca de compensação."
+  },
+  {
+   "t": "Carteira contratada de nuvem",
+   "d": "valor de contratos de serviços na nuvem já assinados e ainda não faturados. Na SAP, chegou a 24,1 bilhões de euros no terceiro trimestre de 2026, segundo o CTech."
+  },
+  {
+   "t": "Software empresarial",
+   "d": "programas usados por empresas para gestão, como finanças, compras, estoque e recursos humanos, o principal negócio da SAP."
+  },
+  {
+   "t": "Proteção de emprego",
+   "d": "acordo entre empresa e representantes dos funcionários que limita demissões por um período."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Christian Klein",
+   "t": "presidente-executivo da SAP."
+  },
+  {
+   "b": "Dominik Asam",
+   "t": "diretor financeiro da SAP, que disse esperar inversão da alta do quadro."
+  },
+  {
+   "b": "Representantes dos trabalhadores",
+   "t": "negociam com a SAP o tamanho dos cortes."
+  },
+  {
+   "b": "Muhammad Alam",
+   "t": "chefe de produto da SAP, com contrato até março."
+  },
+  {
+   "b": "Thomas Saueressig",
+   "t": "chefe de vendas da SAP, que sai para presidir o Ionos Group."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "SAP",
+   "t": "diz que \"revisa continuamente sua organização\" para mantê-la alinhada à estratégia e aos clientes."
+  },
+  {
+   "b": "Dominik Asam",
+   "t": "disse que ficaria \"realmente surpreso\" se a alta do número de funcionários não se invertesse."
+  },
+  {
+   "b": "Representantes dos trabalhadores",
+   "t": "ainda não negociaram o plano, que pode mudar depois das conversas, segundo o CTech e o Gulf News."
+  }
+ ],
+ "observar": [
+  "Se a SAP confirma o plano e o número final de cortes.",
+  "As negociações com os representantes dos trabalhadores na Alemanha.",
+  "Outros anúncios de cortes ligados à IA.",
+  "Se a SAP repete os programas de saída voluntária de 2024."
+ ],
+ "fontes": [
+  {
+   "t": "CTech",
+   "u": "https://www.calcalistech.com/ctechnews/article/al8iwkfjx"
+  },
+  {
+   "t": "Gulf News",
+   "u": "https://gulfnews.com/technology/sap-layoffs-10000-jobs-at-risk-as-software-giant-accelerates-ai-push-1.500762799"
+  }
+ ]
+}
