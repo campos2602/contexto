@@ -1,0 +1,121 @@
+{
+ "titulo": "A reforma eleitoral na Argentina",
+ "atualizado": "28 nov 2026",
+ "selo": "Checado",
+ "frase": "O governo de Javier Milei quer mudar regras das eleições argentinas antes da disputa de 2027. A principal mudança é suspender, só em 2027, as primárias obrigatórias em que os partidos escolhem candidatos. O Senado aprovou o texto em novembro de 2026, e falta a Câmara.",
+ "historia": [
+  "Na Argentina, os partidos escolhem seus candidatos nas PASO, sigla para primárias abertas, simultâneas e obrigatórias. Nelas, todos os eleitores votam para escolher os candidatos de cada partido ou aliança, antes da eleição geral.",
+  "O governo de Javier Milei enviou ao Congresso uma reforma eleitoral que suspende as primárias para 2027. O texto que chegou ao plenário do Senado tinha 25 artigos, bem menos que o projeto original, que tinha mais de 70, segundo o senador Mayans, líder do bloco justicialista, citado pelo Perfil. Além das primárias, a reforma cria regras de ficha limpa, reduz a propaganda gratuita de rádio e TV e torna o debate presidencial obrigatório só no segundo turno.",
+  "Em 26 de novembro de 2026, o Senado aprovou o texto por 43 votos a 29, sem abstenções, segundo o Perfil e o ElDoce. O governo precisava de 37 votos. Votaram a favor A Liberdade Avança, partido de Milei, a UCR, o PRO e partidos provinciais; contra votou o bloco justicialista, de 22 senadores, entre outros, segundo o Panorama Directo. A suspensão vale só para 2027, e as primárias voltam em 2029.",
+  "A reforma muda outras regras. Ela permite a filiação partidária pela internet, exige uma só lista por categoria em cada partido, corta o espaço gratuito de propaganda audiovisual de 5% para 2,5% e passa ao Congresso a escolha dos representantes no Parlamento do Mercosul, segundo o Perfil. A campanha fica proibida nos dois dias anteriores à votação, e o comércio pode abrir no dia da eleição, segundo o Panorama Directo. As províncias têm até 90 dias antes da eleição nacional para decidir se fazem suas eleições no mesmo dia. Na última hora, o Ministério das Relações Exteriores pediu mudança no artigo sobre o Parlamento do Mercosul, segundo o Perfil.",
+  "Sem as primárias, os partidos definiriam candidatos pelas próprias regras, com prazo até 30 de agosto de 2027, segundo o Panorama Directo. O texto agora vai à Câmara dos Deputados, em sessões extraordinárias. Se for aprovado sem mudanças, vira lei; se for alterado, volta ao Senado. Sem essa segunda aprovação, a suspensão não entra em vigor."
+ ],
+ "linha": [
+  {
+   "d": "Projeto original",
+   "t": "O governo Milei envia uma reforma com mais de 70 artigos, segundo o senador Mayans."
+  },
+  {
+   "d": "26 de novembro de 2026",
+   "t": "O Senado aprova a reforma por 43 votos a 29, com a suspensão das primárias em 2027."
+  },
+  {
+   "d": "Sessões extraordinárias",
+   "t": "A Câmara dos Deputados analisa o texto."
+  },
+  {
+   "d": "30 de agosto de 2027",
+   "t": "Prazo para os partidos definirem candidatos sem primárias, segundo o Panorama Directo."
+  },
+  {
+   "d": "2029",
+   "t": "As primárias voltam a valer, pelo texto aprovado no Senado."
+  }
+ ],
+ "termos": [
+  {
+   "t": "PASO",
+   "d": "primárias abertas, simultâneas e obrigatórias. Todos os eleitores votam para escolher os candidatos de cada partido ou aliança."
+  },
+  {
+   "t": "Media sanción",
+   "d": "expressão argentina para um projeto aprovado por uma das duas casas do Congresso, que ainda depende da outra."
+  },
+  {
+   "t": "Ficha limpa",
+   "d": "regra que impede a candidatura de quem foi condenado em segunda instância por crime doloso, no caso argentino para cargos nacionais."
+  },
+  {
+   "t": "Cédula única",
+   "d": "cédula de papel com todos os candidatos, usada no lugar das cédulas separadas de cada partido."
+  },
+  {
+   "t": "Sessões extraordinárias",
+   "d": "sessões do Congresso fora do período normal de trabalho, convocadas para temas definidos."
+  },
+  {
+   "t": "Parlasul",
+   "d": "Parlamento do Mercosul. Pela reforma, os representantes argentinos passam a ser escolhidos pelo Congresso."
+  }
+ ],
+ "quem": [
+  {
+   "b": "Javier Milei",
+   "t": "presidente da Argentina, autor da reforma."
+  },
+  {
+   "b": "A Liberdade Avança",
+   "t": "partido de Milei, com 21 senadores que votaram a favor."
+  },
+  {
+   "b": "Bloco justicialista",
+   "t": "maior bloco de oposição no Senado, com 22 senadores, que votou contra."
+  },
+  {
+   "b": "Mayans",
+   "t": "senador, líder do bloco justicialista, que votou contra a reforma."
+  },
+  {
+   "b": "Câmara dos Deputados",
+   "t": "precisa aprovar o texto para que a suspensão das primárias valha em 2027."
+  },
+  {
+   "b": "Luis Juez, Carmen Álvarez Rivero e Alejandra Vigo",
+   "t": "senadores de Córdoba, que votaram a favor, segundo o ElDoce."
+  }
+ ],
+ "disputa": [
+  {
+   "b": "Governo e aliados",
+   "t": "aprovaram a suspensão como medida só para 2027, com volta das primárias em 2029, segundo o Perfil."
+  },
+  {
+   "b": "Oposição justicialista",
+   "t": "votou contra o texto em bloco, segundo o Panorama Directo."
+  },
+  {
+   "b": "Panorama Directo",
+   "t": "lembra que, sem a aprovação na Câmara, \"a suspensão não entra em vigor\"."
+  }
+ ],
+ "observar": [
+  "A data da votação na Câmara dos Deputados.",
+  "Se os deputados mudam o texto, o que o devolveria ao Senado.",
+  "Quantas províncias aderem às eleições simultâneas.",
+  "Como os partidos vão escolher candidatos sem as primárias em 2027."
+ ],
+ "fontes": [
+  {
+   "t": "Perfil",
+   "u": "https://www.perfil.com/politica/el-senado-aprobo-suspender-las-paso-en-2027-y-ficha-limpia-la-reforma-electoral-del-gobierno-pasa-a-diputados-aakby7n1OnYv"
+  },
+  {
+   "t": "ElDoce",
+   "u": "https://eldoce.tv/politica/2026/11/26/el-senado-aprobo-la-suspension-de-las-paso-y-el-proyecto-ira-a-diputados-la-postura-de-los-cordobeses/"
+  },
+  {
+   "t": "Panorama Directo",
+   "u": "https://panoramadirecto.com/sin-paso-en-2027-los-partidos-tendran-hasta-el-30-de-agosto-para-definir-a-sus-candidatos/"
+  }
+ ]
+}

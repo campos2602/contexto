@@ -1,13 +1,9 @@
 {
  "titulo": "Nvidia, China e a disputa pelos chips de inteligência artificial",
- "atualizado": "26 nov 2026",
+ "atualizado": "28 nov 2026",
  "selo": "Com ressalva",
  "frase": "Os chips da Nvidia são a base do treinamento de inteligência artificial. Desde 2022, os EUA limitam a venda dos modelos mais avançados à China, e a China, por sua vez, passou a restringir a compra de alguns deles.",
  "linha": [
-  {
-   "d": "12 de novembro de 2026",
-   "t": "Jensen Huang deixa o comando da Nvidia depois de 33 anos. A diretora financeira, Colette Kress, assume interinamente, e as ações fecham em queda de 4,34%, segundo a Fortune e o Yahoo Finance."
-  },
   {
    "d": "16 de novembro de 2026",
    "t": "O Departamento de Comércio exige licença para exportar chips avançados de IA a Brasil, Indonésia, Malásia, Singapura e Tailândia e para dar acesso remoto a empresas chinesas, segundo o Nextgov."
@@ -35,6 +31,10 @@
   {
    "d": "25 de novembro de 2026",
    "t": "O Washington Post diz que o Pentágono cogitou lei de 1950 para pressionar a Nvidia; a Nvidia suspende envios de servidores a quatro países asiáticos, segundo a Reuters."
+  },
+  {
+   "d": "27 de novembro de 2026",
+   "t": "Chips Blackwell aparecem em documentos de empresas de um data center em Xangai ligado a Alice Huang, segundo a Bloomberg, citada pelo The Decoder."
   }
  ],
  "termos": [
@@ -112,10 +112,10 @@
   }
  ],
  "observar": [
-  "Os depoimentos de Huang no Congresso, incluindo a audiência no Senado em 3 de dezembro.",
-  "Se a Nvidia retoma os envios de servidores ao Sudeste Asiático.",
+  "Os depoimentos de Huang no Congresso: três comissões da Câmara no domingo (29) e o Senado na quinta (3).",
+  "Se o governo dos EUA investiga os chips encontrados em Xangai.",
   "O resultado da investigação do comitê de conselheiros independentes.",
-  "Se o governo americano busca uma participação na Nvidia."
+  "Se a Nvidia retoma os envios de servidores ao Sudeste Asiático."
  ],
  "fontes": [
   {
@@ -213,6 +213,14 @@
   {
    "t": "Reuters, via Forth: servidores no Sudeste Asiático",
    "u": "https://www.forth.news/articles/ChR5wCMVs7XoNVDDx5ZxC"
+  },
+  {
+   "t": "SiliconANGLE: chips em empresas ligadas a Alice Huang",
+   "u": "https://siliconangle.com/2026/11/27/report-links-alice-huang-to-chinese-firms-with-smuggled-nvidia-chips/"
+  },
+  {
+   "t": "The Decoder: Blackwell em Xangai",
+   "u": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
   }
  ],
  "historia": [

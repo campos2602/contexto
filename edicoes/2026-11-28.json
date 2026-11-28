@@ -1,0 +1,744 @@
+{
+ "data": "2026-11-28",
+ "dia": "Sábado, 28 de novembro de 2026",
+ "leitura": "7 min",
+ "status": "aprovada",
+ "statusTexto": "Aprovada pelo editor-chefe",
+ "abre": "Bom dia. A redação do Contexto, feita por inteligência artificial, traz hoje a reação do mercado a Trabuco na Fazenda, o protocolo contra racismo nas escolas, o bloqueio americano ao Irã, as primárias na Argentina e uma invasão hacker à Força Aérea dos EUA.",
+ "trinta": [
+  "O dólar tem a maior queda semanal desde 2008 depois do anúncio de Trabuco.",
+  "Os EUA atingem um navio que saiu do Irã; Teerã promete enfrentar o bloqueio.",
+  "Chips proibidos da Nvidia aparecem em data center ligado a Alice Huang."
+ ],
+ "essencial": [
+  {
+   "id": "b1",
+   "porque": "Mostra como o mercado recebeu o novo ministro da Fazenda e o que ele terá de entregar."
+  },
+  {
+   "id": "m1",
+   "porque": "O bloqueio ao Irã segue apertado e pesa no petróleo e em Ormuz."
+  }
+ ],
+ "secoes": [
+  {
+   "nome": "Brasil",
+   "categoria": "brasil",
+   "notas": [
+    {
+     "id": "b1",
+     "selo": "Checada",
+     "titulo": "Dólar tem a maior queda semanal desde 2008 com Trabuco na Fazenda",
+     "contexto": "dolar-bolsa-e-juros",
+     "texto": "O dólar caiu 3,99% na sexta (27) e fechou a R$ 5,51, com queda de 7,07% na semana, a maior desde outubro de 2008, segundo O Tempo, com Agência Brasil. Na quinta, o Ibovespa subiu 6,07% após o anúncio de Trabuco.",
+     "pq": "o mercado viu na escolha um sinal de controle das contas públicas, e os juros futuros também caíram. Analistas dizem que o teste será transformar a expectativa em reformas aprovadas no Congresso.",
+     "fontes": [
+      {
+       "t": "O Tempo, com Agência Brasil",
+       "u": "https://www.otempo.com.br/economia/2026/11/27/dolar-tem-maior-queda-semanal-em-18-anos-sob-efeito-trabuco"
+      },
+      {
+       "t": "Agência Brasil",
+       "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/dolar-cai-r-574-e-ibovespa-dispara-607-apos-anuncio-de-trabuco"
+      },
+      {
+       "t": "Seu Dinheiro",
+       "u": "https://www.seudinheiro.com/2026/bolsa-dolar/efeito-trabuco-leva-ibovespa-aos-182-mil-pontos-e-derruba-dolar-em-mais-de-3-davs/"
+      },
+      {
+       "t": "Reuters, via Forth",
+       "u": "https://www.forth.news/articles/ChTKa2VUY3AYyHMd95fZt"
+      }
+     ],
+     "completa": {
+      "fina": "Na sexta, a bolsa devolveu parte da alta e fechou em queda de 0,13%, aos 176.573 pontos, segundo O Tempo.",
+      "atualizada": "28 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "Lula anunciou na noite de quinta (26) o presidente do conselho do Bradesco, Luiz Carlos Trabuco, de 75 anos, como ministro da Fazenda a partir de janeiro, segundo a Reuters. É o primeiro ministro anunciado para o quarto mandato, segundo a Agência Brasil. A reação do mercado começou antes do anúncio oficial e seguiu na sexta, com o dólar na quinta queda diária seguida.",
+      "blocos": [
+       {
+        "h": "Os números",
+        "li": [
+         {
+          "b": "Quinta (26):",
+          "t": "o Ibovespa subiu 6,07%, para 176.799 pontos, a maior alta diária desde o primeiro turno de 2026, e o dólar caiu 1,26%, segundo O Tempo."
+         },
+         {
+          "b": "Valor de mercado:",
+          "t": "as empresas da bolsa ganharam R$ 232 bilhões na quinta, de R$ 4,70 trilhões para R$ 4,93 trilhões, segundo a Elos Ayta, citada por O Tempo."
+         },
+         {
+          "b": "Sexta (27):",
+          "t": "o dólar chegou a R$ 5,479 durante o dia e fechou a R$ 5,51; no começo da semana, tinha encostado em R$ 6, segundo o Seu Dinheiro e O Tempo."
+         },
+         {
+          "b": "Juros futuros:",
+          "t": "os contratos mais longos caíram até 0,97 ponto percentual, e a B3 ampliou o limite de oscilação do dólar futuro só para a sessão, segundo o Seu Dinheiro."
+         },
+         {
+          "b": "Fora do país:",
+          "t": "o principal fundo de ações brasileiras negociado em Nova York subiu 9,81% na sexta, segundo O Tempo."
+         }
+        ]
+       },
+       {
+        "h": "Por que o mercado reagiu",
+        "p": [
+         "\"O principal gatilho foi a confirmação de Luiz Carlos Trabuco para o Ministério da Fazenda\", disse Luca Girardi, da Nomad, segundo O Tempo. A dívida pública bruta subiu mais de 11 pontos e chegou a 82,9% do PIB, segundo a Reuters, que diz que a questão central é se Trabuco consegue tranquilizar investidores sobre a dívida e, ao mesmo tempo, atender os aliados de Lula. Sinais fiscais podem poupar até R$ 50 bilhões em gasto primário em 2027, além do pacote aprovado pela Câmara, segundo o Metrópoles."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Fiesp:",
+          "t": "o presidente, Paulo Skaf, elogiou a \"sólida experiência\" de Trabuco, segundo a Agência Brasil."
+         },
+         {
+          "b": "CNI:",
+          "t": "chamou a escolha de \"sinal positivo\" para a economia."
+         },
+         {
+          "b": "Febraban:",
+          "t": "disse que ele tem \"credenciais para um trabalho exitoso\"."
+         },
+         {
+          "b": "Pedro Uczai (PT-SC), líder do partido na Câmara:",
+          "t": "questionou a escolha, segundo a Reuters."
+         },
+         {
+          "b": "Trabuco:",
+          "t": "\"A prioridade é crescimento e inclusão social\", segundo a Reuters."
+         },
+         {
+          "b": "Citibank:",
+          "t": "diz que o teste real é a capacidade de transformar a expectativa em reformas fiscais e conseguir apoio político, segundo O Tempo."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem ocupa os outros ministérios da área econômica. O BTG diz que Bruno Moretti segue no Planejamento, segundo o Seu Dinheiro; o governo não confirmou.",
+         "Se a queda do dólar se mantém nas próximas semanas."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O governo deve enviar ao Congresso, até o fim do ano, novas propostas de corte de gastos e aumento de receita, segundo a Agência Brasil.",
+         "Trabuco assume a Fazenda com a posse do novo governo, em janeiro."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "O Tempo, com Agência Brasil",
+        "u": "https://www.otempo.com.br/economia/2026/11/27/dolar-tem-maior-queda-semanal-em-18-anos-sob-efeito-trabuco"
+       },
+       {
+        "t": "Agência Brasil",
+        "u": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/politica/audio/2026-11/dolar-cai-r-574-e-ibovespa-dispara-607-apos-anuncio-de-trabuco"
+       },
+       {
+        "t": "Seu Dinheiro",
+        "u": "https://www.seudinheiro.com/2026/bolsa-dolar/efeito-trabuco-leva-ibovespa-aos-182-mil-pontos-e-derruba-dolar-em-mais-de-3-davs/"
+       },
+       {
+        "t": "Metrópoles",
+        "u": "https://www.metropoles.com/brasil/efeito-trabuco-ibovespa-dispara-apos-anuncio-do-futuro-ministro-da-fazenda"
+       },
+       {
+        "t": "Reuters, via Forth",
+        "u": "https://www.forth.news/articles/ChTKa2VUY3AYyHMd95fZt"
+       }
+      ]
+     }
+    },
+    {
+     "id": "b2",
+     "selo": "Checada",
+     "titulo": "Câmara aprova protocolo obrigatório contra racismo nas escolas",
+     "contexto": "dia-da-consciencia-negra",
+     "texto": "A Câmara aprovou na quarta (25), por 320 votos a 102, projeto que obriga escolas públicas e privadas a seguir um protocolo nacional contra o racismo, com acolhimento das vítimas e comunicação às autoridades, segundo a Agência Brasil e o Boca do Povo News.",
+     "pq": "as escolas terão de agir mesmo sem denúncia formal, e as privadas que descumprirem podem pagar multa de até 20% do faturamento bruto. O texto segue para o Senado.",
+     "fontes": [
+      {
+       "t": "Costazul FM, com Agência Brasil",
+       "u": "https://costazul.fm/camara-aprova-medidas-de-combate-ao-racismo-nas-escolas/"
+      },
+      {
+       "t": "Boca do Povo News",
+       "u": "https://bocadopovonews.com.br/camara-aprova-protocolo-antirracismo-e-escolas-terao-de-agir/"
+      }
+     ],
+     "completa": {
+      "fina": "O projeto é o PL 4.887/2023, da deputada Carol Dartora (PT-PR), relatado por Benedita da Silva (PT-RJ), segundo o Boca do Povo News.",
+      "atualizada": "28 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O projeto cria um protocolo nacional para casos de racismo em escolas públicas e privadas de todo o país. Ele prevê acolhimento das vítimas, proteção contra retaliação e comunicação dos casos às autoridades, segundo a Agência Brasil, reproduzida pela rádio Costazul FM. A votação terminou com 320 votos a favor e 102 contra.",
+      "blocos": [
+       {
+        "h": "O que muda nas escolas",
+        "li": [
+         {
+          "b": "Responsável:",
+          "t": "cada escola terá de indicar um profissional responsável pelos casos, que deve agir mesmo sem denúncia formal da vítima."
+         },
+         {
+          "b": "Registro:",
+          "t": "os casos terão de ser registrados e comunicados às autoridades."
+         },
+         {
+          "b": "Formação:",
+          "t": "haverá capacitação periódica; o Boca do Povo News diz que será a cada dois anos."
+         },
+         {
+          "b": "Agressores:",
+          "t": "o texto prevê atividades de reeducação."
+         },
+         {
+          "b": "Servidores:",
+          "t": "podem responder a processo administrativo disciplinar, segundo a Agência Brasil."
+         }
+        ]
+       },
+       {
+        "h": "O que muda para as vítimas",
+        "li": [
+         {
+          "b": "Atendimento:",
+          "t": "acompanhamento psicológico gratuito."
+         },
+         {
+          "b": "Sigilo:",
+          "t": "a identidade da vítima fica protegida, segundo o Boca do Povo News."
+         },
+         {
+          "b": "Transferência:",
+          "t": "em casos graves, a vítima pode pedir mudança para uma escola próxima."
+         }
+        ]
+       },
+       {
+        "h": "As punições",
+        "p": [
+         "Escolas privadas que não cumprirem as regras ficam sujeitas a advertência e a multa de até 20% do faturamento bruto, segundo o Boca do Povo News. Na rede pública, a responsabilização é pela via disciplinar dos servidores, segundo a Agência Brasil."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "A votação ocorreu na semana do Dia da Consciência Negra, 20 de novembro, que desde 2023 é feriado nacional. As fontes consultadas não trazem a posição dos deputados que votaram contra."
+        ]
+       },
+       {
+        "h": "Quem propôs",
+        "p": [
+         "O projeto é da deputada Carol Dartora (PT-PR) e teve como relatora a deputada Benedita da Silva (PT-RJ), segundo o Boca do Povo News. A proposta vale para escolas públicas e privadas de todo o país, segundo a Agência Brasil, reproduzida pela rádio Costazul FM, e prevê atendimento psicológico gratuito às vítimas. O texto descreve o caminho de um caso: o acolhimento da vítima, a proteção contra retaliação, o registro da ocorrência, a comunicação às autoridades e, para quem agrediu, atividades de reeducação."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando o Senado vai analisar o texto.",
+         "Quanto vai custar o acompanhamento psicológico e quem paga.",
+         "Como será a fiscalização nas escolas privadas e quem aplica as multas.",
+         "Que prazo as escolas terão para se adaptar, se a lei for sancionada."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O projeto segue para o Senado.",
+         "Se for aprovado sem mudanças, vai à sanção presidencial."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Costazul FM, com Agência Brasil",
+        "u": "https://costazul.fm/camara-aprova-medidas-de-combate-ao-racismo-nas-escolas/"
+       },
+       {
+        "t": "Boca do Povo News",
+        "u": "https://bocadopovonews.com.br/camara-aprova-protocolo-antirracismo-e-escolas-terao-de-agir/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Mundo",
+   "categoria": "mundo",
+   "notas": [
+    {
+     "id": "m1",
+     "selo": "Checada",
+     "titulo": "EUA atingem navio que deixou porto do Irã; Teerã promete enfrentar bloqueio",
+     "contexto": "guerra-ira-eua-2026",
+     "texto": "Um avião militar dos EUA disparou contra a popa do cargueiro Pacific Archer, com bandeira de Palau, no Golfo de Omã, depois que ele deixou o porto iraniano de Bandar Abbas, segundo o Comando Central americano, citado pela Reuters e pelo Jerusalem Post.",
+     "pq": "é o sexto navio parado à força pelo bloqueio, segundo o Comando Central. Um assessor do líder supremo iraniano disse que o país não vai permitir que o bloqueio continue.",
+     "fontes": [
+      {
+       "t": "Reuters, via Forth",
+       "u": "https://www.forth.news/articles/ChTsDXd4okVKWH5c7NTKc"
+      },
+      {
+       "t": "The Jerusalem Post",
+       "u": "http://www.jpost.com/middle-east/iran-news/article-916339"
+      },
+      {
+       "t": "Daily Beirut",
+       "u": "https://dailybeirut.com/en/world/centcom-us-forces-disable-commercial-vessel-attempted-breach-naval-blockade-iran/"
+      }
+     ],
+     "completa": {
+      "fina": "A tripulação civil não se feriu, e o navio ficou sem propulsão, segundo o Comando Central dos EUA. O ataque foi na quinta (26) e anunciado na sexta.",
+      "atualizada": "28 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O Comando Central dos EUA disse que a tripulação do Pacific Archer recebeu vários avisos antes do disparo, feito com munição de precisão contra a popa, segundo o Jerusalem Post. O comando não informou a carga nem o destino do navio, que a sociedade classificadora ClassNK registra como graneleiro, e não petroleiro.",
+      "blocos": [
+       {
+        "h": "O navio",
+        "p": [
+         "O Pacific Archer tem bandeira de Palau e é registrado como graneleiro pela ClassNK, segundo o Jerusalem Post. Ele saiu de Bandar Abbas, principal porto do sul do Irã, e foi atingido no Golfo de Omã. O Comando Central divulgou um vídeo curto do ataque e disse que os disparos atingiram a popa e desligaram a propulsão e os motores, segundo o Daily Beirut."
+        ]
+       },
+       {
+        "h": "O bloqueio em números",
+        "li": [
+         {
+          "b": "Desviados:",
+          "t": "158 navios mudaram de rota depois dos avisos americanos, segundo o Comando Central, citado pelo Daily Beirut."
+         },
+         {
+          "b": "Parados à força:",
+          "t": "seis navios que recusaram os avisos foram desabilitados."
+         },
+         {
+          "b": "Caso anterior:",
+          "t": "em 7 de novembro, os EUA desabilitaram o navio Huda, segundo o Jerusalem Post."
+         },
+         {
+          "b": "Tráfego:",
+          "t": "o movimento comercial no Estreito de Ormuz segue abaixo do nível de 2025, segundo um centro de informação marítima citado pelo jornal."
+         }
+        ]
+       },
+       {
+        "h": "O que diz o Irã",
+        "p": [
+         "\"Nem o Estreito de Ormuz será reaberto, nem vamos permitir que o bloqueio permaneça\", disse Mohammad Mokhber, assessor do líder supremo, aiatolá Mojtaba Khamenei, segundo a mídia estatal iraniana citada pela Reuters. Ele não disse como o Irã faria isso."
+        ]
+       },
+       {
+        "h": "O que dizem os EUA",
+        "p": [
+         "O Comando Central pediu que todos os navios no Golfo de Omã e perto de Ormuz sigam os avisos americanos, segundo o Daily Beirut. No feriado de Ação de Graças, o presidente Donald Trump chamou o bloqueio de o mais bem-sucedido da história, segundo o Jerusalem Post."
+        ]
+       },
+       {
+        "h": "Como chegamos aqui",
+        "p": [
+         "Os EUA retomaram em julho o bloqueio naval aos portos iranianos e, neste mês, anunciaram uma força-tarefa para conter o transporte de armas e de produtos sob sanção pelas fronteiras terrestres do Irã e pelo Mar Cáspio, segundo a Reuters. Um aviso marítimo de 18 de novembro disse que navios podem ser tratados como violadores se receberem no mar carga embarcada no Irã."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Para onde ia o navio e o que levava.",
+         "Se o navio foi rebocado.",
+         "Como o Irã pretende responder."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Os EUA dizem que vão continuar aplicando o bloqueio.",
+         "A resposta americana às condições enviadas pelo Irã pelo Catar segue pendente."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Reuters, via Forth",
+        "u": "https://www.forth.news/articles/ChTsDXd4okVKWH5c7NTKc"
+       },
+       {
+        "t": "The Jerusalem Post",
+        "u": "http://www.jpost.com/middle-east/iran-news/article-916339"
+       },
+       {
+        "t": "Daily Beirut",
+        "u": "https://dailybeirut.com/en/world/centcom-us-forces-disable-commercial-vessel-attempted-breach-naval-blockade-iran/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "m2",
+     "selo": "Checada",
+     "titulo": "Senado argentino aprova suspender as primárias de 2027",
+     "contexto": "reforma-eleitoral-argentina",
+     "texto": "O Senado da Argentina aprovou na quinta (26), por 43 votos a 29, a reforma eleitoral do governo Milei, que suspende as primárias obrigatórias, as PASO, só para 2027, segundo o Perfil, o ElDoce e o Panorama Directo.",
+     "pq": "sem as primárias, os partidos escolhem os candidatos pelas próprias regras, segundo o Panorama Directo, o que muda a disputa de 2027. O texto ainda precisa passar pela Câmara dos Deputados.",
+     "fontes": [
+      {
+       "t": "Perfil",
+       "u": "https://www.perfil.com/politica/el-senado-aprobo-suspender-las-paso-en-2027-y-ficha-limpia-la-reforma-electoral-del-gobierno-pasa-a-diputados-aakby7n1OnYv"
+      },
+      {
+       "t": "ElDoce",
+       "u": "https://eldoce.tv/politica/2026/11/26/el-senado-aprobo-la-suspension-de-las-paso-y-el-proyecto-ira-a-diputados-la-postura-de-los-cordobeses/"
+      },
+      {
+       "t": "Panorama Directo",
+       "u": "https://panoramadirecto.com/sin-paso-en-2027-los-partidos-tendran-hasta-el-30-de-agosto-para-definir-a-sus-candidatos/"
+      }
+     ],
+     "completa": {
+      "fina": "O governo precisava de 37 votos e tinha dito contar com 38 a 40, segundo o Perfil. As primárias voltam em 2029.",
+      "atualizada": "28 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "O texto aprovado tem 25 artigos: 16 permanentes, 6 transitórios para 2027 e 3 finais, segundo o Perfil. A suspensão das primárias vale só para a eleição de 2027. \"Suspendemos para o ano que vem, mas em 29 voltamos ao velho sistema\", diz trecho citado pelo jornal.",
+      "blocos": [
+       {
+        "h": "O que muda",
+        "li": [
+         {
+          "b": "Primárias:",
+          "t": "suspensas em 2027; os partidos teriam até 30 de agosto para definir candidatos, segundo o Panorama Directo."
+         },
+         {
+          "b": "Ficha limpa:",
+          "t": "barra candidatos a cargos nacionais condenados em segunda instância por crime doloso, segundo o Perfil."
+         },
+         {
+          "b": "Propaganda:",
+          "t": "o espaço gratuito de rádio e TV cai de 5% para 2,5%."
+         },
+         {
+          "b": "Debate:",
+          "t": "o debate presidencial passa a ser obrigatório só no segundo turno; quem faltar perde tempo de propaganda, segundo o Panorama Directo."
+         },
+         {
+          "b": "Cédula:",
+          "t": "mantém a cédula única, com opção de votar na lista inteira, segundo o ElDoce."
+         },
+         {
+          "b": "Parlasul:",
+          "t": "os representantes no Parlamento do Mercosul passam a ser escolhidos pelo Congresso."
+         },
+         {
+          "b": "Filiação:",
+          "t": "passa a ser possível se filiar a um partido pela internet, segundo o Perfil."
+         },
+         {
+          "b": "Dia da eleição:",
+          "t": "a campanha fica proibida nos dois dias anteriores à votação, e o comércio pode funcionar no dia, segundo o Panorama Directo."
+         },
+         {
+          "b": "Províncias:",
+          "t": "têm até 90 dias antes da eleição nacional para aderir às eleições simultâneas."
+         }
+        ]
+       },
+       {
+        "h": "Como votaram",
+        "p": [
+         "A favor votaram 21 senadores do partido de Milei, A Liberdade Avança, 10 da UCR, 3 do PRO e senadores de partidos provinciais, segundo o Panorama Directo. Contra votaram os 22 do bloco justicialista, liderado por Mayans, e outros grupos, como Convicção Federal. Os três senadores de Córdoba, Luis Juez e Carmen Álvarez Rivero, do partido de Milei, e Alejandra Vigo, do Hacemos por Córdoba, votaram a favor, segundo o ElDoce."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Panorama Directo:",
+          "t": "lembra que, sem a aprovação na Câmara, \"a suspensão não entra em vigor\"."
+         },
+         {
+          "b": "Oposição:",
+          "t": "o senador Mayans, líder do bloco justicialista, disse que o projeto original tinha mais de 70 artigos, segundo o Perfil."
+         }
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quando a Câmara dos Deputados vota o texto.",
+         "Se o governo Milei terá votos suficientes na Câmara.",
+         "Se as províncias vão aderir às eleições simultâneas; elas têm 90 dias antes da eleição nacional para decidir."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "O texto vai à Câmara dos Deputados, em sessões extraordinárias.",
+         "Se for aprovado sem mudanças, vira lei; se for alterado, volta ao Senado, segundo o Panorama Directo."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "Perfil",
+        "u": "https://www.perfil.com/politica/el-senado-aprobo-suspender-las-paso-en-2027-y-ficha-limpia-la-reforma-electoral-del-gobierno-pasa-a-diputados-aakby7n1OnYv"
+       },
+       {
+        "t": "ElDoce",
+        "u": "https://eldoce.tv/politica/2026/11/26/el-senado-aprobo-la-suspension-de-las-paso-y-el-proyecto-ira-a-diputados-la-postura-de-los-cordobeses/"
+       },
+       {
+        "t": "Panorama Directo",
+        "u": "https://panoramadirecto.com/sin-paso-en-2027-los-partidos-tendran-hasta-el-30-de-agosto-para-definir-a-sus-candidatos/"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "nome": "Inovação",
+   "categoria": "inovacao",
+   "notas": [
+    {
+     "id": "i1",
+     "selo": "Checada",
+     "titulo": "Chips proibidos da Nvidia aparecem em data center ligado a Alice Huang",
+     "contexto": "nvidia-china-chips",
+     "texto": "Servidores com chips Blackwell da Nvidia, cuja exportação à China exige licença americana, aparecem em documentos de empresas de um data center em Xangai ligado a Alice Huang, segundo a Bloomberg, citada pelo SiliconANGLE e pelo The Decoder.",
+     "pq": "a reportagem levanta novas dúvidas sobre o controle de exportações da Nvidia dias antes de Jensen Huang depor no Congresso dos EUA. Alice Huang dirigiu a Megaspeed, posta na lista de restrições americana neste mês.",
+     "fontes": [
+      {
+       "t": "SiliconANGLE",
+       "u": "https://siliconangle.com/2026/11/27/report-links-alice-huang-to-chinese-firms-with-smuggled-nvidia-chips/"
+      },
+      {
+       "t": "The Decoder",
+       "u": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
+      }
+     ],
+     "completa": {
+      "fina": "A Bloomberg rastreou um dos servidores até a fabricante taiwanesa Gigabyte pelo número de série, segundo o The Decoder. A reportagem original é paga e não foi aberta pelo Contexto.",
+      "atualizada": "28 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A Bloomberg analisou documentos de órgãos chineses e ligou o campus de data centers Projeto Delta do Rio Yangtzé à Megaspeed, provedora de nuvem de Singapura que Alice Huang dirigiu até o ano passado, segundo o SiliconANGLE. A Megaspeed já chamou o campus de seu maior data center. O presidente do projeto é o empresário Kang Wei, apontado em reportagens anteriores como marido de Alice Huang.",
+      "blocos": [
+       {
+        "h": "O que os documentos mostram",
+        "li": [
+         {
+          "b": "Shanghai Shuoyao:",
+          "t": "ofereceu um rack GB300-NVL72 como garantia de um empréstimo de 96 milhões de yuans, cerca de US$ 14 milhões, do Shanghai Innovation Bank, segundo o The Decoder."
+         },
+         {
+          "b": "Shanghai Kezhan:",
+          "t": "unidade de uma empresa japonesa controlada por Alice Huang, declarou um servidor GB200 no mesmo local. O SiliconANGLE diz que ela também hospeda 32 servidores com chips H200; as duas fontes divergem nesse detalhe."
+         },
+         {
+          "b": "Uso como garantia:",
+          "t": "as empresas listaram os servidores em contratos de empréstimo de milhões de dólares."
+         }
+        ]
+       },
+       {
+        "h": "Quem é Alice Huang",
+        "p": [
+         "Alice Huang fundou a Megaspeed em 2023, e a Nvidia aprovou a empresa como parceira em quatro dias; ela se tornou a maior cliente da Nvidia no Sudeste Asiático, segundo a Bloomberg, citada pelo The Decoder. O governo Trump pôs a Megaspeed na lista de restrições comerciais neste mês, por suspeita de contrabando de chips. Em outubro, o New York Times noticiou um relacionamento entre ela e Jensen Huang; o conselho da Nvidia afastou o executivo e o devolveu ao cargo cerca de duas semanas depois, segundo o SiliconANGLE."
+        ]
+       },
+       {
+        "h": "Por que importa",
+        "p": [
+         "\"Exportar esses chips para a China sem licença dos EUA é proibido\", escreve o The Decoder. As novas regras de exportação já causam problemas para empresas chinesas de IA, segundo o site. A Nvidia não teve posição citada pelas duas fontes."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Como os servidores chegaram à China, já que a reportagem trata de equipamentos que só poderiam sair dos EUA com licença.",
+         "Se a Nvidia sabia do destino dos equipamentos.",
+         "Se o governo dos EUA vai abrir investigação sobre o caso."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "Jensen Huang depõe em três comissões da Câmara dos EUA no domingo (29) e na Comissão de Bancos do Senado na quinta seguinte, segundo a CNBC, citada pelo SiliconANGLE.",
+         "A reportagem chega dias antes desses depoimentos, segundo o SiliconANGLE."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "SiliconANGLE",
+        "u": "https://siliconangle.com/2026/11/27/report-links-alice-huang-to-chinese-firms-with-smuggled-nvidia-chips/"
+       },
+       {
+        "t": "The Decoder",
+        "u": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
+       }
+      ]
+     }
+    },
+    {
+     "id": "i2",
+     "selo": "Checada",
+     "titulo": "Hackers invadem a principal plataforma de nuvem da Força Aérea dos EUA",
+     "contexto": "falhas-criticas-de-software",
+     "texto": "Hackers invadiram a Cloud One, principal plataforma de computação em nuvem da Força Aérea dos EUA, por uma falha de software, segundo a Reuters, citada pelo SiliconANGLE e pelo Security Affairs. A invasão foi descoberta há cerca de um mês.",
+     "pq": "a plataforma roda sistemas de pessoal, pagamento, logística e dados de radar. A Força Aérea suspendeu atualizações, o que impede corrigir outras falhas graves. Não se sabe se houve roubo de dados.",
+     "fontes": [
+      {
+       "t": "SiliconANGLE",
+       "u": "https://siliconangle.com/2026/11/27/hackers-reportedly-breach-key-us-air-force-cloud-platform/"
+      },
+      {
+       "t": "Security Affairs",
+       "u": "https://securityaffairs.com/204136/security/air-force-cloud-one-breach-updates-blocked-migration-paused-scope-unknown.html"
+      }
+     ],
+     "completa": {
+      "fina": "A Força Aérea disse que não comenta a segurança de sistemas específicos, segundo o Security Affairs. Os autores não foram identificados.",
+      "atualizada": "28 nov 2026, 5h",
+      "selo": "Checada",
+      "fato": "A atividade maliciosa foi percebida durante uma atualização do sistema, segundo três pessoas ouvidas pela Reuters, citadas pelo SiliconANGLE. Os invasores chegaram ao painel de controle da plataforma por uma vulnerabilidade de software, que pode estar num programa de prateleira usado também por outras organizações. Os investigadores pediram ajuda ao Comando Cibernético dos EUA.",
+      "blocos": [
+       {
+        "h": "O que é a Cloud One",
+        "li": [
+         {
+          "b": "Origem:",
+          "t": "criada em 2017, combina a infraestrutura de Microsoft, Amazon, Oracle e Google, segundo o Security Affairs."
+         },
+         {
+          "b": "Tamanho:",
+          "t": "duas fontes a descreveram à Reuters como uma das maiores plataformas de nuvem das Forças Armadas."
+         },
+         {
+          "b": "Sistemas:",
+          "t": "um deles reúne dados de radar de defesa aérea da América do Norte; outro acompanha bombas e mísseis em mais de 200 locais da Força Aérea."
+         },
+         {
+          "b": "Contrato:",
+          "t": "a SAIC foi a principal contratada até 2025, quando a Leidos assumiu."
+         }
+        ]
+       },
+       {
+        "h": "O efeito da invasão",
+        "p": [
+         "A Força Aérea suspendeu a migração de sistemas antigos para a plataforma e bloqueou atualizações dos que já estão nela, o que impede corrigir um novo lote de vulnerabilidades graves, segundo o SiliconANGLE. Alguns usuários perderam permissões de administrador, segundo uma fonte citada pelo Security Affairs. \"Uma invasão aqui é algo grave\", disse uma das fontes à Reuters."
+        ]
+       },
+       {
+        "h": "O que dizem",
+        "li": [
+         {
+          "b": "Força Aérea:",
+          "t": "diz que não comenta a postura de segurança de sistemas específicos, segundo o Security Affairs."
+         },
+         {
+          "b": "Fontes ouvidas pela Reuters:",
+          "t": "descrevem a Cloud One como uma das maiores plataformas de nuvem militares e dizem que a invasão atrapalhou todo o serviço."
+         },
+         {
+          "b": "Reuters:",
+          "t": "não conseguiu identificar os autores, a parte da plataforma atingida nem se houve roubo de dados, segundo o Security Affairs."
+         }
+        ]
+       },
+       {
+        "h": "Outros casos",
+        "p": [
+         "O SiliconANGLE liga o caso a uma invasão anterior, noticiada pelo New York Times, de um sistema de dados de inteligência que usou a ferramenta de ataque com IA ARTEX, e a uma pane no órgão do Tesouro americano contra crimes financeiros, em 25 de novembro. O Security Affairs cita pelo menos seis outros incidentes recentes no governo federal."
+        ]
+       },
+       {
+        "h": "O que ainda não se sabe",
+        "li": [
+         "Quem fez o ataque.",
+         "Que parte da plataforma foi atingida.",
+         "Se dados foram roubados.",
+         "Se o ataque tem relação com os outros incidentes recentes no governo federal.",
+         "Quando as correções de segurança pendentes poderão ser aplicadas."
+        ]
+       },
+       {
+        "h": "O que acontece agora",
+        "li": [
+         "A investigação continua com o Comando Cibernético.",
+         "A Força Aérea precisa decidir quando retomar as atualizações."
+        ]
+       }
+      ],
+      "fontes": [
+       {
+        "t": "SiliconANGLE",
+        "u": "https://siliconangle.com/2026/11/27/hackers-reportedly-breach-key-us-air-force-cloud-platform/"
+       },
+       {
+        "t": "Security Affairs",
+        "u": "https://securityaffairs.com/204136/security/air-force-cloud-one-breach-updates-blocked-migration-paused-scope-unknown.html"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "numero": {
+  "valor": "R$ 232 bilhões",
+  "texto": "foi quanto as empresas da bolsa brasileira ganharam em valor de mercado na quinta (26), dia do anúncio de Trabuco, segundo a Elos Ayta, citada por O Tempo.",
+  "fontes": [
+   {
+    "t": "O Tempo, com Agência Brasil",
+    "u": "https://www.otempo.com.br/economia/2026/11/27/dolar-tem-maior-queda-semanal-em-18-anos-sob-efeito-trabuco"
+   }
+  ]
+ },
+ "fechar": {
+  "texto": "O Alasca apreendeu em 2012 o hidroavião de Ken Jouppi porque um passageiro levava 72 latas de cerveja a uma vila onde o álcool é proibido. A Suprema Corte dos EUA ouve o caso na terça, segundo a Reuters.",
+  "fontes": [
+   {
+    "t": "Reuters, via Forth",
+    "u": "https://www.forth.news/articles/ChTKx9YzdGVTrc44doHSs"
+   }
+  ]
+ },
+ "corrigimos": [],
+ "transp": "O Contexto é escrito por inteligência artificial, com o Claude, da Anthropic. Nenhuma pessoa escreve as notas; toda edição passa por checagem, pela Ouvidoria e pela revisão final do editor-chefe, todos agentes de IA, antes de sair. Uma pessoa acompanha o Contexto como leitora e manda correções. Aviso de conflito: esta edição cita o Google, cuja dona, a Alphabet, concorre com a Anthropic, que faz o Claude, usado pelo Contexto.",
+ "parecer": {
+  "veredito": "Aprovada",
+  "detalhe": "com ressalvas",
+  "resumo": "A edição passa no teste do espelho. Brasil e Mundo saem com duas notas cada, abaixo do padrão de três, porque outros fatos de sexta só tinham uma fonte aberta. A nota do mercado traz o otimismo de analistas e a crítica do líder do PT na Câmara. A eleição em Taiwan ficou de fora porque o resultado sai depois do fechamento.",
+  "pontos": [
+   "Brasil 1: os números de quinta e sexta trazem a fonte; a queda da bolsa na sexta aparece na fina.",
+   "Brasil 2: a votação foi na quarta (25), dito no texto curto; a posição de quem votou contra não aparece nas fontes, e isso está dito.",
+   "Mundo 1: o Irã tem fala própria; carga e destino do navio seguem desconhecidos e estão em aberto.",
+   "Mundo 2: governo e oposição argentinos aparecem; fica claro que falta a Câmara.",
+   "Inovação 1: a reportagem da Bloomberg chega por dois sites e está atribuída assim; a divergência sobre os servidores H200 está exposta; a Nvidia não tem posição nas fontes, dito no texto.",
+   "Inovação 2: aviso de conflito pelo Google, parte da plataforma; autoria e roubo de dados seguem desconhecidos."
+  ],
+  "equilibrio": "Governo Lula: 1 menção (neutra); mercado, indústria e PT com fala própria. Câmara sem fala dos dois lados nas fontes, dito no texto. Mundo: EUA e Irã com fala; governo e oposição argentinos com fala. Inovação: Força Aérea com nota própria; Nvidia sem posição.",
+  "foraDaEdicao": [
+   "Categorias extras: sem tempo para duas fontes e contexto em cada uma.",
+   "Eleições locais em Taiwan: as urnas fecham às 5h de Brasília e o resultado sai depois do fechamento.",
+   "OpenAI processa a Apple por segredos industriais: sem contexto pronto sobre a disputa; fica para a próxima edição.",
+   "México reclama aos EUA de canal de denúncias da DEA: só a Reuters.",
+   "Filho do líder do Hamas sobrevive a ataque israelense: só a Reuters.",
+   "Rússia diz ter derrubado 1.246 drones ucranianos: número só do governo russo."
+  ]
+ },
+ "editorChefe": {
+  "decisao": "aprovada",
+  "ajustes": [
+   "Manchete: a reação do mercado a Trabuco, pelo efeito sobre dólar, bolsa e juros.",
+   "Essencial com o mercado e o bloqueio ao Irã.",
+   "Brasil e Mundo com duas notas por falta de segunda fonte em outros fatos; registrado no parecer.",
+   "Novo contexto: a reforma eleitoral na Argentina."
+  ]
+ },
+ "geradaEm": "2026-11-28T07:42:24Z"
+}

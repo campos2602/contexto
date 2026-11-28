@@ -1,6 +1,6 @@
 {
  "titulo": "Dia de Zumbi e da Consciência Negra",
- "atualizado": "21 nov 2026",
+ "atualizado": "28 nov 2026",
  "selo": "Checada",
  "frase": "O 20 de novembro lembra a morte de Zumbi dos Palmares e a resistência da população negra à escravidão no Brasil. Desde 2023, é feriado nacional.",
  "historia": [
@@ -8,7 +8,7 @@
   "O reconhecimento oficial da data veio em etapas. Em 2003, uma lei federal levou o tema ao currículo escolar, segundo o SBT News. Em 2011, a presidente Dilma Rousseff oficializou o Dia Nacional de Zumbi e da Consciência Negra, mas sem torná-lo feriado, segundo o SBT News. Cada estado ou cidade decidia se parava.",
   "Até 2023, cerca de 1.260 cidades adotavam o feriado, segundo a Fundação Palmares citada pelo SBT News. Estados como São Paulo, Rio de Janeiro, Alagoas, Amapá, Amazonas e Mato Grosso tinham a folga em todo o território; em outros, nenhum município parava. Naquele ano, o Congresso aprovou e o presidente Luiz Inácio Lula da Silva sancionou a Lei 14.759, que tornou a data feriado em todo o país, segundo o Brasil de Fato.",
   "Em 2026, o feriado cai numa sexta-feira. As agências bancárias não abrem, segundo a Febraban, e contas com vencimento no dia podem ser pagas sem juros na segunda-feira (23). Os Correios não têm atendimento presencial, e o INSS suspende perícias, mantendo o Meu INSS e a central 135. Prontos-socorros, UPAs, hospitais e o Samu funcionam 24 horas, enquanto as unidades básicas de saúde fecham, segundo o Brasil de Fato.",
-  "O funcionamento do comércio varia. Em São Paulo, lojas de rua dependem de acordo com os sindicatos, shoppings abrem em horário de feriado e metrô, trens e ônibus rodam em horário de domingo, com reforço perto da Avenida Paulista por causa da Marcha da Consciência Negra, segundo o Brasil de Fato. Em Belém, supermercados funcionam conforme cada empresa, UPAs e hospitais municipais atendem 24 horas e a maioria das lojas de shopping abre por volta das 11h ou 12h, segundo O Liberal."
+  "O funcionamento do comércio varia. Em São Paulo, lojas de rua dependem de acordo com os sindicatos, shoppings abrem em horário de feriado e metrô, trens e ônibus rodam em horário de domingo, com reforço perto da Avenida Paulista por causa da Marcha da Consciência Negra, segundo o Brasil de Fato. Em Belém, supermercados funcionam conforme cada empresa, UPAs e hospitais municipais atendem 24 horas e a maioria das lojas de shopping abre por volta das 11h ou 12h, segundo O Liberal. Em 25 de novembro, a Câmara aprovou por 320 votos a 102 um protocolo nacional que obriga escolas públicas e privadas a agir em casos de racismo, mesmo sem denúncia formal, segundo a Agência Brasil. O texto segue para o Senado."
  ],
  "linha": [
   {
@@ -38,6 +38,10 @@
   {
    "d": "19 e 20 de novembro de 2026",
    "t": "Marchas em Recife e Salvador pedem a PEC da Reparação e o fim da escala 6x1, segundo o Diario de Pernambuco e o Brasil de Fato."
+  },
+  {
+   "d": "25 de novembro de 2026",
+   "t": "A Câmara aprova, por 320 a 102, protocolo nacional contra racismo nas escolas; o texto vai ao Senado, segundo a Agência Brasil."
   }
  ],
  "termos": [
@@ -92,7 +96,8 @@
  ],
  "observar": [
   "Se a PEC da Reparação avança no novo Congresso.",
-  "O financiamento do Estatuto da Igualdade Racial."
+  "O financiamento do Estatuto da Igualdade Racial.",
+  "A votação no Senado do protocolo contra racismo nas escolas."
  ],
  "fontes": [
   {
@@ -114,6 +119,14 @@
   {
    "t": "Brasil de Fato: a 47ª marcha em Salvador",
    "u": "https://www.brasildefato.com.br/2026/11/17/47a-marcha-da-consciencia-negra-ocupa-o-centro-de-salvador-nesta-sexta-20/"
+  },
+  {
+   "t": "Costazul FM, com Agência Brasil: protocolo nas escolas",
+   "u": "https://costazul.fm/camara-aprova-medidas-de-combate-ao-racismo-nas-escolas/"
+  },
+  {
+   "t": "Boca do Povo News: protocolo antirracismo",
+   "u": "https://bocadopovonews.com.br/camara-aprova-protocolo-antirracismo-e-escolas-terao-de-agir/"
   }
  ]
 }
